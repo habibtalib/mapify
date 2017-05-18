@@ -2120,6 +2120,7 @@ body.nav-btn-only #page-header .primary-nav ul li .nav-wrapper ul li:hover {
 }
 .infobox-wrapper .infobox .description h4 {
   font-size: 12px;
+  background-color: white;
 }
 .infobox-wrapper .infobox .rating-passive {
   -moz-transition: 0.5s cubic-bezier(0, 0.28, 0.45, 1.01);
@@ -5211,15 +5212,13 @@ section:not(.block) h2 {
   color: #04205e;
 }
 .rating-passive .reviews {
+  color: black !important;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
   opacity: 0.5;
-  font-size: 11px;
+  font-size: 13px;
 }
 .rating-passive .reviews:after {
-  content: ")";
-}
-.rating-passive .reviews:before {
-  content: "(";
+  content: " review";
 }
 
 .review {
@@ -6244,7 +6243,7 @@ input[type="date"]::-webkit-input-placeholder {
   border-style: solid;
   font-size: 12px;
   font-weight: bold;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   position: relative;
 }
 .btn:active, .btn:active:hover, .btn:focus {
