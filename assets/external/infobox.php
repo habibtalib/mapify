@@ -29,10 +29,10 @@ echo
 
             // Category ------------------------------------------------------------------------------------------------
 
-            if( !empty($currentLocation['category']) ){
-                echo
-                    '<div class="label label-default">'. $currentLocation['category'] .'</div>';
-            }
+            // if( !empty($currentLocation['category']) ){
+            //     echo
+            //         '<div class="label label-default">'. $currentLocation['category'] .'</div>';
+            // }
 
             // Title ---------------------------------------------------------------------------------------------------
 
@@ -54,9 +54,18 @@ echo
 
         // Image thumbnail -------------------------------------------------------------------------
 
+        // if( !empty($currentLocation['gallery'][0]) ){
+        //     echo
+        //     '<div class="image" style="background-image: url('. $currentLocation['gallery'][0] .')"></div>';
+        // }
+        // else {
+        //     echo
+        //     '<div class="image" style="background-image: url(assets/img/items/default.png)"></div>';
+        // }
+        
         if( !empty($currentLocation['gallery'][0]) ){
             echo
-            '<div class="image" style="background-image: url('. $currentLocation['gallery'][0] .')"></div>';
+            '<img class="card-img-logo" src="'. $currentLocation['gallery'][0] .'">';
         }
         else {
             echo
@@ -78,15 +87,14 @@ if( !empty( $currentLocation['rating'] ) ){
             }
         }
         echo
-        '<span class="reviews">'. $currentLocation['reviews_number'] .'</span>
-    </div>';
+        '<span class="reviews">'. $currentLocation['reviews_number'] .'</span>'.
+        '<br><br> <span class="salary-digit" style="color: black">'.$currentLocation['salary'].'</span>'.
+    '</div>';
 }
 echo
-    '<div class="controls-more">
-        <ul>
-            <li><a href="#">Add to favorites</a></li>
-            <li><a href="#">Add to watchlist</a></li>
-        </ul>
+    '<div class="col-md-12 card-options">
+        <div class="compare-btn"><img style="width: 25px" src="assets/img/compare-icon.png" alt=""> <a href="" class="card-options-btn"> Add to compare</a></div>
+        <div class="save-btn"><img style="width: 20px;" src="assets/img/star-icon.svg" alt=""> <a href="" class="card-options-btn">Save Job</a></div>
     </div>
     <!--end controls-more-->
 
