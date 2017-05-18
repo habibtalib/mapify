@@ -110,9 +110,9 @@ function heroMap(_latitude,_longitude, element, markerTarget, sidebarResultTarge
                     markerContent.innerHTML =
                         '<div class="marker" data-id="'+ markers[i]["id"] +'">' +
                             '<div class="title">'+ markers[i]["title"] +'</div>' +
-                            '<div class="marker-wrapper recommend">' +
+                            '<div class="marker-wrapper">' +
                                 '<div class="pin">' +
-                                '<div class="image" style="background-image: url('+ thumbnailImage +');"></div>' +
+                                '<div class="image" style="background-image: url('+ thumbnailImage2 +');"></div>' +
                             '</div>' +
                         '</div>';
                 }
