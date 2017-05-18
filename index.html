@@ -113,7 +113,6 @@
         }
         .compare-btn-nav{
             height: 100%;
-            margin-top: 6px;
             padding: 4px 10px;
             background: #00a25d !important;
             border-color: #00a25d !important;
@@ -190,7 +189,7 @@
         }
         .compare-btn{ float: left; }
         .dropdown.compare .dropdown-menu{
-            left: -210.5px !important;  
+            left: -112px !important;  
             margin: 0px;
             border-radius: 0px !important;
         }
@@ -212,11 +211,40 @@
             font-size: 18px;
         }
         .dropdown-menu > li > a{
-            /*width: 100px !important;*/
+            padding: 3px 3px;
             white-space: normal;
         }
         .filter-search .dropdown-menu.compare-dropdown-menu{
-            width: 350px;
+            width: 250px;
+        }
+        /*Compare menu contents*/
+        .menu-content-right{
+            padding-right: 0px;
+        }
+        .menu-content-left{
+            padding-left: 3px;padding-right: 0px;line-height:1;
+        }
+        .menu-pt{
+            font-size: 12px; font-weight: bold;
+        }
+        .menu-comp{
+            white-space: nowrap; font-size: 11px;
+        }
+        .menu-sal{
+            font-size: 12px; color: #00a25d; line-height: 2;
+        }
+        .dismiss{
+            float: right;
+            line-height: 3;
+            cursor: pointer
+        }
+        .menu-compare-btn{
+            text-decoration: none;
+            background-color: lightgray;
+            text-align: center;
+            font-weight: bold;
+            color: dimgray;
+            margin: auto;
         }
 
     body {
@@ -379,12 +407,13 @@
         </div>
     </header>
     <!--end page-header-->
-    
+   
     <div class="page-wrapper landing">
     	<div class="container">
             <div class="logo col-sm-12 col-lg-12">
             	<div class="logo col-sm-6 col-lg-6">
             		<img src="assets/images/LOGO.png" class="img-responsive" alt=""/>
+
                 </div>
             </div>
             <div class="col-sm-12 col-lg-12">
