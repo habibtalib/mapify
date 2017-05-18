@@ -85,21 +85,23 @@ function heroMap(_latitude,_longitude, element, markerTarget, sidebarResultTarge
                 var markerContent = document.createElement('div');
                 var thumbnailImage;
 
-                if( markers[i]["marker_image"] != undefined ){
-                    thumbnailImage = markers[i]["marker_image"];
-                }
-                else {
-                    thumbnailImage = "assets/img/items/default.png";
-                }
+                // if( markers[i]["marker_image"] != undefined ){
+                //     thumbnailImage = markers[i]["marker_image"];
+                // }
+                // else {
+                //     thumbnailImage = "assets/img/items/default.png";
+                // }
 
+                thumbnailImage = "assets/img/recommend-icon.svg";
+                thumbnailImage2 = "assets/img/job-icon.svg";
+                
                 if( markers[i]["featured"] == 1 ){
                     markerContent.innerHTML =
                     '<div class="marker" data-id="'+ markers[i]["id"] +'">' +
                         '<div class="title">'+ markers[i]["title"] +'</div>' +
                         '<div class="marker-wrapper">' +
-                            '<div class="tag"><i class="fa fa-check"></i></div>' +
                             '<div class="pin">' +
-                                '<div class="image" style="background-image: url('+ thumbnailImage +');"></div>' +
+                                '<div class="image" style="background-image: url('+ thumbnailImage2 +');"></div>' +
                             '</div>' +
                         '</div>' +
                     '</div>';
@@ -110,7 +112,7 @@ function heroMap(_latitude,_longitude, element, markerTarget, sidebarResultTarge
                             '<div class="title">'+ markers[i]["title"] +'</div>' +
                             '<div class="marker-wrapper">' +
                                 '<div class="pin">' +
-                                '<div class="image" style="background-image: url('+ thumbnailImage +');"></div>' +
+                                '<div class="image" style="background-image: url('+ thumbnailImage2 +');"></div>' +
                             '</div>' +
                         '</div>';
                 }
@@ -438,6 +440,7 @@ function heroMap(_latitude,_longitude, element, markerTarget, sidebarResultTarge
             var form = $(this).closest("form");
             var ajaxData = form.serialize();
             markerCluster.clearMarkers();
+            console.log(ajaxData);
             loadData(dataFile, ajaxData);
         });
 

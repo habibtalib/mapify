@@ -20,6 +20,7 @@
     <title>Mapify - Map</title>
 
     <style>
+
         .navbar-inverse {
             background-color: #030f2c;
         }
@@ -216,6 +217,117 @@
         .filter-search .dropdown-menu.compare-dropdown-menu{
             width: 350px;
         }
+
+    body {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        line-height: 1.42857143;
+        color: #333333;
+        background-color: #e5e5e5;
+    }
+    .navbar-inverse {
+        background-color: #030f2c;
+    }
+    .navbar-lower-deck {;
+        background-color: #04205e;
+    }
+    .logo {
+        margin-top: 7px;
+    }
+    .navbar {
+        margin-bottom: 0;
+    }
+    .navbar-inverse .navbar-nav > li > a {
+        color: #ffffff;
+    }
+    .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a.active {
+        background-color: #04205e;
+    }
+    .filter-search .keyword-search input{
+        border: 0;
+        box-shadow: none;
+    }
+    .filter-search .keyword-search .btn {
+        border: 0;
+        box-shadow: none;
+    }
+    .filter-search .keyword-search .fa-search {
+        color: #04205e;
+        font-size: 1.8em;
+    }
+    .filter-search .keyword-search.input-group {
+        padding: 4px 4px 4px 10px;
+    }
+    .filter-search .keyword-search.input-group input{
+        padding: 5px;
+    }
+    .filter-search .keyword-search .form-control:focus, .filter-search .keyword-search .form-control:active {
+        border-color: none;
+        box-shadow: none;
+    }
+    .filter-search .dropdown-filter {
+        /*padding: 2px;*/
+    }
+    .filter-search .row {
+        margin-right: 0;
+    }
+    .filter-search .dropdown-menu {
+        padding: 10px;
+        width: 220px;
+    }
+    .input-group .form-control {
+        color: #04205e;
+        font-weight: bold;
+        font-size: 20px;
+    }
+    .panel {
+        border: 0;
+        margin-bottom: 0;
+    }
+    .hero-section .results-wrapper .result-item > a h3 {
+        margin-bottom: 7px;
+    }
+    .hero-section .results-wrapper .result-item > a .result-item-detail .image{
+        float: right;
+    }
+    .hero-section .results-wrapper .result-item > a .result-item-detail .description {
+        padding-left: 0;
+    }
+    .hero-section .results-wrapper .result-item > a .result-item-detail .description .company{
+        color: #b0b0b0;
+    }
+    .hero-section .results-wrapper .result-item > a .result-item-detail .description h5{
+        padding-top: 4px;
+    }
+    .hero-section .results-wrapper .result-item > a .result-item-detail .description .location{
+        color: #92929;
+    }
+    .hero-section .results-wrapper .result-item > a .result-item-detail .description .salary{
+        color: #06944b;
+        padding-top: 10px;
+    }
+
+    .hero-section .results-wrapper .result-item > a .result-item-detail .image {
+        max-width: 30%;
+    } 
+    .panel-skill .fa-times{
+        color: #ff002f;
+    }
+    .panel-skill .fa-check{
+        color: #00934d;
+    }
+    .panel-skill .panel-collapse span{
+        display: block;
+        padding-bottom: 3px;
+    }
+    .panel-skill .position-title {
+        color: #04205e;
+        font-weight: bold;
+    }
+    .panel-skill .panel-heading {
+        border-bottom: 2px solid #ddd;
+    }
+
     </style>
 </head>
 
@@ -326,11 +438,11 @@
                                         <div class="row text-center">
                                             <div class="col-sm-6" style="padding-right:0px;">
                                               <span class="control-label">Min.</span>
-                                              <input id="minSalary" type="number" class="form-control" placeholder="1000">
+                                              <input id="minSalary" type="number" name="minSalary" class="form-control" placeholder="1000">
                                             </div>
                                             <div class="col-sm-6" style="padding-left:0px;">
                                               <span class="control-label">Max.</span>
-                                              <input id="maxSalary" type="number" class="form-control" placeholder="2000">
+                                              <input id="maxSalary" type="number" class="form-control" name="maxSalary" placeholder="2000">
                                             </div>
                                         </div>
                                         <a id="applySalary" class="btn btn-primary btn-block">Apply</a>
@@ -408,7 +520,29 @@
     <div id="page-content">
         <div class="hero-section full-screen has-map has-sidebar">
             <div class="results-wrapper">
-                <div class="form search-form inputs-underline">
+                <div class="panel panel-skill">
+                    <div class="panel-body">
+                        <h3 class="position-title"><i class="fa fa-briefcase"></i> Project Manager</h3>
+                        <div class="panel-group" id="accordion">
+                            <div class="panel panel-default">
+                                <div class="panel-heading">
+                                  <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#requireSkill">
+                                    <i class="fa fa-graduation-cap"></i> Requirement Skills</a>
+                                  </h4>
+                                </div>
+                                <div id="requireSkill" class="panel-collapse collapse in">
+                                  <div class="panel-body">
+                                      <span><i class="fa fa-check"></i> Project Management</span>
+                                      <span><i class="fa fa-check"></i> Risk Analytics</span>
+                                      <span><i class="fa fa-times"></i> Strong prioritizing</span>
+                                  </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+               <!--  <div class="form search-form inputs-underline">
                     <form>
                         <div class="section-title">
                             <h2>Search</h2>
@@ -465,7 +599,7 @@
                             <button type="submit" data-ajax-response="map" data-ajax-data-file="assets/external/data_2.php" data-ajax-auto-zoom="1" class="btn btn-primary pull-right"><i class="fa fa-search"></i></button>
                         </div>
                     </form>
-                </div> 
+                </div>  -->
                 <div class="results">
                     <div class="tse-scrollable">
                         <div class="tse-content">
@@ -569,7 +703,7 @@
     var markerTarget = "infobox"; // use "sidebar", "   " or "modal" - defines the action after click on marker
     var sidebarResultTarget = "modal"; // use "sidebar", "modal" or "new_page" - defines the action after click on marker
     var showMarkerLabels = false; // next to every marker will be a bubble with title
-    var mapDefaultZoom = 14; // default zoom
+    var mapDefaultZoom = 17; // default zoom
     heroMap(_latitude,_longitude, element, markerTarget, sidebarResultTarget, showMarkerLabels, mapDefaultZoom);
 </script>
 

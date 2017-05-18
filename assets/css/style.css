@@ -1510,6 +1510,38 @@ body.nav-btn-only #page-header .primary-nav ul li .nav-wrapper ul li:hover {
 .map .gmnoprint a, .map .gmnoprint span, .map .gm-style-cc {
   display: none;
 }
+
+.map .marker .marker-wrapper.recommend:before{
+    background-color: white !important;
+}
+
+.map .marker .marker-wrapper .pin{
+    border: 5px solid #012f71 !important;
+}
+.map .marker .marker-wrapper .pin:before{
+    border: 2px solid #012f71 !important;
+    background-color: #012f71 !important;
+    top: -5px !important;
+    left: -5px !important;
+}
+.marker-wrapper .pin .image:after{
+    bottom: -12px !important;
+}
+
+.map .marker .marker-wrapper.recommend .pin{
+    border: 5px solid #00a25d !important;
+}
+.map .marker .marker-wrapper.recommend .pin:before{
+    border: 2px solid #00a25d !important;
+    background-color: #00a25d !important;
+    top: -5px !important;
+    left: -5px !important;
+}
+.marker-wrapper.recommend .pin .image:after{
+    border-color: #00a25d transparent transparent transparent !important;
+    bottom: -12px !important;
+}
+
 .map .marker {
   display: inline-block;
   cursor: pointer;
