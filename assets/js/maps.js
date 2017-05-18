@@ -440,7 +440,6 @@ function heroMap(_latitude,_longitude, element, markerTarget, sidebarResultTarge
             var form = $(this).closest("form");
             var ajaxData = form.serialize();
             markerCluster.clearMarkers();
-            console.log(ajaxData);
             loadData(dataFile, ajaxData);
         });
 

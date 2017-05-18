@@ -2,6 +2,815 @@
 echo json_encode(
     $data = array(
         [
+            "id" => 3291078,
+            "latitude" => 5.319536,
+            "longitude" => 100.291943,
+            "title" => "Senior/Technical Project Lead",
+            "location" => "No. 3 Lintang Bayan Lepas 8, Kawasan Perindustrian Bayan Lepas Fasa 4, Mukim 12 11900 Penang",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div><strong>Job Responsibilities<\/strong>:<\/div><ul><li>Lead on R&amp;D\/Engineering development projects through new technologies introduction. Well versed with related technology and its latest development and be well recognized as a consultant in given field.<\/li><li>Introduce new techniques\/technology that is new to semiconductor industry and\/or Lumileds.<\/li><li>Recommend directions or application of new technologies in line with business strategy and needs.<\/li><li>Lead multi-dept\/function programs that directly impacts business strategy and be the key technical decision maker.&nbsp; Depended upon as the authority\/consultant to other technical staff.&nbsp; Contributions resulting in leap frog technology enhancements.<\/li><li>Lead in solving complex problems which give huge savings or cost avoidance to Lumileds.<\/li><li>Support back end manufacturing as needed to improve on yield, cost reduction, cycle time etc.<\/li><li>Technical mentor to E2 Engineers.<\/li><\/ul><div><strong>Job Requirements<\/strong>:<\/div><ul><li>Bachelor&#39;s Degree in Engineering\/Science with&nbsp;5 years of relevant experience.<\/li><li>Be a recognized expert in at least one field of technology or project leader in which the project has direct &amp; huge impact on business strategy and high growth of the Company.<\/li><\/ul>",
+            "company" => "Lumileds Malaysia Sdn Bhd",
+            "salary" => "MYR 6000.00 - 8400.00",
+            "min_monthly_salary" => "6000.00",
+            "max_monthly_salary" => "8400.00",
+            "currency" => "MYR",
+            "url" => "http:\/\/www.lumileds.com\/",
+            "gallery" => ["https://siva.jsstatic.com/my/9/images/sol/9_logo_0_42395.jpg"],
+            "rating" => 4,
+            "reviews_number" => 34
+        ],
+        [
+            "id" => 3291063,
+            "latitude" => 5.311479,
+            "longitude" => 100.283987,
+            "title" => "Technicians (Penang - Kulim)",
+            "location" => "Bayan Lepas, Penang, Malaysia",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div>Responsibilities:<\/div>
+
+<ul>
+    <li>Test and troubleshoot production machines for smooth operation.<\/li>
+    <li>Perform testing and troubleshooting.<\/li>
+    <li>Perform preventive maintenance on regular basis.<\/li>
+<\/ul>
+
+<div>&nbsp;<\/div>
+
+<div>Requirements:<\/div>
+
+<ul>
+    <li>Candidates must possess at least a Diploma\/Professional Certificate, Engineering (Electrical\/Electronic), Engineering (Mechanical), Engineering (Mechatronic\/Electromechanical) or equivalent.<\/li>
+    <li>Required language(s): Bahasa Malaysia, English<\/li>
+    <li>Fresh Diploma holders are encouraged to apply<\/li>
+    <li>Willing to work on rotating shifts<\/li>
+    <li>Full-Time position(s) available.<\/li>
+<\/ul>",
+            "company" => "Renesas Semiconductor (Malaysia) Sdn Bhd",
+            "salary" => "MYR 1500.00 - 2000.00",
+            "min_monthly_salary" => "1500.00",
+            "max_monthly_salary" => "2000.00",
+            "currency" => "MYR",
+            "url" => "",
+            "gallery" => ["https://siva.jsstatic.com/my/39/images/sol/39_logo_0_7073.jpeg"],
+            "rating" => 4,
+            "reviews_number" => 26
+        ],
+        [
+            "id" => 3291060,
+            "latitude" => 3.148019,
+            "longitude" => 101.701492,
+            "title" => "Senior Executive, IT Security Administration",
+            "location" => "Bukit Kewangan, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div><strong>JOB TITLE :<\/strong><\/div>
+
+<div>&nbsp;<\/div>
+
+<div>Senior Executive, IT Security Administration<\/div>
+
+<div>&nbsp;<\/div>
+
+<div><strong>JOB ROLE <\/strong>:<\/div>
+
+<div>&nbsp;<\/div>
+
+<div>Implement and enforce IT Security aspects of a system \/ network \/ physical security of the Exchange on daily basis by handling day-to-day IT security activities to ensure protection of sensitive information from accidental or intentional loss, unauthorised manipulation or unauthorised disclosure in a manner appropriate to the value of assets and risk exposure.<\/div>
+
+<div>&nbsp;<\/div>
+
+<div><strong>REQUIREMENTS :<\/strong><\/div>
+
+<ul>
+    <li>Candidate must possess a Bachelor&#39;s Degree in Computer Networking, Computer Science, Information Technology or related discipline.<\/li>
+    <li>Minimum 1-2 years&#39; experience in Security Administration with knowledge in network security equipment and environment.<\/li>
+    <li>Experience in implementation and support for all network security technologies (e.g. Firewall, IDS \/ IPS, VPN Software \/ hardware)<\/li>
+    <li>Proactive and able to work independently under minimal supervision.<\/li>
+    <li>Process-oriented with good analytical skills.<\/li>
+<\/ul>
+
+<div>&nbsp;<\/div>",
+            "company" => "Bursa Malaysia Berhad",
+            "salary" => "MYR 4500.00 - 6300.00",
+            "min_monthly_salary" => "4500.00",
+            "max_monthly_salary" => "6300.00",
+            "currency" => "MYR",
+            "url" => "http:\/\/www.bursamalaysia.com\/corporate\/careers",
+            "gallery" => ["https://siva.jsstatic.com/my/5331/images/sol/5331_logo_0_6837255.jpg"],
+            "rating" => 1,
+            "reviews_number" => 25
+        ],
+        [
+            "id" => 3291053,
+            "latitude" => 2.967136,
+            "longitude" => 101.709676,
+            "title" => "Assistant Manager/Senior Executive, Corporate Communication",
+            "location" => "IOI Resort, Putrajaya, Federal Territory of Putrajaya, Malaysia",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div><div><strong>Responsibilities:<\/strong><\/div><div>&nbsp;<\/div><ul><li>Responsible for digital and social media communication<\/li><li>Develop and update contents of company website and intranet<\/li><li>Develop brand awareness and online reputation<\/li><li>Monitor and respond to online comments \/ reviews<\/li><li>Online stakeholder \/ community engagement<\/li><li>Assist in the production of annual report&nbsp;and corporate collaterals<\/li><li>Assist in other corporate communication and CSR activities<\/li><li>Compile reports for management<\/li><\/ul><div>&nbsp;<\/div><div><strong>Requirements:<\/strong><\/div><div>&nbsp;<\/div><ul><li>Degree in Corporate\/Mass Communications, Public Relations, Marketing, Social Science or other related discipline<\/li><li>Minimum 5 years&#39;&nbsp;experience in corporate communication or public relations<\/li><li>Hands-on experience in digital media platform and technology savvy&nbsp;are highly preferred<\/li><li>Proficient in&nbsp;oral and written English&nbsp;and BM<\/li><li>Good interpersonal, presentation and communication skills<\/li><li>Independent and&nbsp;good leadership skills<\/li><li>Critical thinking with strong problem-solving skills<\/li><li>Good writing and reporting skills<\/li><\/ul><\/div><div>&nbsp;<\/div>",
+            "company" => "IOI Group",
+            "salary" => "MYR 4500.00 - 6500.00",
+            "min_monthly_salary" => "4500.00",
+            "max_monthly_salary" => "6500.00",
+            "currency" => "MYR",
+            "url" => "",
+            "gallery" => ["https://siva.jsstatic.com/my/3257/images/sol/3257_logo_0_6690955.jpg"],
+            "rating" => 2,
+            "reviews_number" => 24
+        ],
+        [
+            "id" => 3291048,
+            "latitude" => 1.550704,
+            "longitude" => 103.612018,
+            "title" => "Sales Executive ( Property )",
+            "location" => "Jalan Pontian Lama, 81100 Johor Bahru, Johor, Malaysia",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div>
+<div>Job Requirements :<\/div>
+<\/div>
+
+<ul>
+    <li>Candidate must possess at least Diploma\/Advanced\/Higher\/Graduate Diploma in Property Development\/Real Estate Management or equivalent.<\/li>
+    <li>Required language(s): Bahasa Malaysia, English<\/li>
+    <li>At least 3 Year(s) of working experience in&nbsp; property related sales with sound of understand property market.<\/li>
+    <li>Preferably Junior Executive specialized in Property\/Real Estate or equivalent.<\/li>
+<\/ul>
+
+<div>
+<div>Job Responsibilities :<\/div>
+
+<ul>
+    <li>
+    <div>To perform and handle all sales enquiries, work on sales promotion events.<\/div>
+    <\/li>
+    <li>
+    <div>Sales prospecting for potential property investors and buyers.<\/div>
+    <\/li>
+    <li>
+    <div>Follow through the prospects till sales closure, sales update and documentations.<\/div>
+    <\/li>
+    <li>
+    <div>To build and maintain good customer relationship for repeat sales and referrals.<\/div>
+    <\/li>
+    <li>
+    <div>Strive towards consistently to achieve monthly sales target and the company&rsquo;s overall target.<\/div>
+    <\/li>
+<\/ul>
+<\/div>
+
+<div>&nbsp;<\/div>
+
+<div>&nbsp;<\/div>
+
+<div>&nbsp;<\/div>
+
+<div>&nbsp;<\/div>",
+            "company" => "Pulai Springs Resort Berhad",
+            "salary" => "MYR 2800.00 - 3300.00",
+            "min_monthly_salary" => "2800.00",
+            "max_monthly_salary" => "3300.00",
+            "currency" => "MYR",
+            "url" => "http:\/\/www.pulaisprings.com",
+            "gallery" => ["https://siva.jsstatic.com/my/1367/images/sol/1367_logo_0_62086.jpg"],
+            "rating" => 2,
+            "reviews_number" => 22
+        ],
+        [
+            "id" => 3291046,
+            "latitude" => 3.111782,
+            "longitude" => 101.404833,
+            "title" => "Graphic Designer",
+            "location" => "Suzukacoat (M) Sdn Bhd Jalan Abdul Manan Klang Selangor Malaysia",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div>RESPONSIBILITIES:<\/div>
+
+<ul>
+    <li>Conceptualize and design marketing\/promotional tools such as products leaflet, poster, banner, brochures, catalog, magazine ads and etc.<\/li>
+    <li>Creation of visual contents, design and elements of point of sale.<\/li>
+    <li>Designing marketing collateral for company&#39;s branding and events.<\/li>
+    <li>To produce new concept and ideas for design.<\/li>
+    <li>Work closely with other departments to create artwork\/design according to clients&#39; requirement.<\/li>
+    <li>Liaise closely with suppliers and printers.<\/li>
+    <li>Image design daily social media websites update.<\/li>
+    <li>Post event\/campaigns review and report.<\/li>
+<\/ul>
+
+<div>REQUIREMENTS:<\/div>
+
+<ul>
+    <li>Execute ideas from concept to final artwork and able to manage time effectively, prioritise and work well under pressure.<\/li>
+    <li>Photogprahy and multimedia design skills.<\/li>
+    <li>Highly proficient in Photoshop, Illustrator and other graphic design software.<\/li>
+    <li>At least 3 year(s) of working experience in the related field is required for this position.<\/li>
+<\/ul>",
+            "company" => "Suzukacoat (M) Sdn Bhd.",
+            "salary" => "MYR 3000.00 - 3500.00",
+            "min_monthly_salary" => "3000.00",
+            "max_monthly_salary" => "3500.00",
+            "currency" => "MYR",
+            "url" => "http:\/\/www.suzuka.com.my",
+            "gallery" => ["https://siva.jsstatic.com/my/30632/images/sol/30632_logo_0_6793138.jpg"],
+            "rating" => 2,
+            "reviews_number" => 20
+        ],
+        [
+            "id" => 3291043,
+            "latitude" => 3.107957,
+            "longitude" => 101.458721,
+            "title" => "SENIOR EXECUTIVE, SYSTEM IMPLEMENTATION",
+            "location" => "No: 12, Persiaran Setia Dagang, Setia Alam, Seksyen U13, 40170 Shah Alam, Selangor",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div><ul><li>Responsible for evaluation, modification, integration &amp; implementation ERP solution within the company.<\/li><li>Plan, coordinate and provide training for any process related ERP system for new ERP system implemented to end users.<\/li><li>Coordinate and provide retraining on major system modification, new Business Unit setup and new staff hired.<\/li><li>Perform other tasks as assigned by superior.<\/li><\/ul><div><strong>Requirements:<\/strong><\/div><ul><li>Degree in Computer Science\/ Information Technology\/ Business Studies\/ Administration\/ Management.<\/li><li>Minimum 3 years of hands-on IT system implementation, IT system training, operational &amp; internal audit skills.<\/li><li>Experience across applications and infrastructure with good process and business orientation.<\/li><li>Working experience in mid to major size organization, public listed company, IT consultancy firm and\/ or established firm is an added advantage.<\/li><li>Good interpersonal and communication skills<\/li><li>Resulted oriented and good in meeting deadlines.<\/li><li>Work location based at Setia Alam.<\/li><\/ul><div><strong>Only shortlisted candidates will be notified.<\/strong><\/div><\/div><div>&nbsp;<\/div>",
+            "company" => "S P Setia Berhad",
+            "salary" => "MYR 4000.00 - 6000.00",
+            "min_monthly_salary" => "4000.00",
+            "max_monthly_salary" => "6000.00",
+            "currency" => "MYR",
+            "url" => "",
+            "gallery" => ["https://siva.jsstatic.com/my/4705/images/sol/4705_logo_0_76203.jpg"],
+            "rating" => 1,
+            "reviews_number" => 19
+        ],
+        [
+            "id" => 3291034,
+            "latitude" => 2.992539,
+            "longitude" => 101.791613,
+            "title" => "Dealer's Representative",
+            "location" => "6th Floor, Menara Apex, Off Jalan Semenyih, Bukit Mewah, 43000 Kajang, Selangor, Malaysia",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div>
+<div><strong>Responsibilities<\/strong><\/div>
+
+<ul>
+    <li>Execution of trades for company clients.<\/li>
+    <li>Monitoring company clients&rsquo; trading accounts and portfolios.<\/li>
+    <li>Attending to all dealing related matters which include responding to client enquiries, client account management etc.<\/li>
+    <li>Business development.<\/li>
+<\/ul>
+
+<div><strong>Requirements<\/strong><\/div>
+
+<ul>
+    <li>Possess a recognised Degree in Business Studies\/Administration\/Management, Commerce, Economics, Finance\/Accountancy\/Banking, Marketing or equivalent qualification.<\/li>
+    <li>Good communication and interpersonal skills.<\/li>
+    <li>High degree of integrity and maturity.<\/li>
+    <li>Fresh graduates are encouraged to apply.<\/li>
+    <li>Applicants must be willing to work in Kajang or Johor Bahru.<\/li>
+    <li>Applicants must be Malaysian citizens.<\/li>
+<\/ul>
+<\/div>",
+            "company" => "JF Apex Securities Berhad",
+            "salary" => "MYR 2400.00 - 2500.00",
+            "min_monthly_salary" => "2400.00",
+            "max_monthly_salary" => "2500.00",
+            "currency" => "MYR",
+            "url" => "http:\/\/www.apexequity.com.my",
+            "gallery" => ["https://siva.jsstatic.com/my/12285/images/sol/12285_logo_0_30518.jpg"],
+            "rating" => 1,
+            "reviews_number" => 15
+        ],
+        [
+            "id" => 3291027,
+            "latitude" => 3.118684,
+            "longitude" => 101.678566,
+            "title" => "Pre Producer (Co Producer) (Mandarin Speaker)",
+            "location" => "Level 8, Unit 9-11, The Boulevard Office, Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div><strong>About The Company<\/strong><\/div><ul><li>Media company located in Bangsar<\/li><li>MNC company<\/li><\/ul><div>&nbsp;<\/div><div>&nbsp;<\/div><div><strong>Responsibilities<\/strong><\/div><ul><li>To be responsible for recording &amp; producing content for the programme<\/li><li>To set up appointment with show hosts, merchandisers &amp; technical team for meeting discussion.<\/li><li>To do research on product selling point<\/li><li>To undertake the leadership role during studio recording<\/li><li>To edit visual content after recording<\/li><li>To be responsible for any final material prior to content submission process.<\/li><\/ul><div>&nbsp;<\/div><div><strong>Requirements<\/strong><\/div><ul><li>Able to speak and write in Mandarin<\/li><li>Microsoft Word &amp; Excel Skill<\/li><li>Final Cut Pro X<\/li><li>Good communication skill<\/li><li>Experience in TV\/Broadcast industries<\/li><\/ul><div>&nbsp;<\/div><div><strong>Job Offer<\/strong><ul><li>Fast paced environment<\/li><li>To apply online please click the <strong>Apply <\/strong>button below. For a confidential discussion about this role please contact <strong>Fikri Yasin<\/strong> at <strong>fikri.yasin@achievegroup.asia<\/strong><\/li><\/ul><\/div><div>&nbsp;<\/div>",
+            "company" => "ACHIEVE Career Consultant (M) Sdn Bhd",
+            "salary" => "MYR 3000.00 - 6000.00",
+            "min_monthly_salary" => "3000.00",
+            "max_monthly_salary" => "6000.00",
+            "currency" => "MYR",
+            "url" => "http:\/\/www.achievegroup.com.my\/",
+            "gallery" => ["https://siva.jsstatic.com/my/62109/images/sol/62109_logo_0_643533.png"],
+            "rating" => 4,
+            "reviews_number" => 11
+        ],
+        [
+            "id" => 3291012,
+            "latitude" => 3.168653,
+            "longitude" => 101.696111,
+            "title" => "Executive, Accounts",
+            "location" => "Lot 4185, Jalan Segambut, 51200 Kuala Lumpur",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div><strong>Responsibilities:<\/strong><ul><li>To coordinate in the preparation of the full set of accounts for the Company.<\/li><li>To carry out day to day accounting operations.<\/li><li>To assist in development and setting up product costing.<\/li><li>To support the team in process work flow improvement initiatives.<\/li><\/ul><br><strong>Requirements:<\/strong><ul><li>Candidate must possess at least a Bachelor&#39;s Degree in Accounting\/Finance\/ Professional Degree or ACCA \/ CIMA equivalent&nbsp;&nbsp;&nbsp;<\/li><li>At least 2 to 3 year(s) of working experience in Account\/Finance - General\/Cost Accounting or equivalent.<\/li><li>Experience in Manufacturing environment, external\/ internal auditing will be an added advantage.<\/li><li>Preference given to <strong>Mandarin<\/strong> speaking candidate(s)<\/li><li>Able to work in Segambut, Kuala Lumpur.<\/li><li>Fresh Graduate from related disciplinary is encouraged to apply.<\/li><li>Only Shortlisted Candidate will be notified.<\/li><\/ul><\/div><div>&nbsp;<\/div>",
+            "company" => "TCM Stamping Products Sdn Bhd",
+            "salary" => "MYR 2500.00 - 3500.00",
+            "min_monthly_salary" => "2500.00",
+            "max_monthly_salary" => "3500.00",
+            "currency" => "MYR",
+            "url" => "http:\/\/www.tcmstamping.com\/",
+            "gallery" => ["https://siva.jsstatic.com/my/3683/images/sol/3683_logo_0_58544.jpeg"],
+            "rating" => 3,
+            "reviews_number" => 06
+        ],
+        [
+            "id" => 3291011,
+            "latitude" => 3.117878,
+            "longitude" => 101.676222,
+            "title" => "Accounts Officer [Ref: 6480273]",
+            "location" => "23-9 The Boulevard, Mid Valley City, Lingkaran Syed Putra 59200 Kuala Lumpur",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div><strong>Job Responsiblities:<\/strong><ul><li>Responsible for Accounts Payables for 6 countries, acting as a coordinator for each respective country up to completion of payment authorization either via online or\/and issuance of cheques \/ transfer forms.<\/li><li>Managing documents submitted by respective countries and ensure they are in compliance to documentations requirement and Company policies before payment arrangement.<\/li><li>To verify &amp; validate payment request to avoid duplication<\/li><li>Ensure payables are manage within timeline<\/li><li>To ensure double entry for each payments is correct and accurate<\/li><li>To compile, verify, validate &amp; complete supporting documents with approved Payment Vouchers to submit to Authorizers<\/li><li>Attend to adhoc or urgent payments submitted by respective countries<\/li><\/ul><div><strong>Job Requirements:<\/strong><\/div><ul><li>Candidate must possess at least a Diploma, Advanced\/Higher\/Graduate Diploma, Finance\/Accountancy\/Banking or equivalent.<\/li><li>At least<strong> 3 year(s) of working experience<\/strong> in the related field and is required for this position.<\/li><li>Ability to use Microsoft software (Word and Excel) and accounting software.<\/li><li>Strong in basic accounting.<\/li><li>Full-Time position(s) available.<\/li><\/ul><\/div><div>&nbsp;<\/div>",
+            "company" => "Elite Professions Sdn Bhd",
+            "salary" => "MYR 3000.00 - 4500.00",
+            "min_monthly_salary" => "3000.00",
+            "max_monthly_salary" => "4500.00",
+            "currency" => "MYR",
+            "url" => "",
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
+            "rating" => 4,
+            "reviews_number" => 05
+        ],
+        [
+            "id" => 3291006,
+            "latitude" => 5.411021,
+            "longitude" => 100.332842,
+            "title" => "Shares and Financial Analysts",
+            "location" => "73 Lebuh Pantai 10300 Pulau Pinang Malaysia",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div style=\"text-align:justify\">Shares and Financial Analysts<\/div>
+
+<div style=\"text-align:justify\">&nbsp;<\/div>
+
+<div style=\"text-align:justify\">A sizable Malaysian Investment Holding Company specializing in common shares investments is looking to expand overseas. &nbsp;We are looking for candidates capable of doing research and analyses on U.S.A. or Singapore or European Listed Public Companies.<\/div>
+
+<div style=\"text-align:justify\">&nbsp;<\/div>
+
+<div style=\"text-align:justify\">The job responsibility of the candidate is to do research and analyses on the companies that we are interested in by go through publicly available information such as Newspapers, Journals, Magazines, Publications of Research Houses and Statutory Bodies etc to look for financially sound and economically viable companies on a long term basis.<\/div>
+
+<div style=\"text-align:justify\">&nbsp;<\/div>
+
+<div style=\"text-align:justify\">An inquiring and inquisitive mind should be very helpful in this demand job.<\/div>",
+            "company" => "Eng Guan Chan Sdn Bhd",
+            "salary" => "MYR 2800.00 - 4000.00",
+            "min_monthly_salary" => "2800.00",
+            "max_monthly_salary" => "4000.00",
+            "currency" => "MYR",
+            "url" => "",
+            "gallery" => [""],
+            "rating" => 1,
+            "reviews_number" => 04
+        ],
+        [
+            "id" => 3291005,
+            "latitude" => 1.546423,
+            "longitude" => 103.748786,
+            "title" => "Technical Asisstant",
+            "location" => "Torrecid Jalan Adda 3/1 Johor Bahru Johor Malaysia",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<ul>
+    <li>Candidate must possess at least Professional Certificate or Technical Diploma<\/li>
+    <li>Required language(s): Bahasa Malaysia, English<\/li>
+    <li>No work experience required.<\/li>
+    <li>Fresh graduates : Manpower.<\/li>
+    <li>Travel availability<\/li>
+    <li>Driving license.<\/li>
+<\/ul>
+
+<div>
+<div><strong>JOB RESPONSIBILITIES :<\/strong><\/div>
+
+<div>
+<ul>
+    <li>Work closely with Marketing &amp; Services on sets planning of technical test in <strong>ceramic process<\/strong> and issue in customer&rsquo;s side.<\/li>
+    <li>Prepare required material for technical test as per checklist.<\/li>
+    <li>Conduct industrial testing of products at customer&rsquo;s factory.<\/li>
+    <li>Ensure to follow the instruction, ensure task given and full filled.<\/li>
+    <li>Ability to work in a team and individual.<\/li>
+<\/ul>
+<\/div>
+<\/div>",
+            "company" => "Torrecid, S.A.",
+            "salary" => "MYR 2200.00 - 2400.00",
+            "min_monthly_salary" => "2200.00",
+            "max_monthly_salary" => "2400.00",
+            "currency" => "MYR",
+            "url" => "http:\/\/www.torrecid.com",
+            "gallery" => ["https://siva.jsstatic.com/my/75645/images/sol/75645_logo_0.jpg"],
+            "rating" => 1,
+            "reviews_number" => 04
+        ],
+        [
+            "id" => 3291002,
+            "latitude" => 3.117878,
+            "longitude" => 101.676222,
+            "title" => "Project Coordinator – NILAI [Ref: 8934038]",
+            "location" => "23-9 The Boulevard, Mid Valley City, Lingkaran Syed Putra 59200 Kuala Lumpur",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div><strong>Responsibilities:<\/strong><ul><li>To manage multi-site projects including facility management.<\/li><li>To manage work orders for maintenance works.<\/li><li>Ensure customers&rsquo; KPI is fulfilled.<\/li><li>Planning, scheduling and managing coordination activities.<\/li><li>Ensure invoicing and reporting is on time.<\/li><li>Liaising with vendor for project coordination, procurement and logistic activities.<\/li><li>Coordinate with customer and factory for delivery.<\/li><\/ul><div><strong>Requirements:<\/strong><\/div><ul><li>Candidate must possess at least a <strong>Diploma or Degree in any discipline<\/strong>. Added advantage for Engineering discipline.<\/li><li>At least <strong>1 year working experience<\/strong> in Facility Management or related field.<\/li><li>Proficient in Microsoft Office (MS Excel, MS Word, etc.). Should possess good documentation skill as well.<\/li><li>Independent in coordinating task based activities.<\/li><li>Able to communicate in English &amp; Bahasa Malaysia well.<\/li><li>Applicants must be <strong>willing to work in Nilai 3.<\/strong><\/li><li>Applicants should be Malaysian citizens.<\/li><li><strong>Fresh graduates are encouraged to apply.<\/strong><\/li><\/ul><\/div><div>&nbsp;<\/div>",
+            "company" => "Elite Professions Sdn Bhd",
+            "salary" => "MYR 2000.00 - 3000.00",
+            "min_monthly_salary" => "2000.00",
+            "max_monthly_salary" => "3000.00",
+            "currency" => "MYR",
+            "url" => "",
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
+            "rating" => 4,
+            "reviews_number" => 02
+        ],
+        [
+            "id" => 3290979,
+            "latitude" => 3.025126,
+            "longitude" => 101.542978,
+            "title" => "Drafter/Draughtsman",
+            "location" => "Jalan Sepadu B 25/B Shah Alam Selangor Malaysia",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<ul>
+    <li>Responsible for overall design during pre &amp; post tender.<\/li>
+    <li>Attend site meeting, inspections &amp; design report regularly on site progress schedule &amp; problem area of the project.<\/li>
+    <li>Ensure all works carried out to the drawings, specification &amp; construction plans.<\/li>
+    <li>Responsible for production &amp; drafting of structural drawings involving reinforced concrete &amp; structural steel details.<\/li>
+    <li>Able to handle full set of steel structural drawings including steel framing, steel connection &amp; detailing works.<\/li>
+    <li>Ensure drawings production meets the Company&#39;s standard &amp; QA\/QC requirements.<\/li>
+    <li>Communicate with Client Representatives &amp; consultants.<\/li>
+<\/ul>
+
+<div>&nbsp;<\/div>
+
+<div><strong>Requirements :<\/strong><\/div>
+
+<ul>
+    <li>Candidate must possess at least a Diploma, Advanced\/Higher\/Graduate Diploma, Bachelor&#39;s Degree, Engineering (Civil) or equivalent.<\/li>
+    <li>Required skill(s): AutoCad, MS Project, STAAD Pro and Esteem.<\/li>
+    <li>At least 5 year(s) of working experience in the related field is required for this position.<\/li>
+    <li>Able to work independently with minimal supervision.<\/li>
+    <li>Preferably Senior Executives specializing in Engineering - Civil\/Construction\/Structural or equivalent.<\/li>
+    <li>Preferable have working experience with Architect firm &nbsp;<\/li>
+    <li>Possess own transport.<\/li>
+    <li>Full-Time position(s) available.<\/li>
+<\/ul>",
+            "company" => "Sg Besi Construction & Engineering Sdn Bhd",
+            "salary" => "MYR 3000.00 - 4200.00",
+            "min_monthly_salary" => "3000.00",
+            "max_monthly_salary" => "4200.00",
+            "currency" => "MYR",
+            "url" => "",
+            "gallery" => ["https://siva.jsstatic.com/my/52285/images/sol/52285_logo_0_6992051.jpg"],
+            "rating" => 1,
+            "reviews_number" => 55
+        ],
+        [
+            "id" => 3290964,
+            "latitude" => 3.138978,
+            "longitude" => 101.521147,
+            "title" => "Structural Draftsman",
+            "location" => "Lot 7389, Jalan Ciku, Sec. U9, Bukit Cherakah, 40150, Shah Alam",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<ul><li>Candidate must possess at least Professional Certificate, Diploma\/Advanced\/Higher\/Graduate Diploma, Bachelor&#39;s Degree\/Post Graduate Diploma\/Professional Degree in Engineering (Civil) or equivalent.<\/li><li>Required language(s): Bahasa Malaysia, English<\/li><li>At least 5 Year(s) of working experience in Prestressing company or related field is required for this position.<\/li><li>Required Skill(s): Microsoft Office, Autocad<\/li><li>Preferably Senior Executive specialized in Engineering - Civil\/Construction\/Structural or equivalent.<\/li><\/ul><div>&nbsp;<\/div><div>Job responsibilities :<\/div><ul><li>Produce drawings using computer assisted drafting systems (CAD).<\/li><li>Draft plans and detailed drawings for structures, installations, and construction projects<\/li><li>Correlate, interpret, and modify data<\/li><li>Finish and duplicate drawings and documentation packages, according to required mediums and specifications for reproduction<\/li><li>Review rough sketches, drawings, specifications, and other engineering data received from civil engineers to ensure that they conform to design concepts.<\/li><li>Supervise and train other technicians and drafters.<\/li><li>Determine the order of work and method of presentation<\/li><li>Explain drawings to construction teams and provide adjustments as necessary.<\/li><li>Calculate weights, volumes, and stress factors and their implications for technical aspects of designs.<\/li><\/ul>",
+            "company" => "YLSE TECHNOLOGIES (M) SDN BHD",
+            "salary" => "MYR 4000.00 - 5600.00",
+            "min_monthly_salary" => "4000.00",
+            "max_monthly_salary" => "5600.00",
+            "currency" => "MYR",
+            "url" => "http:\/\/ylse.com.my",
+            "gallery" => ["https://siva.jsstatic.com/my/62763/images/sol/62763_logo_0_634947.jpg"],
+            "rating" => 3,
+            "reviews_number" => 52
+        ],
+        [
+            "id" => 3290963,
+            "latitude" => 3.177983,
+            "longitude" => 101.742210,
+            "title" => "Store Assistant",
+            "location" => "16 Jalan Setiawangsa 10, Taman Setiawangsa, 54200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<ul>
+    <li>Candidate must possess at least Diploma\/Advanced\/Higher\/Graduate Diploma in Logistic\/Transportation or equivalent.<\/li>
+    <li>At least 1 Year(s) of working experience in the related field is required for this position.<\/li>
+    <li>Preferably Non-Executive specialized in Purchasing\/Inventory\/Material &amp; Warehouse Management or equivalent.<\/li>
+    <li>Candidate must know&nbsp;to&nbsp;monitor on stock availability.<\/li>
+    <li>Candidate must know to prepare monthly report on stock take.<\/li>
+    <li>Organize stock and sending out\/delivery stock to requester.<\/li>
+    <li>Receiving on item purchased from supplier (GRN).<\/li>
+    <li>Encode the delivered or ordered materials or products<\/li>
+    <li>Liaise closely with purchasing department on monitoring delivery item.<\/li>
+    <li>Ensure all orders are properly documented and released for pick-up.<\/li>
+<\/ul>",
+            "company" => "ProEight Sdn Bhd",
+            "salary" => "MYR 1600.00 - 1800.00",
+            "min_monthly_salary" => "1600.00",
+            "max_monthly_salary" => "1800.00",
+            "currency" => "MYR",
+            "url" => "",
+            "gallery" => [""],
+            "rating" => 4,
+            "reviews_number" => 51
+        ],
+        [
+            "id" => 3290960,
+            "latitude" => 3.117878,
+            "longitude" => 101.676222,
+            "title" => "Fresh Graduate Sales Coordinator – JOHOR BAHRU [Ref: 9222048]",
+            "location" => "23-9 The Boulevard, Mid Valley City, Lingkaran Syed Putra 59200 Kuala Lumpur",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div><div><strong>Qualification :<\/strong><\/div><ul><li>Excellent verbal and written communication skills- we&rsquo;re looking for someone who is positive, open and is well-versed in English who is able to connect well with the team and with customers and suppliers.<\/li><li>&nbsp;Able to travel and liaise with customers. (Will be<strong> required to travel to Singapore at times)<\/strong><\/li><li>Be able to <strong>work in either Tampoi or Senai plants.<\/strong><\/li><li>&nbsp;Previous customer service experience and a positive personality with a thirst for success.<\/li><\/ul><div>&nbsp;<\/div><strong>Job Responsibilities:&nbsp;<\/strong><ul><li>Coordination between salesperson, production &amp; customer on orders received<\/li><li>Monitoring of orders receive and delivery schedule<\/li><li>Preparing of quotations and other relevant correspondence for customers.<\/li><li>Preparing of sample master card for new products for submission to customer for approval<\/li><li>Any other office duties as assigned.<\/li><\/ul><\/div><div>&nbsp;<\/div>",
+            "company" => "Elite Professions Sdn Bhd",
+            "salary" => "MYR 1500.00 - 2500.00",
+            "min_monthly_salary" => "1500.00",
+            "max_monthly_salary" => "2500.00",
+            "currency" => "MYR",
+            "url" => "",
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
+            "rating" => 4,
+            "reviews_number" => 49
+        ],
+        [
+            "id" => 3290952,
+            "latitude" => 3.117878,
+            "longitude" => 101.676222,
+            "title" => "Product Development & Registration Executive [Ref: 2313183]",
+            "location" => "23-9 The Boulevard, Mid Valley City, Lingkaran Syed Putra 59200 Kuala Lumpur",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div><ul><li>You will be responsible for new product registration, product re-registration and any changes to the existing product registration according to the regulatory requirements.<\/li><li><strong>Diploma\/Degree in Chemistry or Agricultural Science<\/strong><\/li><li>Minimum <strong>2 years of working experience<\/strong> in related field<\/li><li>Well-versed in Microsoft Office applications<\/li><li>Must be <strong>able to read and write in Chinese<\/strong><\/li><li>Initiative, versatile and able to work independently<\/li><\/ul><\/div><div>&nbsp;<\/div>",
+            "company" => "Elite Professions Sdn Bhd",
+            "salary" => "MYR 2800.00 - 3300.00",
+            "min_monthly_salary" => "2800.00",
+            "max_monthly_salary" => "3300.00",
+            "currency" => "MYR",
+            "url" => "",
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
+            "rating" => 4,
+            "reviews_number" => 46
+        ],
+        [
+            "id" => 3290938,
+            "latitude" => 3.304573,
+            "longitude" => 101.564828,
+            "title" => "QC MANAGER",
+            "location" => "Lot. 102, Jalan Industri 3/4, Taman Industri Integrasi Rawang, 48000 Rawang, Selangor",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div>
+<div><strong>Job Description :<\/strong><\/div>
+
+<ul>
+    <li>
+    <div>Handling Internal \/ External Certification and practical experience in ISO audit will be an added advantage.<\/div>
+    <\/li>
+    <li>
+    <div>Possess strong troubleshooting skills, good leadership skills, interpersonal skills and analytical approach to problem solving.<\/div>
+    <\/li>
+    <li>
+    <div>Manage the site Quality Management system to ensure compliance to Quality Standards.<\/div>
+    <\/li>
+    <li>
+    <div>Handling customers complaints by inspecting the products, investigating the root cause and propose solutions.<\/div>
+    <\/li>
+    <li>
+    <div>Provide a comprehensive day-to-day QC service to support the core activities and associates processes.<\/div>
+    <\/li>
+<\/ul>
+
+<div>&nbsp;<\/div>
+
+<div><strong>Requirement :<\/strong><\/div>
+
+<ul>
+    <li>
+    <div>Minimum Bachelor degree in Science \/ Mechanical \/ Engineering.<\/div>
+    <\/li>
+    <li>
+    <div>At least 5 years experience and familiar with manufacturing environment.<\/div>
+    <\/li>
+    <li>
+    <div>Knowledge or experience on ISO Standard is needed<\/div>
+    <\/li>
+    <li>
+    <div>Able to work independently and resourcefully.<\/div>
+    <\/li>
+<\/ul>
+<\/div>",
+            "company" => "OMEGA METAL INDUSTRIES SDN. BHD.",
+            "salary" => "MYR 5000.00 - 7000.00",
+            "min_monthly_salary" => "5000.00",
+            "max_monthly_salary" => "7000.00",
+            "currency" => "MYR",
+            "url" => "http:\/\/www.omegametal.com.my",
+            "gallery" => ["https://siva.jsstatic.com/my/40158/images/sol/40158_logo_0_61105.jpg"],
+            "rating" => 3,
+            "reviews_number" => 40
+        ],
+        [
+            "id" => 3290933,
+            "latitude" => 3.117878,
+            "longitude" => 101.676222,
+            "title" => "Client Team Manager [Ref: 3387896]",
+            "location" => "23-9 The Boulevard, Mid Valley City, Lingkaran Syed Putra 59200 Kuala Lumpur",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div>The purpose of the <strong>Client Team Manager (CTM) <\/strong>is to serve our clients in the most hospitable manner by providing insights and high-quality data in a timely manner. Furthermore, the CTM manages their Client Team in such a manner that staff members are happy, developing themselves and thus ensuring all operational KPIs as well Client Satisfaction KPI&rsquo;s are met.<\/div><div>&nbsp;<\/div><div>&nbsp;<\/div><div><strong>You&rsquo;re good at:<\/strong><\/div><ul><li>Excellent verbal and written communication skills in English<\/li><li>The ability to work in a flexible environment<\/li><li>The ability to work independently<\/li><li>Result oriented, proactive and innovative with an ability to be able to improvise in all situations<\/li><li>Experience with MS Office (Excel, PowerPoint, Word)<\/li><li>Bachelor in any discipline<\/li><li>A great affinity with service<\/li><li>Minimum of 3 years experience in account &amp; project management<\/li><\/ul><br>",
+            "company" => "Elite Professions Sdn Bhd",
+            "salary" => "MYR 4000.00 - 5000.00",
+            "min_monthly_salary" => "4000.00",
+            "max_monthly_salary" => "5000.00",
+            "currency" => "MYR",
+            "url" => "",
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
+            "rating" => 4,
+            "reviews_number" => 38
+        ],
+        [
+            "id" => 3290930,
+            "latitude" => 3.004185,
+            "longitude" => 101.540018,
+            "title" => "Receptionist cum Administration",
+            "location" => "Jalan Anggerik Vanilla Y 31/Y, Kota Kemuning, 40460 Shah Alam, Selangor, Malaysia",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div><strong>Job Responsibilities:-<\/strong><\/div><ul><li>Responsible for answering incoming calls<\/li><li>Responsible for outgoing calls when required<\/li><li>Attending to walk-in guests \/ visitors \/ members<\/li><li>Coordinate in incoming and outgoing mails \/ parcels<\/li><li>Receiving courier service<\/li><li>To compile all incoming letters \/ fax&nbsp;\/<\/li><li>Handle day-to-day matters and provide efficient support for administration process<\/li><li>Manage filing system and outgoing correspondence records<\/li><li>Assist in any matters as required by superior<\/li><li>Assist in general administrative duties<\/li><li>Ensure reception&nbsp;counter and the area are always in good condition<\/li><li>Photostatting and encoding \/ Data entry<\/li><li>Calling students \/ clients regarding invitations and other matters<\/li><\/ul><div>&nbsp;<\/div><div><strong>Requirements:-<\/strong><\/div><ul><li>Candidate must possess at least SPM or similar relevant qualifications<\/li><li>At least 1 or 2 years of working experience as Receptionist is required<\/li><li>Friendly and able to speak clearly in English and Bahasa Malaysia<\/li><li>Speaking Chinese is an added advantage<\/li><li>Pleasant personality with good interpersonal and communication skills<\/li><li>Effective and efficient telephone and written communication skills<\/li><li>Able to start work immediately<\/li><\/ul>",
+            "company" => "MIT Academy Sdn Bhd",
+            "salary" => "MYR 1000.00 - 1200.00",
+            "min_monthly_salary" => "1000.00",
+            "max_monthly_salary" => "1200.00",
+            "currency" => "MYR",
+            "url" => "http:\/\/www.mitacademy.edu.my",
+            "gallery" => ["https://siva.jsstatic.com/my/34596/images/sol/34596_logo_0_177859.png"],
+            "rating" => 1,
+            "reviews_number" => 35
+        ],
+        [
+            "id" => 3290929,
+            "latitude" => 5.420953,
+            "longitude" => 100.315057,
+            "title" => "Purchsing Executive/ Assistant",
+            "location" => "Jalan Macalister, Georgetown, 10400 George Town, Penang, Malaysia",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<ul>
+    <li>Candidate must possess at least Diploma\/Advanced\/Higher\/Graduate Diploma in any field.<\/li>
+    <li>Required language(s): English, Bahasa Malaysia<\/li>
+    <li>At least 1 Year(s) of working experience in the related field is required for this position.<\/li>
+    <li>Preferably Junior Executive specialized in Purchasing\/Inventory\/Material &amp; Warehouse Management or equivalent.<\/li>
+<\/ul>",
+            "company" => "Sunway Biz Hotel Sdn Bhd",
+            "salary" => "MYR 1500.00 - 1800.00",
+            "min_monthly_salary" => "1500.00",
+            "max_monthly_salary" => "1800.00",
+            "currency" => "MYR",
+            "url" => "http:\/\/georgetown.sunwayhotels.com",
+            "gallery" => ["https://siva.jsstatic.com/my/10760/images/sol/10760_logo_0_159148.jpg"],
+            "rating" => 1,
+            "reviews_number" => 35
+        ],
+        [
+            "id" => 3290927,
+            "latitude" => 3.177983,
+            "longitude" => 101.742210,
+            "title" => "QC Technician",
+            "location" => "16 Jalan Setiawangsa 10, Taman Setiawangsa, 54200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<ul>
+    <li>Candidate must possess at least Diploma\/Advanced\/Higher\/Graduate Diploma in Engineering (Mechanical) or equivalent.<\/li>
+    <li>At least 1 Year(s) of working experience in the related field is required for this position.<\/li>
+    <li>Preferably Non-Executive specialized in Quality Control\/Assurance or equivalent.<\/li>
+    <li>Candidate must know about Quality Inspection of mechanical seal, spare parts during \/ after production, and accurately recording findings on the designated Quality Inspection Record sheet.<\/li>
+    <li>To conduct inspection on incoming raw material \/ spare parts and record finding on the Incoming Inspection Records\/QC report.<\/li>
+    <li>Prepare nonconformance report and justification report on rejected product and act according to the corrective and preventative action.<\/li>
+<\/ul>",
+            "company" => "ProEight Sdn Bhd",
+            "salary" => "MYR 1600.00 - 1800.00",
+            "min_monthly_salary" => "1600.00",
+            "max_monthly_salary" => "1800.00",
+            "currency" => "MYR",
+            "url" => "",
+            "gallery" => [""],
+            "rating" => 4,
+            "reviews_number" => 35
+        ],
+        [
+            "id" => 3290920,
+            "latitude" => 3.117878,
+            "longitude" => 101.676222,
+            "title" => "Brand Executive [Ref: 2357166]",
+            "location" => "23-9 The Boulevard, Mid Valley City, Lingkaran Syed Putra 59200 Kuala Lumpur",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div><strong>Job Description<\/strong><ul><li>To assist in brand communication and strategy, market analysis, industry trends, research and market information.<\/li><li>To assist in designing and executing marketing campaigns and projects.<\/li><li>To assist in driving market awareness and brand presence.<\/li><li>To perform any other duties assigned by immediate superior from time to time.<\/li><\/ul><div>&nbsp;<\/div><strong>Job Requirement<\/strong><ul><li>A minimum qualification in <strong>Marketing, Business Administration or any similar discipline<\/strong><\/li><li>A minimum of&nbsp; <strong>2 years&nbsp; experience <\/strong>in a fast moving consumer goods marketing environment. Preference will be given to those with brand management and product development experience in FMCG companies.<\/li><li>Possess strong conceptual skills and understanding of marketing planning and brand management.<\/li><li>Possess strong analytical skill.<\/li><li>Customer focused and have good team working spirit.<\/li><li><strong>Fresh graduates are encouraged to apply.<\/strong><\/li><\/ul><\/div><div>&nbsp;<\/div>",
+            "company" => "Elite Professions Sdn Bhd",
+            "salary" => "MYR 3000.00 - 4500.00",
+            "min_monthly_salary" => "3000.00",
+            "max_monthly_salary" => "4500.00",
+            "currency" => "MYR",
+            "url" => "",
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
+            "rating" => 4,
+            "reviews_number" => 33
+        ],
+        [
+            "id" => 3290918,
+            "latitude" => 1.568531,
+            "longitude" => 110.385954,
+            "title" => "Service Manager",
+            "location" => "Jalan Jentera Pending Industrial Estate Kuching Sarawak Malaysia",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div>Responsibilities:<\/div><ul><li>To lead, guide, direct and motivate his team members under his or her division to achieve their respective departmental or Unit goals, targets and objectives;<\/li><li>To ensure effective after-sales support to all customers to achieve the service expectations of customer;<\/li><li>To establish strategic Service Division business plan to ensure long term growth and profitability of the Aftersales business;<\/li><li>To monitor and manage the performance of the workshops and to ensure profitability;<\/li><li>To provide continual staff skills and competencies development and coaching;<\/li><li>Other duties as assigned.<br>&nbsp;<\/li><\/ul><div>Requirements:<\/div><ul><li>Possess a Diploma or Degree in Automotive\/Mechanical Engineering or equivalent;<\/li><li>At least 5 years of working experiences in managerial capacity in service workshop;<\/li><li>Possess good problem solving skills and must be customer service oriented;<\/li><li>Good computer knowledge;<\/li><li>Good verbal and written communication skill in English,Chinese and Bahasa Malaysia.<\/li><li>Experience on 3S knowledge practice will be added advantage<\/li><\/ul>",
+            "company" => "TC Motors (Sarawak) Sdn Bhd",
+            "salary" => "MYR 3500.00 - 4900.00",
+            "min_monthly_salary" => "3500.00",
+            "max_monthly_salary" => "4900.00",
+            "currency" => "MYR",
+            "url" => "",
+            "gallery" => ["https://siva.jsstatic.com/my/3683/images/sol/3683_logo_0_17823.jpg"],
+            "rating" => 3,
+            "reviews_number" => 31
+        ],
+        [
+            "id" => 3290917,
+            "latitude" => 1.393473,
+            "longitude" => 103.624695,
+            "title" => "Sales Executive/ Assistant Sales Manager/ Sales Manager",
+            "location" => "No.28, Jalan Mega 1, Taman Perindustrian Nusa Cemerlang, 79200 Nusajaya. Johor",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<ul>
+    <li>Have <strong>Sales Experience<\/strong> in Chinese Restaurant<\/li>
+    <li>Able to meet sales target<\/li>
+    <li>Aggressive in new account opening<\/li>
+    <li>Good Communication and Presentation Skills with Positive Attitude and pleasant personality<\/li>
+    <li>Training will be provided and 5 working days<\/li>
+    <li>Any ad hoc duties assigned<\/li>
+<\/ul>
+
+<div><strong>JOB REQUIREMENT<\/strong><\/div>
+
+<ul>
+    <li>Candidate must possess at least Diploma\/Advanced\/Higher\/Graduate Diploma<\/li>
+    <li>Required language(s): English, Chinese<\/li>
+    <li>At least 2 Year(s) of working experience in the related field is required for this position.<\/li>
+    <li>Must have basic computer knowledge<\/li>
+    <li>Preferably Senior Executive specialized in Sales - Retail\/General or equivalent.<\/li>
+    <li><strong>Work Location: Singapore<\/strong><\/li>
+<\/ul>",
+            "company" => "YONG WEN HOLDINGS SDN BHD",
+            "salary" => "SGD 2500.00 - 3000.00",
+            "min_monthly_salary" => "2500.00",
+            "max_monthly_salary" => "3000.00",
+            "currency" => "SGD",
+            "url" => "http:\/\/www.ywgroup.com.sg\/",
+            "gallery" => ["https://siva.jsstatic.com/my/82981/images/sol/82981_logo_0_31286.png"],
+            "rating" => 1,
+            "reviews_number" => 31
+        ],
+        [
+            "id" => 3290915,
+            "latitude" => 3.117878,
+            "longitude" => 101.676222,
+            "title" => "Internship [Ref: 1254734]",
+            "location" => "23-9 The Boulevard, Mid Valley City, Lingkaran Syed Putra 59200 Kuala Lumpur",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div>Assist in on going activities \/projects in assigned Brands\/Trades during this period, and provide experimental Industrial training to selected Final year student.<div><br>Help in the execution of assigned brand marketing windows which includes Above the Line activities (Media Commercial) &amp; Below the Line activities ( on-ground promotions).<\/div><br>Assist Team on brand\/trade operational matters.<\/div><div>&nbsp;<\/div>",
+            "company" => "Elite Professions Sdn Bhd",
+            "salary" => "MYR 1000.00 - 1500.00",
+            "min_monthly_salary" => "1000.00",
+            "max_monthly_salary" => "1500.00",
+            "currency" => "MYR",
+            "url" => "",
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
+            "rating" => 4,
+            "reviews_number" => 30
+        ],
+        [
+            "id" => 3290903,
+            "latitude" => 3.125498,
+            "longitude" => 101.616632,
+            "title" => "General Clerk",
+            "location" => "76 Jalan SS 22/25, Damansara Jaya, 47400 Petaling Jaya, Selangor, Malaysia",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div>
+<div><strong>Roles and Responsibilities:<\/strong><\/div>
+
+<ul>
+    <li>Assist on daily administrative and general work<\/li>
+    <li>Key-in and update records<\/li>
+    <li>Processing of documentation and filing<\/li>
+    <li>Assist any adhoc management tasks<\/li>
+    <li>Perform any other duties and responsibilities as and when assigned by the supervisor<\/li>
+<\/ul>
+<\/div>
+
+<div><strong>Requirements:<\/strong><\/div>
+
+<ul>
+    <li>Candidate must possess at least SPM &amp; above qualifications in any field.<\/li>
+    <li>At least 1 Year(s) of working experience in clerical\/administrative support or equivalent.<\/li>
+    <li>Good behaviour, disciplined and able to work independently.<\/li>
+    <li>Computer literate - Required skills: MS Office, Words, Excel, Email.<\/li>
+    <li>Full time position available.<\/li>
+<\/ul>
+
+<div><strong>Note<\/strong>
+
+<ul>
+    <li><strong>2 vacancies (1 to be based in Klang Valley &amp; 1 to be based in Kuantan)<\/strong><\/li>
+    <li><strong>If you are applying for the Kuantan position, please indicate &quot;Kuantan&quot; clearly in your resume.<\/strong><\/li>
+<\/ul>
+<\/div>",
+            "company" => "Spring Energy Sdn Bhd (Petaling Jaya)",
+            "salary" => "MYR 1200.00 - 2000.00",
+            "min_monthly_salary" => "1200.00",
+            "max_monthly_salary" => "2000.00",
+            "currency" => "MYR",
+            "url" => "http:\/\/www.springenergy.org\/",
+            "gallery" => ["https://siva.jsstatic.com/my/41731/images/sol/41731_logo_0_7655220.jpg"],
+            "rating" => 1,
+            "reviews_number" => 26
+        ],
+        [
             "id" => 3290898,
             "latitude" => 3.133549,
             "longitude" => 101.684550,
@@ -15,7 +824,7 @@ echo json_encode(
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "https:\/\/www.teledirectasia.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/8687/images/sol/8687_logo_0_7610709.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/8687/images/sol/8687_logo_0_406919.png"],
             "rating" => 2,
             "reviews_number" => 24
         ],
@@ -33,7 +842,7 @@ echo json_encode(
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 22
         ],
@@ -62,7 +871,7 @@ echo json_encode(
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/70617/images/sol/70617_logo_0_6899473.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/70617/images/sol/70617_logo_0_33530.jpg"],
             "rating" => 2,
             "reviews_number" => 21
         ],
@@ -121,9 +930,27 @@ echo json_encode(
             "max_monthly_salary" => "2600.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 19
+        ],
+        [
+            "id" => 3290881,
+            "latitude" => 3.376663,
+            "longitude" => 101.412907,
+            "title" => "Senior Support Engineer  (ERP)",
+            "location" => "No. 7,Kawasan Perusahaan Suria, 45600 Bestari Jaya, Selangor",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div><strong>Job Responsibilities:<\/strong><\/div><ul><li>Provide first level ERP system support to end user<\/li><li>To manage issues or change request<\/li><li>Prepare project documentation including Business Analysis report, business process flow, functional specification and change management report.<\/li><li>To provide system training for application user<\/li><li>To participate in system evaluation and testing<\/li><li>Work closely with system user and deliver the project on schedule.<\/li><li>To prepare periodic report to management<\/li><li>Develop and demonstrate a high level of ethics, care for user that can meet or exceed expectation.<\/li><\/ul><div><strong>Job Requirement :<\/strong><\/div><ul><li>Candidate must possess at least a Diploma, Advanced\/Higher\/Graduate Diploma, Bachelor&#39;s Degree, Post Graduate Diploma, Professional Degree, Computer Science\/Information Technology, Engineering (Computer\/Telecommunication), Science &amp; Technology or equivalent.<\/li><li>Required skill(s): Microsoft Windows, Linux.<\/li><li>At least 3 year(s) of working experience in the related field is required for this position.<\/li><li>Applicants must be willing to work in Batang Berjuntai.<\/li><li>Preferably Executive\/ Senior Executives specializing in IT\/Computer - Network\/System\/Database Admin or equivalent.<\/li><li>Full-Time position(s) available.<\/li><\/ul>",
+            "company" => "Hartalega  Sdn Bhd",
+            "salary" => "MYR 2800.00 - 4000.00",
+            "min_monthly_salary" => "2800.00",
+            "max_monthly_salary" => "4000.00",
+            "currency" => "MYR",
+            "url" => "",
+            "gallery" => ["https://siva.jsstatic.com/my/2339/images/sol/2339_logo_0_948514.png"],
+            "rating" => 4,
+            "reviews_number" => 18
         ],
         [
             "id" => 3290878,
@@ -139,7 +966,7 @@ echo json_encode(
             "max_monthly_salary" => "9000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 16
         ],
@@ -147,7 +974,7 @@ echo json_encode(
             "id" => 3290876,
             "latitude" => 5.300019,
             "longitude" => 100.286399,
-            "title" => "Account And Admin Assistant",
+            "title" => "Accounts And Admin Assistant",
             "location" => "74b Lintang Bayan Lepas6 Bayan Lepas Penang Malaysia",
             "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
             "description" => "<ul>
@@ -156,6 +983,7 @@ echo json_encode(
     <li>Applicants must be willing to work in Bayan Lepas.<\/li>
     <li>No work experience required.<\/li>
     <li>Full-Time position(s) available.<\/li>
+    <li>job responsibilites : to prepare monthly accounts statement , report to managers and directors , to assist senior account clerk on daily responsibilites.<\/li>
 <\/ul>",
             "company" => "Ting Sheng Jewellery Marketing Sdn Bhd",
             "salary" => "MYR 1500.00 - 2000.00",
@@ -213,7 +1041,7 @@ echo json_encode(
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 11
         ],
@@ -231,9 +1059,27 @@ echo json_encode(
             "max_monthly_salary" => "3000.00",
             "currency" => "SGD",
             "url" => "http:\/\/www.jac-recruitment.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/6712/images/sol/6712_logo_0_648120.jpg"],
             "rating" => 2,
             "reviews_number" => 09
+        ],
+        [
+            "id" => 3290844,
+            "latitude" => 3.089366,
+            "longitude" => 101.634131,
+            "title" => "Executive Human Resource And Administration",
+            "location" => "1a Jalan Tandang Seksyen 51 Petaling Jaya Selangor Malaysia",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div>Responsibilities :<\/div><ul><li>Assist in various aspects of Human Resource Management which includes payroll, employee relation, training, compensation, benefits and HR information systems and records.<\/li><li>Monitoring and processing on staff monthly Overtime and attendance.<\/li><li>Responsible for the full spectrum of recruitment activities including advertisement posting, sourcing and screening candidate, interview coordination, reference checking, selecting and offering.<\/li><li>Ensure all relevant daily HR operation are consistent and compliance with the group policy.<\/li><li>Any other duties from time to time as required by HOD or the management.<\/li><\/ul><div>&nbsp;<\/div><div>Requirement :<\/div><ul><li>Candidate must possess at least a Diploma, Advanced\/Higher\/Graduate Diploma, Bachelor&#39;s Degree, Post Graduate Diploma, Professional Degree in Human Resource Management or equivalent.<\/li><li>At least 5 year(s) of working experience in the related field is required for this position.<\/li><li>Applicants must be willing to work in Petaling Jaya.<\/li><li>Good knowledge of Employment Act&nbsp;and general HR practices. &nbsp;<\/li><li>Full-Time position(s) available.<\/li><\/ul>",
+            "company" => "Hume Roofing Products Sdn Bhd",
+            "salary" => "MYR 4000.00 - 5000.00",
+            "min_monthly_salary" => "4000.00",
+            "max_monthly_salary" => "5000.00",
+            "currency" => "MYR",
+            "url" => "http:\/\/www.humeroofing.com.my\/",
+            "gallery" => ["https://siva.jsstatic.com/my/49939/images/sol/49939_logo_0_94866.png"],
+            "rating" => 4,
+            "reviews_number" => 04
         ],
         [
             "id" => 3290842,
@@ -249,7 +1095,7 @@ echo json_encode(
             "max_monthly_salary" => "1700.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 04
         ],
@@ -289,7 +1135,7 @@ echo json_encode(
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/11444/images/sol/11444_logo_0_6609296.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/11444/images/sol/11444_logo_0_19771.png"],
             "rating" => 4,
             "reviews_number" => 03
         ],
@@ -300,50 +1146,14 @@ echo json_encode(
             "title" => "PROJECT SALES EXECUTIVE",
             "location" => "No. 3, 5 & 7, Jalan TSB 8, Taman Industri Sungai Buloh, Kota Damansara, Petaling Jaya, Selangor",
             "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div>
-<div><strong>Job Description :<\/strong><\/div>
-
-<ul>
-    <li>
-    <div>To establish close relationships with customers and potential customers.<\/div>
-    <\/li>
-    <li>
-    <div>Responsible to carry out appropriate sales and marketing strategy to achieve sales target<\/div>
-    <\/li>
-    <li>
-    <div>Responsible for sales collection and adhere to credit control<\/div>
-    <\/li>
-    <li>
-    <div>To work in all sales and promotional events<\/div>
-    <\/li>
-    <li>
-    <div>Collaborate with team to achieve better results<\/div>
-    <\/li>
-<\/ul>
-
-<div>&nbsp;<\/div>
-
-<div><strong>Requirements:<\/strong><\/div>
-
-<ul>
-    <li>
-    <div>Possess Diploma holder for any field<\/div>
-    <\/li>
-    <li>
-    <div>Fresh graduates are encourage are encourage to apply<\/div>
-    <\/li>
-    <li>
-    <div>Pleasant personality and able to interact with people at all levels.<\/div>
-    <\/li>
-<\/ul>
-<\/div>",
+            "description" => "<div><div><strong>Job Responsibilities:<\/strong><\/div><ul><li><div>To establish close relationships with customers and potential customers.<\/div><\/li><li><div>Responsible to carry out appropriate sales and marketing strategy to achieve sales target<\/div><\/li><li><div>Responsible for sales collection and adhere to credit control<\/div><\/li><li><div>To work in all sales and promotional events<\/div><\/li><li><div>Collaborate with team to achieve better results<\/div><\/li><\/ul><div>&nbsp;<\/div><div><strong>Requirements:<\/strong><\/div><ul><li><div>Possess Diploma holder for any field<\/div><\/li><li><div>Fresh graduates are encourage are encourage to apply<\/div><\/li><li><div>Pleasant personality and able to interact with people at all levels.<\/div><\/li><\/ul><\/div><div>&nbsp;<\/div>",
             "company" => "Success Electronics & Transformer Manufacturer Sdn Bhd",
             "salary" => "MYR 2500.00 - 3500.00",
             "min_monthly_salary" => "2500.00",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.success.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/40158/images/sol/40158_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/40158/images/sol/40158_logo_0_6787112.jpg"],
             "rating" => 3,
             "reviews_number" => 01
         ],
@@ -351,28 +1161,44 @@ echo json_encode(
             "id" => 3290823,
             "latitude" => 3.177983,
             "longitude" => 101.742210,
-            "title" => "Account Executive",
+            "title" => "Accounts Executive",
             "location" => "16 Jalan Setiawangsa 10, Taman Setiawangsa, 54200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
             "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<ul>
-    <li>Candidate must possess at least a Bachelor&#39;s Degree, Post Graduate Diploma, Professional Degree, Finance\/Accountancy\/Banking or equivalent.<\/li>
-    <li>At least 1 year(s) of working experience in the related field is required for this position.<\/li>
-    <li>Preferably Junior Executives specializing in Finance - General\/Cost Accounting or equivalent.<\/li>
-    <li>Administrer and monitor the accounting system in order to ensure that accounting information are maintained in an accurate and timely manner.<\/li>
-    <li>Monitor accounting records and provide adjustment journals when necessary to reflect true and fair position.<\/li>
-    <li>Prepare management reports, including supporting schedules within stipulated deadline.<\/li>
-    <li>Analyse variances of the monthly management account to report to management.<\/li>
-    <li>Develop good relationship with auditors.<\/li>
-    <li>Maintain accounting files and records in compliance with acceptance policies and procedures.<\/li>
-    <li>Full-Time position(s) available.<\/li>
-<\/ul>",
+            "description" => "<div><strong>Responsibilities<\/strong><\/div><div>&nbsp;<\/div><ul><li>Administer and monitor the accounting system in order to ensure that accounting information are maintained in an accurate and timely manner.<\/li><li>Monitor accounting records and provide adjustment journals when necessary to reflect true and fair position.<\/li><li>Prepare management reports, including supporting schedules within stipulated deadline.<\/li><li>Analyse variances of the monthly management account to report to management.<\/li><li>Develop good relationship with auditors.<\/li><li>Maintain accounting files and records in compliance with acceptance policies and procedures.<\/li><\/ul><div>&nbsp;<\/div><div><strong>Requirements<\/strong><\/div><div>&nbsp;<\/div><ul><li>Candidate must possess at least a Bachelor&#39;s Degree, Post Graduate Diploma, Professional Degree, Finance\/Accountancy\/Banking or equivalent.<\/li><li>At least 1 year(s) of working experience in the related field is required for this position.<\/li><li>Preferably Junior Executives specializing in Finance - General\/Cost Accounting or equivalent.<\/li><li>Full-Time position(s) available.<\/li><\/ul>",
             "company" => "ProEight Sdn Bhd",
             "salary" => "MYR 2500.00 - 3000.00",
             "min_monthly_salary" => "2500.00",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/30994/images/sol/30994_logo_0_7809426.jpg"],
+            "gallery" => [""],
+            "rating" => 4,
+            "reviews_number" => 57
+        ],
+        [
+            "id" => 3290822,
+            "latitude" => 1.441396,
+            "longitude" => 103.605775,
+            "title" => "Sales Manager",
+            "location" => "Nusa Cemerlang Industrial Park , #34 Jalan Mega 1/5 Gelang Patah Johor Malaysia",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<ul>
+    <li>Candidate must possess at least Bachelor&#39;s Degree\/Post Graduate Diploma\/Professional Degree in Engineering<\/li>
+    <li>Required language(s): English<\/li>
+    <li>At least 5 Year(s) of working experience in the related field is required for this position.<\/li>
+    <li>Required Skill(s): Developing New Customers, negotiating, profitably closing customers, active listening, consultative selling, finding solutions for customers<\/li>
+    <li>Preferably Manager specialized in Sales - Engineering\/Technical or equivalent.<\/li>
+    <li>Previous sales experiance in similar industry<\/li>
+    <li>Experiance in business to business sales<\/li>
+    <li>Experiance in Military and Commercial Aviation Market preferred but not essential<\/li>
+<\/ul>",
+            "company" => "Sunaero Asia Sdn Bhd",
+            "salary" => "MYR 5000.00 - 10000.00",
+            "min_monthly_salary" => "5000.00",
+            "max_monthly_salary" => "10000.00",
+            "currency" => "MYR",
+            "url" => "http:\/\/www.sunaero.com",
+            "gallery" => ["https://siva.jsstatic.com/my/80189/images/sol/80189_logo_0_33566.jpg"],
             "rating" => 4,
             "reviews_number" => 57
         ],
@@ -408,7 +1234,7 @@ echo json_encode(
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6810/images/sol/6810_logo_0_6614887.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 56
         ],
@@ -419,25 +1245,14 @@ echo json_encode(
             "title" => "Purchasing Assistant",
             "location" => "16 Jalan Setiawangsa 10, Taman Setiawangsa, 54200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
             "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<ul>
-    <li>Candidate must possess at least a Diploma, Advanced\/Higher\/Graduate Diploma, any field.<\/li>
-    <li>At least 1 year(s) of working experience in the related field is required for this position.<\/li>
-    <li>Preferably Junior Executives specializing in Purchasing\/Inventory\/Material &amp; Warehouse Management or equivalent.<\/li>
-    <li>To assist purchasing department<\/li>
-    <li>To liaise with suppliers on PO, payment terms and etc<\/li>
-    <li>To ensure that all products are supplied and delivered are in accordance to PO and project requirement<\/li>
-    <li>Maintain proper documentation and filing system to allow effective audits trails<\/li>
-    <li>Excellent verbal and written communication skills<\/li>
-    <li>Computer literate<\/li>
-    <li>Full-Time position(s) available.<\/li>
-<\/ul>",
+            "description" => "<div><strong>Responsibilities<\/strong><\/div><div>&nbsp;<\/div><ul><li>To assist purchasing department<\/li><li>To liaise with suppliers on PO, payment terms and etc<\/li><li>To ensure that all products are supplied and delivered are in accordance to PO and project requirement<\/li><li>Maintain proper documentation and filing system to allow effective audits trails<\/li><\/ul><div>&nbsp;<\/div><div><strong>Requirements<\/strong><\/div><div>&nbsp;<\/div><ul><li>Candidate must possess at least a Diploma, Advanced\/Higher\/Graduate Diploma, any field.<\/li><li>At least 1 year(s) of working experience in the related field is required for this position.<\/li><li>Preferably Junior Executives specializing in Purchasing\/Inventory\/Material &amp; Warehouse Management or equivalent.<\/li><li>Excellent verbal and written communication skills<\/li><li>Computer literate<\/li><li>Full-Time position(s) available.<\/li><\/ul>",
             "company" => "ProEight Sdn Bhd",
             "salary" => "MYR 1700.00 - 1850.00",
             "min_monthly_salary" => "1700.00",
             "max_monthly_salary" => "1850.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/30994/images/sol/30994_logo_0_7809426.jpg"],
+            "gallery" => [""],
             "rating" => 4,
             "reviews_number" => 54
         ],
@@ -455,7 +1270,7 @@ echo json_encode(
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.mfm.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/3488/images/sol/3488_logo_0_6757201.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3488/images/sol/3488_logo_0_6757381.jpg"],
             "rating" => 3,
             "reviews_number" => 52
         ],
@@ -473,7 +1288,7 @@ echo json_encode(
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 48
         ],
@@ -525,7 +1340,7 @@ echo json_encode(
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 45
         ],
@@ -543,7 +1358,7 @@ echo json_encode(
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6810/images/sol/6810_logo_0_6614887.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 42
         ],
@@ -626,7 +1441,7 @@ echo json_encode(
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.msafocus.com",
-            "gallery" => ["https://siva.jsstatic.com/my/31471/images/sol/31471_logo_0_6977512.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/31471/images/sol/31471_logo_0_7336065.jpg"],
             "rating" => 1,
             "reviews_number" => 30
         ],
@@ -700,7 +1515,7 @@ Bayan Lepas, 11900 Penang, Malaysia.
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.SamProperty.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/17872/images/sol/17872_logo_0_6675793.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/17872/images/sol/17872_logo_0_441493.jpg"],
             "rating" => 2,
             "reviews_number" => 20
         ],
@@ -740,7 +1555,7 @@ Bayan Lepas, 11900 Penang, Malaysia.
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/15653/images/sol/15653_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/15653/images/sol/15653_logo_0_735081.jpg"],
             "rating" => 3,
             "reviews_number" => 20
         ],
@@ -762,7 +1577,7 @@ Malaysia",
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.johnsonsuisse.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/8212/images/sol/8212_logo_0_6766209.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/8212/images/sol/8212_logo_0_22559.jpg"],
             "rating" => 2,
             "reviews_number" => 19
         ],
@@ -780,7 +1595,7 @@ Malaysia",
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.vs-i.com",
-            "gallery" => ["https://siva.jsstatic.com/my/1167/images/sol/1167_logo_0_18836.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1167/images/sol/1167_logo_0_7703260.jpg"],
             "rating" => 2,
             "reviews_number" => 14
         ],
@@ -811,29 +1626,6 @@ Malaysia",
             "reviews_number" => 09
         ],
         [
-            "id" => 3290715,
-            "latitude" => 4.828123,
-            "longitude" => 100.717977,
-            "title" => "Sales Executive",
-            "location" => "Wisma Poly Simpang Perak Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<ul>
-    <li>Candidate must possess at least a Diploma, Advanced\/Higher\/Graduate Diploma, Marketing, Business Studies\/Administration\/Management or equivalent.<\/li>
-    <li>At least 3 year(s) of working experience in the related field is required for this position.<\/li>
-    <li>Preferably Senior Executives specializing in Sales - Retail\/General or equivalent.<\/li>
-    <li>Full-Time position(s) available:Based in Northern Area (Perak, Penang, Kedah, Perlis)<\/li>
-<\/ul>",
-            "company" => "Taiping Poly Marketing Sdn Bhd",
-            "salary" => "MYR 2500.00 - 3500.00",
-            "min_monthly_salary" => "2500.00",
-            "max_monthly_salary" => "3500.00",
-            "currency" => "MYR",
-            "url" => "http:\/\/www.taiping-poly.com",
-            "gallery" => ["https://siva.jsstatic.com/my/24637/images/sol/24637_logo_0_7467604.jpg"],
-            "rating" => 2,
-            "reviews_number" => 08
-        ],
-        [
             "id" => 3290714,
             "latitude" => 2.968031,
             "longitude" => 101.707510,
@@ -847,7 +1639,7 @@ Malaysia",
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ioigroup.com",
-            "gallery" => ["https://siva.jsstatic.com/my/92280/images/sol/92280_logo_0_7860617.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/92280/images/sol/92280_logo_0_7892958.jpg"],
             "rating" => 1,
             "reviews_number" => 07
         ],
@@ -980,7 +1772,7 @@ Malaysia",
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.vs-i.com",
-            "gallery" => ["https://siva.jsstatic.com/my/1167/images/sol/1167_logo_0_18836.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1167/images/sol/1167_logo_0_7703260.jpg"],
             "rating" => 2,
             "reviews_number" => 48
         ],
@@ -1003,7 +1795,7 @@ Malaysia",
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/88377/images/sol/88377_logo_0_7501565.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/88377/images/sol/88377_logo_0_7501566.jpg"],
             "rating" => 2,
             "reviews_number" => 47
         ],
@@ -1079,9 +1871,61 @@ Malaysia",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/9349/images/sol/9349_logo_0_267330.jpg"],
             "rating" => 4,
             "reviews_number" => 43
+        ],
+        [
+            "id" => 3290649,
+            "latitude" => 3.111066,
+            "longitude" => 101.665796,
+            "title" => "Property Listing Specialist",
+            "location" => "Bangsar South Kuala Lumpur Federal Territory of Kuala Lumpur Malaysia",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div><strong>Job Description:<\/strong><\/div>
+
+<div>
+<div>The Listing Specialist is responsible in managing part of company&rsquo;s website content. Specifically, the responsibilities include the following:<\/div>
+
+<ul>
+    <li>Liaise with salesperson in collecting listing advertisement materials<\/li>
+    <li>Manage, upload &amp; moderate listing advertisement<\/li>
+    <li>Perform basic writing of property via online research<\/li>
+    <li>Timely update weekly reports<\/li>
+<\/ul>
+
+<div><strong>Requirements:<\/strong><\/div>
+
+<div>
+<ul>
+    <li>Background in Media Advertising, Marketing, Communications, Journalism or related area preferred<\/li>
+    <li>Full time position<\/li>
+    <li>Fresh Graduates are encouraged to apply<\/li>
+    <li>Has high interest in property field<\/li>
+    <li>Tech savvy<\/li>
+    <li>Proficient in MS Office&rsquo;s Word &amp; Excel<\/li>
+    <li>Knowledge of proper grammar, spelling and rules of composition in English<\/li>
+    <li>Meticulous, detail-oriented and highly organized<\/li>
+    <li>Ability to work with minimal supervision in fast paced, self-learning environment<\/li>
+    <li>Possesses highly evolved teamwork skills, strong time management skills, ability to meet tight deadlines<\/li>
+    <li>Training will be provided<\/li>
+    <li>Required languages: English, Bahasa Malaysia \/ Mandarin (a plus but not a must)<\/li>
+<\/ul>
+<\/div>
+
+<div>&nbsp;<\/div>
+
+<div>&nbsp;<\/div>
+<\/div>",
+            "company" => "PropertyGuru International (Malaysia) Sdn Bhd",
+            "salary" => "MYR 2000.00 - 2300.00",
+            "min_monthly_salary" => "2000.00",
+            "max_monthly_salary" => "2300.00",
+            "currency" => "MYR",
+            "url" => "http:\/\/www.propertyguru.com.my",
+            "gallery" => ["https://siva.jsstatic.com/my/54280/images/sol/54280_logo_0.jpg"],
+            "rating" => 1,
+            "reviews_number" => 39
         ],
         [
             "id" => 3290641,
@@ -1097,7 +1941,7 @@ Malaysia",
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.vs-i.com",
-            "gallery" => ["https://siva.jsstatic.com/my/1167/images/sol/1167_logo_0_18836.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1167/images/sol/1167_logo_0_7703260.jpg"],
             "rating" => 2,
             "reviews_number" => 37
         ],
@@ -1235,7 +2079,7 @@ Malaysia",
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/95615/images/sol/95615_logo_0_18515.jpg"],
             "rating" => 1,
             "reviews_number" => 30
         ],
@@ -1298,7 +2142,7 @@ Malaysia",
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.mewamax.com",
-            "gallery" => ["https://siva.jsstatic.com/my/13504/images/sol/13504_logo_0_7797348.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13504/images/sol/13504_logo_0_37772.jpg"],
             "rating" => 4,
             "reviews_number" => 27
         ],
@@ -1316,7 +2160,7 @@ Malaysia",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/9902/images/sol/9902_logo_0_6732201.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9902/images/sol/9902_logo_0_7847221.jpg"],
             "rating" => 2,
             "reviews_number" => 19
         ],
@@ -1399,7 +2243,7 @@ Malaysia",
             "max_monthly_salary" => "5156.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.jkpsb.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/999/images/sol/999_logo_0_90111.png"],
             "rating" => 4,
             "reviews_number" => 19
         ],
@@ -1438,7 +2282,7 @@ Malaysia",
             "max_monthly_salary" => "4059.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.jkpsb.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/999/images/sol/999_logo_0_90111.png"],
             "rating" => 4,
             "reviews_number" => 11
         ],
@@ -1474,7 +2318,7 @@ Malaysia",
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.semsservicesonline.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/11089/images/sol/11089_logo_0_7510474.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/11089/images/sol/11089_logo_0_95051.jpg"],
             "rating" => 4,
             "reviews_number" => 02
         ],
@@ -1492,9 +2336,27 @@ Malaysia",
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/23552/images/sol/23552_logo_0_5685579.jpg"],
             "rating" => 2,
             "reviews_number" => 01
+        ],
+        [
+            "id" => 3290553,
+            "latitude" => 3.153091,
+            "longitude" => 101.710759,
+            "title" => "Operations Assistant Manager",
+            "location" => "Ara Damansara ",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<ul><li>Candidate must possess at least a Diploma, Advanced\/Higher\/Graduate Diploma, Bachelor&#39;s Degree, Post Graduate Diploma, Professional Degree, Economics, Logistic\/Transportation, Business Studies\/Administration\/Management, Commerce, BioTechnology or equivalent.<\/li><li>Required language(s): Chinese, English<\/li><li>At least 3 year(s) of working experience as a Operations Management in Trading\/Manufacturing\/Distribution or Retail industry<\/li><li>Preferably Managers.<\/li><li>Full-Time position(s) available.<\/li><li><strong>Someone who has experience in handling Order Management, Customer Service &amp; Shipping.&nbsp;<\/strong><\/li><\/ul>",
+            "company" => "Capita Global Sdn Bhd - FS 2",
+            "salary" => "MYR 5500.00 - 7500.00",
+            "min_monthly_salary" => "5500.00",
+            "max_monthly_salary" => "7500.00",
+            "currency" => "MYR",
+            "url" => "http:\/\/www.capitagrp.com",
+            "gallery" => ["https://siva.jsstatic.com/my/107111/images/sol/107111_logo_0_813665.png"],
+            "rating" => 1,
+            "reviews_number" => 54
         ],
         [
             "id" => 3290549,
@@ -1510,7 +2372,7 @@ Malaysia",
             "max_monthly_salary" => "1000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/55631/images/sol/55631_logo_0_7478394.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/55631/images/sol/55631_logo_0_81323.png"],
             "rating" => 1,
             "reviews_number" => 53
         ],
@@ -1587,7 +2449,7 @@ Malaysia",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/96775/images/sol/96775_logo_0_833340.png"],
             "rating" => 1,
             "reviews_number" => 36
         ],
@@ -1623,7 +2485,7 @@ Malaysia",
             "max_monthly_salary" => "3100.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/13579/images/sol/13579_logo_0_465818.jpg"],
             "rating" => 4,
             "reviews_number" => 32
         ],
@@ -1682,7 +2544,7 @@ Malaysia",
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_41880.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_488945.jpg"],
             "rating" => 1,
             "reviews_number" => 08
         ],
@@ -1700,7 +2562,7 @@ Malaysia",
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3683/images/sol/3683_logo_0_7957140.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3683/images/sol/3683_logo_0_7923845.jpg"],
             "rating" => 3,
             "reviews_number" => 58
         ],
@@ -1947,7 +2809,7 @@ Malaysia",
             "max_monthly_salary" => "2200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.vs-i.com",
-            "gallery" => ["https://siva.jsstatic.com/my/1167/images/sol/1167_logo_0_18836.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1167/images/sol/1167_logo_0_7703260.jpg"],
             "rating" => 2,
             "reviews_number" => 31
         ],
@@ -1965,7 +2827,7 @@ Malaysia",
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.vs-i.com",
-            "gallery" => ["https://siva.jsstatic.com/my/1167/images/sol/1167_logo_0_18836.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1167/images/sol/1167_logo_0_7703260.jpg"],
             "rating" => 2,
             "reviews_number" => 29
         ],
@@ -1983,7 +2845,7 @@ Malaysia",
             "max_monthly_salary" => "25000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.cityrecruit.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/12931/images/sol/12931_logo_0_50623.jpg"],
             "rating" => 1,
             "reviews_number" => 25
         ],
@@ -2041,7 +2903,7 @@ Malaysia",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/ggit2u.com",
-            "gallery" => ["https://siva.jsstatic.com/my/90328/images/sol/90328_logo_0_7692983.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/90328/images/sol/90328_logo_0_36167.png"],
             "rating" => 3,
             "reviews_number" => 15
         ],
@@ -2059,7 +2921,7 @@ Malaysia",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/27057/images/sol/27057_logo_0_843170.jpg"],
             "rating" => 2,
             "reviews_number" => 14
         ],
@@ -2154,7 +3016,7 @@ Malaysia",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.zikay.com",
-            "gallery" => ["https://siva.jsstatic.com/my/9481/images/sol/9481_logo_0_6908763.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9481/images/sol/9481_logo_0_65702.png"],
             "rating" => 1,
             "reviews_number" => 06
         ],
@@ -2174,7 +3036,7 @@ SOLOK BAYAN LEPAS, PENANG",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/13579/images/sol/13579_logo_0_465818.jpg"],
             "rating" => 4,
             "reviews_number" => 04
         ],
@@ -2192,7 +3054,7 @@ SOLOK BAYAN LEPAS, PENANG",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.success.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/40158/images/sol/40158_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/40158/images/sol/40158_logo_0_6787112.jpg"],
             "rating" => 3,
             "reviews_number" => 56
         ],
@@ -2233,7 +3095,7 @@ SOLOK BAYAN LEPAS, PENANG",
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/79117/images/sol/79117_logo_0_30694.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/79117/images/sol/79117_logo_0_659648.jpg"],
             "rating" => 2,
             "reviews_number" => 53
         ],
@@ -2288,7 +3150,7 @@ SOLOK BAYAN LEPAS, PENANG",
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/27692/images/sol/27692_logo_0_6760193.jpg"],
+            "gallery" => [""],
             "rating" => 2,
             "reviews_number" => 49
         ],
@@ -2311,7 +3173,7 @@ SOLOK BAYAN LEPAS, PENANG",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/18591/images/sol/18591_logo_0_7311294.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/18591/images/sol/18591_logo_0_7688706.jpg"],
             "rating" => 1,
             "reviews_number" => 47
         ],
@@ -2417,7 +3279,7 @@ SOLOK BAYAN LEPAS, PENANG",
             "max_monthly_salary" => "7500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.capitagrp.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/107111/images/sol/107111_logo_0_813665.png"],
             "rating" => 1,
             "reviews_number" => 40
         ],
@@ -2435,7 +3297,7 @@ SOLOK BAYAN LEPAS, PENANG",
             "max_monthly_salary" => "4900.00",
             "currency" => "MYR",
             "url" => "http:\/\/australstar.net",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/62047/images/sol/62047_logo_0_52976.png"],
             "rating" => 2,
             "reviews_number" => 38
         ],
@@ -2513,9 +3375,46 @@ SOLOK BAYAN LEPAS, PENANG",
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.carsem.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/26941/images/sol/26941_logo_0_221359.jpg"],
             "rating" => 1,
             "reviews_number" => 32
+        ],
+        [
+            "id" => 3290324,
+            "latitude" => 6.305731,
+            "longitude" => 99.734415,
+            "title" => "Accounts Assistant",
+            "location" => "Lot 970, 971 & 973 Pantai Cenang, Mukin Kedawang, 07100 Langkawi, Kedah",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<ul>
+    <li>Responsible in updating ACCPAC system.<\/li>
+    <li>Assist in day-to-day operations work and closing activities related to general accounting<\/li>
+    <li>Preparation of monthly reconciliation,schedules &amp; reports<\/li>
+    <li>Assist in any ad-hoc and duties.<\/li>
+<\/ul>
+
+<div><strong>Requirements: <\/strong><\/div>
+
+<div>
+<ul>
+    <li>LCCI qualifications\/diploma or degree in Accounting or Professional accounting qualifications or its equivalent.<\/li>
+    <li>Preferably 2 years working experience in related field.<\/li>
+    <li>Proficient in Microsoft office application and computerized accounting system.<\/li>
+    <li>Analytical and meticulous with a strong sense of responsibility in meeting deadlines.<\/li>
+    <li>Resourceful with positive attitude and able to work independently with minimum supervision.<\/li>
+<\/ul>
+<\/div>
+
+<div>&nbsp;<\/div>",
+            "company" => "DFZ DUTY FREE (LANGKAWI) SDN BHD",
+            "salary" => "MYR 2000.00 - 2500.00",
+            "min_monthly_salary" => "2000.00",
+            "max_monthly_salary" => "2500.00",
+            "currency" => "MYR",
+            "url" => "http:\/\/www.dfzcapital.com.my",
+            "gallery" => ["https://siva.jsstatic.com/my/48/images/sol/48_logo_0_7844779.jpg"],
+            "rating" => 3,
+            "reviews_number" => 29
         ],
         [
             "id" => 3290315,
@@ -2601,7 +3500,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "1200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.telepaper.com\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/103512/images/sol/103512_logo_0_44444.jpg"],
             "rating" => 2,
             "reviews_number" => 21
         ],
@@ -2619,7 +3518,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/sepm.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/1154/images/sol/1154_logo_0_388157.png"],
             "rating" => 4,
             "reviews_number" => 21
         ],
@@ -2728,7 +3627,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.achievegroup.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/62109/images/sol/62109_logo_0_6384439.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/62109/images/sol/62109_logo_0_643533.png"],
             "rating" => 4,
             "reviews_number" => 02
         ],
@@ -2746,7 +3645,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "9000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.jac-recruitment.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/6712/images/sol/6712_logo_0_648120.jpg"],
             "rating" => 2,
             "reviews_number" => 01
         ],
@@ -2764,7 +3663,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/49957/images/sol/49957_logo_0_7015142.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/49957/images/sol/49957_logo_0_7763426.jpg"],
             "rating" => 2,
             "reviews_number" => 00
         ],
@@ -2815,7 +3714,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_97398.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_71227.jpg"],
             "rating" => 1,
             "reviews_number" => 53
         ],
@@ -2860,7 +3759,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "3800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.teamprinters.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/44765/images/sol/44765_logo_0_10923.jpg"],
             "rating" => 1,
             "reviews_number" => 51
         ],
@@ -2921,7 +3820,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "3100.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tropicalgrp.com",
-            "gallery" => ["https://siva.jsstatic.com/my/8050/images/sol/8050_logo_0_6738630.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/8050/images/sol/8050_logo_0_7980178.jpg"],
             "rating" => 1,
             "reviews_number" => 49
         ],
@@ -3015,7 +3914,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "3300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/27812/images/sol/27812_logo_0_7405205.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/27812/images/sol/27812_logo_0_7405207.jpg"],
             "rating" => 2,
             "reviews_number" => 44
         ],
@@ -3063,7 +3962,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.hla.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/2764/images/sol/2764_logo_0_7325380.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2764/images/sol/2764_logo_0_104284.jpg"],
             "rating" => 4,
             "reviews_number" => 42
         ],
@@ -3150,7 +4049,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.r-logic.com",
-            "gallery" => ["https://siva.jsstatic.com/my/38539/images/sol/38539_logo_0_6896939.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/38539/images/sol/38539_logo_0_18917.png"],
             "rating" => 4,
             "reviews_number" => 36
         ],
@@ -3168,7 +4067,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "4400.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.hla.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/2764/images/sol/2764_logo_0_7325380.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2764/images/sol/2764_logo_0_104284.jpg"],
             "rating" => 4,
             "reviews_number" => 34
         ],
@@ -3179,14 +4078,14 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "title" => "Procurement Admin Assistant (Bangsar South)",
             "location" => "Bangsar South",
             "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<ul><li>Candidate must possess at least a Diploma, Advanced\/Higher\/Graduate Diploma, Bachelor&#39;s Degree, Post Graduate Diploma, Professional Degree, any field.<\/li><li>Required language(s): Chinese, English<\/li><li>At least 1 year(s) of working experience in the related field is required for this position.<\/li><li>Preferably Junior Executives specializing in Purchasing\/Inventory\/Material &amp; Warehouse Management or equivalent.<\/li><li>Full-Time position(s) available.<\/li><\/ul><div>&nbsp;<\/div><div><strong>JOB DESCRIPTION :<\/strong><\/div><ul><li>Prepare, and comfirm the delivery of Purchase Order to vendors and suppliers<\/li><li>Maintain good relationship with vendors and suppliers<\/li><li>Receive, check and confirm delivery of purchases into temporary warehouse<\/li><li>Control the in\/out of purchases in temporary warehouse<\/li><li>Response to internal, vendors and suppliers queries for order and inventory status<\/li><li>Contact vendors and suppliers to schedule, expedite and resolve urgent or late deliveries<\/li><li>Monitor vendors and suppliers performance<\/li><li>Preparation and monitoring of Asset Management Tagging for purchases\/equipment at sites<\/li><li>Assist immediately on high severity requests or issue escalations as needed<\/li><li>Report daily progress to Manager and General Manager<\/li><\/ul>",
+            "description" => "<ul><li>Candidate must possess at least a Diploma, Advanced\/Higher\/Graduate Diploma, Bachelor&#39;s Degree, Post Graduate Diploma, Professional Degree, any field.<\/li><li><strong>Required language(s): Chinese(MUST), English(MUST)<\/strong><\/li><li>At least 1 year(s) of working experience in the related field is required for this position.<\/li><li>Preferably Junior Executives specializing in Purchasing\/Inventory\/Material &amp; Warehouse Management or equivalent.<\/li><li>Full-Time position(s) available.<\/li><\/ul><div>&nbsp;<\/div><div><strong>JOB DESCRIPTION :<\/strong><\/div><ul><li>Prepare, and comfirm the delivery of Purchase Order to vendors and suppliers<\/li><li>Maintain good relationship with vendors and suppliers<\/li><li>Receive, check and confirm delivery of purchases into temporary warehouse<\/li><li>Control the in\/out of purchases in temporary warehouse<\/li><li>Response to internal, vendors and suppliers queries for order and inventory status<\/li><li>Contact vendors and suppliers to schedule, expedite and resolve urgent or late deliveries<\/li><li>Monitor vendors and suppliers performance<\/li><li>Preparation and monitoring of Asset Management Tagging for purchases\/equipment at sites<\/li><li>Assist immediately on high severity requests or issue escalations as needed<\/li><li>Report daily progress to Manager and General Manager<\/li><\/ul>",
             "company" => "Capita Global Sdn Bhd - FS 2",
-            "salary" => "MYR 2000.00 - 3000.00",
-            "min_monthly_salary" => "2000.00",
+            "salary" => "MYR 1800.00 - 3000.00",
+            "min_monthly_salary" => "1800.00",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.capitagrp.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/107111/images/sol/107111_logo_0_813665.png"],
             "rating" => 1,
             "reviews_number" => 32
         ],
@@ -3226,7 +4125,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "9000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/7262/images/sol/7262_logo_0_6712215.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/7262/images/sol/7262_logo_0_29353.jpg"],
             "rating" => 2,
             "reviews_number" => 28
         ],
@@ -3260,7 +4159,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "3600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.omegametal.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/40158/images/sol/40158_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/40158/images/sol/40158_logo_0_61105.jpg"],
             "rating" => 3,
             "reviews_number" => 28
         ],
@@ -3308,7 +4207,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "3300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.omegametal.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/40158/images/sol/40158_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/40158/images/sol/40158_logo_0_61105.jpg"],
             "rating" => 3,
             "reviews_number" => 26
         ],
@@ -3326,7 +4225,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/20532/images/sol/20532_logo_0_7019567.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/20532/images/sol/20532_logo_0_7019608.jpg"],
             "rating" => 2,
             "reviews_number" => 24
         ],
@@ -3422,7 +4321,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.allegromktg.com.my\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/40994/images/sol/40994_logo_0_719082.jpg"],
             "rating" => 4,
             "reviews_number" => 19
         ],
@@ -3489,7 +4388,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.touchconcept.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/50116/images/sol/50116_logo_0_09290.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/50116/images/sol/50116_logo_0_28358.png"],
             "rating" => 1,
             "reviews_number" => 15
         ],
@@ -3528,7 +4427,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/95121/images/sol/95121_logo_0_98459.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/95121/images/sol/95121_logo_0_121898.jpg"],
             "rating" => 1,
             "reviews_number" => 09
         ],
@@ -3546,7 +4445,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6810/images/sol/6810_logo_0_6614887.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 08
         ],
@@ -3581,7 +4480,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/17318/images/sol/17318_logo_0.gif"],
             "rating" => 3,
             "reviews_number" => 08
         ],
@@ -3630,7 +4529,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "3300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.omegametal.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/40158/images/sol/40158_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/40158/images/sol/40158_logo_0_61105.jpg"],
             "rating" => 3,
             "reviews_number" => 05
         ],
@@ -3789,7 +4688,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "1500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.seagate.com",
-            "gallery" => ["https://siva.jsstatic.com/my/1325/images/sol/1325_logo_0_28155.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1325/images/sol/1325_logo_0_7918302.jpg"],
             "rating" => 1,
             "reviews_number" => 56
         ],
@@ -3825,7 +4724,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "http:\/\/migs.edu.my",
-            "gallery" => ["https://siva.jsstatic.com/my/40838/images/sol/40838_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/40838/images/sol/40838_logo_0_19762.png"],
             "rating" => 3,
             "reviews_number" => 54
         ],
@@ -3955,7 +4854,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.eum.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/108379/images/sol/108379_logo_0_708833.jpg"],
             "rating" => 4,
             "reviews_number" => 42
         ],
@@ -3973,7 +4872,7 @@ Only candidates who meet the minimum requirements will be contacted.<\/strong><\
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.jetaine.com",
-            "gallery" => ["https://siva.jsstatic.com/my/17180/images/sol/17180_logo_0_7325296.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/17180/images/sol/17180_logo_0_266720.png"],
             "rating" => 1,
             "reviews_number" => 40
         ],
@@ -4066,7 +4965,7 @@ Petaling Jaya",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3683/images/sol/3683_logo_0_7957140.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3683/images/sol/3683_logo_0_7923845.jpg"],
             "rating" => 3,
             "reviews_number" => 26
         ],
@@ -4084,7 +4983,7 @@ Petaling Jaya",
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/811/images/sol/811_logo_0_6061842.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/811/images/sol/811_logo_0_55431.jpg"],
             "rating" => 1,
             "reviews_number" => 21
         ],
@@ -4102,7 +5001,7 @@ Petaling Jaya",
             "max_monthly_salary" => "5500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.swhengtee.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/72704/images/sol/72704_logo_0_6719364.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/72704/images/sol/72704_logo_0_95893.png"],
             "rating" => 4,
             "reviews_number" => 20
         ],
@@ -4120,7 +5019,7 @@ Petaling Jaya",
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/eprescotthotel.com",
-            "gallery" => ["https://siva.jsstatic.com/my/104955/images/sol/104955_logo_0_57179.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/104955/images/sol/104955_logo_0_554704.jpg"],
             "rating" => 1,
             "reviews_number" => 20
         ],
@@ -4138,7 +5037,7 @@ Petaling Jaya",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.majupadu.com",
-            "gallery" => ["https://siva.jsstatic.com/my/21887/images/sol/21887_logo_0_7860875.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/21887/images/sol/21887_logo_0_23345.jpg"],
             "rating" => 2,
             "reviews_number" => 18
         ],
@@ -4240,7 +5139,7 @@ Petaling Jaya",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.platinumvictory.com",
-            "gallery" => ["https://siva.jsstatic.com/my/11107/images/sol/11107_logo_0_6713812.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/11107/images/sol/11107_logo_0_98297.jpg"],
             "rating" => 2,
             "reviews_number" => 10
         ],
@@ -4258,7 +5157,7 @@ Petaling Jaya",
             "max_monthly_salary" => "3800.00",
             "currency" => "MYR",
             "url" => "https:\/\/www.wdc.com\/en-um\/",
-            "gallery" => ["https://siva.jsstatic.com/my/2372/images/sol/2372_logo_0_74595.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2372/images/sol/2372_logo_0_88925.gif"],
             "rating" => 2,
             "reviews_number" => 05
         ],
@@ -4284,7 +5183,7 @@ Petaling Jaya",
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.vectorinfotech.my",
-            "gallery" => ["https://siva.jsstatic.com/my/23917/images/sol/23917_logo_0_7402007.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/23917/images/sol/23917_logo_0_99867.jpg"],
             "rating" => 2,
             "reviews_number" => 04
         ],
@@ -4302,7 +5201,7 @@ Petaling Jaya",
             "max_monthly_salary" => "6300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.kpjhealth.com.my\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/16709/images/sol/16709_logo_0.gif"],
             "rating" => 4,
             "reviews_number" => 01
         ],
@@ -4320,7 +5219,7 @@ Petaling Jaya",
             "max_monthly_salary" => "800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/41938/images/sol/41938_logo_0_5681812.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/41938/images/sol/41938_logo_0_579742.png"],
             "rating" => 3,
             "reviews_number" => 59
         ],
@@ -4356,7 +5255,7 @@ Petaling Jaya",
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.companies2u.com\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/61544/images/sol/61544_logo_0_470805.jpg"],
             "rating" => 4,
             "reviews_number" => 59
         ],
@@ -4416,7 +5315,7 @@ Petaling Jaya",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.torayplastics.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/602/images/sol/602_logo_0_7593548.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/602/images/sol/602_logo_0_7495790.jpg"],
             "rating" => 2,
             "reviews_number" => 55
         ],
@@ -4434,32 +5333,9 @@ Petaling Jaya",
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "https:\/\/www.singtel.com\/about-Us\/careers\/professionals.html",
-            "gallery" => ["https://siva.jsstatic.com/my/3835/images/sol/3835_logo_0_6884250.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3835/images/sol/3835_logo_0_636695.jpg"],
             "rating" => 1,
             "reviews_number" => 13
-        ],
-        [
-            "id" => 3289962,
-            "latitude" => 3.118703,
-            "longitude" => 101.731205,
-            "title" => "Full Time or Part Time Tutors",
-            "location" => "Pudu Villa Shoplex Jalan Pudu Hulu Kuala Lumpur Federal Territory of Kuala Lumpur Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<ul>
-    <li>Candidate must possess at least Primary\/Secondary School\/SPM\/&quot;O&quot; Level in Education\/Teaching\/Training or equivalent.<\/li>
-    <li>Required language(s): Bahasa Malaysia, English, Chinese<\/li>
-    <li>No work experience required.<\/li>
-    <li>Preferably Fresh\/Entry Level specialized in Education or equivalent.<\/li>
-<\/ul>",
-            "company" => "PUSAT PERKEMBANGAN MINDA SINAR PRESTIJ",
-            "salary" => "MYR 1200.00 - 2200.00",
-            "min_monthly_salary" => "1200.00",
-            "max_monthly_salary" => "2200.00",
-            "currency" => "MYR",
-            "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/87983/images/sol/87983_logo_0_7460362.jpg"],
-            "rating" => 3,
-            "reviews_number" => 20
         ],
         [
             "id" => 3289961,
@@ -4493,7 +5369,7 @@ Petaling Jaya",
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.crcrecruits.wordpress.com",
-            "gallery" => ["https://siva.jsstatic.com/my/89093/images/sol/89093_logo_0_7675887.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/89093/images/sol/89093_logo_0_48550.jpg"],
             "rating" => 3,
             "reviews_number" => 43
         ],
@@ -4539,7 +5415,7 @@ Petaling Jaya",
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tatawa.com",
-            "gallery" => ["https://siva.jsstatic.com/my/14450/images/sol/14450_logo_0_8001688.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/14450/images/sol/14450_logo_0_545287.jpg"],
             "rating" => 1,
             "reviews_number" => 09
         ],
@@ -4557,7 +5433,7 @@ Petaling Jaya",
             "max_monthly_salary" => "4900.00",
             "currency" => "MYR",
             "url" => "https:\/\/www.teledirectasia.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/8687/images/sol/8687_logo_0_7610709.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/8687/images/sol/8687_logo_0_406919.png"],
             "rating" => 2,
             "reviews_number" => 56
         ],
@@ -4575,7 +5451,7 @@ Petaling Jaya",
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.venture.com.sg",
-            "gallery" => ["https://siva.jsstatic.com/my/1413/images/sol/1413_logo_0_6680333.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1413/images/sol/1413_logo_0_48891.jpg"],
             "rating" => 3,
             "reviews_number" => 56
         ],
@@ -4723,7 +5599,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "700.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/10363/images/sol/10363_logo_0_6982197.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/10363/images/sol/10363_logo_0_6967.jpeg"],
             "rating" => 3,
             "reviews_number" => 02
         ],
@@ -4741,7 +5617,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.rwgenting.com\/career\/",
-            "gallery" => ["https://siva.jsstatic.com/my/90385/images/sol/90385_logo_0_7710579.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/90385/images/sol/90385_logo_0_30242.jpg"],
             "rating" => 1,
             "reviews_number" => 48
         ],
@@ -4789,7 +5665,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2600.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/9662/images/sol/9662_logo_0_6670361.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9662/images/sol/9662_logo_0_72810.jpg"],
             "rating" => 2,
             "reviews_number" => 47
         ],
@@ -4849,7 +5725,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "http:\/\/grand-floengineering.com\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/27734/images/sol/27734_logo_0_78078.png"],
             "rating" => 4,
             "reviews_number" => 35
         ],
@@ -4910,7 +5786,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/88292/images/sol/88292_logo_0_7495614.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/88292/images/sol/88292_logo_0_7495647.jpg"],
             "rating" => 2,
             "reviews_number" => 29
         ],
@@ -4928,7 +5804,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.srikdu.edu.my",
-            "gallery" => ["https://siva.jsstatic.com/my/21888/images/sol/21888_logo_0_8462.jpeg"],
+            "gallery" => ["https://siva.jsstatic.com/my/21888/images/sol/21888_logo_0_55926.jpg"],
             "rating" => 3,
             "reviews_number" => 28
         ],
@@ -4946,7 +5822,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/grand-floengineering.com\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/27734/images/sol/27734_logo_0_78078.png"],
             "rating" => 4,
             "reviews_number" => 27
         ],
@@ -4971,7 +5847,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "1200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/88292/images/sol/88292_logo_0_7495614.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/88292/images/sol/88292_logo_0_7495647.jpg"],
             "rating" => 2,
             "reviews_number" => 22
         ],
@@ -4989,7 +5865,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "9800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.onsemi.com",
-            "gallery" => ["https://siva.jsstatic.com/my/2698/images/sol/2698_logo_0_6845624.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2698/images/sol/2698_logo_0_45164.jpg"],
             "rating" => 3,
             "reviews_number" => 20
         ],
@@ -5007,7 +5883,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/1864/images/sol/1864_logo_0_6683194.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1864/images/sol/1864_logo_0_70790.png"],
             "rating" => 4,
             "reviews_number" => 20
         ],
@@ -5044,7 +5920,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.fulloop.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/22661/images/sol/22661_logo_0_7167894.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/22661/images/sol/22661_logo_0_7167896.jpg"],
             "rating" => 1,
             "reviews_number" => 18
         ],
@@ -5078,7 +5954,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2700.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/16127/images/sol/16127_logo_0_7016477.jpg"],
+            "gallery" => [""],
             "rating" => 2,
             "reviews_number" => 18
         ],
@@ -5142,7 +6018,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/88292/images/sol/88292_logo_0_7495614.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/88292/images/sol/88292_logo_0_7495647.jpg"],
             "rating" => 2,
             "reviews_number" => 10
         ],
@@ -5160,7 +6036,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.achievegroup.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/62109/images/sol/62109_logo_0_6384439.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/62109/images/sol/62109_logo_0_643533.png"],
             "rating" => 4,
             "reviews_number" => 08
         ],
@@ -5193,7 +6069,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "1500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/88292/images/sol/88292_logo_0_7495614.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/88292/images/sol/88292_logo_0_7495647.jpg"],
             "rating" => 2,
             "reviews_number" => 00
         ],
@@ -5211,7 +6087,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/71995/images/sol/71995_logo_0_447152.png"],
             "rating" => 1,
             "reviews_number" => 00
         ],
@@ -5229,7 +6105,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/56486/images/sol/56486_logo_0_71302.jpg"],
             "rating" => 1,
             "reviews_number" => 59
         ],
@@ -5267,7 +6143,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "http:\/\/powerconcord.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/56533/images/sol/56533_logo_0_7013491.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/56533/images/sol/56533_logo_0_36035.jpg"],
             "rating" => 3,
             "reviews_number" => 57
         ],
@@ -5306,7 +6182,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.campap.com",
-            "gallery" => ["https://siva.jsstatic.com/my/401/images/sol/401_logo_0_7055031.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/401/images/sol/401_logo_0_7922674.jpg"],
             "rating" => 1,
             "reviews_number" => 55
         ],
@@ -5368,7 +6244,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/37995/images/sol/37995_logo_0_65383.jpg"],
             "rating" => 1,
             "reviews_number" => 53
         ],
@@ -5411,7 +6287,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/37995/images/sol/37995_logo_0_65383.jpg"],
             "rating" => 1,
             "reviews_number" => 50
         ],
@@ -5446,7 +6322,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.iconicvacationclub.com",
-            "gallery" => ["https://siva.jsstatic.com/my/60477/images/sol/60477_logo_0_6963506.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/60477/images/sol/60477_logo_0_6740892.jpg"],
             "rating" => 2,
             "reviews_number" => 49
         ],
@@ -5513,7 +6389,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/91641/images/sol/91641_logo_0_7804508.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/91641/images/sol/91641_logo_0_78285.jpg"],
             "rating" => 1,
             "reviews_number" => 42
         ],
@@ -5562,7 +6438,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5600.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/86133/images/sol/86133_logo_0_7262679.jpg"],
+            "gallery" => [""],
             "rating" => 3,
             "reviews_number" => 39
         ],
@@ -5580,7 +6456,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/80826/images/sol/80826_logo_0_6721989.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/80826/images/sol/80826_logo_0_436373.png"],
             "rating" => 1,
             "reviews_number" => 36
         ],
@@ -5676,7 +6552,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5700.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.brdb.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/3663/images/sol/3663_logo_0_6951552.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3663/images/sol/3663_logo_0_43405.jpg"],
             "rating" => 3,
             "reviews_number" => 34
         ],
@@ -5826,7 +6702,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "750.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.caring2u.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/45445/images/sol/45445_logo_0_771515.png"],
             "rating" => 1,
             "reviews_number" => 19
         ],
@@ -5844,7 +6720,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2300.00",
             "currency" => "SGD",
             "url" => "http:\/\/www.emeriocorp.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/16131/images/sol/16131_logo_0_6796411.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/16131/images/sol/16131_logo_0_74514.png"],
             "rating" => 1,
             "reviews_number" => 14
         ],
@@ -5862,7 +6738,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 14
         ],
@@ -5880,7 +6756,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "7800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 12
         ],
@@ -5898,7 +6774,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 10
         ],
@@ -5958,7 +6834,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/105181/images/sol/105181_logo_0_20871.jpg"],
             "rating" => 1,
             "reviews_number" => 09
         ],
@@ -6050,7 +6926,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tradeempire.com.my\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/99533/images/sol/99533_logo_0_81196.jpg"],
             "rating" => 3,
             "reviews_number" => 07
         ],
@@ -6068,7 +6944,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "7700.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 06
         ],
@@ -6086,7 +6962,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3600.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/22815/images/sol/22815_logo_0_77930.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 06
         ],
@@ -6104,7 +6980,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "4300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 04
         ],
@@ -6122,7 +6998,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2200.00",
             "currency" => "MYR",
             "url" => "https:\/\/www.dbschenker.com\/log-my-en\/Company\/malaysia\/",
-            "gallery" => ["https://siva.jsstatic.com/my/206/images/sol/206_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/206/images/sol/206_logo_0_776099.png"],
             "rating" => 1,
             "reviews_number" => 01
         ],
@@ -6140,7 +7016,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2700.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/91486/images/sol/91486_logo_0_7792591.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/91486/images/sol/91486_logo_0_7897586.jpg"],
             "rating" => 1,
             "reviews_number" => 00
         ],
@@ -6158,7 +7034,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 00
         ],
@@ -6199,7 +7075,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/65939/images/sol/65939_logo_0_334460.jpg"],
             "rating" => 4,
             "reviews_number" => 56
         ],
@@ -6217,7 +7093,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 54
         ],
@@ -6269,7 +7145,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/familymart.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/20297/images/sol/20297_logo_0_6862370.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/20297/images/sol/20297_logo_0_71858.jpg"],
             "rating" => 2,
             "reviews_number" => 51
         ],
@@ -6287,7 +7163,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "9000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 51
         ],
@@ -6305,7 +7181,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.myeyelevel.com",
-            "gallery" => ["https://siva.jsstatic.com/my/13651/images/sol/13651_logo_0_7149593.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13651/images/sol/13651_logo_0_7230576.jpg"],
             "rating" => 1,
             "reviews_number" => 50
         ],
@@ -6362,7 +7238,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3600.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 47
         ],
@@ -6438,7 +7314,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.engmechventure.com",
-            "gallery" => ["https://siva.jsstatic.com/my/39390/images/sol/39390_logo_0_6988299.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/39390/images/sol/39390_logo_0_90991.png"],
             "rating" => 1,
             "reviews_number" => 46
         ],
@@ -6486,7 +7362,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/97390/images/sol/97390_logo_0_46222.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/97390/images/sol/97390_logo_0_599845.jpg"],
             "rating" => 1,
             "reviews_number" => 41
         ],
@@ -6504,7 +7380,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/16010/images/sol/16010_logo_0_6670688.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/16010/images/sol/16010_logo_0_7576881.jpg"],
             "rating" => 1,
             "reviews_number" => 40
         ],
@@ -6583,7 +7459,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "8400.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/65444/images/sol/65444_logo_0_7610420.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/65444/images/sol/65444_logo_0_85039.jpg"],
             "rating" => 4,
             "reviews_number" => 34
         ],
@@ -6601,7 +7477,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/23552/images/sol/23552_logo_0_5685579.jpg"],
             "rating" => 2,
             "reviews_number" => 34
         ],
@@ -6644,7 +7520,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.aiu.edu.my",
-            "gallery" => ["https://siva.jsstatic.com/my/60244/images/sol/60244_logo_0_98702.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/60244/images/sol/60244_logo_0_715519.jpg"],
             "rating" => 4,
             "reviews_number" => 31
         ],
@@ -6662,7 +7538,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "1600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.babe.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/57524/images/sol/57524_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/57524/images/sol/57524_logo_0_75841.jpg"],
             "rating" => 4,
             "reviews_number" => 29
         ],
@@ -6680,7 +7556,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.qesnet.com",
-            "gallery" => ["https://siva.jsstatic.com/my/8011/images/sol/8011_logo_0_6860139.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/8011/images/sol/8011_logo_0_7364530.jpg"],
             "rating" => 1,
             "reviews_number" => 27
         ],
@@ -6698,7 +7574,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "15000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/22529/images/sol/22529_logo_0_7865997.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/22529/images/sol/22529_logo_0_7869360.jpg"],
             "rating" => 4,
             "reviews_number" => 23
         ],
@@ -6842,7 +7718,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "1400.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.babe.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/57524/images/sol/57524_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/57524/images/sol/57524_logo_0_75841.jpg"],
             "rating" => 4,
             "reviews_number" => 16
         ],
@@ -6887,7 +7763,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "8500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.jac-recruitment.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/6712/images/sol/6712_logo_0_648120.jpg"],
             "rating" => 2,
             "reviews_number" => 11
         ],
@@ -6915,7 +7791,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.rhg.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/8689/images/sol/8689_logo_0.jpg"],
+            "gallery" => [""],
             "rating" => 4,
             "reviews_number" => 10
         ],
@@ -6933,7 +7809,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 07
         ],
@@ -7027,7 +7903,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.rokonma.com.my\/index.html",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/94412/images/sol/94412_logo_0_12921.png"],
             "rating" => 2,
             "reviews_number" => 06
         ],
@@ -7063,7 +7939,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.7eleven.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/6068/images/sol/6068_logo_0_7456451.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/6068/images/sol/6068_logo_0_7007276.jpg"],
             "rating" => 3,
             "reviews_number" => 03
         ],
@@ -7099,7 +7975,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5030.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/12/images/sol/12_logo_0_6786441.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/12/images/sol/12_logo_0_26621.png"],
             "rating" => 2,
             "reviews_number" => 01
         ],
@@ -7135,7 +8011,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/20532/images/sol/20532_logo_0_7019567.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/20532/images/sol/20532_logo_0_7019608.jpg"],
             "rating" => 2,
             "reviews_number" => 00
         ],
@@ -7153,7 +8029,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 59
         ],
@@ -7177,7 +8053,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.rhg.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/8689/images/sol/8689_logo_0.jpg"],
+            "gallery" => [""],
             "rating" => 4,
             "reviews_number" => 58
         ],
@@ -7195,7 +8071,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3789/images/sol/3789_logo_0_6649380.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3789/images/sol/3789_logo_0_41002.jpg"],
             "rating" => 4,
             "reviews_number" => 55
         ],
@@ -7248,7 +8124,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "4300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www2.prudential.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/2916/images/sol/2916_logo_0_6688549.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2916/images/sol/2916_logo_0_7701098.jpg"],
             "rating" => 1,
             "reviews_number" => 50
         ],
@@ -7284,7 +8160,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.autozone.net.my",
-            "gallery" => ["https://siva.jsstatic.com/my/56451/images/sol/56451_logo_0_8000097.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/56451/images/sol/56451_logo_0_14852.jpg"],
             "rating" => 1,
             "reviews_number" => 48
         ],
@@ -7302,7 +8178,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/28750/images/sol/28750_logo_0_28783.gif"],
             "rating" => 1,
             "reviews_number" => 47
         ],
@@ -7338,7 +8214,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/91486/images/sol/91486_logo_0_7792591.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/91486/images/sol/91486_logo_0_7897586.jpg"],
             "rating" => 1,
             "reviews_number" => 45
         ],
@@ -7372,7 +8248,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/68581/images/sol/68581_logo_0_6926719.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/68581/images/sol/68581_logo_0_96914.jpg"],
             "rating" => 1,
             "reviews_number" => 43
         ],
@@ -7478,7 +8354,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.7eleven.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/6068/images/sol/6068_logo_0_7456451.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/6068/images/sol/6068_logo_0_7007276.jpg"],
             "rating" => 3,
             "reviews_number" => 31
         ],
@@ -7496,7 +8372,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "1501.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/2547/images/sol/2547_logo_0_35362.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2547/images/sol/2547_logo_0_216939.jpg"],
             "rating" => 2,
             "reviews_number" => 31
         ],
@@ -7514,7 +8390,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/15919/images/sol/15919_logo_0_7004199.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/15919/images/sol/15919_logo_0_78916.jpg"],
             "rating" => 4,
             "reviews_number" => 28
         ],
@@ -7532,7 +8408,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.mfm.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/3488/images/sol/3488_logo_0_6757201.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3488/images/sol/3488_logo_0_6757381.jpg"],
             "rating" => 3,
             "reviews_number" => 25
         ],
@@ -7570,7 +8446,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.trx.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/95533/images/sol/95533_logo_0_64443.png"],
             "rating" => 3,
             "reviews_number" => 23
         ],
@@ -7588,7 +8464,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "7500.00",
             "currency" => "MYR",
             "url" => "http:\/\/greateasternlife.com",
-            "gallery" => ["https://siva.jsstatic.com/my/2359/images/sol/2359_logo_0_7481171.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2359/images/sol/2359_logo_0_94051.jpg"],
             "rating" => 4,
             "reviews_number" => 22
         ],
@@ -7611,7 +8487,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tic.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/47843/images/sol/47843_logo_0_7097535.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/47843/images/sol/47843_logo_0_53237.png"],
             "rating" => 3,
             "reviews_number" => 21
         ],
@@ -7647,7 +8523,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.zicolaw.com",
-            "gallery" => ["https://siva.jsstatic.com/my/94650/images/sol/94650_logo_0_25659.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 18
         ],
@@ -7705,7 +8581,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.zicolaw.com",
-            "gallery" => ["https://siva.jsstatic.com/my/94650/images/sol/94650_logo_0_25659.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 16
         ],
@@ -7723,7 +8599,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.zicolaw.com",
-            "gallery" => ["https://siva.jsstatic.com/my/94650/images/sol/94650_logo_0_25659.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 13
         ],
@@ -7787,7 +8663,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.crglm.com.my\/zh-hans\/",
-            "gallery" => ["https://siva.jsstatic.com/my/75317/images/sol/75317_logo_0_6879103.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/75317/images/sol/75317_logo_0_295525.png"],
             "rating" => 2,
             "reviews_number" => 04
         ],
@@ -7848,7 +8724,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.shin-hinata.com\/kuala_lumpur\/reservation.html",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/106925/images/sol/106925_logo_0_519101.jpg"],
             "rating" => 1,
             "reviews_number" => 00
         ],
@@ -7902,7 +8778,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.kingsmen.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/52770/images/sol/52770_logo_0_6702506.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/52770/images/sol/52770_logo_0_7576229.jpg"],
             "rating" => 1,
             "reviews_number" => 49
         ],
@@ -7948,17 +8824,17 @@ We thank all applicants for their expressed interest, however only applicants sh
             "id" => 3289367,
             "latitude" => 1.384420,
             "longitude" => 103.566830,
-            "title" => "Interior Fit Out Engineer  (Finishing work)",
+            "title" => "装修工程师 Interior Fit Out Engineer",
             "location" => "Tanjung Kupang Johor Bahru, Johor Malaysia",
             "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<ul><li>Manage on-site construction works, materials and equipment management.<\/li><li>Coordinate, audit and ensure all jobs are carried out in accordance to required specification<\/li><li>Ensure that on-site construction works are carried out according to local regulations and requirements.<\/li><li>Coordinate work with other disciplines such as architectural, mechanical and electrical.<\/li><li>Site inspection management.<\/li><li>Report in detail regarding audits through documented findings<\/li><li>Follow up on Corrective Action taken.<\/li><li>Ensure prepare &amp; compile project related report.<\/li><\/ul><div><br><strong>Requirements:<\/strong><\/div><div>&nbsp;<\/div><ul><li>Candidate must possess at least a Degree or Diploma, Advanced\/Higher\/Graduate Diploma, Engineering (Civil), &nbsp;or equivalent.<\/li><li>At least 3 year(s) of working experience in the related field is required for this position.<\/li><li>Exposure in handling high rise residential building &amp; commercial building. Candidate should have experience in finishing and Interior fit out work<\/li><li>With strong communication skills and execution abilities.&nbsp;<strong>Required language<\/strong>(s): &nbsp;Chinese, English.<\/li><li>Be able to work independently<\/li><\/ul>",
+            "description" => "<ul><li>Manage on-site construction works, materials and equipment management.<\/li><li>Coordinate, audit and ensure all jobs are carried out in accordance to required specification<\/li><li>Ensure that on-site construction works are carried out according to local regulations and requirements.<\/li><li>Coordinate work with other disciplines such as architectural, mechanical and electrical.<\/li><li>Site inspection management.<\/li><li>Report in detail regarding audits through documented findings<\/li><li>Follow up on Corrective Action taken.<\/li><li>Ensure prepare &amp; compile project related report.<\/li><\/ul><div><br><strong>Requirements:<\/strong><\/div><div>&nbsp;<\/div><ul><li>Candidate must possess at least a Degree or Diploma, Advanced\/Higher\/Graduate Diploma, in Architecture, Interior Design, &nbsp;or equivalent.<\/li><li>At least 3 year(s) of working experience in the related field is required for this position.<\/li><li>Exposure in handling high rise residential building &amp; commercial building. Candidate should have experience in finishing and Interior fit out work<\/li><li>With strong communication skills and execution abilities.&nbsp;<strong>Required language<\/strong>(s): &nbsp;Chinese, English.<\/li><li>Be able to work independently<\/li><\/ul>",
             "company" => "Country Garden Pacificview Sdn. Bhd.",
             "salary" => "MYR 3700.00 - 5800.00",
             "min_monthly_salary" => "3700.00",
             "max_monthly_salary" => "5800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/80826/images/sol/80826_logo_0_6721989.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/80826/images/sol/80826_logo_0_436373.png"],
             "rating" => 1,
             "reviews_number" => 48
         ],
@@ -7994,7 +8870,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/14428/images/sol/14428_logo_0_588304.jpg"],
             "rating" => 3,
             "reviews_number" => 46
         ],
@@ -8222,7 +9098,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.grind.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/30606/images/sol/30606_logo_0_6884294.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/30606/images/sol/30606_logo_0_79423.jpg"],
             "rating" => 1,
             "reviews_number" => 27
         ],
@@ -8240,7 +9116,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5300.00",
             "currency" => "MYR",
             "url" => "http:\/\/asthetik.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/68324/images/sol/68324_logo_0_6741553.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/68324/images/sol/68324_logo_0_6786584.jpg"],
             "rating" => 4,
             "reviews_number" => 26
         ],
@@ -8311,7 +9187,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ammetlifetakaful.com",
-            "gallery" => ["https://siva.jsstatic.com/my/91286/images/sol/91286_logo_0_7833181.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 24
         ],
@@ -8376,7 +9252,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.atex.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/1473/images/sol/1473_logo_0_6690043.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1473/images/sol/1473_logo_0_7597194.jpg"],
             "rating" => 3,
             "reviews_number" => 22
         ],
@@ -8394,7 +9270,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "http:\/\/askresources.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/19494/images/sol/19494_logo_0_7760841.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19494/images/sol/19494_logo_0_562815.png"],
             "rating" => 4,
             "reviews_number" => 19
         ],
@@ -8442,7 +9318,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.joeyyap.com",
-            "gallery" => ["https://siva.jsstatic.com/my/21822/images/sol/21822_logo_0_6891684.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/21822/images/sol/21822_logo_0_74949.png"],
             "rating" => 2,
             "reviews_number" => 19
         ],
@@ -8480,7 +9356,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.vizione.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/96005/images/sol/96005_logo_0_16378.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/96005/images/sol/96005_logo_0_926488.jpg"],
             "rating" => 1,
             "reviews_number" => 15
         ],
@@ -8498,7 +9374,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.taithong.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/5882/images/sol/5882_logo_0_7190933.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/5882/images/sol/5882_logo_0_63241.png"],
             "rating" => 2,
             "reviews_number" => 15
         ],
@@ -8675,7 +9551,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/99003/images/sol/99003_logo_0_385444.png"],
             "rating" => 3,
             "reviews_number" => 59
         ],
@@ -8760,7 +9636,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.languagehouse.edu.my",
-            "gallery" => ["https://siva.jsstatic.com/my/5251/images/sol/5251_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/5251/images/sol/5251_logo_0_723460.jpg"],
             "rating" => 1,
             "reviews_number" => 54
         ],
@@ -8783,7 +9659,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.apieceofart.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/46783/images/sol/46783_logo_0_6862966.jpg"],
+            "gallery" => [""],
             "rating" => 3,
             "reviews_number" => 49
         ],
@@ -8801,7 +9677,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/43448/images/sol/43448_logo_0_6728665.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/43448/images/sol/43448_logo_0_65211.jpg"],
             "rating" => 3,
             "reviews_number" => 44
         ],
@@ -8833,7 +9709,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/25791/images/sol/25791_logo_0_7846718.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/25791/images/sol/25791_logo_0_84210.jpg"],
             "rating" => 1,
             "reviews_number" => 42
         ],
@@ -8888,7 +9764,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/15427/images/sol/15427_logo_0_7469274.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/15427/images/sol/15427_logo_0_192189.jpg"],
             "rating" => 2,
             "reviews_number" => 22
         ],
@@ -8921,7 +9797,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ace-training.org\/",
-            "gallery" => ["https://siva.jsstatic.com/my/90006/images/sol/90006_logo_0_7980408.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/90006/images/sol/90006_logo_0_72425.png"],
             "rating" => 1,
             "reviews_number" => 19
         ],
@@ -8939,7 +9815,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.starcruises.com",
-            "gallery" => ["https://siva.jsstatic.com/my/8272/images/sol/8272_logo_0_7185968.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/8272/images/sol/8272_logo_0_63900.png"],
             "rating" => 2,
             "reviews_number" => 17
         ],
@@ -8957,7 +9833,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/213/images/sol/213_logo_0_59662.jpg"],
             "rating" => 3,
             "reviews_number" => 08
         ],
@@ -9053,7 +9929,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.popular.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/3208/images/sol/3208_logo_0_6686210.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3208/images/sol/3208_logo_0_7607176.jpg"],
             "rating" => 3,
             "reviews_number" => 49
         ],
@@ -9235,7 +10111,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.bridzia.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/75235/images/sol/75235_logo_0_6666805.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/75235/images/sol/75235_logo_0_6666810.jpg"],
             "rating" => 1,
             "reviews_number" => 28
         ],
@@ -9258,7 +10134,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.shin-hinata.com\/kuala_lumpur\/reservation.html",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/106925/images/sol/106925_logo_0_519101.jpg"],
             "rating" => 1,
             "reviews_number" => 23
         ],
@@ -9292,7 +10168,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.mia.org.my",
-            "gallery" => ["https://siva.jsstatic.com/my/4726/images/sol/4726_logo_0_7611979.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/4726/images/sol/4726_logo_0_7611991.jpg"],
             "rating" => 1,
             "reviews_number" => 23
         ],
@@ -9310,7 +10186,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tedboy.com",
-            "gallery" => ["https://siva.jsstatic.com/my/41510/images/sol/41510_logo_0_6866706.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/41510/images/sol/41510_logo_0_27052.jpg"],
             "rating" => 1,
             "reviews_number" => 20
         ],
@@ -9339,7 +10215,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/105967/images/sol/105967_logo_0_323567.jpg"],
             "rating" => 2,
             "reviews_number" => 18
         ],
@@ -9409,7 +10285,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "7500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.mia.org.my",
-            "gallery" => ["https://siva.jsstatic.com/my/4726/images/sol/4726_logo_0_7611979.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/4726/images/sol/4726_logo_0_7611991.jpg"],
             "rating" => 1,
             "reviews_number" => 16
         ],
@@ -9440,7 +10316,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/105967/images/sol/105967_logo_0_323567.jpg"],
             "rating" => 2,
             "reviews_number" => 16
         ],
@@ -9526,7 +10402,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46568/images/sol/46568_logo_0_7701122.jpg"],
+            "gallery" => [""],
             "rating" => 3,
             "reviews_number" => 13
         ],
@@ -9583,7 +10459,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/23552/images/sol/23552_logo_0_5685579.jpg"],
             "rating" => 2,
             "reviews_number" => 10
         ],
@@ -9601,7 +10477,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.pathlab.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/1964/images/sol/1964_logo_0_7141592.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1964/images/sol/1964_logo_0_7141593.jpg"],
             "rating" => 4,
             "reviews_number" => 09
         ],
@@ -9619,7 +10495,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.yes.my",
-            "gallery" => ["https://siva.jsstatic.com/my/34099/images/sol/34099_logo_0_6602770.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/34099/images/sol/34099_logo_0_827987.jpg"],
             "rating" => 4,
             "reviews_number" => 04
         ],
@@ -9731,7 +10607,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.interdeals.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/12444/images/sol/12444_logo_0_73384.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/12444/images/sol/12444_logo_0_88066.jpg"],
             "rating" => 4,
             "reviews_number" => 01
         ],
@@ -9749,7 +10625,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.dksh.com",
-            "gallery" => ["https://siva.jsstatic.com/my/9902/images/sol/9902_logo_0_6732201.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9902/images/sol/9902_logo_0_6777992.jpg"],
             "rating" => 2,
             "reviews_number" => 00
         ],
@@ -9856,7 +10732,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.mia.org.my",
-            "gallery" => ["https://siva.jsstatic.com/my/4726/images/sol/4726_logo_0_7611979.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/4726/images/sol/4726_logo_0_7611991.jpg"],
             "rating" => 1,
             "reviews_number" => 51
         ],
@@ -9894,7 +10770,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "4600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.savills.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/4135/images/sol/4135_logo_0_6777643.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/4135/images/sol/4135_logo_0_60633.jpg"],
             "rating" => 1,
             "reviews_number" => 51
         ],
@@ -9912,7 +10788,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 46
         ],
@@ -9930,8 +10806,26 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "4800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/9022/images/sol/9022_logo_0_6418012.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9022/images/sol/9022_logo_0_98999.jpg"],
             "rating" => 2,
+            "reviews_number" => 42
+        ],
+        [
+            "id" => 3289029,
+            "latitude" => 5.338018,
+            "longitude" => 100.424636,
+            "title" => "QC Assistant Manager/Manager/Senior Officer",
+            "location" => "Plot 32, Lorong Perusahaan Maju 8, Bukit Tengah Industrial Park, 13600 Perai, Penang.",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<ul><li>Candidate must possess at least a 2nd Class Honors Degree in Electrical\/Electronic Engineering or equivalent from a reputable university<\/li><li>Establish departmental goals, implements and monitors action plans<\/li><li>Plan review subordinate&#39;s work processes and provides is focussed to function efficiently in line with continuous improvement initiatives<\/li><li>Ensures the Company &#39;s Quality Objectives is embedded in all manufacturing processes of our products<\/li><li>Ensures implementation of quality control procedures the best level of support<\/li><li>Required skill(s): poseses the right attitude with strong management skills, excellent command in written and spoken english, minimum distinction in spm mathematics and english, strong interpersoanl skills, posses leadership ability with proactive problem solving skills, Strong and active participation in sports and uniform in school curriculum.<\/li><li>Required language(s): English<\/li><li>At least 2 year(s) of working experience in the related field is required for this position.<\/li><li>Preferably Senior Executives specializing in Quality Control\/Assurance or equivalent.<\/li><li>Full-Time position(s) available<\/li><\/ul>",
+            "company" => "Davex Engineering (M) Sdn Bhd",
+            "salary" => "MYR 3000.00 - 5000.00",
+            "min_monthly_salary" => "3000.00",
+            "max_monthly_salary" => "5000.00",
+            "currency" => "MYR",
+            "url" => "http:\/\/www.davislighting.com",
+            "gallery" => ["https://siva.jsstatic.com/my/498/images/sol/498_logo_0_897478.jpg"],
+            "rating" => 3,
             "reviews_number" => 42
         ],
         [
@@ -10003,7 +10897,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.fercoseating.com",
-            "gallery" => ["https://siva.jsstatic.com/my/11697/images/sol/11697_logo_0.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/11697/images/sol/11697_logo_0_45596.jpg"],
             "rating" => 2,
             "reviews_number" => 41
         ],
@@ -10059,7 +10953,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 40
         ],
@@ -10077,7 +10971,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/27105/images/sol/27105_logo_0_7035512.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 39
         ],
@@ -10095,7 +10989,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "5500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 37
         ],
@@ -10113,7 +11007,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 35
         ],
@@ -10157,7 +11051,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.trad3mark.com",
-            "gallery" => ["https://siva.jsstatic.com/my/32942/images/sol/32942_logo_0_6639040.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/32942/images/sol/32942_logo_0_6736899.jpg"],
             "rating" => 2,
             "reviews_number" => 32
         ],
@@ -10206,7 +11100,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "900.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.net2one.my",
-            "gallery" => ["https://siva.jsstatic.com/my/89208/images/sol/89208_logo_0_7589040.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/89208/images/sol/89208_logo_0_7874317.jpg"],
             "rating" => 3,
             "reviews_number" => 32
         ],
@@ -10224,7 +11118,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ecolexgroup.com",
-            "gallery" => ["https://siva.jsstatic.com/my/53830/images/sol/53830_logo_0_6717273.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/53830/images/sol/53830_logo_0_50628.png"],
             "rating" => 1,
             "reviews_number" => 31
         ],
@@ -10261,7 +11155,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sinyuan.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/14165/images/sol/14165_logo_0_6952919.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/14165/images/sol/14165_logo_0_99175.png"],
             "rating" => 1,
             "reviews_number" => 29
         ],
@@ -10279,7 +11173,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sandisk.com",
-            "gallery" => ["https://siva.jsstatic.com/my/85029/images/sol/85029_logo_0_7970167.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/85029/images/sol/85029_logo_0_65054.jpg"],
             "rating" => 4,
             "reviews_number" => 29
         ],
@@ -10297,7 +11191,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 29
         ],
@@ -10336,7 +11230,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.success.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/40158/images/sol/40158_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/40158/images/sol/40158_logo_0_6787112.jpg"],
             "rating" => 3,
             "reviews_number" => 28
         ],
@@ -10354,7 +11248,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "6300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.aisb.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/15720/images/sol/15720_logo_0_6900968.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 23
         ],
@@ -10394,7 +11288,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2600.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/104974/images/sol/104974_logo_0_49828.jpg"],
             "rating" => 4,
             "reviews_number" => 18
         ],
@@ -10456,7 +11350,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "1100.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/208/images/sol/208_logo_0_6998100.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/208/images/sol/208_logo_0_12069.jpg"],
             "rating" => 3,
             "reviews_number" => 12
         ],
@@ -10486,7 +11380,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.istoreisend.com",
-            "gallery" => ["https://siva.jsstatic.com/my/48395/images/sol/48395_logo_0_6919555.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/48395/images/sol/48395_logo_0_71248.png"],
             "rating" => 1,
             "reviews_number" => 09
         ],
@@ -10568,7 +11462,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "9800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.rozel.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/13392/images/sol/13392_logo_0_6817674.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13392/images/sol/13392_logo_0_99942.jpg"],
             "rating" => 2,
             "reviews_number" => 05
         ],
@@ -10689,7 +11583,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "1500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.simedarbyindustrial.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/5186/images/sol/5186_logo_0_37634.jpg"],
             "rating" => 1,
             "reviews_number" => 02
         ],
@@ -10725,7 +11619,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "4400.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sunway.edu.my",
-            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_41880.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_79644.jpg"],
             "rating" => 1,
             "reviews_number" => 52
         ],
@@ -10913,7 +11807,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "6300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/30407/images/sol/30407_logo_0_61680.jpg"],
             "rating" => 2,
             "reviews_number" => 46
         ],
@@ -11003,7 +11897,7 @@ We thank all applicants for their expressed interest, however only applicants sh
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.vs-i.com",
-            "gallery" => ["https://siva.jsstatic.com/my/1167/images/sol/1167_logo_0_18836.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1167/images/sol/1167_logo_0_7703260.jpg"],
             "rating" => 2,
             "reviews_number" => 35
         ],
@@ -11076,7 +11970,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.cherassentral.com",
-            "gallery" => ["https://siva.jsstatic.com/my/72614/images/sol/72614_logo_0_6991847.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/72614/images/sol/72614_logo_0_7001163.jpg"],
             "rating" => 4,
             "reviews_number" => 34
         ],
@@ -11094,7 +11988,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "6300.00",
             "currency" => "SGD",
             "url" => "http:\/\/www.futurestep.com",
-            "gallery" => ["https://siva.jsstatic.com/my/11558/images/sol/11558_logo_0_6707555.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/11558/images/sol/11558_logo_0_90590.jpg"],
             "rating" => 3,
             "reviews_number" => 32
         ],
@@ -11146,7 +12040,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "2200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/780/images/sol/780_logo_0_6699623.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/780/images/sol/780_logo_0_10226.jpg"],
             "rating" => 1,
             "reviews_number" => 31
         ],
@@ -11164,7 +12058,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.recruitexpress.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/13658/images/sol/13658_logo_0_5818980.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13658/images/sol/13658_logo_0_99500.jpg"],
             "rating" => 3,
             "reviews_number" => 28
         ],
@@ -11234,7 +12128,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.mttgroup.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/15923/images/sol/15923_logo_0_6717901.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/15923/images/sol/15923_logo_0_550541.jpg"],
             "rating" => 3,
             "reviews_number" => 25
         ],
@@ -11331,7 +12225,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "3800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/2372/images/sol/2372_logo_0_74595.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2372/images/sol/2372_logo_0_649668.gif"],
             "rating" => 2,
             "reviews_number" => 18
         ],
@@ -11349,7 +12243,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/2518/images/sol/2518_logo_0_5712165.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2518/images/sol/2518_logo_0_7344154.jpg"],
             "rating" => 3,
             "reviews_number" => 17
         ],
@@ -11412,7 +12306,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/17333/images/sol/17333_logo_0_7541358.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/17333/images/sol/17333_logo_0_7714814.jpg"],
             "rating" => 3,
             "reviews_number" => 16
         ],
@@ -11448,7 +12342,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3128/images/sol/3128_logo_0_7481039.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3128/images/sol/3128_logo_0_7347164.jpg"],
             "rating" => 3,
             "reviews_number" => 16
         ],
@@ -11466,7 +12360,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.kerrylogistics.com",
-            "gallery" => ["https://siva.jsstatic.com/my/17966/images/sol/17966_logo_0_93717.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/17966/images/sol/17966_logo_0_58802.jpg"],
             "rating" => 1,
             "reviews_number" => 15
         ],
@@ -11555,7 +12449,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "4900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/12/images/sol/12_logo_0_6786441.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/12/images/sol/12_logo_0_26621.png"],
             "rating" => 2,
             "reviews_number" => 10
         ],
@@ -11573,7 +12467,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 08
         ],
@@ -11632,7 +12526,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/75905/images/sol/75905_logo_0_52447.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/75905/images/sol/75905_logo_0_7211461.jpg"],
             "rating" => 1,
             "reviews_number" => 05
         ],
@@ -11686,7 +12580,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6810/images/sol/6810_logo_0_6614887.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 03
         ],
@@ -11704,7 +12598,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 02
         ],
@@ -11722,7 +12616,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 00
         ],
@@ -11740,7 +12634,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "13000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 59
         ],
@@ -11829,7 +12723,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 56
         ],
@@ -11863,7 +12757,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.vitally.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/40940/images/sol/40940_logo_0_5966710.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/40940/images/sol/40940_logo_0_6813844.jpg"],
             "rating" => 1,
             "reviews_number" => 52
         ],
@@ -11881,7 +12775,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 51
         ],
@@ -11922,7 +12816,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.heguru.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/42116/images/sol/42116_logo_0_7443356.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/42116/images/sol/42116_logo_0_58583.png"],
             "rating" => 1,
             "reviews_number" => 49
         ],
@@ -12091,7 +12985,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/92419/images/sol/92419_logo_0_7869845.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/92419/images/sol/92419_logo_0_396294.jpg"],
             "rating" => 4,
             "reviews_number" => 43
         ],
@@ -12109,7 +13003,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 40
         ],
@@ -12127,7 +13021,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/44588/images/sol/44588_logo_0_7122823.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/44588/images/sol/44588_logo_0_93774.jpg"],
             "rating" => 3,
             "reviews_number" => 40
         ],
@@ -12171,7 +13065,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/1331/images/sol/1331_logo_0_6144761.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1331/images/sol/1331_logo_0_60074.jpg"],
             "rating" => 1,
             "reviews_number" => 39
         ],
@@ -12193,7 +13087,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/10222/images/sol/10222_logo_0_7758299.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/10222/images/sol/10222_logo_0_7759634.jpg"],
             "rating" => 2,
             "reviews_number" => 38
         ],
@@ -12211,7 +13105,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 33
         ],
@@ -12229,7 +13123,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.acousticlighting.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/10611/images/sol/10611_logo_0_6753468.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/10611/images/sol/10611_logo_0_7846447.jpg"],
             "rating" => 1,
             "reviews_number" => 30
         ],
@@ -12247,7 +13141,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 29
         ],
@@ -12265,7 +13159,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "https:\/\/www.futurestep.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/11558/images/sol/11558_logo_0_6707555.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/11558/images/sol/11558_logo_0_61520.jpg"],
             "rating" => 3,
             "reviews_number" => 27
         ],
@@ -12283,7 +13177,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 26
         ],
@@ -12329,7 +13223,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "7500.00",
             "currency" => "MYR",
             "url" => "http:\/\/nov.com\/fgs",
-            "gallery" => ["https://siva.jsstatic.com/my/1489/images/sol/1489_logo_0_6794451.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1489/images/sol/1489_logo_0_14468.png"],
             "rating" => 4,
             "reviews_number" => 24
         ],
@@ -12347,7 +13241,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "1500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 23
         ],
@@ -12365,7 +13259,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.jobstreet.com.my\/career\/JobStreet.htm",
-            "gallery" => ["https://siva.jsstatic.com/my/83919/images/sol/83919_logo_0_6951667.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/83919/images/sol/83919_logo_0_6938688.jpg"],
             "rating" => 4,
             "reviews_number" => 22
         ],
@@ -12392,7 +13286,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.istoreisend.com",
-            "gallery" => ["https://siva.jsstatic.com/my/48395/images/sol/48395_logo_0_6919555.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/48395/images/sol/48395_logo_0_71248.png"],
             "rating" => 1,
             "reviews_number" => 21
         ],
@@ -12410,7 +13304,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 18
         ],
@@ -12438,9 +13332,27 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.istoreisend.com",
-            "gallery" => ["https://siva.jsstatic.com/my/48395/images/sol/48395_logo_0_6919555.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/48395/images/sol/48395_logo_0_71248.png"],
             "rating" => 1,
             "reviews_number" => 15
+        ],
+        [
+            "id" => 3288612,
+            "latitude" => 1.581472,
+            "longitude" => 103.671031,
+            "title" => "FH 1007 Production Technician (MNC Company @ Nusajaya)",
+            "location" => "Nusajaya, Johor",
+            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
+            "description" => "<div>Job description :<\/div><ul><li>To operate the plant to meet process and product specifications<\/li><li>Able to trouble shoot process problems<\/li><li>To be able to carry out activities through the plant from raw materials unloading to finished product&nbsp;packaging.<\/li><li>Ensure compliance of HACCP system according to standard MS 1480:1999,MS 1514:2009<\/li><li>To ensure safety procedures are followed at workplace.<\/li><li>To monitor the effectiveness of pest control programs, sanitation, general housekeeping &amp; cleanliness of the factory.<\/li><li>To act and represent the superior in executing the task where appropriate.<\/li><li>Ensure safety, 5S, and Good Manufacturing Practices.<\/li><\/ul><div>Job requirement&nbsp;<\/div><ul><li>Candidate must possess at least a Diploma, Advanced\/Higher\/Graduate Diploma in Science or related.&nbsp;<\/li><li>Required language(s): Bahasa Malaysia, English<\/li><li>At least 2 year(s) of working experience in the related field is required for this position.<\/li><li>Applicants must be willing to work in Nusajaya.<\/li><li>Able to work in a team<\/li><li>Knowledge of modern manufacturing environment such as use of advanced computer aided manufacturing<\/li><li>PC literate and able to use Microsoft Office software packages<\/li><li>Preferably Junior Executives specializing in Manufacturing\/Production Operations or equivalent.<\/li><li>4 Full-Time position(s) available.<\/li><\/ul>",
+            "company" => "JobPoint",
+            "salary" => "MYR 2500.00 - 3000.00",
+            "min_monthly_salary" => "2500.00",
+            "max_monthly_salary" => "3000.00",
+            "currency" => "MYR",
+            "url" => "",
+            "gallery" => ["https://siva.jsstatic.com/my/15263/images/sol/15263_logo_0_471734.jpg"],
+            "rating" => 3,
+            "reviews_number" => 11
         ],
         [
             "id" => 3288611,
@@ -12475,7 +13387,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.zensho.co.jp\/en\/",
-            "gallery" => ["https://siva.jsstatic.com/my/73156/images/sol/73156_logo_0_95877.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/73156/images/sol/73156_logo_0_66444.png"],
             "rating" => 1,
             "reviews_number" => 11
         ],
@@ -12505,7 +13417,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ywgroup.com.sg\/",
-            "gallery" => ["https://siva.jsstatic.com/my/82981/images/sol/82981_logo_0_7973498.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/82981/images/sol/82981_logo_0_31286.png"],
             "rating" => 1,
             "reviews_number" => 09
         ],
@@ -12523,7 +13435,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "9100.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3478/images/sol/3478_logo_0_7277597.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3478/images/sol/3478_logo_0_7918729.jpg"],
             "rating" => 3,
             "reviews_number" => 09
         ],
@@ -12550,7 +13462,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/88383/images/sol/88383_logo_0_7504774.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/88383/images/sol/88383_logo_0_7504844.jpg"],
             "rating" => 3,
             "reviews_number" => 05
         ],
@@ -12586,7 +13498,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.munchys.com",
-            "gallery" => ["https://siva.jsstatic.com/my/31347/images/sol/31347_logo_0_5852282.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/31347/images/sol/31347_logo_0_7808119.jpg"],
             "rating" => 2,
             "reviews_number" => 55
         ],
@@ -12604,7 +13516,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.newera.edu.my",
-            "gallery" => ["https://siva.jsstatic.com/my/5279/images/sol/5279_logo_0_6699435.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/5279/images/sol/5279_logo_0_866074.jpg"],
             "rating" => 4,
             "reviews_number" => 52
         ],
@@ -12672,7 +13584,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "2700.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.thesundaily.my",
-            "gallery" => ["https://siva.jsstatic.com/my/4692/images/sol/4692_logo_0_6898774.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/4692/images/sol/4692_logo_0_39139.jpg"],
             "rating" => 2,
             "reviews_number" => 35
         ],
@@ -12690,7 +13602,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.thesundaily.my",
-            "gallery" => ["https://siva.jsstatic.com/my/4692/images/sol/4692_logo_0_6898774.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/4692/images/sol/4692_logo_0_39139.jpg"],
             "rating" => 2,
             "reviews_number" => 35
         ],
@@ -12708,7 +13620,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3128/images/sol/3128_logo_0_7481039.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3128/images/sol/3128_logo_0_7347164.jpg"],
             "rating" => 3,
             "reviews_number" => 20
         ],
@@ -12742,7 +13654,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.vectorinfotech.my",
-            "gallery" => ["https://siva.jsstatic.com/my/23917/images/sol/23917_logo_0_7402007.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/23917/images/sol/23917_logo_0_99867.jpg"],
             "rating" => 2,
             "reviews_number" => 17
         ],
@@ -12760,7 +13672,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "5200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.plexus.com",
-            "gallery" => ["https://siva.jsstatic.com/my/137/images/sol/137_logo_0_7716518.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/137/images/sol/137_logo_0_63794.jpg"],
             "rating" => 2,
             "reviews_number" => 14
         ],
@@ -12802,7 +13714,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "1500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.berylschocolate.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/14710/images/sol/14710_logo_0_6960901.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/14710/images/sol/14710_logo_0.gif"],
             "rating" => 1,
             "reviews_number" => 54
         ],
@@ -12842,7 +13754,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.orotongroup.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/56100/images/sol/56100_logo_0_6987065.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/56100/images/sol/56100_logo_0_228551.jpg"],
             "rating" => 1,
             "reviews_number" => 33
         ],
@@ -12860,7 +13772,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/15888/images/sol/15888_logo_0_7104296.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/15888/images/sol/15888_logo_0_7104297.jpg"],
             "rating" => 3,
             "reviews_number" => 59
         ],
@@ -13008,7 +13920,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.lagenz.com",
-            "gallery" => ["https://siva.jsstatic.com/my/23888/images/sol/23888_logo_0.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/23888/images/sol/23888_logo_0_931697.jpg"],
             "rating" => 3,
             "reviews_number" => 44
         ],
@@ -13046,7 +13958,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.iconedebeaute.com",
-            "gallery" => ["https://siva.jsstatic.com/my/64316/images/sol/64316_logo_0_6976884.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/64316/images/sol/64316_logo_0_89644.jpg"],
             "rating" => 1,
             "reviews_number" => 34
         ],
@@ -13082,7 +13994,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "5500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/38999/images/sol/38999_logo_0_6613063.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/38999/images/sol/38999_logo_0_6613064.jpg"],
             "rating" => 4,
             "reviews_number" => 28
         ],
@@ -13218,7 +14130,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "20000.00",
             "currency" => "MYR",
             "url" => "http:\/\/cpp.cnpc.com.cn\/gdjen\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/104217/images/sol/104217_logo_0_33269.jpg"],
             "rating" => 2,
             "reviews_number" => 32
         ],
@@ -13251,7 +14163,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.isotop.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/1612/images/sol/1612_logo_0_6917151.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1612/images/sol/1612_logo_0_15279.jpg"],
             "rating" => 2,
             "reviews_number" => 14
         ],
@@ -13269,7 +14181,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6810/images/sol/6810_logo_0_6614887.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 08
         ],
@@ -13316,7 +14228,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.carnabygroup.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/33814/images/sol/33814_logo_0_1914.jpeg"],
+            "gallery" => ["https://siva.jsstatic.com/my/33814/images/sol/33814_logo_0_261783.jpg"],
             "rating" => 4,
             "reviews_number" => 28
         ],
@@ -13355,7 +14267,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.zebra.com",
-            "gallery" => ["https://siva.jsstatic.com/my/92565/images/sol/92565_logo_0_7877079.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/92565/images/sol/92565_logo_0_13728.png"],
             "rating" => 1,
             "reviews_number" => 27
         ],
@@ -13398,7 +14310,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.zalora.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/63779/images/sol/63779_logo_0_6601317.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/63779/images/sol/63779_logo_0_7765341.jpg"],
             "rating" => 4,
             "reviews_number" => 13
         ],
@@ -13437,7 +14349,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/37951/images/sol/37951_logo_0.gif"],
             "rating" => 1,
             "reviews_number" => 11
         ],
@@ -13455,7 +14367,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.evergreen-line.com",
-            "gallery" => ["https://siva.jsstatic.com/my/3104/images/sol/3104_logo_0_6689960.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3104/images/sol/3104_logo_0_5915049.jpg"],
             "rating" => 4,
             "reviews_number" => 11
         ],
@@ -13495,7 +14407,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.exotravel.com\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/48770/images/sol/48770_logo_0_72261.jpg"],
             "rating" => 1,
             "reviews_number" => 10
         ],
@@ -13513,7 +14425,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "15000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/80826/images/sol/80826_logo_0_6721989.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/80826/images/sol/80826_logo_0_436373.png"],
             "rating" => 1,
             "reviews_number" => 06
         ],
@@ -13531,7 +14443,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.success.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/40158/images/sol/40158_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/40158/images/sol/40158_logo_0_6787112.jpg"],
             "rating" => 3,
             "reviews_number" => 01
         ],
@@ -13578,7 +14490,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.zalora.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/63779/images/sol/63779_logo_0_6601317.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/63779/images/sol/63779_logo_0_7765341.jpg"],
             "rating" => 4,
             "reviews_number" => 00
         ],
@@ -13652,7 +14564,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6810/images/sol/6810_logo_0_6614887.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 35
         ],
@@ -13693,7 +14605,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.pmcprop.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/105540/images/sol/105540_logo_0_205622.jpg"],
             "rating" => 1,
             "reviews_number" => 35
         ],
@@ -13711,7 +14623,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.vs-i.com",
-            "gallery" => ["https://siva.jsstatic.com/my/1167/images/sol/1167_logo_0_18836.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1167/images/sol/1167_logo_0_7703260.jpg"],
             "rating" => 2,
             "reviews_number" => 25
         ],
@@ -13805,7 +14717,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "11000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.gbg.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/6328/images/sol/6328_logo_0_98121.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/6328/images/sol/6328_logo_0_7950151.jpg"],
             "rating" => 3,
             "reviews_number" => 16
         ],
@@ -13823,7 +14735,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.capitagrp.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/107111/images/sol/107111_logo_0_813665.png"],
             "rating" => 1,
             "reviews_number" => 12
         ],
@@ -13841,7 +14753,7 @@ Fax: 07 &ndash; 598 7393<\/div>
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.capitagrp.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/107111/images/sol/107111_logo_0_813665.png"],
             "rating" => 1,
             "reviews_number" => 05
         ],
@@ -13863,7 +14775,7 @@ Desa Tun Razak
             "max_monthly_salary" => "14000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.popular.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/3208/images/sol/3208_logo_0_6686210.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3208/images/sol/3208_logo_0_7607176.jpg"],
             "rating" => 3,
             "reviews_number" => 05
         ],
@@ -13881,7 +14793,7 @@ Desa Tun Razak
             "max_monthly_salary" => "5500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.capitagrp.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/107111/images/sol/107111_logo_0_813665.png"],
             "rating" => 1,
             "reviews_number" => 05
         ],
@@ -13899,7 +14811,7 @@ Desa Tun Razak
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.jac-recruitment.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/6712/images/sol/6712_logo_0_648120.jpg"],
             "rating" => 2,
             "reviews_number" => 57
         ],
@@ -13935,7 +14847,7 @@ Desa Tun Razak
             "max_monthly_salary" => "5500.00",
             "currency" => "MYR",
             "url" => "https:\/\/www.aia.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/3789/images/sol/3789_logo_0_6649380.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3789/images/sol/3789_logo_0_14949.jpg"],
             "rating" => 4,
             "reviews_number" => 55
         ],
@@ -13953,7 +14865,7 @@ Desa Tun Razak
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/343/images/sol/343_logo_0_5862929.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/343/images/sol/343_logo_0_7072593.jpg"],
             "rating" => 3,
             "reviews_number" => 53
         ],
@@ -14032,7 +14944,7 @@ Desa Tun Razak
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.greentarget.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/58314/images/sol/58314_logo_0_7285786.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/58314/images/sol/58314_logo_0_62926.png"],
             "rating" => 4,
             "reviews_number" => 44
         ],
@@ -14108,7 +15020,7 @@ Desa Tun Razak
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ampmech.com",
-            "gallery" => ["https://siva.jsstatic.com/my/20762/images/sol/20762_logo_0_6787095.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/20762/images/sol/20762_logo_0_7779958.jpg"],
             "rating" => 2,
             "reviews_number" => 41
         ],
@@ -14126,7 +15038,7 @@ Desa Tun Razak
             "max_monthly_salary" => "3600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.plexus.com",
-            "gallery" => ["https://siva.jsstatic.com/my/137/images/sol/137_logo_0_7716518.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/137/images/sol/137_logo_0_63794.jpg"],
             "rating" => 2,
             "reviews_number" => 41
         ],
@@ -14151,7 +15063,7 @@ Desa Tun Razak
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.gnc.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/25566/images/sol/25566_logo_0_74658.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 41
         ],
@@ -14187,7 +15099,7 @@ Desa Tun Razak
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/8375/images/sol/8375_logo_0_6688874.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/8375/images/sol/8375_logo_0_7566872.jpg"],
             "rating" => 1,
             "reviews_number" => 40
         ],
@@ -14259,7 +15171,7 @@ Desa Tun Razak
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.publicbankgroup.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/2643/images/sol/2643_logo_0_5853370.jpg"],
             "rating" => 3,
             "reviews_number" => 33
         ],
@@ -14295,7 +15207,7 @@ Desa Tun Razak
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6810/images/sol/6810_logo_0_6614887.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 27
         ],
@@ -14313,7 +15225,7 @@ Desa Tun Razak
             "max_monthly_salary" => "8500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.berjaya.com",
-            "gallery" => ["https://siva.jsstatic.com/my/27289/images/sol/27289_logo_0_7088025.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/27289/images/sol/27289_logo_0_5704598.jpg"],
             "rating" => 4,
             "reviews_number" => 26
         ],
@@ -14392,7 +15304,7 @@ Desa Tun Razak
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.rhombusfl.com",
-            "gallery" => ["https://siva.jsstatic.com/my/94968/images/sol/94968_logo_0_82749.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/94968/images/sol/94968_logo_0_23567.png"],
             "rating" => 3,
             "reviews_number" => 25
         ],
@@ -14429,7 +15341,7 @@ Desa Tun Razak
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/33483/images/sol/33483_logo_0_94120.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/33483/images/sol/33483_logo_0_40548.jpg"],
             "rating" => 3,
             "reviews_number" => 25
         ],
@@ -14447,7 +15359,7 @@ Desa Tun Razak
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3275/images/sol/3275_logo_0_6882754.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3275/images/sol/3275_logo_0_55634.png"],
             "rating" => 1,
             "reviews_number" => 20
         ],
@@ -14465,7 +15377,7 @@ Desa Tun Razak
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.naza.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/9208/images/sol/9208_logo_0_6709375.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9208/images/sol/9208_logo_0_7644444.jpg"],
             "rating" => 3,
             "reviews_number" => 18
         ],
@@ -14483,7 +15395,7 @@ Desa Tun Razak
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6810/images/sol/6810_logo_0_6614887.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 17
         ],
@@ -14534,7 +15446,7 @@ Desa Tun Razak
             "max_monthly_salary" => "1900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/30788/images/sol/30788_logo_0_6750953.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/30788/images/sol/30788_logo_0_717981.jpg"],
             "rating" => 3,
             "reviews_number" => 11
         ],
@@ -14553,7 +15465,7 @@ Inanam, Kota Kinabalu Sabah",
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/32788/images/sol/32788_logo_0_6690230.jpg"],
+            "gallery" => [""],
             "rating" => 3,
             "reviews_number" => 11
         ],
@@ -14571,7 +15483,7 @@ Inanam, Kota Kinabalu Sabah",
             "max_monthly_salary" => "8500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/4200/images/sol/4200_logo_0_7567886.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/4200/images/sol/4200_logo_0_423957.jpg"],
             "rating" => 1,
             "reviews_number" => 05
         ],
@@ -14601,7 +15513,7 @@ Inanam, Kota Kinabalu Sabah",
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.neteon.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/48000/images/sol/48000_logo_0_7347221.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 05
         ],
@@ -14638,7 +15550,7 @@ Inanam, Kota Kinabalu Sabah",
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/7587/images/sol/7587_logo_0_6579144.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/7587/images/sol/7587_logo_0_7122340.jpg"],
             "rating" => 2,
             "reviews_number" => 02
         ],
@@ -14678,7 +15590,7 @@ Inanam, Kota Kinabalu Sabah",
             "max_monthly_salary" => "5500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.easyasia.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/95883/images/sol/95883_logo_0_68690.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/95883/images/sol/95883_logo_0_441452.jpg"],
             "rating" => 3,
             "reviews_number" => 02
         ],
@@ -14710,7 +15622,7 @@ Inanam, Kota Kinabalu Sabah",
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/7587/images/sol/7587_logo_0_6579144.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/7587/images/sol/7587_logo_0_7122340.jpg"],
             "rating" => 2,
             "reviews_number" => 02
         ],
@@ -14748,7 +15660,7 @@ Inanam, Kota Kinabalu Sabah",
             "max_monthly_salary" => "2600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.bluunis.com\/brandsite\/main.html",
-            "gallery" => ["https://siva.jsstatic.com/my/6240/images/sol/6240_logo_0_6817036.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/6240/images/sol/6240_logo_0_17350.png"],
             "rating" => 1,
             "reviews_number" => 01
         ],
@@ -14820,7 +15732,7 @@ Inanam, Kota Kinabalu Sabah",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.figofoods.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/20327/images/sol/20327_logo_0_7505985.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/20327/images/sol/20327_logo_0_57734.jpg"],
             "rating" => 2,
             "reviews_number" => 57
         ],
@@ -14838,7 +15750,7 @@ Inanam, Kota Kinabalu Sabah",
             "max_monthly_salary" => "9500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3882/images/sol/3882_logo_0_6649631.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3882/images/sol/3882_logo_0_345697.png"],
             "rating" => 2,
             "reviews_number" => 56
         ],
@@ -14891,7 +15803,7 @@ Inanam, Kota Kinabalu Sabah",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.winfung.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/43892/images/sol/43892_logo_0_84737.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/43892/images/sol/43892_logo_0_99463.jpg"],
             "rating" => 2,
             "reviews_number" => 48
         ],
@@ -15024,7 +15936,7 @@ Inanam, Kota Kinabalu Sabah",
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.penangswimclub.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/1029/images/sol/1029_logo_0_928435.jpg"],
             "rating" => 4,
             "reviews_number" => 32
         ],
@@ -15042,7 +15954,7 @@ Inanam, Kota Kinabalu Sabah",
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.nissan.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/3683/images/sol/3683_logo_0_7957140.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3683/images/sol/3683_logo_0_87398.jpg"],
             "rating" => 3,
             "reviews_number" => 30
         ],
@@ -15060,7 +15972,7 @@ Inanam, Kota Kinabalu Sabah",
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/100168/images/sol/100168_logo_0_89464.jpg"],
             "rating" => 3,
             "reviews_number" => 28
         ],
@@ -15101,7 +16013,7 @@ Inanam, Kota Kinabalu Sabah",
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.hapsengland.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/47973/images/sol/47973_logo_0_7534837.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/47973/images/sol/47973_logo_0_7865003.jpg"],
             "rating" => 3,
             "reviews_number" => 26
         ],
@@ -15122,7 +16034,7 @@ Malaysia.
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.engtex.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/10616/images/sol/10616_logo_0_5903534.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/10616/images/sol/10616_logo_0_73047.jpg"],
             "rating" => 1,
             "reviews_number" => 26
         ],
@@ -15231,7 +16143,7 @@ Malaysia.
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.hla.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/107927/images/sol/107927_logo_0_845436.jpg"],
             "rating" => 2,
             "reviews_number" => 14
         ],
@@ -15362,7 +16274,7 @@ Malaysia.
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.foundpac.com\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/24458/images/sol/24458_logo_0_59031.png"],
             "rating" => 3,
             "reviews_number" => 07
         ],
@@ -15439,7 +16351,7 @@ Malaysia.
             "max_monthly_salary" => "5800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.plexus.com",
-            "gallery" => ["https://siva.jsstatic.com/my/137/images/sol/137_logo_0_7716518.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/137/images/sol/137_logo_0_63794.jpg"],
             "rating" => 2,
             "reviews_number" => 04
         ],
@@ -15482,7 +16394,7 @@ Malaysia.
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.admall.my",
-            "gallery" => ["https://siva.jsstatic.com/my/100998/images/sol/100998_logo_0_82908.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/100998/images/sol/100998_logo_0_11679.png"],
             "rating" => 3,
             "reviews_number" => 03
         ],
@@ -15516,7 +16428,7 @@ Malaysia.
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.clariant.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/18779/images/sol/18779_logo_0_6889397.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/18779/images/sol/18779_logo_0_7817704.jpg"],
             "rating" => 4,
             "reviews_number" => 02
         ],
@@ -15534,7 +16446,7 @@ Malaysia.
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.carsem.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/26941/images/sol/26941_logo_0_221359.jpg"],
             "rating" => 1,
             "reviews_number" => 02
         ],
@@ -15552,7 +16464,7 @@ Malaysia.
             "max_monthly_salary" => "3400.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.plexus.com",
-            "gallery" => ["https://siva.jsstatic.com/my/137/images/sol/137_logo_0_7716518.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/137/images/sol/137_logo_0_63794.jpg"],
             "rating" => 2,
             "reviews_number" => 00
         ],
@@ -15607,7 +16519,7 @@ Malaysia.
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/20532/images/sol/20532_logo_0_7019567.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/20532/images/sol/20532_logo_0_7019608.jpg"],
             "rating" => 2,
             "reviews_number" => 57
         ],
@@ -15625,7 +16537,7 @@ Malaysia.
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.carsem.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/26941/images/sol/26941_logo_0_221359.jpg"],
             "rating" => 1,
             "reviews_number" => 55
         ],
@@ -15643,7 +16555,7 @@ Malaysia.
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.carsem.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/26941/images/sol/26941_logo_0_221359.jpg"],
             "rating" => 1,
             "reviews_number" => 55
         ],
@@ -15661,7 +16573,7 @@ Malaysia.
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.plexus.com",
-            "gallery" => ["https://siva.jsstatic.com/my/137/images/sol/137_logo_0_7716518.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/137/images/sol/137_logo_0_63794.jpg"],
             "rating" => 2,
             "reviews_number" => 55
         ],
@@ -15687,7 +16599,7 @@ Malaysia.
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/104730/images/sol/104730_logo_0_734547.jpg"],
             "rating" => 1,
             "reviews_number" => 51
         ],
@@ -15705,7 +16617,7 @@ Malaysia.
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.achievegroup.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/62109/images/sol/62109_logo_0_6384439.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/62109/images/sol/62109_logo_0_643533.png"],
             "rating" => 4,
             "reviews_number" => 50
         ],
@@ -15735,7 +16647,7 @@ Malaysia.
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/53579/images/sol/53579_logo_0_6615060.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/53579/images/sol/53579_logo_0_7294778.jpg"],
             "rating" => 4,
             "reviews_number" => 50
         ],
@@ -15790,7 +16702,7 @@ Malaysia.
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.isotop.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/1612/images/sol/1612_logo_0_6917151.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1612/images/sol/1612_logo_0_15279.jpg"],
             "rating" => 2,
             "reviews_number" => 49
         ],
@@ -15829,7 +16741,7 @@ Selangor Darul Ehsan",
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.carsem.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/26941/images/sol/26941_logo_0_221359.jpg"],
             "rating" => 1,
             "reviews_number" => 40
         ],
@@ -15847,7 +16759,7 @@ Selangor Darul Ehsan",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 36
         ],
@@ -15883,7 +16795,7 @@ Selangor Darul Ehsan",
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.jac-recruitment.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/6712/images/sol/6712_logo_0_648120.jpg"],
             "rating" => 2,
             "reviews_number" => 36
         ],
@@ -15901,7 +16813,7 @@ Selangor Darul Ehsan",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/80826/images/sol/80826_logo_0_6721989.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/80826/images/sol/80826_logo_0_436373.png"],
             "rating" => 1,
             "reviews_number" => 35
         ],
@@ -15919,7 +16831,7 @@ Selangor Darul Ehsan",
             "max_monthly_salary" => "3300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 34
         ],
@@ -16001,7 +16913,7 @@ Selangor Darul Ehsan",
             "max_monthly_salary" => "2600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ywgroup.com.sg\/",
-            "gallery" => ["https://siva.jsstatic.com/my/82981/images/sol/82981_logo_0_7973498.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/82981/images/sol/82981_logo_0_31286.png"],
             "rating" => 1,
             "reviews_number" => 32
         ],
@@ -16019,7 +16931,7 @@ Selangor Darul Ehsan",
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 31
         ],
@@ -16068,7 +16980,7 @@ Selangor Darul Ehsan",
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.fit-line.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/107912/images/sol/107912_logo_0_633119.jpg"],
             "rating" => 2,
             "reviews_number" => 29
         ],
@@ -16086,7 +16998,7 @@ Selangor Darul Ehsan",
             "max_monthly_salary" => "2400.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 29
         ],
@@ -16104,7 +17016,7 @@ Selangor Darul Ehsan",
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 27
         ],
@@ -16122,7 +17034,7 @@ Selangor Darul Ehsan",
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/80826/images/sol/80826_logo_0_6721989.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/80826/images/sol/80826_logo_0_436373.png"],
             "rating" => 1,
             "reviews_number" => 27
         ],
@@ -16140,7 +17052,7 @@ Selangor Darul Ehsan",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 26
         ],
@@ -16180,7 +17092,7 @@ Selangor Darul Ehsan",
             "max_monthly_salary" => "3100.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/89315/images/sol/89315_logo_0_7600244.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/89315/images/sol/89315_logo_0_95470.png"],
             "rating" => 1,
             "reviews_number" => 25
         ],
@@ -16198,7 +17110,7 @@ Selangor Darul Ehsan",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 23
         ],
@@ -16260,7 +17172,7 @@ Selangor Darul Ehsan",
             "max_monthly_salary" => "2700.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.mpmsb.com\/profile.htm",
-            "gallery" => ["https://siva.jsstatic.com/my/5433/images/sol/5433_logo_0_7024076.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/5433/images/sol/5433_logo_0_38922.png"],
             "rating" => 3,
             "reviews_number" => 23
         ],
@@ -16278,7 +17190,7 @@ Selangor Darul Ehsan",
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.esc-gases.com",
-            "gallery" => ["https://siva.jsstatic.com/my/57325/images/sol/57325_logo_0_7051351.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/57325/images/sol/57325_logo_0_7051354.jpg"],
             "rating" => 1,
             "reviews_number" => 21
         ],
@@ -16296,7 +17208,7 @@ Selangor Darul Ehsan",
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 19
         ],
@@ -16340,7 +17252,7 @@ Selangor Darul Ehsan",
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.izyoo.com",
-            "gallery" => ["https://siva.jsstatic.com/my/52917/images/sol/52917_logo_0.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/52917/images/sol/52917_logo_0_26815.jpg"],
             "rating" => 2,
             "reviews_number" => 18
         ],
@@ -16379,7 +17291,7 @@ Selangor Darul Ehsan",
             "max_monthly_salary" => "2200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ibibrass.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/19069/images/sol/19069_logo_0_6917555.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19069/images/sol/19069_logo_0_76569.jpg"],
             "rating" => 4,
             "reviews_number" => 18
         ],
@@ -16397,7 +17309,7 @@ Selangor Darul Ehsan",
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.myrapid.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/16608/images/sol/16608_logo_0_89472.png"],
             "rating" => 3,
             "reviews_number" => 17
         ],
@@ -16460,7 +17372,7 @@ Skills: Computer Skills required- Excel, Access, SAP, Word, and PowerPoint \/ Cu
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/70617/images/sol/70617_logo_0_6899473.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/70617/images/sol/70617_logo_0_33530.jpg"],
             "rating" => 2,
             "reviews_number" => 15
         ],
@@ -16478,7 +17390,7 @@ Skills: Computer Skills required- Excel, Access, SAP, Word, and PowerPoint \/ Cu
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6773/images/sol/6773_logo_0_6850331.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/6773/images/sol/6773_logo_0_7750031.jpg"],
             "rating" => 3,
             "reviews_number" => 14
         ],
@@ -16496,7 +17408,7 @@ Skills: Computer Skills required- Excel, Access, SAP, Word, and PowerPoint \/ Cu
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 14
         ],
@@ -16514,7 +17426,7 @@ Skills: Computer Skills required- Excel, Access, SAP, Word, and PowerPoint \/ Cu
             "max_monthly_salary" => "2200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 12
         ],
@@ -16572,7 +17484,7 @@ Skills: Computer Skills required- Excel, Access, SAP, Word, and PowerPoint \/ Cu
             "max_monthly_salary" => "1500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 10
         ],
@@ -16617,7 +17529,7 @@ Skills: Computer Skills required- Excel, Access, SAP, Word, and PowerPoint \/ Cu
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.hotington.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/104300/images/sol/104300_logo_0_71524.jpg"],
             "rating" => 1,
             "reviews_number" => 09
         ],
@@ -16635,7 +17547,7 @@ Skills: Computer Skills required- Excel, Access, SAP, Word, and PowerPoint \/ Cu
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 08
         ],
@@ -16653,7 +17565,7 @@ Skills: Computer Skills required- Excel, Access, SAP, Word, and PowerPoint \/ Cu
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 05
         ],
@@ -16671,7 +17583,7 @@ Skills: Computer Skills required- Excel, Access, SAP, Word, and PowerPoint \/ Cu
             "max_monthly_salary" => "12000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sphere.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/44675/images/sol/44675_logo_0_6621413.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/44675/images/sol/44675_logo_0_7396657.jpg"],
             "rating" => 1,
             "reviews_number" => 04
         ],
@@ -16689,7 +17601,7 @@ Skills: Computer Skills required- Excel, Access, SAP, Word, and PowerPoint \/ Cu
             "max_monthly_salary" => "3400.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 03
         ],
@@ -16743,7 +17655,7 @@ Skills: Computer Skills required- Excel, Access, SAP, Word, and PowerPoint \/ Cu
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 01
         ],
@@ -16779,7 +17691,7 @@ Skills: Computer Skills required- Excel, Access, SAP, Word, and PowerPoint \/ Cu
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/jadesignstudio.my",
-            "gallery" => ["https://siva.jsstatic.com/my/80969/images/sol/80969_logo_0_8035212.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/80969/images/sol/80969_logo_0_11059.jpg"],
             "rating" => 4,
             "reviews_number" => 51
         ],
@@ -16832,7 +17744,7 @@ Skills: Computer Skills required- Excel, Access, SAP, Word, and PowerPoint \/ Cu
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.wahleegroup.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/33378/images/sol/33378_logo_0_7906859.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/33378/images/sol/33378_logo_0_33067.jpg"],
             "rating" => 3,
             "reviews_number" => 46
         ],
@@ -16888,7 +17800,7 @@ Skills: Computer Skills required- Excel, Access, SAP, Word, and PowerPoint \/ Cu
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/44205/images/sol/44205_logo_0_7121757.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/44205/images/sol/44205_logo_0_32629.png"],
             "rating" => 1,
             "reviews_number" => 38
         ],
@@ -16971,7 +17883,7 @@ Skills: Computer Skills required- Excel, Access, SAP, Word, and PowerPoint \/ Cu
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/15900/images/sol/15900_logo_0_7227907.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/15900/images/sol/15900_logo_0.gif"],
             "rating" => 1,
             "reviews_number" => 28
         ],
@@ -17148,7 +18060,7 @@ Responsibilties:<\/div>
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.mplusnatural.com",
-            "gallery" => ["https://siva.jsstatic.com/my/87372/images/sol/87372_logo_0_7721804.jpg"],
+            "gallery" => [""],
             "rating" => 2,
             "reviews_number" => 19
         ],
@@ -17193,7 +18105,7 @@ Responsibilties:<\/div>
             "max_monthly_salary" => "800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.netizenexperience.com",
-            "gallery" => ["https://siva.jsstatic.com/my/79853/images/sol/79853_logo_0_96946.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/79853/images/sol/79853_logo_0_149733.jpg"],
             "rating" => 3,
             "reviews_number" => 14
         ],
@@ -17218,7 +18130,7 @@ Responsibilties:<\/div>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.shunka.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/102864/images/sol/102864_logo_0_83718.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/102864/images/sol/102864_logo_0_822319.jpg"],
             "rating" => 4,
             "reviews_number" => 13
         ],
@@ -17236,7 +18148,7 @@ Responsibilties:<\/div>
             "max_monthly_salary" => "2600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ttfoo2006.com",
-            "gallery" => ["https://siva.jsstatic.com/my/83240/images/sol/83240_logo_0_8049200.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/83240/images/sol/83240_logo_0_754191.jpg"],
             "rating" => 1,
             "reviews_number" => 07
         ],
@@ -17356,7 +18268,7 @@ Responsibilties:<\/div>
             "max_monthly_salary" => "2600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.agilent.com",
-            "gallery" => ["https://siva.jsstatic.com/my/86609/images/sol/86609_logo_0_81731.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/86609/images/sol/86609_logo_0_7327309.jpg"],
             "rating" => 4,
             "reviews_number" => 51
         ],
@@ -17399,7 +18311,7 @@ Responsibilties:<\/div>
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/93089/images/sol/93089_logo_0_7932777.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/93089/images/sol/93089_logo_0_20489.png"],
             "rating" => 4,
             "reviews_number" => 51
         ],
@@ -17417,7 +18329,7 @@ Responsibilties:<\/div>
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.jac-recruitment.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/6712/images/sol/6712_logo_0_648120.jpg"],
             "rating" => 2,
             "reviews_number" => 51
         ],
@@ -17435,7 +18347,7 @@ Responsibilties:<\/div>
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/4200/images/sol/4200_logo_0_7567886.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/4200/images/sol/4200_logo_0_423957.jpg"],
             "rating" => 1,
             "reviews_number" => 51
         ],
@@ -17487,7 +18399,7 @@ Responsibilties:<\/div>
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.publicbankgroup.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/2643/images/sol/2643_logo_0_5853370.jpg"],
             "rating" => 3,
             "reviews_number" => 49
         ],
@@ -17508,7 +18420,7 @@ Bukit Indah
             "max_monthly_salary" => "4900.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.fishersci.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/1857/images/sol/1857_logo_0_6699499.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1857/images/sol/1857_logo_0_443713.jpg"],
             "rating" => 2,
             "reviews_number" => 47
         ],
@@ -17592,7 +18504,7 @@ Bukit Indah
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/31244/images/sol/31244_logo_0_6686108.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/31244/images/sol/31244_logo_0_448988.jpg"],
             "rating" => 4,
             "reviews_number" => 37
         ],
@@ -17653,7 +18565,7 @@ Bukit Indah
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.mladesign.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/106053/images/sol/106053_logo_0_312806.jpg"],
             "rating" => 3,
             "reviews_number" => 34
         ],
@@ -17730,7 +18642,7 @@ Bukit Indah
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.silversp.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/10616/images/sol/10616_logo_0_5903534.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/10616/images/sol/10616_logo_0_98679.png"],
             "rating" => 1,
             "reviews_number" => 23
         ],
@@ -17863,7 +18775,7 @@ Bukit Indah
             "max_monthly_salary" => "4900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/1896/images/sol/1896_logo_0_68201.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/1896/images/sol/1896_logo_0_12060.jpg"],
             "rating" => 1,
             "reviews_number" => 11
         ],
@@ -17881,7 +18793,7 @@ Bukit Indah
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ihm.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/3629/images/sol/3629_logo_0.gif"],
             "rating" => 4,
             "reviews_number" => 07
         ],
@@ -17993,7 +18905,7 @@ Bukit Indah
             "max_monthly_salary" => "11000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.resortsworld.com",
-            "gallery" => ["https://siva.jsstatic.com/my/2801/images/sol/2801_logo_0_6876734.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2801/images/sol/2801_logo_0_7583665.jpg"],
             "rating" => 1,
             "reviews_number" => 51
         ],
@@ -18031,7 +18943,7 @@ Bukit Indah
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/sepm.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/1154/images/sol/1154_logo_0_388157.png"],
             "rating" => 4,
             "reviews_number" => 48
         ],
@@ -18049,7 +18961,7 @@ Bukit Indah
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/108092/images/sol/108092_logo_0_471552.jpg"],
             "rating" => 2,
             "reviews_number" => 42
         ],
@@ -18087,7 +18999,7 @@ Bukit Indah
             "max_monthly_salary" => "16000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.genting.com",
-            "gallery" => ["https://siva.jsstatic.com/my/2801/images/sol/2801_logo_0_6876734.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2801/images/sol/2801_logo_0_17491.jpg"],
             "rating" => 1,
             "reviews_number" => 37
         ],
@@ -18105,7 +19017,7 @@ Bukit Indah
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "https:\/\/www.elken.com",
-            "gallery" => ["https://siva.jsstatic.com/my/8254/images/sol/8254_logo_0_6690489.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/8254/images/sol/8254_logo_0_58703.jpg"],
             "rating" => 4,
             "reviews_number" => 21
         ],
@@ -18123,7 +19035,7 @@ Bukit Indah
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.artedom.com",
-            "gallery" => ["https://siva.jsstatic.com/my/19807/images/sol/19807_logo_0_6894104.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19807/images/sol/19807_logo_0_462863.png"],
             "rating" => 2,
             "reviews_number" => 14
         ],
@@ -18168,7 +19080,7 @@ Bukit Indah
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/102663/images/sol/102663_logo_0_87924.png"],
             "rating" => 3,
             "reviews_number" => 11
         ],
@@ -18186,7 +19098,7 @@ Bukit Indah
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/15417/images/sol/15417_logo_0_6670247.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/15417/images/sol/15417_logo_0_6670284.jpg"],
             "rating" => 2,
             "reviews_number" => 09
         ],
@@ -18253,7 +19165,7 @@ Bukit Indah
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.unicologistics.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/84537/images/sol/84537_logo_0_952738.jpg"],
             "rating" => 2,
             "reviews_number" => 58
         ],
@@ -18334,7 +19246,7 @@ Bukit Indah
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/86755/images/sol/86755_logo_0_7355188.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/86755/images/sol/86755_logo_0_17290.jpg"],
             "rating" => 1,
             "reviews_number" => 57
         ],
@@ -18397,7 +19309,7 @@ Bukit Indah
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.unicologistics.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/84537/images/sol/84537_logo_0_952738.jpg"],
             "rating" => 2,
             "reviews_number" => 47
         ],
@@ -18461,7 +19373,7 @@ Bukit Indah
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.mynaturalwellness.com",
-            "gallery" => ["https://siva.jsstatic.com/my/33456/images/sol/33456_logo_0_7840084.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/33456/images/sol/33456_logo_0_956616.jpg"],
             "rating" => 1,
             "reviews_number" => 45
         ],
@@ -18519,7 +19431,7 @@ Bukit Indah
             "max_monthly_salary" => "11000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/16765/images/sol/16765_logo_0_6606681.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/16765/images/sol/16765_logo_0_23719.jpg"],
             "rating" => 1,
             "reviews_number" => 43
         ],
@@ -18607,7 +19519,7 @@ Bukit Indah
             "max_monthly_salary" => "1000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.mercedes-benz.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/9474/images/sol/9474_logo_0_6757116.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9474/images/sol/9474_logo_0_7809586.jpg"],
             "rating" => 4,
             "reviews_number" => 38
         ],
@@ -18661,7 +19573,7 @@ Bukit Indah
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/780/images/sol/780_logo_0_6699623.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/780/images/sol/780_logo_0_10226.jpg"],
             "rating" => 1,
             "reviews_number" => 34
         ],
@@ -18701,7 +19613,7 @@ Bukit Indah
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sntglobal.com",
-            "gallery" => ["https://siva.jsstatic.com/my/2865/images/sol/2865_logo_0_7100476.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2865/images/sol/2865_logo_0_56118.jpg"],
             "rating" => 1,
             "reviews_number" => 30
         ],
@@ -18719,7 +19631,7 @@ Bukit Indah
             "max_monthly_salary" => "5500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 28
         ],
@@ -18780,7 +19692,7 @@ Bukit Indah
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 25
         ],
@@ -18809,7 +19721,7 @@ Bukit Indah
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.esi.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/69422/images/sol/69422_logo_0_42815.png"],
             "rating" => 2,
             "reviews_number" => 24
         ],
@@ -18827,7 +19739,7 @@ Bukit Indah
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.perfectplastic.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/68898/images/sol/68898_logo_0_5783229.jpg"],
             "rating" => 3,
             "reviews_number" => 22
         ],
@@ -18897,7 +19809,7 @@ Bukit Indah
             "max_monthly_salary" => "16000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.flp.asia",
-            "gallery" => ["https://siva.jsstatic.com/my/88564/images/sol/88564_logo_0_7525282.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/88564/images/sol/88564_logo_0_31695.jpg"],
             "rating" => 4,
             "reviews_number" => 21
         ],
@@ -18915,7 +19827,7 @@ Bukit Indah
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.singamarine.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/55931/images/sol/55931_logo_0_6865340.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/55931/images/sol/55931_logo_0_7051892.jpg"],
             "rating" => 1,
             "reviews_number" => 21
         ],
@@ -18933,7 +19845,7 @@ Bukit Indah
             "max_monthly_salary" => "4900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/17671/images/sol/17671_logo_0_7693763.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/17671/images/sol/17671_logo_0_832321.jpg"],
             "rating" => 1,
             "reviews_number" => 21
         ],
@@ -18951,7 +19863,7 @@ Bukit Indah
             "max_monthly_salary" => "2400.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.perfectplastic.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/68898/images/sol/68898_logo_0_5783229.jpg"],
             "rating" => 3,
             "reviews_number" => 20
         ],
@@ -19028,7 +19940,7 @@ Bukit Indah
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.nalpine.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/106644/images/sol/106644_logo_0_813688.jpg"],
             "rating" => 4,
             "reviews_number" => 19
         ],
@@ -19046,7 +19958,7 @@ Bukit Indah
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 19
         ],
@@ -19064,7 +19976,7 @@ Bukit Indah
             "max_monthly_salary" => "3300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.perfectplastic.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/68898/images/sol/68898_logo_0_5783229.jpg"],
             "rating" => 3,
             "reviews_number" => 19
         ],
@@ -19082,7 +19994,7 @@ Bukit Indah
             "max_monthly_salary" => "3800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 15
         ],
@@ -19152,7 +20064,7 @@ Bukit Indah
             "max_monthly_salary" => "1000.00",
             "currency" => "MYR",
             "url" => "https:\/\/radicasoftware.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/90068/images/sol/90068_logo_0_18997.png"],
             "rating" => 3,
             "reviews_number" => 14
         ],
@@ -19170,7 +20082,7 @@ Bukit Indah
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.uob.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/2278/images/sol/2278_logo_0_71574.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2278/images/sol/2278_logo_0_79446.jpg"],
             "rating" => 3,
             "reviews_number" => 13
         ],
@@ -19188,7 +20100,7 @@ Bukit Indah
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 13
         ],
@@ -19206,7 +20118,7 @@ Bukit Indah
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.royale-bintang.com\/index.html",
-            "gallery" => ["https://siva.jsstatic.com/my/13769/images/sol/13769_logo_0_6820149.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13769/images/sol/13769_logo_0_6820156.jpg"],
             "rating" => 4,
             "reviews_number" => 12
         ],
@@ -19224,7 +20136,7 @@ Bukit Indah
             "max_monthly_salary" => "2600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.dalecarnegie.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/8833/images/sol/8833_logo_0_6596403.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/8833/images/sol/8833_logo_0_120233.jpg"],
             "rating" => 3,
             "reviews_number" => 10
         ],
@@ -19264,7 +20176,7 @@ Bukit Indah
             "max_monthly_salary" => "500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.nexuswise.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/71674/images/sol/71674_logo_0_5709073.jpg"],
             "rating" => 4,
             "reviews_number" => 05
         ],
@@ -19282,7 +20194,7 @@ Bukit Indah
             "max_monthly_salary" => "2200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 02
         ],
@@ -19337,7 +20249,7 @@ Bukit Indah
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.hvn.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/4829/images/sol/4829_logo_0.gif"],
             "rating" => 4,
             "reviews_number" => 00
         ],
@@ -19355,7 +20267,7 @@ Bukit Indah
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/23552/images/sol/23552_logo_0_5685579.jpg"],
             "rating" => 2,
             "reviews_number" => 59
         ],
@@ -19396,7 +20308,7 @@ Bukit Indah
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/49918/images/sol/49918_logo_0.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/49918/images/sol/49918_logo_0_16066.png"],
             "rating" => 3,
             "reviews_number" => 51
         ],
@@ -19414,7 +20326,7 @@ Bukit Indah
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 49
         ],
@@ -19441,7 +20353,7 @@ Bukit Indah
             "max_monthly_salary" => "3900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/104116/images/sol/104116_logo_0_56740.png"],
             "rating" => 1,
             "reviews_number" => 47
         ],
@@ -19459,7 +20371,7 @@ Bukit Indah
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/23552/images/sol/23552_logo_0_5685579.jpg"],
             "rating" => 2,
             "reviews_number" => 47
         ],
@@ -19477,7 +20389,7 @@ Bukit Indah
             "max_monthly_salary" => "5500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/104116/images/sol/104116_logo_0_56740.png"],
             "rating" => 1,
             "reviews_number" => 46
         ],
@@ -19495,7 +20407,7 @@ Bukit Indah
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 46
         ],
@@ -19615,7 +20527,7 @@ Bukit Indah
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/90794/images/sol/90794_logo_0_50048.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/90794/images/sol/90794_logo_0_394054.jpg"],
             "rating" => 4,
             "reviews_number" => 41
         ],
@@ -19633,7 +20545,7 @@ Bukit Indah
             "max_monthly_salary" => "3300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/12958/images/sol/12958_logo_0_57497.jpg"],
             "rating" => 3,
             "reviews_number" => 39
         ],
@@ -19751,7 +20663,7 @@ Bukit Indah
             "max_monthly_salary" => "3900.00",
             "currency" => "MYR",
             "url" => "http:\/\/farringdongroup.com",
-            "gallery" => ["https://siva.jsstatic.com/my/36731/images/sol/36731_logo_0_6981716.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/36731/images/sol/36731_logo_0_7016978.jpg"],
             "rating" => 1,
             "reviews_number" => 35
         ],
@@ -19769,7 +20681,7 @@ Bukit Indah
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.easterndecorator.com",
-            "gallery" => ["https://siva.jsstatic.com/my/780/images/sol/780_logo_0_6699623.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/780/images/sol/780_logo_0_7416471.jpg"],
             "rating" => 1,
             "reviews_number" => 35
         ],
@@ -19843,7 +20755,7 @@ Bukit Indah
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.thesundaily.my",
-            "gallery" => ["https://siva.jsstatic.com/my/4692/images/sol/4692_logo_0_6898774.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/4692/images/sol/4692_logo_0_39139.jpg"],
             "rating" => 2,
             "reviews_number" => 27
         ],
@@ -19886,7 +20798,7 @@ Bukit Indah
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/811/images/sol/811_logo_0_6061842.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/811/images/sol/811_logo_0_55431.jpg"],
             "rating" => 1,
             "reviews_number" => 25
         ],
@@ -19950,7 +20862,7 @@ Bukit Indah
             "max_monthly_salary" => "6500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.prg.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/90689/images/sol/90689_logo_0_7736544.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/90689/images/sol/90689_logo_0_8004308.jpg"],
             "rating" => 4,
             "reviews_number" => 22
         ],
@@ -20018,7 +20930,7 @@ Bukit Indah
             "max_monthly_salary" => "3800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.delfimarketing.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/25899/images/sol/25899_logo_0_6717447.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/25899/images/sol/25899_logo_0_7030448.jpg"],
             "rating" => 4,
             "reviews_number" => 20
         ],
@@ -20036,7 +20948,7 @@ Bukit Indah
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/9363/images/sol/9363_logo_0_7092826.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9363/images/sol/9363_logo_0_7208816.jpg"],
             "rating" => 3,
             "reviews_number" => 19
         ],
@@ -20054,7 +20966,7 @@ Bukit Indah
             "max_monthly_salary" => "2600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.lifework.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/40320/images/sol/40320_logo_0_6607937.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/40320/images/sol/40320_logo_0_81901.png"],
             "rating" => 1,
             "reviews_number" => 19
         ],
@@ -20096,7 +21008,7 @@ Bukit Indah
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.thoneh.com",
-            "gallery" => ["https://siva.jsstatic.com/my/32886/images/sol/32886_logo_0_7422027.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/32886/images/sol/32886_logo_0_606443.jpg"],
             "rating" => 1,
             "reviews_number" => 18
         ],
@@ -20216,7 +21128,7 @@ Bukit Indah
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/pksjfert.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/19887/images/sol/19887_logo_0_6950071.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19887/images/sol/19887_logo_0_89729.jpg"],
             "rating" => 2,
             "reviews_number" => 13
         ],
@@ -20245,7 +21157,7 @@ Bukit Indah
             "max_monthly_salary" => "2400.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.zikay.com",
-            "gallery" => ["https://siva.jsstatic.com/my/9481/images/sol/9481_logo_0_6908763.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9481/images/sol/9481_logo_0_65702.png"],
             "rating" => 1,
             "reviews_number" => 08
         ],
@@ -20281,7 +21193,7 @@ Bukit Indah
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/32788/images/sol/32788_logo_0_6690230.jpg"],
+            "gallery" => [""],
             "rating" => 3,
             "reviews_number" => 07
         ],
@@ -20299,7 +21211,7 @@ Bukit Indah
             "max_monthly_salary" => "22000.00",
             "currency" => "MYR",
             "url" => "https:\/\/www.ambition.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/7034/images/sol/7034_logo_0_814724.jpg"],
             "rating" => 4,
             "reviews_number" => 05
         ],
@@ -20340,7 +21252,7 @@ Bukit Indah
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/16765/images/sol/16765_logo_0_6606681.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/16765/images/sol/16765_logo_0_23719.jpg"],
             "rating" => 1,
             "reviews_number" => 04
         ],
@@ -20358,7 +21270,7 @@ Bukit Indah
             "max_monthly_salary" => "2600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.aameatshop.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/11784/images/sol/11784_logo_0_6965542.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/11784/images/sol/11784_logo_0_38524.jpg"],
             "rating" => 4,
             "reviews_number" => 02
         ],
@@ -20477,7 +21389,7 @@ Bukit Indah
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/13579/images/sol/13579_logo_0_465818.jpg"],
             "rating" => 4,
             "reviews_number" => 54
         ],
@@ -20528,7 +21440,7 @@ Bukit Indah
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/55439/images/sol/55439_logo_0_6910022.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/55439/images/sol/55439_logo_0_440793.jpg"],
             "rating" => 4,
             "reviews_number" => 53
         ],
@@ -20586,7 +21498,7 @@ TEL : +603-3176 6700 / 3176 3813
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.datasonic.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/26544/images/sol/26544_logo_0_6615713.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/26544/images/sol/26544_logo_0_41297.png"],
             "rating" => 4,
             "reviews_number" => 51
         ],
@@ -20604,7 +21516,7 @@ TEL : +603-3176 6700 / 3176 3813
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/48754/images/sol/48754_logo_0_62920.jpg"],
             "rating" => 4,
             "reviews_number" => 50
         ],
@@ -20641,7 +21553,7 @@ TEL : +603-3176 6700 / 3176 3813
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.yle.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/14766/images/sol/14766_logo_0_6753033.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/14766/images/sol/14766_logo_0_7569875.jpg"],
             "rating" => 1,
             "reviews_number" => 50
         ],
@@ -20659,7 +21571,7 @@ TEL : +603-3176 6700 / 3176 3813
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.recruitexpress.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/13658/images/sol/13658_logo_0_5818980.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13658/images/sol/13658_logo_0_99500.jpg"],
             "rating" => 3,
             "reviews_number" => 48
         ],
@@ -20677,7 +21589,7 @@ TEL : +603-3176 6700 / 3176 3813
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.broadland.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/17082/images/sol/17082_logo_0_7060398.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/17082/images/sol/17082_logo_0_14180.png"],
             "rating" => 2,
             "reviews_number" => 47
         ],
@@ -20735,7 +21647,7 @@ TEL : +603-3176 6700 / 3176 3813
             "max_monthly_salary" => "3300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.datasonic.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/26544/images/sol/26544_logo_0_6615713.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/26544/images/sol/26544_logo_0_41297.png"],
             "rating" => 4,
             "reviews_number" => 42
         ],
@@ -20878,7 +21790,7 @@ TEL : +603-3176 6700 / 3176 3813
             "max_monthly_salary" => "4800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/27382/images/sol/27382_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/27382/images/sol/27382_logo_0_62039.jpg"],
             "rating" => 2,
             "reviews_number" => 39
         ],
@@ -21037,7 +21949,7 @@ TEL : +603-3176 6700 / 3176 3813
             "max_monthly_salary" => "800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/39759/images/sol/39759_logo_0_33550.jpg"],
             "rating" => 4,
             "reviews_number" => 24
         ],
@@ -21100,7 +22012,7 @@ TEL : +603-3176 6700 / 3176 3813
             "id" => 3287256,
             "latitude" => 3.144310,
             "longitude" => 101.424713,
-            "title" => "Intern",
+            "title" => "Internship",
             "location" => "No 1, Jalan Bumbung U8/90, Seksyen U8 Perindustrian Bukit Jelutong Shah Alam 41050",
             "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
             "description" => "<ul>
@@ -21302,7 +22214,7 @@ Supervision and Administration<\/div>
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/87780/images/sol/87780_logo_0_7438576.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/87780/images/sol/87780_logo_0_240549.jpg"],
             "rating" => 1,
             "reviews_number" => 03
         ],
@@ -21407,7 +22319,7 @@ Supervision and Administration<\/div>
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/57456/images/sol/57456_logo_0_6890663.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/57456/images/sol/57456_logo_0_7007364.jpg"],
             "rating" => 1,
             "reviews_number" => 59
         ],
@@ -21451,7 +22363,7 @@ Supervision and Administration<\/div>
             "max_monthly_salary" => "2400.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/40/images/sol/40_logo_0_7471278.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/40/images/sol/40_logo_0_7471370.jpg"],
             "rating" => 1,
             "reviews_number" => 57
         ],
@@ -21502,7 +22414,7 @@ Supervision and Administration<\/div>
             "max_monthly_salary" => "1400.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6232/images/sol/6232_logo_0_6214119.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/6232/images/sol/6232_logo_0_87069.jpg"],
             "rating" => 2,
             "reviews_number" => 51
         ],
@@ -21520,7 +22432,7 @@ Supervision and Administration<\/div>
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/50731/images/sol/50731_logo_0_7245489.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/50731/images/sol/50731_logo_0_7040570.jpg"],
             "rating" => 1,
             "reviews_number" => 49
         ],
@@ -21538,7 +22450,7 @@ Supervision and Administration<\/div>
             "max_monthly_salary" => "1500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.recruitexpress.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/13658/images/sol/13658_logo_0_5818980.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13658/images/sol/13658_logo_0_99500.jpg"],
             "rating" => 3,
             "reviews_number" => 48
         ],
@@ -21556,7 +22468,7 @@ Supervision and Administration<\/div>
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/17671/images/sol/17671_logo_0_7693763.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/17671/images/sol/17671_logo_0_832321.jpg"],
             "rating" => 1,
             "reviews_number" => 47
         ],
@@ -21574,7 +22486,7 @@ Supervision and Administration<\/div>
             "max_monthly_salary" => "4900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/30933/images/sol/30933_logo_0.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/30933/images/sol/30933_logo_0_78901.png"],
             "rating" => 3,
             "reviews_number" => 46
         ],
@@ -21619,7 +22531,7 @@ Supervision and Administration<\/div>
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/29911/images/sol/29911_logo_0_6877353.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/29911/images/sol/29911_logo_0_7120463.jpg"],
             "rating" => 1,
             "reviews_number" => 41
         ],
@@ -21637,7 +22549,7 @@ Supervision and Administration<\/div>
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/fittersgroup.com",
-            "gallery" => ["https://siva.jsstatic.com/my/5621/images/sol/5621_logo_0_75324.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/5621/images/sol/5621_logo_0_7405066.jpg"],
             "rating" => 1,
             "reviews_number" => 39
         ],
@@ -21709,7 +22621,7 @@ Supervision and Administration<\/div>
             "max_monthly_salary" => "2600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.rwgenting.com\/career\/",
-            "gallery" => ["https://siva.jsstatic.com/my/90385/images/sol/90385_logo_0_7710579.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/90385/images/sol/90385_logo_0_30242.jpg"],
             "rating" => 1,
             "reviews_number" => 05
         ],
@@ -21727,7 +22639,7 @@ Supervision and Administration<\/div>
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.rwgenting.com\/career\/",
-            "gallery" => ["https://siva.jsstatic.com/my/90385/images/sol/90385_logo_0_7710579.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/90385/images/sol/90385_logo_0_30242.jpg"],
             "rating" => 1,
             "reviews_number" => 04
         ],
@@ -21745,7 +22657,7 @@ Supervision and Administration<\/div>
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.rwgenting.com\/career\/",
-            "gallery" => ["https://siva.jsstatic.com/my/90385/images/sol/90385_logo_0_7710579.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/90385/images/sol/90385_logo_0_30242.jpg"],
             "rating" => 1,
             "reviews_number" => 37
         ],
@@ -21763,7 +22675,7 @@ Supervision and Administration<\/div>
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.rwgenting.com\/career\/",
-            "gallery" => ["https://siva.jsstatic.com/my/90385/images/sol/90385_logo_0_7710579.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/90385/images/sol/90385_logo_0_30242.jpg"],
             "rating" => 1,
             "reviews_number" => 34
         ],
@@ -21794,7 +22706,7 @@ Supervision and Administration<\/div>
             "max_monthly_salary" => "1000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.honestbee.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/106360/images/sol/106360_logo_0_101596.jpg"],
             "rating" => 1,
             "reviews_number" => 47
         ],
@@ -21854,7 +22766,7 @@ Supervision and Administration<\/div>
             "max_monthly_salary" => "1000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/149/images/sol/149_logo_0_6522759.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/149/images/sol/149_logo_0_51516.jpeg"],
             "rating" => 4,
             "reviews_number" => 08
         ],
@@ -21926,7 +22838,7 @@ Supervision and Administration<\/div>
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.pokbrothers.com",
-            "gallery" => ["https://siva.jsstatic.com/my/19431/images/sol/19431_logo_0_6725481.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19431/images/sol/19431_logo_0_707542.jpg"],
             "rating" => 1,
             "reviews_number" => 39
         ],
@@ -21944,7 +22856,7 @@ Supervision and Administration<\/div>
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.seh.my",
-            "gallery" => ["https://siva.jsstatic.com/my/24276/images/sol/24276_logo_0_7407467.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/24276/images/sol/24276_logo_0_63070.png"],
             "rating" => 1,
             "reviews_number" => 17
         ],
@@ -21968,7 +22880,7 @@ Malaysia
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sungeiwang.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/42365/images/sol/42365_logo_0_7208952.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/42365/images/sol/42365_logo_0_883770.jpg"],
             "rating" => 1,
             "reviews_number" => 07
         ],
@@ -22010,7 +22922,7 @@ Malaysia
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "http:\/\/asecro.com",
-            "gallery" => ["https://siva.jsstatic.com/my/89247/images/sol/89247_logo_0_7818998.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/89247/images/sol/89247_logo_0_27546.jpg"],
             "rating" => 2,
             "reviews_number" => 59
         ],
@@ -22028,7 +22940,7 @@ Malaysia
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/asecro.com",
-            "gallery" => ["https://siva.jsstatic.com/my/89247/images/sol/89247_logo_0_7818998.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/89247/images/sol/89247_logo_0_27546.jpg"],
             "rating" => 2,
             "reviews_number" => 56
         ],
@@ -22046,7 +22958,7 @@ Malaysia
             "max_monthly_salary" => "9000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/80826/images/sol/80826_logo_0_6721989.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/80826/images/sol/80826_logo_0_436373.png"],
             "rating" => 1,
             "reviews_number" => 42
         ],
@@ -22064,7 +22976,7 @@ Malaysia
             "max_monthly_salary" => "4800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/80826/images/sol/80826_logo_0_6721989.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/80826/images/sol/80826_logo_0_436373.png"],
             "rating" => 1,
             "reviews_number" => 40
         ],
@@ -22122,7 +23034,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/32788/images/sol/32788_logo_0_6690230.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/32788/images/sol/32788_logo_0_37828.jpg"],
             "rating" => 3,
             "reviews_number" => 13
         ],
@@ -22140,7 +23052,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.motorimage.net\/MY\/home\/",
-            "gallery" => ["https://siva.jsstatic.com/my/21700/images/sol/21700_logo_0_6711177.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/21700/images/sol/21700_logo_0_6755301.jpg"],
             "rating" => 1,
             "reviews_number" => 05
         ],
@@ -22179,7 +23091,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "3300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sinoflex.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/91681/images/sol/91681_logo_0_44605.jpg"],
             "rating" => 1,
             "reviews_number" => 05
         ],
@@ -22197,7 +23109,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/1796/images/sol/1796_logo_0_7264465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1796/images/sol/1796_logo_0_7264470.jpg"],
             "rating" => 1,
             "reviews_number" => 02
         ],
@@ -22215,7 +23127,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "4600.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/1796/images/sol/1796_logo_0_7264465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1796/images/sol/1796_logo_0_7264470.jpg"],
             "rating" => 1,
             "reviews_number" => 00
         ],
@@ -22233,7 +23145,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "6500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3101/images/sol/3101_logo_0_7455593.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3101/images/sol/3101_logo_0_7457502.jpg"],
             "rating" => 1,
             "reviews_number" => 00
         ],
@@ -22251,7 +23163,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/1796/images/sol/1796_logo_0_7264465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1796/images/sol/1796_logo_0_7264470.jpg"],
             "rating" => 1,
             "reviews_number" => 54
         ],
@@ -22330,7 +23242,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "9800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tastetradition.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/101209/images/sol/101209_logo_0_66867.jpg"],
             "rating" => 4,
             "reviews_number" => 51
         ],
@@ -22357,7 +23269,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/98103/images/sol/98103_logo_0_31551.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/98103/images/sol/98103_logo_0_996305.jpg"],
             "rating" => 3,
             "reviews_number" => 47
         ],
@@ -22391,7 +23303,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sinoflex.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/91681/images/sol/91681_logo_0_44605.jpg"],
             "rating" => 1,
             "reviews_number" => 46
         ],
@@ -22409,7 +23321,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "5600.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/15434/images/sol/15434_logo_0_7171688.jpg"],
+            "gallery" => [""],
             "rating" => 4,
             "reviews_number" => 45
         ],
@@ -22452,7 +23364,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/9022/images/sol/9022_logo_0_6418012.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9022/images/sol/9022_logo_0_98999.jpg"],
             "rating" => 2,
             "reviews_number" => 28
         ],
@@ -22470,7 +23382,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/1796/images/sol/1796_logo_0_7264465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1796/images/sol/1796_logo_0_7264470.jpg"],
             "rating" => 1,
             "reviews_number" => 28
         ],
@@ -22618,7 +23530,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.vab.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/93874/images/sol/93874_logo_0_49668.png"],
             "rating" => 4,
             "reviews_number" => 16
         ],
@@ -22763,7 +23675,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "25000.00",
             "currency" => "PHP",
             "url" => "http:\/\/www.maersk.com\/en",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/99754/images/sol/99754_logo_0_46580.jpg"],
             "rating" => 4,
             "reviews_number" => 07
         ],
@@ -22781,7 +23693,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "4800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/9022/images/sol/9022_logo_0_6418012.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9022/images/sol/9022_logo_0_98999.jpg"],
             "rating" => 2,
             "reviews_number" => 02
         ],
@@ -22799,7 +23711,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3604/images/sol/3604_logo_0_6725340.jpg"],
+            "gallery" => [""],
             "rating" => 4,
             "reviews_number" => 00
         ],
@@ -22836,7 +23748,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.alpsmedical.com",
-            "gallery" => ["https://siva.jsstatic.com/my/76682/images/sol/76682_logo_0_6606823.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/76682/images/sol/76682_logo_0_40915.jpg"],
             "rating" => 2,
             "reviews_number" => 00
         ],
@@ -22910,7 +23822,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/23552/images/sol/23552_logo_0_5685579.jpg"],
             "rating" => 2,
             "reviews_number" => 57
         ],
@@ -22928,7 +23840,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.vcsb.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/95401/images/sol/95401_logo_0_99600.png"],
             "rating" => 1,
             "reviews_number" => 56
         ],
@@ -22946,7 +23858,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/1021/images/sol/1021_logo_0_6956298.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1021/images/sol/1021_logo_0_65387.jpg"],
             "rating" => 1,
             "reviews_number" => 54
         ],
@@ -23018,7 +23930,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "6500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 43
         ],
@@ -23077,7 +23989,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "3800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.whitehorse.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/55723/images/sol/55723_logo_0.jpg"],
             "rating" => 3,
             "reviews_number" => 39
         ],
@@ -23095,7 +24007,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "6500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 39
         ],
@@ -23153,7 +24065,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.mlink.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/5145/images/sol/5145_logo_0_7483434.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/5145/images/sol/5145_logo_0_7121747.jpg"],
             "rating" => 1,
             "reviews_number" => 39
         ],
@@ -23171,7 +24083,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "1900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 37
         ],
@@ -23226,7 +24138,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3478/images/sol/3478_logo_0_7277597.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3478/images/sol/3478_logo_0_7918729.jpg"],
             "rating" => 3,
             "reviews_number" => 35
         ],
@@ -23244,7 +24156,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "4800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ioigroup.com",
-            "gallery" => ["https://siva.jsstatic.com/my/92280/images/sol/92280_logo_0_7860617.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/92280/images/sol/92280_logo_0_7892958.jpg"],
             "rating" => 1,
             "reviews_number" => 35
         ],
@@ -23289,7 +24201,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ctoscredit.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/4671/images/sol/4671_logo_0_7809242.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/4671/images/sol/4671_logo_0_85100.png"],
             "rating" => 1,
             "reviews_number" => 35
         ],
@@ -23341,7 +24253,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "5600.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 34
         ],
@@ -23380,7 +24292,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/29447/images/sol/29447_logo_0.gif"],
             "rating" => 2,
             "reviews_number" => 33
         ],
@@ -23398,7 +24310,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "https:\/\/www.elken.com",
-            "gallery" => ["https://siva.jsstatic.com/my/8254/images/sol/8254_logo_0_6690489.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/8254/images/sol/8254_logo_0_58703.jpg"],
             "rating" => 4,
             "reviews_number" => 33
         ],
@@ -23416,7 +24328,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "2200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/1021/images/sol/1021_logo_0_6956298.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1021/images/sol/1021_logo_0_65387.jpg"],
             "rating" => 1,
             "reviews_number" => 32
         ],
@@ -23452,7 +24364,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 28
         ],
@@ -23470,7 +24382,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 25
         ],
@@ -23516,7 +24428,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/13579/images/sol/13579_logo_0_465818.jpg"],
             "rating" => 4,
             "reviews_number" => 23
         ],
@@ -23617,7 +24529,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.gms.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/3829/images/sol/3829_logo_0_6808760.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3829/images/sol/3829_logo_0_772263.jpg"],
             "rating" => 4,
             "reviews_number" => 20
         ],
@@ -23635,7 +24547,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 20
         ],
@@ -23688,7 +24600,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/australasiarecycling.com\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/84762/images/sol/84762_logo_0_524010.jpg"],
             "rating" => 2,
             "reviews_number" => 15
         ],
@@ -23800,7 +24712,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.advansia.com",
-            "gallery" => ["https://siva.jsstatic.com/my/52504/images/sol/52504_logo_0_70622.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/52504/images/sol/52504_logo_0_62157.jpg"],
             "rating" => 4,
             "reviews_number" => 07
         ],
@@ -23841,7 +24753,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.alpsmedical.com",
-            "gallery" => ["https://siva.jsstatic.com/my/76682/images/sol/76682_logo_0_6606823.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/76682/images/sol/76682_logo_0_40915.jpg"],
             "rating" => 2,
             "reviews_number" => 06
         ],
@@ -23859,7 +24771,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6810/images/sol/6810_logo_0_6614887.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 05
         ],
@@ -23877,7 +24789,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/86337/images/sol/86337_logo_0_7286737.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/86337/images/sol/86337_logo_0_71670.jpg"],
             "rating" => 2,
             "reviews_number" => 04
         ],
@@ -23900,7 +24812,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.chinherr.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/38825/images/sol/38825_logo_0_74994.jpg"],
             "rating" => 1,
             "reviews_number" => 03
         ],
@@ -23918,7 +24830,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "3900.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ambankgroup.com\/eng\/Business\/InvestmentBanking\/Pages\/default.aspx",
-            "gallery" => ["https://siva.jsstatic.com/my/43100/images/sol/43100_logo_0_46641.png"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 00
         ],
@@ -23936,7 +24848,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/23552/images/sol/23552_logo_0_5685579.jpg"],
             "rating" => 2,
             "reviews_number" => 59
         ],
@@ -23954,7 +24866,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.klook.com",
-            "gallery" => ["https://siva.jsstatic.com/my/101791/images/sol/101791_logo_0_62262.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/101791/images/sol/101791_logo_0_956313.jpg"],
             "rating" => 1,
             "reviews_number" => 59
         ],
@@ -23992,7 +24904,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.gstsupport.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/94583/images/sol/94583_logo_0_33031.png"],
             "rating" => 3,
             "reviews_number" => 58
         ],
@@ -24031,7 +24943,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.synerchem.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/13965/images/sol/13965_logo_0_6680329.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13965/images/sol/13965_logo_0_7160379.jpg"],
             "rating" => 1,
             "reviews_number" => 53
         ],
@@ -24060,7 +24972,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "500.00",
             "currency" => "MYR",
             "url" => "http:\/\/farringdongroup.com",
-            "gallery" => ["https://siva.jsstatic.com/my/36731/images/sol/36731_logo_0_6981716.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/36731/images/sol/36731_logo_0_7016978.jpg"],
             "rating" => 1,
             "reviews_number" => 53
         ],
@@ -24078,7 +24990,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.recruitexpress.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/13658/images/sol/13658_logo_0_5818980.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13658/images/sol/13658_logo_0_99500.jpg"],
             "rating" => 3,
             "reviews_number" => 52
         ],
@@ -24096,7 +25008,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "3900.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.aodesign.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/83111/images/sol/83111_logo_0_7937640.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/83111/images/sol/83111_logo_0_42302.png"],
             "rating" => 1,
             "reviews_number" => 52
         ],
@@ -24136,7 +25048,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.jcyinternational.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/9017/images/sol/9017_logo_0_7183843.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9017/images/sol/9017_logo_0.gif"],
             "rating" => 2,
             "reviews_number" => 52
         ],
@@ -24166,7 +25078,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "2700.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.techtra.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/19133/images/sol/19133_logo_0_88258.jpg"],
             "rating" => 3,
             "reviews_number" => 50
         ],
@@ -24209,7 +25121,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.bbraun.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/7783/images/sol/7783_logo_0_6690404.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/7783/images/sol/7783_logo_0_6690409.jpg"],
             "rating" => 3,
             "reviews_number" => 50
         ],
@@ -24259,7 +25171,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.vivo.my",
-            "gallery" => ["https://siva.jsstatic.com/my/87350/images/sol/87350_logo_0_7401853.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/87350/images/sol/87350_logo_0_288190.jpg"],
             "rating" => 1,
             "reviews_number" => 49
         ],
@@ -24277,7 +25189,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/15427/images/sol/15427_logo_0_7469274.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/15427/images/sol/15427_logo_0_7396446.jpg"],
             "rating" => 2,
             "reviews_number" => 48
         ],
@@ -24416,7 +25328,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.capitagrp.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/107111/images/sol/107111_logo_0_813665.png"],
             "rating" => 1,
             "reviews_number" => 44
         ],
@@ -24459,7 +25371,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.bbraun.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/7783/images/sol/7783_logo_0_6690404.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/7783/images/sol/7783_logo_0_6690409.jpg"],
             "rating" => 3,
             "reviews_number" => 43
         ],
@@ -24477,7 +25389,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "5500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.adecco.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/100347/images/sol/100347_logo_0_814157.jpg"],
             "rating" => 2,
             "reviews_number" => 41
         ],
@@ -24531,7 +25443,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.pkfert-sk.com.my\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/18291/images/sol/18291_logo_0_98639.jpg"],
             "rating" => 1,
             "reviews_number" => 36
         ],
@@ -24597,7 +25509,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.bbraun.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/7783/images/sol/7783_logo_0_6690404.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/7783/images/sol/7783_logo_0_6690409.jpg"],
             "rating" => 3,
             "reviews_number" => 29
         ],
@@ -24640,7 +25552,7 @@ Tel No : 03 8766 7831",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.dunham-bush.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/21098/images/sol/21098_logo_0_8928.jpeg"],
+            "gallery" => ["https://siva.jsstatic.com/my/21098/images/sol/21098_logo_0_7036621.jpg"],
             "rating" => 3,
             "reviews_number" => 29
         ],
@@ -24662,7 +25574,7 @@ Johor Darul Takzim",
             "max_monthly_salary" => "3400.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.rwgenting.com\/career\/",
-            "gallery" => ["https://siva.jsstatic.com/my/90385/images/sol/90385_logo_0_7710579.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/90385/images/sol/90385_logo_0_35812.jpg"],
             "rating" => 1,
             "reviews_number" => 27
         ],
@@ -24714,7 +25626,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.higherhub.com\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/106277/images/sol/106277_logo_0_668814.jpg"],
             "rating" => 2,
             "reviews_number" => 25
         ],
@@ -24749,7 +25661,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.worldcloudventures.com",
-            "gallery" => ["https://siva.jsstatic.com/my/51114/images/sol/51114_logo_0_6905164.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/51114/images/sol/51114_logo_0_85723.jpg"],
             "rating" => 4,
             "reviews_number" => 23
         ],
@@ -24869,7 +25781,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.anamuslimshop.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/105623/images/sol/105623_logo_0_16457.jpg"],
             "rating" => 3,
             "reviews_number" => 14
         ],
@@ -24936,7 +25848,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.vilor.com\/tech",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/101264/images/sol/101264_logo_0_73381.png"],
             "rating" => 4,
             "reviews_number" => 12
         ],
@@ -24974,7 +25886,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.penpetroleum.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/9344/images/sol/9344_logo_0_6905079.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9344/images/sol/9344_logo_0_7523124.jpg"],
             "rating" => 4,
             "reviews_number" => 07
         ],
@@ -25007,7 +25919,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/33644/images/sol/33644_logo_0_524211.jpg"],
             "rating" => 4,
             "reviews_number" => 06
         ],
@@ -25200,7 +26112,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.adecco.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/100347/images/sol/100347_logo_0_814157.jpg"],
             "rating" => 2,
             "reviews_number" => 58
         ],
@@ -25218,7 +26130,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ambankgroup.com\/eng\/Business\/InvestmentBanking\/Pages\/default.aspx",
-            "gallery" => ["https://siva.jsstatic.com/my/43100/images/sol/43100_logo_0_46641.png"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 55
         ],
@@ -25272,7 +26184,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "http:\/\/tcie.com.my\/site\/",
-            "gallery" => ["https://siva.jsstatic.com/my/3683/images/sol/3683_logo_0_7957140.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3683/images/sol/3683_logo_0_7927555.jpg"],
             "rating" => 3,
             "reviews_number" => 52
         ],
@@ -25426,7 +26338,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "700.00",
             "currency" => "MYR",
             "url" => "https:\/\/www.pinknproper.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/105973/images/sol/105973_logo_0_450135.jpg"],
             "rating" => 3,
             "reviews_number" => 45
         ],
@@ -25462,7 +26374,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.creden.com",
-            "gallery" => ["https://siva.jsstatic.com/my/8011/images/sol/8011_logo_0_6860139.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/8011/images/sol/8011_logo_0_65723.jpg"],
             "rating" => 1,
             "reviews_number" => 43
         ],
@@ -25620,7 +26532,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.stream-environment.com",
-            "gallery" => ["https://siva.jsstatic.com/my/7413/images/sol/7413_logo_0_6882994.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/7413/images/sol/7413_logo_0_37020.png"],
             "rating" => 3,
             "reviews_number" => 33
         ],
@@ -25674,7 +26586,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.spind.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/57580/images/sol/57580_logo_0_7962087.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/57580/images/sol/57580_logo_0_57088.jpg"],
             "rating" => 1,
             "reviews_number" => 27
         ],
@@ -25720,7 +26632,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "3400.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/92045/images/sol/92045_logo_0_7850655.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/92045/images/sol/92045_logo_0_7850676.jpg"],
             "rating" => 1,
             "reviews_number" => 24
         ],
@@ -25769,7 +26681,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "1600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.veoliawaterst-sea.com",
-            "gallery" => ["https://siva.jsstatic.com/my/691/images/sol/691_logo_0_6977737.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/691/images/sol/691_logo_0_78165.jpg"],
             "rating" => 1,
             "reviews_number" => 24
         ],
@@ -25816,7 +26728,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tecsys.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/3050/images/sol/3050_logo_0_6673304.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3050/images/sol/3050_logo_0_6963606.jpg"],
             "rating" => 1,
             "reviews_number" => 22
         ],
@@ -25834,7 +26746,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "5400.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/92045/images/sol/92045_logo_0_7850655.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/92045/images/sol/92045_logo_0_7850676.jpg"],
             "rating" => 1,
             "reviews_number" => 21
         ],
@@ -25852,7 +26764,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "3500.00",
             "currency" => "SGD",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/94650/images/sol/94650_logo_0_25659.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/94650/images/sol/94650_logo_0_52889.jpg"],
             "rating" => 1,
             "reviews_number" => 21
         ],
@@ -25897,7 +26809,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tecsys.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/3050/images/sol/3050_logo_0_6673304.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3050/images/sol/3050_logo_0_6963606.jpg"],
             "rating" => 1,
             "reviews_number" => 21
         ],
@@ -25915,7 +26827,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/2952/images/sol/2952_logo_0_55059.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2952/images/sol/2952_logo_0_7819539.jpg"],
             "rating" => 2,
             "reviews_number" => 20
         ],
@@ -25951,7 +26863,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 16
         ],
@@ -25979,7 +26891,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sycalberhad.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/33788/images/sol/33788_logo_0_7016846.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/33788/images/sol/33788_logo_0_7463389.jpg"],
             "rating" => 3,
             "reviews_number" => 11
         ],
@@ -25987,7 +26899,7 @@ Internship Allowance will be given.<br \/>
             "id" => 3286448,
             "latitude" => 5.312366,
             "longitude" => 100.298545,
-            "title" => "Engineering Assistant",
+            "title" => "Assistant",
             "location" => "Bayan Lepas, Penang, Malaysia",
             "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
             "description" => "<ul>
@@ -26018,7 +26930,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/40/images/sol/40_logo_0_7471278.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/40/images/sol/40_logo_0_7471370.jpg"],
             "rating" => 1,
             "reviews_number" => 11
         ],
@@ -26072,7 +26984,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/9902/images/sol/9902_logo_0_6732201.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9902/images/sol/9902_logo_0_7847221.jpg"],
             "rating" => 2,
             "reviews_number" => 06
         ],
@@ -26118,7 +27030,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.dftracker.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/40467/images/sol/40467_logo_0_6891674.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/40467/images/sol/40467_logo_0_46900.png"],
             "rating" => 2,
             "reviews_number" => 56
         ],
@@ -26136,7 +27048,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/71995/images/sol/71995_logo_0_447152.png"],
             "rating" => 1,
             "reviews_number" => 56
         ],
@@ -26175,7 +27087,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.dftracker.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/40467/images/sol/40467_logo_0_6891674.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/40467/images/sol/40467_logo_0_46900.png"],
             "rating" => 2,
             "reviews_number" => 55
         ],
@@ -26202,7 +27114,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tsgroup.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/21547/images/sol/21547_logo_0_53782.jpg"],
             "rating" => 2,
             "reviews_number" => 54
         ],
@@ -26294,7 +27206,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.stansall.com",
-            "gallery" => ["https://siva.jsstatic.com/my/23484/images/sol/23484_logo_0_6965533.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/23484/images/sol/23484_logo_0_69205.jpg"],
             "rating" => 4,
             "reviews_number" => 46
         ],
@@ -26312,7 +27224,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/2529/images/sol/2529_logo_0_6705016.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2529/images/sol/2529_logo_0_287518.png"],
             "rating" => 4,
             "reviews_number" => 46
         ],
@@ -26348,7 +27260,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "1700.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.luckyfrozen.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/34502/images/sol/34502_logo_0.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/34502/images/sol/34502_logo_0_56883.jpg"],
             "rating" => 2,
             "reviews_number" => 41
         ],
@@ -26374,7 +27286,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.m-cube.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/40985/images/sol/40985_logo_0.jpg"],
             "rating" => 1,
             "reviews_number" => 40
         ],
@@ -26392,7 +27304,7 @@ Internship Allowance will be given.<br \/>
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.pbrealty.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/14239/images/sol/14239_logo_0_7080382.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/14239/images/sol/14239_logo_0_8034452.jpg"],
             "rating" => 4,
             "reviews_number" => 39
         ],
@@ -26430,7 +27342,7 @@ Leisure Farm Resort, Jalan Peranginan, Leisure Farm 81560, Gelang Patah, Johor M
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.leisurefarm.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/6201/images/sol/6201_logo_0_7190213.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/6201/images/sol/6201_logo_0_57240.jpg"],
             "rating" => 1,
             "reviews_number" => 34
         ],
@@ -26448,7 +27360,7 @@ Leisure Farm Resort, Jalan Peranginan, Leisure Farm 81560, Gelang Patah, Johor M
             "max_monthly_salary" => "5600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.internationalsos.com",
-            "gallery" => ["https://siva.jsstatic.com/my/3662/images/sol/3662_logo_0_6907887.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3662/images/sol/3662_logo_0_8018277.jpg"],
             "rating" => 2,
             "reviews_number" => 31
         ],
@@ -26466,7 +27378,7 @@ Leisure Farm Resort, Jalan Peranginan, Leisure Farm 81560, Gelang Patah, Johor M
             "max_monthly_salary" => "3400.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 30
         ],
@@ -26502,7 +27414,7 @@ Leisure Farm Resort, Jalan Peranginan, Leisure Farm 81560, Gelang Patah, Johor M
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 25
         ],
@@ -26538,7 +27450,7 @@ Leisure Farm Resort, Jalan Peranginan, Leisure Farm 81560, Gelang Patah, Johor M
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.gempakstarz.com",
-            "gallery" => ["https://siva.jsstatic.com/my/37006/images/sol/37006_logo_0_6773905.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/37006/images/sol/37006_logo_0_96187.png"],
             "rating" => 1,
             "reviews_number" => 24
         ],
@@ -26614,7 +27526,7 @@ Leisure Farm Resort, Jalan Peranginan, Leisure Farm 81560, Gelang Patah, Johor M
             "max_monthly_salary" => "3400.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.baba.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/17661/images/sol/17661_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/17661/images/sol/17661_logo_0_8027281.jpg"],
             "rating" => 1,
             "reviews_number" => 21
         ],
@@ -26667,7 +27579,7 @@ Leisure Farm Resort, Jalan Peranginan, Leisure Farm 81560, Gelang Patah, Johor M
             "max_monthly_salary" => "10000000.00",
             "currency" => "IDR",
             "url" => "http:\/\/www.Jesstechnology.com",
-            "gallery" => ["https://siva.jsstatic.com/my/60040/images/sol/60040_logo_0_6944679.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/60040/images/sol/60040_logo_0_6944681.jpg"],
             "rating" => 1,
             "reviews_number" => 17
         ],
@@ -26685,7 +27597,7 @@ Leisure Farm Resort, Jalan Peranginan, Leisure Farm 81560, Gelang Patah, Johor M
             "max_monthly_salary" => "3400.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.recruitexpress.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/13658/images/sol/13658_logo_0_5818980.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13658/images/sol/13658_logo_0_99500.jpg"],
             "rating" => 3,
             "reviews_number" => 11
         ],
@@ -26739,7 +27651,7 @@ Leisure Farm Resort, Jalan Peranginan, Leisure Farm 81560, Gelang Patah, Johor M
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.lovelydisabledhome.com",
-            "gallery" => ["https://siva.jsstatic.com/my/92290/images/sol/92290_logo_0_7854011.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/92290/images/sol/92290_logo_0_7854316.jpg"],
             "rating" => 1,
             "reviews_number" => 02
         ],
@@ -26785,7 +27697,7 @@ Leisure Farm Resort, Jalan Peranginan, Leisure Farm 81560, Gelang Patah, Johor M
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6979/images/sol/6979_logo_0_5724341.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/6979/images/sol/6979_logo_0_959247.png"],
             "rating" => 4,
             "reviews_number" => 46
         ],
@@ -26803,7 +27715,7 @@ Leisure Farm Resort, Jalan Peranginan, Leisure Farm 81560, Gelang Patah, Johor M
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.smilebaydental.com",
-            "gallery" => ["https://siva.jsstatic.com/my/98793/images/sol/98793_logo_0_17634.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/98793/images/sol/98793_logo_0_54425.png"],
             "rating" => 3,
             "reviews_number" => 44
         ],
@@ -26857,7 +27769,7 @@ Leisure Farm Resort, Jalan Peranginan, Leisure Farm 81560, Gelang Patah, Johor M
             "max_monthly_salary" => "3800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/94359/images/sol/94359_logo_0_941872.jpg"],
             "rating" => 4,
             "reviews_number" => 32
         ],
@@ -26875,7 +27787,7 @@ Leisure Farm Resort, Jalan Peranginan, Leisure Farm 81560, Gelang Patah, Johor M
             "max_monthly_salary" => "124000.00",
             "currency" => "JPY",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/89105/images/sol/89105_logo_0_7577233.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/89105/images/sol/89105_logo_0_7855558.jpg"],
             "rating" => 1,
             "reviews_number" => 31
         ],
@@ -26893,7 +27805,7 @@ Leisure Farm Resort, Jalan Peranginan, Leisure Farm 81560, Gelang Patah, Johor M
             "max_monthly_salary" => "1500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/79554/images/sol/79554_logo_0_6678483.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/79554/images/sol/79554_logo_0_611540.jpg"],
             "rating" => 4,
             "reviews_number" => 30
         ],
@@ -26932,7 +27844,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "1700.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.mayflowercarrental.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/3406/images/sol/3406_logo_0_7562979.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3406/images/sol/3406_logo_0_71720.png"],
             "rating" => 1,
             "reviews_number" => 20
         ],
@@ -26968,7 +27880,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_97398.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_52835.jpg"],
             "rating" => 1,
             "reviews_number" => 54
         ],
@@ -26986,7 +27898,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.kimlun.com",
-            "gallery" => ["https://siva.jsstatic.com/my/12994/images/sol/12994_logo_0_9438.jpeg"],
+            "gallery" => ["https://siva.jsstatic.com/my/12994/images/sol/12994_logo_0_618249.png"],
             "rating" => 4,
             "reviews_number" => 52
         ],
@@ -27004,7 +27916,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6979/images/sol/6979_logo_0_5724341.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/6979/images/sol/6979_logo_0_959247.png"],
             "rating" => 4,
             "reviews_number" => 48
         ],
@@ -27040,7 +27952,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sunway.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_41880.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_23968.png"],
             "rating" => 1,
             "reviews_number" => 41
         ],
@@ -27058,7 +27970,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_97398.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_40657.jpg"],
             "rating" => 1,
             "reviews_number" => 40
         ],
@@ -27094,7 +28006,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "1000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sunway.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_41880.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_23968.png"],
             "rating" => 1,
             "reviews_number" => 36
         ],
@@ -27112,7 +28024,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.khind.com",
-            "gallery" => ["https://siva.jsstatic.com/my/30237/images/sol/30237_logo_0_6632344.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/30237/images/sol/30237_logo_0_45980.png"],
             "rating" => 2,
             "reviews_number" => 30
         ],
@@ -27130,7 +28042,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "2700.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_97398.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_40657.jpg"],
             "rating" => 1,
             "reviews_number" => 28
         ],
@@ -27239,7 +28151,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.appleboxasia.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/4059/images/sol/4059_logo_0_722684.jpg"],
             "rating" => 4,
             "reviews_number" => 25
         ],
@@ -27257,7 +28169,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.luxchem.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/5997/images/sol/5997_logo_0_91103.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/5997/images/sol/5997_logo_0_58530.png"],
             "rating" => 2,
             "reviews_number" => 24
         ],
@@ -27318,7 +28230,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.asiaeurowines.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/13217/images/sol/13217_logo_0_6861709.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13217/images/sol/13217_logo_0_7770906.jpg"],
             "rating" => 2,
             "reviews_number" => 14
         ],
@@ -27388,7 +28300,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.resortsworld.com",
-            "gallery" => ["https://siva.jsstatic.com/my/2801/images/sol/2801_logo_0_6876734.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2801/images/sol/2801_logo_0_7583665.jpg"],
             "rating" => 1,
             "reviews_number" => 10
         ],
@@ -27406,7 +28318,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.uob.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/2278/images/sol/2278_logo_0_71574.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2278/images/sol/2278_logo_0_79446.jpg"],
             "rating" => 3,
             "reviews_number" => 07
         ],
@@ -27532,7 +28444,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.matrixinvent.com",
-            "gallery" => ["https://siva.jsstatic.com/my/10108/images/sol/10108_logo_0_7090542.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/10108/images/sol/10108_logo_0_413239.jpg"],
             "rating" => 3,
             "reviews_number" => 04
         ],
@@ -27550,7 +28462,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/5402/images/sol/5402_logo_0_65315.jpg"],
             "rating" => 2,
             "reviews_number" => 03
         ],
@@ -27590,7 +28502,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "9000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.innity.com",
-            "gallery" => ["https://siva.jsstatic.com/my/9336/images/sol/9336_logo_0_64586.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9336/images/sol/9336_logo_0_310790.jpg"],
             "rating" => 1,
             "reviews_number" => 01
         ],
@@ -27628,7 +28540,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.mitcom.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/11256/images/sol/11256_logo_0_6608107.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/11256/images/sol/11256_logo_0_6616035.jpg"],
             "rating" => 1,
             "reviews_number" => 56
         ],
@@ -27700,7 +28612,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "3300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ganad.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/4947/images/sol/4947_logo_0_7037737.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/4947/images/sol/4947_logo_0_86203.png"],
             "rating" => 2,
             "reviews_number" => 52
         ],
@@ -27758,7 +28670,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.jcyinternational.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/9017/images/sol/9017_logo_0_7183843.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9017/images/sol/9017_logo_0.gif"],
             "rating" => 2,
             "reviews_number" => 51
         ],
@@ -27813,7 +28725,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.simtuition.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/35173/images/sol/35173_logo_0_6873764.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/35173/images/sol/35173_logo_0_89229.jpg"],
             "rating" => 3,
             "reviews_number" => 45
         ],
@@ -27831,7 +28743,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/askresources.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/19494/images/sol/19494_logo_0_7760841.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19494/images/sol/19494_logo_0_562815.png"],
             "rating" => 4,
             "reviews_number" => 42
         ],
@@ -27849,7 +28761,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/48194/images/sol/48194_logo_0.jpg"],
             "rating" => 4,
             "reviews_number" => 41
         ],
@@ -27934,7 +28846,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.euro-atlantic.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/105035/images/sol/105035_logo_0_12101.jpg"],
             "rating" => 1,
             "reviews_number" => 38
         ],
@@ -27952,7 +28864,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "5500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/36945/images/sol/36945_logo_0_7002901.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 38
         ],
@@ -28056,7 +28968,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/36945/images/sol/36945_logo_0_7002901.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 34
         ],
@@ -28099,7 +29011,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.euro-atlantic.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/105035/images/sol/105035_logo_0_12101.jpg"],
             "rating" => 1,
             "reviews_number" => 33
         ],
@@ -28173,7 +29085,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.everspark.com",
-            "gallery" => ["https://siva.jsstatic.com/my/7349/images/sol/7349_logo_0_6683265.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/7349/images/sol/7349_logo_0_7076427.jpg"],
             "rating" => 4,
             "reviews_number" => 30
         ],
@@ -28222,7 +29134,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.euro-atlantic.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/105035/images/sol/105035_logo_0_12101.jpg"],
             "rating" => 1,
             "reviews_number" => 27
         ],
@@ -28381,7 +29293,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "3300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/43189/images/sol/43189_logo_0_6688411.jpg"],
+            "gallery" => [""],
             "rating" => 4,
             "reviews_number" => 19
         ],
@@ -28399,7 +29311,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6353/images/sol/6353_logo_0_7316270.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/6353/images/sol/6353_logo_0_5053.jpeg"],
             "rating" => 3,
             "reviews_number" => 19
         ],
@@ -28417,7 +29329,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.aon.com\/malaysia\/",
-            "gallery" => ["https://siva.jsstatic.com/my/3205/images/sol/3205_logo_0_7151470.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3205/images/sol/3205_logo_0_917633.png"],
             "rating" => 1,
             "reviews_number" => 18
         ],
@@ -28555,7 +29467,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "2600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.luulla.com",
-            "gallery" => ["https://siva.jsstatic.com/my/58973/images/sol/58973_logo_0_6769189.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/58973/images/sol/58973_logo_0_6769712.jpg"],
             "rating" => 3,
             "reviews_number" => 09
         ],
@@ -28580,7 +29492,7 @@ Lot 6, Arrival Concourse, Main Terminal Building,Penang International Airport,
             "max_monthly_salary" => "1100.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/58434/images/sol/58434_logo_0_7120606.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/58434/images/sol/58434_logo_0_73061.jpg"],
             "rating" => 4,
             "reviews_number" => 07
         ],
@@ -28638,7 +29550,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "2700.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.leisurefarm.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/6201/images/sol/6201_logo_0_7190213.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/6201/images/sol/6201_logo_0_57240.jpg"],
             "rating" => 1,
             "reviews_number" => 04
         ],
@@ -28663,7 +29575,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "1100.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/58434/images/sol/58434_logo_0_7120606.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/58434/images/sol/58434_logo_0_73061.jpg"],
             "rating" => 4,
             "reviews_number" => 03
         ],
@@ -28715,7 +29627,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.euro-atlantic.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/105035/images/sol/105035_logo_0_12101.jpg"],
             "rating" => 1,
             "reviews_number" => 01
         ],
@@ -28740,7 +29652,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "1100.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/58434/images/sol/58434_logo_0_7120606.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/58434/images/sol/58434_logo_0_73061.jpg"],
             "rating" => 4,
             "reviews_number" => 01
         ],
@@ -28773,7 +29685,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/58929/images/sol/58929_logo_0_5922010.jpg"],
             "rating" => 4,
             "reviews_number" => 00
         ],
@@ -28902,7 +29814,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "2100.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.getha.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/35724/images/sol/35724_logo_0_7327868.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/35724/images/sol/35724_logo_0_5853581.jpg"],
             "rating" => 4,
             "reviews_number" => 55
         ],
@@ -28938,7 +29850,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "7800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www:mbfprinting.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/77909/images/sol/77909_logo_0_6609354.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/77909/images/sol/77909_logo_0_7552808.jpg"],
             "rating" => 4,
             "reviews_number" => 49
         ],
@@ -28992,7 +29904,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "3100.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tiongnam.com.my \/",
-            "gallery" => ["https://siva.jsstatic.com/my/1230/images/sol/1230_logo_0_6690670.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1230/images/sol/1230_logo_0_972424.jpg"],
             "rating" => 1,
             "reviews_number" => 44
         ],
@@ -29021,7 +29933,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.a-asign.com",
-            "gallery" => ["https://siva.jsstatic.com/my/44847/images/sol/44847_logo_0_6582841.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/44847/images/sol/44847_logo_0_42643.jpg"],
             "rating" => 2,
             "reviews_number" => 43
         ],
@@ -29123,7 +30035,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "5600.00",
             "currency" => "MYR",
             "url" => "http:\/\/valiram.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/24727/images/sol/24727_logo_0_6619675.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/24727/images/sol/24727_logo_0_7891001.jpg"],
             "rating" => 2,
             "reviews_number" => 37
         ],
@@ -29199,7 +30111,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.innogen.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/13272/images/sol/13272_logo_0_7121840.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13272/images/sol/13272_logo_0_55497.jpg"],
             "rating" => 2,
             "reviews_number" => 35
         ],
@@ -29217,7 +30129,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/13579/images/sol/13579_logo_0_465818.jpg"],
             "rating" => 4,
             "reviews_number" => 35
         ],
@@ -29265,7 +30177,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.anamuslimshop.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/105623/images/sol/105623_logo_0_16457.jpg"],
             "rating" => 3,
             "reviews_number" => 32
         ],
@@ -29389,7 +30301,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "2700.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.symbiomed.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/44245/images/sol/44245_logo_0.png"],
             "rating" => 1,
             "reviews_number" => 28
         ],
@@ -29407,7 +30319,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.careers.dyson.com",
-            "gallery" => ["https://siva.jsstatic.com/my/1370/images/sol/1370_logo_0_87426.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 27
         ],
@@ -29425,7 +30337,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "1200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.oleon.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/36814/images/sol/36814_logo_0_7276721.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/36814/images/sol/36814_logo_0.gif"],
             "rating" => 4,
             "reviews_number" => 22
         ],
@@ -29471,7 +30383,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/13891/images/sol/13891_logo_0_6963407.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13891/images/sol/13891_logo_0_7614346.jpg"],
             "rating" => 1,
             "reviews_number" => 20
         ],
@@ -29513,7 +30425,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "5500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/7719/images/sol/7719_logo_0_6919674.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/7719/images/sol/7719_logo_0_182655.jpg"],
             "rating" => 4,
             "reviews_number" => 18
         ],
@@ -29531,7 +30443,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.keystonefoods.com",
-            "gallery" => ["https://siva.jsstatic.com/my/20997/images/sol/20997_logo_0_6779771.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/20997/images/sol/20997_logo_0_35212.png"],
             "rating" => 2,
             "reviews_number" => 18
         ],
@@ -29556,7 +30468,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "1100.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/58434/images/sol/58434_logo_0_7120606.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/58434/images/sol/58434_logo_0_73061.jpg"],
             "rating" => 4,
             "reviews_number" => 16
         ],
@@ -29574,7 +30486,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.qdos.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/9668/images/sol/9668_logo_0_7495556.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9668/images/sol/9668_logo_0_7495733.jpg"],
             "rating" => 3,
             "reviews_number" => 13
         ],
@@ -29592,7 +30504,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/8494/images/sol/8494_logo_0_6677738.jpg"],
+            "gallery" => [""],
             "rating" => 4,
             "reviews_number" => 12
         ],
@@ -29627,7 +30539,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/36014/images/sol/36014_logo_0_659139.jpg"],
             "rating" => 4,
             "reviews_number" => 11
         ],
@@ -29682,7 +30594,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/71995/images/sol/71995_logo_0_447152.png"],
             "rating" => 1,
             "reviews_number" => 59
         ],
@@ -29712,7 +30624,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/100456/images/sol/100456_logo_0_18255.jpg"],
             "rating" => 1,
             "reviews_number" => 58
         ],
@@ -29730,7 +30642,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "https:\/\/www.unilever.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/2162/images/sol/2162_logo_0_7751318.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2162/images/sol/2162_logo_0_8600.jpeg"],
             "rating" => 2,
             "reviews_number" => 54
         ],
@@ -29748,7 +30660,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/29407/images/sol/29407_logo_0_7166253.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/29407/images/sol/29407_logo_0_7673897.jpg"],
             "rating" => 2,
             "reviews_number" => 54
         ],
@@ -29788,7 +30700,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/64747/images/sol/64747_logo_0_7023178.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/64747/images/sol/64747_logo_0_7247545.jpg"],
             "rating" => 2,
             "reviews_number" => 52
         ],
@@ -29806,7 +30718,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "5200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.harveynorman.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/12338/images/sol/12338_logo_0_7960177.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/12338/images/sol/12338_logo_0_64516.jpg"],
             "rating" => 3,
             "reviews_number" => 47
         ],
@@ -29824,7 +30736,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "6300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.careers.dyson.com",
-            "gallery" => ["https://siva.jsstatic.com/my/1370/images/sol/1370_logo_0_87426.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 47
         ],
@@ -29842,7 +30754,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/67645/images/sol/67645_logo_0_860354.jpg"],
             "rating" => 1,
             "reviews_number" => 38
         ],
@@ -29877,7 +30789,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.allied-advantage.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/17814/images/sol/17814_logo_0.gif"],
             "rating" => 4,
             "reviews_number" => 37
         ],
@@ -29931,7 +30843,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "3300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6810/images/sol/6810_logo_0_6614887.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 36
         ],
@@ -30001,7 +30913,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "9000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.pmsecurities.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/8686/images/sol/8686_logo_0_6679699.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 25
         ],
@@ -30045,7 +30957,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/12599/images/sol/12599_logo_0_7097675.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/12599/images/sol/12599_logo_0_7883471.jpg"],
             "rating" => 4,
             "reviews_number" => 25
         ],
@@ -30089,7 +31001,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/lvcontrol.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/13860/images/sol/13860_logo_0_7003995.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13860/images/sol/13860_logo_0_8022136.jpg"],
             "rating" => 1,
             "reviews_number" => 18
         ],
@@ -30134,7 +31046,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "7700.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/88392/images/sol/88392_logo_0_7518143.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/88392/images/sol/88392_logo_0_106444.png"],
             "rating" => 2,
             "reviews_number" => 14
         ],
@@ -30152,7 +31064,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tcim.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/3406/images/sol/3406_logo_0_7562979.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3406/images/sol/3406_logo_0_70268.jpg"],
             "rating" => 1,
             "reviews_number" => 12
         ],
@@ -30205,7 +31117,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.fagerdalagroup.com",
-            "gallery" => ["https://siva.jsstatic.com/my/9426/images/sol/9426_logo_0_7953505.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9426/images/sol/9426_logo_0_7953507.jpg"],
             "rating" => 1,
             "reviews_number" => 00
         ],
@@ -30223,7 +31135,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "3300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.rwgenting.com\/career\/",
-            "gallery" => ["https://siva.jsstatic.com/my/90385/images/sol/90385_logo_0_7710579.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/90385/images/sol/90385_logo_0_35812.jpg"],
             "rating" => 1,
             "reviews_number" => 58
         ],
@@ -30273,7 +31185,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "http:\/\/oz-marketing.com",
-            "gallery" => ["https://siva.jsstatic.com/my/30742/images/sol/30742_logo_0_7074032.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/30742/images/sol/30742_logo_0_741944.png"],
             "rating" => 2,
             "reviews_number" => 44
         ],
@@ -30291,7 +31203,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.luxchem.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/5997/images/sol/5997_logo_0_91103.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/5997/images/sol/5997_logo_0_58530.png"],
             "rating" => 2,
             "reviews_number" => 39
         ],
@@ -30327,7 +31239,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/apm-automotive.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/3683/images/sol/3683_logo_0_7957140.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3683/images/sol/3683_logo_0_8046962.jpg"],
             "rating" => 3,
             "reviews_number" => 20
         ],
@@ -30407,7 +31319,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.doremi.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/41745/images/sol/41745_logo_0_6886844.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/41745/images/sol/41745_logo_0_94116.jpg"],
             "rating" => 1,
             "reviews_number" => 23
         ],
@@ -30520,7 +31432,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.amtrustmobilesolutions.asia\/",
-            "gallery" => ["https://siva.jsstatic.com/my/16580/images/sol/16580_logo_0_6799022.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/16580/images/sol/16580_logo_0_19717.png"],
             "rating" => 1,
             "reviews_number" => 55
         ],
@@ -30571,7 +31483,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tofm.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/74665/images/sol/74665_logo_0_50255.png"],
             "rating" => 1,
             "reviews_number" => 07
         ],
@@ -30607,7 +31519,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.amano.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/5718/images/sol/5718_logo_0_5817872.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/5718/images/sol/5718_logo_0_33327.jpg"],
             "rating" => 3,
             "reviews_number" => 50
         ],
@@ -30653,7 +31565,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.zalora.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/63779/images/sol/63779_logo_0_6601317.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/63779/images/sol/63779_logo_0_7765341.jpg"],
             "rating" => 4,
             "reviews_number" => 50
         ],
@@ -30685,7 +31597,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "900.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.zalora.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/63779/images/sol/63779_logo_0_6601317.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/63779/images/sol/63779_logo_0_7765341.jpg"],
             "rating" => 4,
             "reviews_number" => 49
         ],
@@ -30744,7 +31656,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.uob.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/2278/images/sol/2278_logo_0_71574.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2278/images/sol/2278_logo_0_79446.jpg"],
             "rating" => 3,
             "reviews_number" => 34
         ],
@@ -30762,7 +31674,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/80108/images/sol/80108_logo_0_6999488.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/80108/images/sol/80108_logo_0_6999512.jpg"],
             "rating" => 3,
             "reviews_number" => 25
         ],
@@ -30867,8 +31779,8 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "min_monthly_salary" => "5000.00",
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
-            "url" => "http:\/\/isec.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/60618/images/sol/60618_logo_0_7347114.jpg"],
+            "url" => "http:\/\/www.isec.my\/",
+            "gallery" => ["https://siva.jsstatic.com/my/60618/images/sol/60618_logo_0_7906748.jpg"],
             "rating" => 3,
             "reviews_number" => 11
         ],
@@ -30886,7 +31798,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/56486/images/sol/56486_logo_0_71302.jpg"],
             "rating" => 1,
             "reviews_number" => 56
         ],
@@ -30904,7 +31816,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.plexus.com",
-            "gallery" => ["https://siva.jsstatic.com/my/137/images/sol/137_logo_0_7716518.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/137/images/sol/137_logo_0_63794.jpg"],
             "rating" => 2,
             "reviews_number" => 02
         ],
@@ -30922,7 +31834,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "5400.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.plexus.com",
-            "gallery" => ["https://siva.jsstatic.com/my/137/images/sol/137_logo_0_7716518.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/137/images/sol/137_logo_0_63794.jpg"],
             "rating" => 2,
             "reviews_number" => 02
         ],
@@ -30977,7 +31889,7 @@ Leisure Farm 81560, Gelang Patah, Johor Malaysia",
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/105963/images/sol/105963_logo_0_848692.jpg"],
             "rating" => 3,
             "reviews_number" => 46
         ],
@@ -31027,7 +31939,7 @@ Thank you&nbsp;<\/strong><\/div>
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.leprosystemberhad.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/106420/images/sol/106420_logo_0_274478.jpg"],
             "rating" => 1,
             "reviews_number" => 05
         ],
@@ -31087,7 +31999,7 @@ Able to effectively and autonomously manage significant workloads<\/div>
             "max_monthly_salary" => "15000.00",
             "currency" => "MYR",
             "url" => "https:\/\/www.ambition.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/7034/images/sol/7034_logo_0_814724.jpg"],
             "rating" => 4,
             "reviews_number" => 48
         ],
@@ -31123,7 +32035,7 @@ Able to effectively and autonomously manage significant workloads<\/div>
             "max_monthly_salary" => "2600.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/9662/images/sol/9662_logo_0_6670361.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9662/images/sol/9662_logo_0_72810.jpg"],
             "rating" => 2,
             "reviews_number" => 40
         ],
@@ -31200,7 +32112,7 @@ Location: KL<\/div>
             "max_monthly_salary" => "11200.00",
             "currency" => "MYR",
             "url" => "http:\/\/infodrive-solutions.com\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/105911/images/sol/105911_logo_0_740654.jpg"],
             "rating" => 1,
             "reviews_number" => 17
         ],
@@ -31263,7 +32175,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "3300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/8254/images/sol/8254_logo_0_6690489.jpg"],
+            "gallery" => [""],
             "rating" => 4,
             "reviews_number" => 01
         ],
@@ -31344,7 +32256,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "3800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.keystonefoods.com",
-            "gallery" => ["https://siva.jsstatic.com/my/20997/images/sol/20997_logo_0_6779771.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/20997/images/sol/20997_logo_0_35212.png"],
             "rating" => 2,
             "reviews_number" => 48
         ],
@@ -31398,7 +32310,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "https:\/\/www.ambition.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/7034/images/sol/7034_logo_0_814724.jpg"],
             "rating" => 4,
             "reviews_number" => 41
         ],
@@ -31434,7 +32346,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/43808/images/sol/43808_logo_0_6893266.jpg"],
+            "gallery" => [""],
             "rating" => 3,
             "reviews_number" => 39
         ],
@@ -31492,7 +32404,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/23552/images/sol/23552_logo_0_5685579.jpg"],
             "rating" => 2,
             "reviews_number" => 31
         ],
@@ -31510,7 +32422,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "6500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ireka.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/13232/images/sol/13232_logo_0_7366741.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13232/images/sol/13232_logo_0_58047.jpg"],
             "rating" => 2,
             "reviews_number" => 29
         ],
@@ -31528,7 +32440,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.singnan.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/12237/images/sol/12237_logo_0_6792851.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/12237/images/sol/12237_logo_0.gif"],
             "rating" => 2,
             "reviews_number" => 28
         ],
@@ -31546,7 +32458,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3882/images/sol/3882_logo_0_6649631.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3882/images/sol/3882_logo_0_345697.png"],
             "rating" => 2,
             "reviews_number" => 27
         ],
@@ -31582,7 +32494,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "3800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.mandibp.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/94678/images/sol/94678_logo_0_35940.jpg"],
             "rating" => 3,
             "reviews_number" => 26
         ],
@@ -31600,7 +32512,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3882/images/sol/3882_logo_0_6649631.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3882/images/sol/3882_logo_0_345697.png"],
             "rating" => 2,
             "reviews_number" => 25
         ],
@@ -31639,7 +32551,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "8500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/7262/images/sol/7262_logo_0_6712215.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/7262/images/sol/7262_logo_0_29353.jpg"],
             "rating" => 2,
             "reviews_number" => 25
         ],
@@ -31657,7 +32569,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3882/images/sol/3882_logo_0_6649631.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3882/images/sol/3882_logo_0_345697.png"],
             "rating" => 2,
             "reviews_number" => 24
         ],
@@ -31707,7 +32619,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.lavendergroup.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/13505/images/sol/13505_logo_0_7153099.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13505/images/sol/13505_logo_0_52545.jpg"],
             "rating" => 1,
             "reviews_number" => 21
         ],
@@ -31725,7 +32637,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/23552/images/sol/23552_logo_0_5685579.jpg"],
             "rating" => 2,
             "reviews_number" => 18
         ],
@@ -31743,7 +32655,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "8400.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/41948/images/sol/41948_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/41948/images/sol/41948_logo_0_480324.jpg"],
             "rating" => 3,
             "reviews_number" => 16
         ],
@@ -31761,7 +32673,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.unifloor.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/98220/images/sol/98220_logo_0_75480.jpg"],
             "rating" => 1,
             "reviews_number" => 15
         ],
@@ -31779,7 +32691,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.mycnsgroup.com",
-            "gallery" => ["https://siva.jsstatic.com/my/91762/images/sol/91762_logo_0_7843609.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/91762/images/sol/91762_logo_0_8047713.jpg"],
             "rating" => 2,
             "reviews_number" => 09
         ],
@@ -31797,7 +32709,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "5500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.cimb.com",
-            "gallery" => ["https://siva.jsstatic.com/my/5609/images/sol/5609_logo_0_6295366.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/5609/images/sol/5609_logo_0_11205.jpg"],
             "rating" => 4,
             "reviews_number" => 09
         ],
@@ -31815,7 +32727,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/23552/images/sol/23552_logo_0_5685579.jpg"],
             "rating" => 2,
             "reviews_number" => 09
         ],
@@ -31833,7 +32745,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/84195/images/sol/84195_logo_0_6979402.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/84195/images/sol/84195_logo_0_15072.jpg"],
             "rating" => 1,
             "reviews_number" => 03
         ],
@@ -31851,7 +32763,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "9900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/84195/images/sol/84195_logo_0_6979402.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/84195/images/sol/84195_logo_0_15072.jpg"],
             "rating" => 1,
             "reviews_number" => 59
         ],
@@ -31914,7 +32826,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "1200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.honestbee.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/106360/images/sol/106360_logo_0_101596.jpg"],
             "rating" => 1,
             "reviews_number" => 50
         ],
@@ -31932,7 +32844,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.innogen.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/13272/images/sol/13272_logo_0_7121840.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13272/images/sol/13272_logo_0_55497.jpg"],
             "rating" => 2,
             "reviews_number" => 47
         ],
@@ -31975,7 +32887,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/36688/images/sol/36688_logo_0_6894097.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/36688/images/sol/36688_logo_0_691066.jpg"],
             "rating" => 3,
             "reviews_number" => 47
         ],
@@ -31993,7 +32905,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/23552/images/sol/23552_logo_0_5685579.jpg"],
             "rating" => 2,
             "reviews_number" => 47
         ],
@@ -32056,7 +32968,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 45
         ],
@@ -32105,7 +33017,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 41
         ],
@@ -32141,7 +33053,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "9000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3683/images/sol/3683_logo_0_7957140.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3683/images/sol/3683_logo_0_7923845.jpg"],
             "rating" => 3,
             "reviews_number" => 37
         ],
@@ -32218,7 +33130,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.syg53.com",
-            "gallery" => ["https://siva.jsstatic.com/my/12216/images/sol/12216_logo_0.gif"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 34
         ],
@@ -32260,7 +33172,7 @@ Johor Bahru : Jalan Molek 3/20 Taman Molek Johor Bahru Johor Malaysia",
             "max_monthly_salary" => "2700.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.cuckoo.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/95935/images/sol/95935_logo_0_51287.jpg"],
             "rating" => 1,
             "reviews_number" => 33
         ],
@@ -32299,7 +33211,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "3300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/18800/images/sol/18800_logo_0_7450527.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/18800/images/sol/18800_logo_0.jpg"],
             "rating" => 1,
             "reviews_number" => 17
         ],
@@ -32317,7 +33229,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "7500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/23552/images/sol/23552_logo_0_5685579.jpg"],
             "rating" => 2,
             "reviews_number" => 16
         ],
@@ -32335,7 +33247,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.uistech.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/16065/images/sol/16065_logo_0_7150027.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/16065/images/sol/16065_logo_0_7422824.jpg"],
             "rating" => 1,
             "reviews_number" => 16
         ],
@@ -32353,7 +33265,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.taikogroup.net",
-            "gallery" => ["https://siva.jsstatic.com/my/3495/images/sol/3495_logo_0_94748.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3495/images/sol/3495_logo_0_48765.jpg"],
             "rating" => 1,
             "reviews_number" => 15
         ],
@@ -32371,7 +33283,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "1700.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/23552/images/sol/23552_logo_0_5685579.jpg"],
             "rating" => 2,
             "reviews_number" => 15
         ],
@@ -32408,7 +33320,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/21400/images/sol/21400_logo_0_7798426.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/21400/images/sol/21400_logo_0_73154.jpg"],
             "rating" => 1,
             "reviews_number" => 14
         ],
@@ -32444,7 +33356,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "12000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/71995/images/sol/71995_logo_0_447152.png"],
             "rating" => 1,
             "reviews_number" => 07
         ],
@@ -32522,7 +33434,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/11560/images/sol/11560_logo_0_7801637.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/11560/images/sol/11560_logo_0_836019.jpg"],
             "rating" => 1,
             "reviews_number" => 06
         ],
@@ -32540,7 +33452,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/24840/images/sol/24840_logo_0_39371.jpg"],
             "rating" => 1,
             "reviews_number" => 05
         ],
@@ -32558,7 +33470,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "10500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ireka.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/13232/images/sol/13232_logo_0_7366741.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13232/images/sol/13232_logo_0_58047.jpg"],
             "rating" => 2,
             "reviews_number" => 03
         ],
@@ -32642,7 +33554,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "2200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/25718/images/sol/25718_logo_0_7376820.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/25718/images/sol/25718_logo_0_976766.png"],
             "rating" => 3,
             "reviews_number" => 03
         ],
@@ -32701,7 +33613,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "3900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/11395/images/sol/11395_logo_0_7965361.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/11395/images/sol/11395_logo_0_92364.jpg"],
             "rating" => 1,
             "reviews_number" => 02
         ],
@@ -32741,7 +33653,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "https:\/\/www.dominos.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/3515/images/sol/3515_logo_0_6702467.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3515/images/sol/3515_logo_0_6702288.jpg"],
             "rating" => 1,
             "reviews_number" => 59
         ],
@@ -32806,7 +33718,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/106606/images/sol/106606_logo_0_559298.jpg"],
             "rating" => 1,
             "reviews_number" => 57
         ],
@@ -32843,7 +33755,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.alpine-td.com",
-            "gallery" => ["https://siva.jsstatic.com/my/93981/images/sol/93981_logo_0_8019910.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/93981/images/sol/93981_logo_0_98276.png"],
             "rating" => 1,
             "reviews_number" => 57
         ],
@@ -32885,7 +33797,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.vista.com.my\/why-vista-2\/workingvista\/",
-            "gallery" => ["https://siva.jsstatic.com/my/17471/images/sol/17471_logo_0_07120.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 56
         ],
@@ -32903,7 +33815,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.plexus.com",
-            "gallery" => ["https://siva.jsstatic.com/my/137/images/sol/137_logo_0_7716518.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/137/images/sol/137_logo_0_63794.jpg"],
             "rating" => 2,
             "reviews_number" => 56
         ],
@@ -32921,7 +33833,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "3800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 55
         ],
@@ -32975,7 +33887,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6773/images/sol/6773_logo_0_6850331.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/6773/images/sol/6773_logo_0_7750031.jpg"],
             "rating" => 3,
             "reviews_number" => 47
         ],
@@ -32993,7 +33905,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sumimetal.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/30311/images/sol/30311_logo_0_6885316.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/30311/images/sol/30311_logo_0_7326647.jpg"],
             "rating" => 1,
             "reviews_number" => 47
         ],
@@ -33011,7 +33923,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 45
         ],
@@ -33062,7 +33974,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "5600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ni.com\/penang\/careers",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/52548/images/sol/52548_logo_0_6269565.jpg"],
             "rating" => 3,
             "reviews_number" => 44
         ],
@@ -33080,7 +33992,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.optimumfluids.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/42815/images/sol/42815_logo_0_58776.png"],
             "rating" => 1,
             "reviews_number" => 43
         ],
@@ -33098,7 +34010,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 42
         ],
@@ -33116,7 +34028,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/23552/images/sol/23552_logo_0_5685579.jpg"],
             "rating" => 2,
             "reviews_number" => 36
         ],
@@ -33134,7 +34046,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "3900.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.amkor.com",
-            "gallery" => ["https://siva.jsstatic.com/my/14398/images/sol/14398_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/14398/images/sol/14398_logo_0_6931211.jpg"],
             "rating" => 3,
             "reviews_number" => 36
         ],
@@ -33152,7 +34064,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/19909/images/sol/19909_logo_0_6952343.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19909/images/sol/19909_logo_0_93460.png"],
             "rating" => 4,
             "reviews_number" => 36
         ],
@@ -33188,7 +34100,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 34
         ],
@@ -33206,7 +34118,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/40935/images/sol/40935_logo_0_488266.jpg"],
             "rating" => 1,
             "reviews_number" => 34
         ],
@@ -33224,7 +34136,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/61680/images/sol/61680_logo_0_7084122.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/61680/images/sol/61680_logo_0_7527168.jpg"],
             "rating" => 1,
             "reviews_number" => 33
         ],
@@ -33260,7 +34172,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ireka.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/13232/images/sol/13232_logo_0_7366741.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13232/images/sol/13232_logo_0_58047.jpg"],
             "rating" => 2,
             "reviews_number" => 32
         ],
@@ -33278,7 +34190,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/23552/images/sol/23552_logo_0_5685579.jpg"],
             "rating" => 2,
             "reviews_number" => 32
         ],
@@ -33348,7 +34260,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "5600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.etiqa.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/34747/images/sol/34747_logo_0_409173.png"],
             "rating" => 2,
             "reviews_number" => 24
         ],
@@ -33403,7 +34315,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "8400.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.starcruises.com",
-            "gallery" => ["https://siva.jsstatic.com/my/8272/images/sol/8272_logo_0_7185968.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/8272/images/sol/8272_logo_0_63900.png"],
             "rating" => 2,
             "reviews_number" => 23
         ],
@@ -33457,7 +34369,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.cimb.com",
-            "gallery" => ["https://siva.jsstatic.com/my/5609/images/sol/5609_logo_0_6295366.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/5609/images/sol/5609_logo_0_11205.jpg"],
             "rating" => 4,
             "reviews_number" => 20
         ],
@@ -33475,7 +34387,7 @@ Tel : 04-501 3399  Fax : 04-501 3390
             "max_monthly_salary" => "7800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 19
         ],
@@ -33563,7 +34475,7 @@ Candidates should have the following qualities:<\/div>
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.achievegroup.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/62109/images/sol/62109_logo_0_6384439.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/62109/images/sol/62109_logo_0_643533.png"],
             "rating" => 4,
             "reviews_number" => 14
         ],
@@ -33581,7 +34493,7 @@ Candidates should have the following qualities:<\/div>
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.carsem.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/26941/images/sol/26941_logo_0_221359.jpg"],
             "rating" => 1,
             "reviews_number" => 14
         ],
@@ -33599,7 +34511,7 @@ Candidates should have the following qualities:<\/div>
             "max_monthly_salary" => "2700.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_97398.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_40657.jpg"],
             "rating" => 1,
             "reviews_number" => 12
         ],
@@ -33636,7 +34548,7 @@ Candidates should have the following qualities:<\/div>
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 07
         ],
@@ -33654,7 +34566,7 @@ Candidates should have the following qualities:<\/div>
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sandisk.com",
-            "gallery" => ["https://siva.jsstatic.com/my/85029/images/sol/85029_logo_0_7970167.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/85029/images/sol/85029_logo_0_65054.jpg"],
             "rating" => 4,
             "reviews_number" => 06
         ],
@@ -33717,7 +34629,7 @@ Bayan Lepas,
             "max_monthly_salary" => "800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.jabil.com",
-            "gallery" => ["https://siva.jsstatic.com/my/41938/images/sol/41938_logo_0_5681812.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/41938/images/sol/41938_logo_0_906307.png"],
             "rating" => 3,
             "reviews_number" => 02
         ],
@@ -33825,7 +34737,7 @@ Bayan Lepas,
             "max_monthly_salary" => "1700.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.alpine-td.com",
-            "gallery" => ["https://siva.jsstatic.com/my/93981/images/sol/93981_logo_0_8019910.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/93981/images/sol/93981_logo_0_98276.png"],
             "rating" => 1,
             "reviews_number" => 57
         ],
@@ -33996,7 +34908,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.adecco.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/100347/images/sol/100347_logo_0_814157.jpg"],
             "rating" => 2,
             "reviews_number" => 54
         ],
@@ -34075,7 +34987,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/38305/images/sol/38305_logo_0_6843022.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/38305/images/sol/38305_logo_0_82667.jpg"],
             "rating" => 1,
             "reviews_number" => 52
         ],
@@ -34152,7 +35064,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.itapps.com",
-            "gallery" => ["https://siva.jsstatic.com/my/2405/images/sol/2405_logo_0_6699737.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2405/images/sol/2405_logo_0_172434.jpg"],
             "rating" => 1,
             "reviews_number" => 48
         ],
@@ -34200,7 +35112,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "2600.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/2845/images/sol/2845_logo_0_6940908.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2845/images/sol/2845_logo_0_94717.jpg"],
             "rating" => 1,
             "reviews_number" => 47
         ],
@@ -34218,7 +35130,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "6300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/23909/images/sol/23909_logo_0_6891719.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/23909/images/sol/23909_logo_0_7910749.jpg"],
             "rating" => 4,
             "reviews_number" => 47
         ],
@@ -34236,7 +35148,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.capitagrp.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/107111/images/sol/107111_logo_0_813665.png"],
             "rating" => 1,
             "reviews_number" => 45
         ],
@@ -34254,7 +35166,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "15000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/67645/images/sol/67645_logo_0_860354.jpg"],
             "rating" => 1,
             "reviews_number" => 44
         ],
@@ -34295,7 +35207,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.mpisb.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/17116/images/sol/17116_logo_0.gif"],
             "rating" => 1,
             "reviews_number" => 43
         ],
@@ -34313,7 +35225,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "4900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/67645/images/sol/67645_logo_0_860354.jpg"],
             "rating" => 1,
             "reviews_number" => 43
         ],
@@ -34333,7 +35245,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "6600.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/67645/images/sol/67645_logo_0_860354.jpg"],
             "rating" => 1,
             "reviews_number" => 41
         ],
@@ -34351,7 +35263,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/22749/images/sol/22749_logo_0.gif"],
+            "gallery" => [""],
             "rating" => 4,
             "reviews_number" => 37
         ],
@@ -34386,7 +35298,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "5300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.pah.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/58/images/sol/58_logo_0_6685248.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/58/images/sol/58_logo_0_6837606.jpg"],
             "rating" => 3,
             "reviews_number" => 36
         ],
@@ -34404,7 +35316,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/17855/images/sol/17855_logo_0_6670261.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/17855/images/sol/17855_logo_0_14686.png"],
             "rating" => 1,
             "reviews_number" => 36
         ],
@@ -34470,7 +35382,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/17855/images/sol/17855_logo_0_6670261.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/17855/images/sol/17855_logo_0_14686.png"],
             "rating" => 1,
             "reviews_number" => 34
         ],
@@ -34488,7 +35400,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/181/images/sol/181_logo_0_7878836.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/181/images/sol/181_logo_0_7878837.jpg"],
             "rating" => 1,
             "reviews_number" => 30
         ],
@@ -34524,7 +35436,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/2317/images/sol/2317_logo_0_6346.jpeg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2317/images/sol/2317_logo_0_7341127.jpg"],
             "rating" => 2,
             "reviews_number" => 27
         ],
@@ -34596,7 +35508,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.shrdc.org.my",
-            "gallery" => ["https://siva.jsstatic.com/my/12734/images/sol/12734_logo_0_6854804.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/12734/images/sol/12734_logo_0_6673282.jpg"],
             "rating" => 4,
             "reviews_number" => 21
         ],
@@ -34631,7 +35543,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "3800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.mandibp.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/94678/images/sol/94678_logo_0_35940.jpg"],
             "rating" => 3,
             "reviews_number" => 21
         ],
@@ -34649,7 +35561,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/20824/images/sol/20824_logo_0_6997572.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/20824/images/sol/20824_logo_0_13880.jpg"],
             "rating" => 4,
             "reviews_number" => 20
         ],
@@ -34693,7 +35605,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6810/images/sol/6810_logo_0_6614887.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 20
         ],
@@ -34763,7 +35675,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "9000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/2317/images/sol/2317_logo_0_6346.jpeg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2317/images/sol/2317_logo_0_7341127.jpg"],
             "rating" => 2,
             "reviews_number" => 17
         ],
@@ -34781,7 +35693,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/askresources.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/19494/images/sol/19494_logo_0_7760841.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19494/images/sol/19494_logo_0_562815.png"],
             "rating" => 4,
             "reviews_number" => 07
         ],
@@ -34817,7 +35729,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/askresources.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/19494/images/sol/19494_logo_0_7760841.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19494/images/sol/19494_logo_0_562815.png"],
             "rating" => 4,
             "reviews_number" => 55
         ],
@@ -34853,7 +35765,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "4300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.achievegroup.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/62109/images/sol/62109_logo_0_6384439.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/62109/images/sol/62109_logo_0_643533.png"],
             "rating" => 4,
             "reviews_number" => 48
         ],
@@ -34898,7 +35810,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.r-logic.com",
-            "gallery" => ["https://siva.jsstatic.com/my/38539/images/sol/38539_logo_0_6896939.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/38539/images/sol/38539_logo_0_18917.png"],
             "rating" => 4,
             "reviews_number" => 47
         ],
@@ -34916,7 +35828,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.taithong.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/5882/images/sol/5882_logo_0_7190933.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/5882/images/sol/5882_logo_0_63241.png"],
             "rating" => 2,
             "reviews_number" => 47
         ],
@@ -35014,7 +35926,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/45631/images/sol/45631_logo_0_7026305.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/45631/images/sol/45631_logo_0_23786.jpg"],
             "rating" => 1,
             "reviews_number" => 39
         ],
@@ -35084,7 +35996,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.kslimong.com",
-            "gallery" => ["https://siva.jsstatic.com/my/62696/images/sol/62696_logo_0_6718361.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/62696/images/sol/62696_logo_0_686936.jpg"],
             "rating" => 1,
             "reviews_number" => 30
         ],
@@ -35102,7 +36014,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.goodmorning.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/57747/images/sol/57747_logo_0_7066248.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/57747/images/sol/57747_logo_0_83561.jpg"],
             "rating" => 2,
             "reviews_number" => 27
         ],
@@ -35138,7 +36050,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/41517/images/sol/41517_logo_0_73087.png"],
             "rating" => 2,
             "reviews_number" => 22
         ],
@@ -35156,7 +36068,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.goodmorning.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/57747/images/sol/57747_logo_0_7066248.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/57747/images/sol/57747_logo_0_83561.jpg"],
             "rating" => 2,
             "reviews_number" => 21
         ],
@@ -35174,7 +36086,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "3900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6979/images/sol/6979_logo_0_5724341.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/6979/images/sol/6979_logo_0_863599.png"],
             "rating" => 4,
             "reviews_number" => 17
         ],
@@ -35216,7 +36128,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "1300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/5882/images/sol/5882_logo_0_7190933.jpg"],
+            "gallery" => [""],
             "rating" => 2,
             "reviews_number" => 12
         ],
@@ -35251,7 +36163,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.energyworkforce.net",
-            "gallery" => ["https://siva.jsstatic.com/my/40225/images/sol/40225_logo_0.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 11
         ],
@@ -35287,7 +36199,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "12600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.cognizant.com",
-            "gallery" => ["https://siva.jsstatic.com/my/94048/images/sol/94048_logo_0_8025994.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/94048/images/sol/94048_logo_0_30024.jpg"],
             "rating" => 3,
             "reviews_number" => 10
         ],
@@ -35305,7 +36217,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.recruitexpress.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/13658/images/sol/13658_logo_0_5818980.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13658/images/sol/13658_logo_0_99500.jpg"],
             "rating" => 3,
             "reviews_number" => 07
         ],
@@ -35323,7 +36235,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6979/images/sol/6979_logo_0_5724341.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/6979/images/sol/6979_logo_0_863599.png"],
             "rating" => 4,
             "reviews_number" => 06
         ],
@@ -35402,7 +36314,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.huttons1world.com",
-            "gallery" => ["https://siva.jsstatic.com/my/76929/images/sol/76929_logo_0_6826303.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/76929/images/sol/76929_logo_0_86640.jpg"],
             "rating" => 4,
             "reviews_number" => 05
         ],
@@ -35441,7 +36353,7 @@ Job Responsibilities：<br \/>
             "max_monthly_salary" => "5500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/106137/images/sol/106137_logo_0_336948.jpg"],
             "rating" => 2,
             "reviews_number" => 04
         ],
@@ -35592,7 +36504,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/10978/images/sol/10978_logo_0.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/10978/images/sol/10978_logo_0_167795.jpg"],
             "rating" => 3,
             "reviews_number" => 54
         ],
@@ -35647,7 +36559,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "8500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.taikogroup.net",
-            "gallery" => ["https://siva.jsstatic.com/my/3495/images/sol/3495_logo_0_94748.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3495/images/sol/3495_logo_0_6280809.jpg"],
             "rating" => 1,
             "reviews_number" => 52
         ],
@@ -35729,7 +36641,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/48922/images/sol/48922_logo_0_8032140.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/48922/images/sol/48922_logo_0_482963.jpg"],
             "rating" => 2,
             "reviews_number" => 40
         ],
@@ -35828,7 +36740,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.etikaholdings.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/5222/images/sol/5222_logo_0_7377957.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/5222/images/sol/5222_logo_0_48047.png"],
             "rating" => 2,
             "reviews_number" => 27
         ],
@@ -35846,7 +36758,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "3300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/30792/images/sol/30792_logo_0_6969668.jpg"],
+            "gallery" => [""],
             "rating" => 2,
             "reviews_number" => 20
         ],
@@ -35916,7 +36828,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ixi.my",
-            "gallery" => ["https://siva.jsstatic.com/my/89740/images/sol/89740_logo_0_7645495.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/89740/images/sol/89740_logo_0_176224.jpg"],
             "rating" => 1,
             "reviews_number" => 06
         ],
@@ -35961,7 +36873,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.bigbluefood.com.my\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/104715/images/sol/104715_logo_0_251761.jpg"],
             "rating" => 1,
             "reviews_number" => 04
         ],
@@ -36015,7 +36927,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/37444/images/sol/37444_logo_0_7989486.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/37444/images/sol/37444_logo_0_7992426.jpg"],
             "rating" => 4,
             "reviews_number" => 43
         ],
@@ -36105,7 +37017,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "2750.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.agilent.com",
-            "gallery" => ["https://siva.jsstatic.com/my/86609/images/sol/86609_logo_0_81731.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/86609/images/sol/86609_logo_0_7327309.jpg"],
             "rating" => 4,
             "reviews_number" => 22
         ],
@@ -36123,7 +37035,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "9000.00",
             "currency" => "MYR",
             "url" => "http:\/\/wikilabs.asia\/",
-            "gallery" => ["https://siva.jsstatic.com/my/85827/images/sol/85827_logo_0_7212873.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/85827/images/sol/85827_logo_0_7217074.jpg"],
             "rating" => 2,
             "reviews_number" => 13
         ],
@@ -36141,7 +37053,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.nissan.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/3683/images/sol/3683_logo_0_7957140.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3683/images/sol/3683_logo_0_87398.jpg"],
             "rating" => 3,
             "reviews_number" => 12
         ],
@@ -36177,7 +37089,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "5500.00",
             "currency" => "MYR",
             "url" => "http:\/\/trancy.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/48806/images/sol/48806_logo_0_6944852.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/48806/images/sol/48806_logo_0_60523.png"],
             "rating" => 1,
             "reviews_number" => 09
         ],
@@ -36195,7 +37107,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tis.edu.my",
-            "gallery" => ["https://siva.jsstatic.com/my/11289/images/sol/11289_logo_0_61643.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/11289/images/sol/11289_logo_0_53933.jpg"],
             "rating" => 4,
             "reviews_number" => 09
         ],
@@ -36213,7 +37125,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "8400.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ecoworld.my",
-            "gallery" => ["https://siva.jsstatic.com/my/77648/images/sol/77648_logo_0_7478690.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/77648/images/sol/77648_logo_0_15319.png"],
             "rating" => 3,
             "reviews_number" => 08
         ],
@@ -36358,7 +37270,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/2637/images/sol/2637_logo_0_6672019.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2637/images/sol/2637_logo_0_6779530.jpg"],
             "rating" => 2,
             "reviews_number" => 51
         ],
@@ -36408,7 +37320,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.corporatenet.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/61778/images/sol/61778_logo_0.jpg"],
             "rating" => 3,
             "reviews_number" => 51
         ],
@@ -36449,7 +37361,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.fci.com",
-            "gallery" => ["https://siva.jsstatic.com/my/1268/images/sol/1268_logo_0_6884218.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1268/images/sol/1268_logo_0_84630.png"],
             "rating" => 3,
             "reviews_number" => 47
         ],
@@ -36497,7 +37409,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6810/images/sol/6810_logo_0_6614887.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 42
         ],
@@ -36515,7 +37427,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/48393/images/sol/48393_logo_0_96993.jpg"],
             "rating" => 3,
             "reviews_number" => 40
         ],
@@ -36635,7 +37547,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "http:\/\/adovanasia.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/105170/images/sol/105170_logo_0_18267.jpg"],
             "rating" => 1,
             "reviews_number" => 35
         ],
@@ -36677,7 +37589,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/52366/images/sol/52366_logo_0_7154685.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/52366/images/sol/52366_logo_0_94439.png"],
             "rating" => 1,
             "reviews_number" => 30
         ],
@@ -36695,7 +37607,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/pasonahr.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/89105/images/sol/89105_logo_0_7577233.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/89105/images/sol/89105_logo_0_879681.jpg"],
             "rating" => 1,
             "reviews_number" => 29
         ],
@@ -36773,7 +37685,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.bbraun.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/7783/images/sol/7783_logo_0_6690404.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/7783/images/sol/7783_logo_0_6690409.jpg"],
             "rating" => 3,
             "reviews_number" => 26
         ],
@@ -36827,7 +37739,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/52366/images/sol/52366_logo_0_7154685.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/52366/images/sol/52366_logo_0_94439.png"],
             "rating" => 1,
             "reviews_number" => 22
         ],
@@ -37044,7 +37956,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "4900.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.bestbeteck.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/59420/images/sol/59420_logo_0_181972.jpg"],
             "rating" => 1,
             "reviews_number" => 05
         ],
@@ -37079,7 +37991,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.adfinancial.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/33265/images/sol/33265_logo_0_7480850.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/33265/images/sol/33265_logo_0_7723038.jpg"],
             "rating" => 1,
             "reviews_number" => 04
         ],
@@ -37097,7 +38009,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ghee-hiang.com",
-            "gallery" => ["https://siva.jsstatic.com/my/16881/images/sol/16881_logo_0_21602.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/16881/images/sol/16881_logo_0_95847.jpg"],
             "rating" => 1,
             "reviews_number" => 59
         ],
@@ -37131,7 +38043,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/36014/images/sol/36014_logo_0_659139.jpg"],
             "rating" => 4,
             "reviews_number" => 58
         ],
@@ -37173,7 +38085,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.in-tune.biz\/",
-            "gallery" => ["https://siva.jsstatic.com/my/42587/images/sol/42587_logo_0_6758990.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/42587/images/sol/42587_logo_0_6758997.jpg"],
             "rating" => 2,
             "reviews_number" => 57
         ],
@@ -37191,7 +38103,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.creden.com",
-            "gallery" => ["https://siva.jsstatic.com/my/8011/images/sol/8011_logo_0_6860139.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/8011/images/sol/8011_logo_0_65723.jpg"],
             "rating" => 1,
             "reviews_number" => 56
         ],
@@ -37310,7 +38222,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.flowcomalaysia.com",
-            "gallery" => ["https://siva.jsstatic.com/my/8008/images/sol/8008_logo_0_6688983.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/8008/images/sol/8008_logo_0_6967316.jpg"],
             "rating" => 3,
             "reviews_number" => 53
         ],
@@ -37352,7 +38264,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.fastlane2u.com",
-            "gallery" => ["https://siva.jsstatic.com/my/10914/images/sol/10914_logo_0_6702651.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/10914/images/sol/10914_logo_0_7759735.jpg"],
             "rating" => 4,
             "reviews_number" => 52
         ],
@@ -37426,7 +38338,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.top-talent.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/95953/images/sol/95953_logo_0_78189.jpg"],
             "rating" => 3,
             "reviews_number" => 47
         ],
@@ -37444,7 +38356,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 46
         ],
@@ -37462,7 +38374,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "8400.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/4200/images/sol/4200_logo_0_7567886.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/4200/images/sol/4200_logo_0_423957.jpg"],
             "rating" => 1,
             "reviews_number" => 46
         ],
@@ -37516,7 +38428,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.cyintertrade,com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/52247/images/sol/52247_logo_0_7499401.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/52247/images/sol/52247_logo_0_813105.jpeg"],
             "rating" => 2,
             "reviews_number" => 44
         ],
@@ -37534,7 +38446,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 44
         ],
@@ -37609,7 +38521,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "3800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 42
         ],
@@ -37691,7 +38603,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "3800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/7719/images/sol/7719_logo_0_6919674.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/7719/images/sol/7719_logo_0_182655.jpg"],
             "rating" => 4,
             "reviews_number" => 40
         ],
@@ -37763,7 +38675,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.mfm.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/3488/images/sol/3488_logo_0_6757201.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3488/images/sol/3488_logo_0_6757381.jpg"],
             "rating" => 3,
             "reviews_number" => 40
         ],
@@ -37781,7 +38693,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 40
         ],
@@ -37835,7 +38747,7 @@ Salary: 4000-10000 RM or Negotiable&nbsp;<br \/>
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 37
         ],
@@ -37883,7 +38795,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.texmat.com",
-            "gallery" => ["https://siva.jsstatic.com/my/361/images/sol/361_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/361/images/sol/361_logo_0_46249.jpg"],
             "rating" => 1,
             "reviews_number" => 29
         ],
@@ -37921,7 +38833,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "2200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.flowcomalaysia.com",
-            "gallery" => ["https://siva.jsstatic.com/my/8008/images/sol/8008_logo_0_6688983.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/8008/images/sol/8008_logo_0_6967316.jpg"],
             "rating" => 3,
             "reviews_number" => 22
         ],
@@ -37977,7 +38889,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 22
         ],
@@ -37995,7 +38907,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/-www.behnmeyer.com",
-            "gallery" => ["https://siva.jsstatic.com/my/4959/images/sol/4959_logo_0_6803893.jpg"],
+            "gallery" => [""],
             "rating" => 4,
             "reviews_number" => 17
         ],
@@ -38013,7 +38925,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 11
         ],
@@ -38061,7 +38973,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "3100.00",
             "currency" => "MYR",
             "url" => "http:\/\/basisbay.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/5312/images/sol/5312_logo_0.gif"],
+            "gallery" => [""],
             "rating" => 2,
             "reviews_number" => 09
         ],
@@ -38161,7 +39073,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "5500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.bestbeteck.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/59420/images/sol/59420_logo_0_181972.jpg"],
             "rating" => 1,
             "reviews_number" => 55
         ],
@@ -38209,7 +39121,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.fossil.com",
-            "gallery" => ["https://siva.jsstatic.com/my/18565/images/sol/18565_logo_0_6984253.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/18565/images/sol/18565_logo_0_7778843.jpg"],
             "rating" => 1,
             "reviews_number" => 54
         ],
@@ -38251,7 +39163,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/pestech-international.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/5576/images/sol/5576_logo_0_7035252.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/5576/images/sol/5576_logo_0_7036458.jpg"],
             "rating" => 1,
             "reviews_number" => 52
         ],
@@ -38335,7 +39247,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.shijiru.com",
-            "gallery" => ["https://siva.jsstatic.com/my/47034/images/sol/47034_logo_0_7443574.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/47034/images/sol/47034_logo_0_18399.gif"],
             "rating" => 4,
             "reviews_number" => 43
         ],
@@ -38353,7 +39265,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_97398.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_71227.jpg"],
             "rating" => 1,
             "reviews_number" => 43
         ],
@@ -38394,7 +39306,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/iium-schools.edu.my",
-            "gallery" => ["https://siva.jsstatic.com/my/36896/images/sol/36896_logo_0_6910320.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/36896/images/sol/36896_logo_0_803717.jpg"],
             "rating" => 1,
             "reviews_number" => 41
         ],
@@ -38412,7 +39324,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "5800.00",
             "currency" => "MYR",
             "url" => "http:\/\/wzskenkeong.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/43188/images/sol/43188_logo_0_7749131.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/43188/images/sol/43188_logo_0_96656.jpg"],
             "rating" => 3,
             "reviews_number" => 41
         ],
@@ -38430,7 +39342,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_97398.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_71227.jpg"],
             "rating" => 1,
             "reviews_number" => 36
         ],
@@ -38457,7 +39369,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "3900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/12835/images/sol/12835_logo_0_7788118.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 34
         ],
@@ -38491,7 +39403,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "3900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/12835/images/sol/12835_logo_0_7788118.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 33
         ],
@@ -38537,7 +39449,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tidynonwoven.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/23918/images/sol/23918_logo_0_7771599.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/23918/images/sol/23918_logo_0_97156.jpg"],
             "rating" => 3,
             "reviews_number" => 29
         ],
@@ -38637,7 +39549,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "8100.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/17994/images/sol/17994_logo_0_3594.jpeg"],
+            "gallery" => ["https://siva.jsstatic.com/my/17994/images/sol/17994_logo_0_34405.jpg"],
             "rating" => 4,
             "reviews_number" => 16
         ],
@@ -38655,7 +39567,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.musimmas.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/105903/images/sol/105903_logo_0_325217.jpg"],
             "rating" => 3,
             "reviews_number" => 16
         ],
@@ -38673,7 +39585,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "1700.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.zicoholdings.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/19199/images/sol/19199_logo_0_7036574.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19199/images/sol/19199_logo_0_88126.jpg"],
             "rating" => 4,
             "reviews_number" => 16
         ],
@@ -38691,7 +39603,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tencategeosynthetics.com",
-            "gallery" => ["https://siva.jsstatic.com/my/2271/images/sol/2271_logo_0.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2271/images/sol/2271_logo_0_8046629.jpg"],
             "rating" => 1,
             "reviews_number" => 15
         ],
@@ -38738,7 +39650,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/108186/images/sol/108186_logo_0_427273.jpg"],
             "rating" => 1,
             "reviews_number" => 14
         ],
@@ -38756,7 +39668,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.recruitexpress.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/13658/images/sol/13658_logo_0_5818980.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13658/images/sol/13658_logo_0_99500.jpg"],
             "rating" => 3,
             "reviews_number" => 11
         ],
@@ -38774,7 +39686,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.duriane.com",
-            "gallery" => ["https://siva.jsstatic.com/my/89341/images/sol/89341_logo_0_7606052.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/89341/images/sol/89341_logo_0_23980.jpg"],
             "rating" => 1,
             "reviews_number" => 11
         ],
@@ -38811,7 +39723,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "3100.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/54029/images/sol/54029_logo_0_499539.jpg"],
             "rating" => 4,
             "reviews_number" => 11
         ],
@@ -38847,7 +39759,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "3300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/41517/images/sol/41517_logo_0_72453.png"],
             "rating" => 2,
             "reviews_number" => 04
         ],
@@ -38889,7 +39801,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "2700.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.gathergates.com",
-            "gallery" => ["https://siva.jsstatic.com/my/75923/images/sol/75923_logo_0_49590.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/75923/images/sol/75923_logo_0_91894.jpg"],
             "rating" => 3,
             "reviews_number" => 46
         ],
@@ -38955,7 +39867,7 @@ Central Region - Wisma Texchem, Lots 808 & 809, Jalan Subang 5, Taman Perindustr
             "max_monthly_salary" => "3800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/2547/images/sol/2547_logo_0_35362.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2547/images/sol/2547_logo_0_216939.jpg"],
             "rating" => 2,
             "reviews_number" => 41
         ],
@@ -39183,7 +40095,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.laser-industries.com",
-            "gallery" => ["https://siva.jsstatic.com/my/578/images/sol/578_logo_0_6861590.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/578/images/sol/578_logo_0_7392857.jpg"],
             "rating" => 3,
             "reviews_number" => 29
         ],
@@ -39201,7 +40113,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/2317/images/sol/2317_logo_0_6346.jpeg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2317/images/sol/2317_logo_0_7341127.jpg"],
             "rating" => 2,
             "reviews_number" => 28
         ],
@@ -39219,7 +40131,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ekovest.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/8722/images/sol/8722_logo_0_7017925.jpg"],
+            "gallery" => [""],
             "rating" => 2,
             "reviews_number" => 25
         ],
@@ -39237,7 +40149,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "1700.00",
             "currency" => "MYR",
             "url" => "http:\/\/hinconstruction.com.my\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/106327/images/sol/106327_logo_0_619876.jpg"],
             "rating" => 2,
             "reviews_number" => 25
         ],
@@ -39255,7 +40167,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/28567/images/sol/28567_logo_0_623334.png"],
             "rating" => 2,
             "reviews_number" => 23
         ],
@@ -39273,7 +40185,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/38999/images/sol/38999_logo_0_6613063.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/38999/images/sol/38999_logo_0_6613064.jpg"],
             "rating" => 4,
             "reviews_number" => 48
         ],
@@ -39291,7 +40203,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/38999/images/sol/38999_logo_0_6613063.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/38999/images/sol/38999_logo_0_6613064.jpg"],
             "rating" => 4,
             "reviews_number" => 42
         ],
@@ -39327,7 +40239,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.enterpriseasia.org",
-            "gallery" => ["https://siva.jsstatic.com/my/9389/images/sol/9389_logo_0_87612.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9389/images/sol/9389_logo_0_7429799.jpg"],
             "rating" => 4,
             "reviews_number" => 06
         ],
@@ -39357,7 +40269,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.it-paradise.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/76477/images/sol/76477_logo_0_876543.jpg"],
             "rating" => 2,
             "reviews_number" => 14
         ],
@@ -39375,7 +40287,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "https:\/\/www.aia.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/3789/images/sol/3789_logo_0_6649380.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3789/images/sol/3789_logo_0_14949.jpg"],
             "rating" => 4,
             "reviews_number" => 03
         ],
@@ -39493,7 +40405,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.yeelee.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/12523/images/sol/12523_logo_0_6748354.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/12523/images/sol/12523_logo_0_36528.jpg"],
             "rating" => 3,
             "reviews_number" => 54
         ],
@@ -39533,7 +40445,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "2400.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.yeelee.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/12523/images/sol/12523_logo_0_6748354.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/12523/images/sol/12523_logo_0_36528.jpg"],
             "rating" => 3,
             "reviews_number" => 51
         ],
@@ -39575,7 +40487,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.theboxshop.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/75192/images/sol/75192_logo_0_7351404.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/75192/images/sol/75192_logo_0_7351406.jpg"],
             "rating" => 2,
             "reviews_number" => 47
         ],
@@ -39707,7 +40619,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "2200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.hockheng.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/36168/images/sol/36168_logo_0_620142.jpg"],
             "rating" => 3,
             "reviews_number" => 57
         ],
@@ -39748,7 +40660,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.pokbrothers.com",
-            "gallery" => ["https://siva.jsstatic.com/my/19431/images/sol/19431_logo_0_6725481.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19431/images/sol/19431_logo_0_707542.jpg"],
             "rating" => 1,
             "reviews_number" => 51
         ],
@@ -39766,7 +40678,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.recruitexpress.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/13658/images/sol/13658_logo_0_5818980.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13658/images/sol/13658_logo_0_99500.jpg"],
             "rating" => 3,
             "reviews_number" => 33
         ],
@@ -39784,7 +40696,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_41880.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_837904.png"],
             "rating" => 1,
             "reviews_number" => 32
         ],
@@ -39802,7 +40714,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_41880.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_837904.png"],
             "rating" => 1,
             "reviews_number" => 30
         ],
@@ -39820,7 +40732,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_41880.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_837904.png"],
             "rating" => 1,
             "reviews_number" => 28
         ],
@@ -39838,7 +40750,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.recruitexpress.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/13658/images/sol/13658_logo_0_5818980.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13658/images/sol/13658_logo_0_99500.jpg"],
             "rating" => 3,
             "reviews_number" => 20
         ],
@@ -39897,7 +40809,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6585/images/sol/6585_logo_0_6717266.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/6585/images/sol/6585_logo_0_7203745.jpg"],
             "rating" => 1,
             "reviews_number" => 14
         ],
@@ -39915,7 +40827,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_41880.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_837904.png"],
             "rating" => 1,
             "reviews_number" => 11
         ],
@@ -39933,7 +40845,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "1700.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.popular.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/3208/images/sol/3208_logo_0_6686210.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3208/images/sol/3208_logo_0_7607176.jpg"],
             "rating" => 3,
             "reviews_number" => 08
         ],
@@ -39975,7 +40887,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.lexis.my",
-            "gallery" => ["https://siva.jsstatic.com/my/54752/images/sol/54752_logo_0_7980623.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/54752/images/sol/54752_logo_0_27805.jpg"],
             "rating" => 2,
             "reviews_number" => 37
         ],
@@ -39993,7 +40905,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "https:\/\/www.aia.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/3789/images/sol/3789_logo_0_6649380.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3789/images/sol/3789_logo_0_14949.jpg"],
             "rating" => 4,
             "reviews_number" => 33
         ],
@@ -40038,7 +40950,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/24983/images/sol/24983_logo_0_6713517.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/24983/images/sol/24983_logo_0_7597076.jpg"],
             "rating" => 3,
             "reviews_number" => 33
         ],
@@ -40056,7 +40968,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.publicbankgroup.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/2643/images/sol/2643_logo_0_5853370.jpg"],
             "rating" => 3,
             "reviews_number" => 26
         ],
@@ -40076,7 +40988,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.vstgroup.com.my\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/47878/images/sol/47878_logo_0_71561.jpg"],
             "rating" => 3,
             "reviews_number" => 22
         ],
@@ -40094,7 +41006,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/20532/images/sol/20532_logo_0_7019567.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/20532/images/sol/20532_logo_0_7019608.jpg"],
             "rating" => 2,
             "reviews_number" => 20
         ],
@@ -40112,7 +41024,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/apm-automotive.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/3683/images/sol/3683_logo_0_7957140.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3683/images/sol/3683_logo_0_8046962.jpg"],
             "rating" => 3,
             "reviews_number" => 20
         ],
@@ -40136,7 +41048,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.hwtgroup.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/85679/images/sol/85679_logo_0_7198578.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/85679/images/sol/85679_logo_0_689050.jpg"],
             "rating" => 4,
             "reviews_number" => 20
         ],
@@ -40180,7 +41092,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "4800.00",
             "currency" => "MYR",
             "url" => "http:\/\/kawasaki.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/15136/images/sol/15136_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/15136/images/sol/15136_logo_0_66619.jpg"],
             "rating" => 1,
             "reviews_number" => 17
         ],
@@ -40223,7 +41135,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "2700.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/106194/images/sol/106194_logo_0_550768.jpg"],
             "rating" => 4,
             "reviews_number" => 07
         ],
@@ -40241,7 +41153,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.capitagrp.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/107111/images/sol/107111_logo_0_813665.png"],
             "rating" => 1,
             "reviews_number" => 05
         ],
@@ -40280,7 +41192,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.rozel.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/13392/images/sol/13392_logo_0_6817674.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13392/images/sol/13392_logo_0_99942.jpg"],
             "rating" => 2,
             "reviews_number" => 00
         ],
@@ -40335,7 +41247,7 @@ Interested candidates, please apply online via jobstreet.com, as well as upload 
             "max_monthly_salary" => "12000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.crglm.com.my\/zh-hans\/",
-            "gallery" => ["https://siva.jsstatic.com/my/75317/images/sol/75317_logo_0_6879103.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/75317/images/sol/75317_logo_0_295525.png"],
             "rating" => 2,
             "reviews_number" => 57
         ],
@@ -40469,7 +41381,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.kheesan.com",
-            "gallery" => ["https://siva.jsstatic.com/my/57614/images/sol/57614_logo_0_6801502.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/57614/images/sol/57614_logo_0_6803834.jpg"],
             "rating" => 4,
             "reviews_number" => 52
         ],
@@ -40523,7 +41435,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.dpointernational.com",
-            "gallery" => ["https://siva.jsstatic.com/my/4475/images/sol/4475_logo_0_5721863.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/4475/images/sol/4475_logo_0_285623.png"],
             "rating" => 1,
             "reviews_number" => 50
         ],
@@ -40568,7 +41480,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/106194/images/sol/106194_logo_0_550768.jpg"],
             "rating" => 4,
             "reviews_number" => 49
         ],
@@ -40588,7 +41500,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/69209/images/sol/69209_logo_0_6817755.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/69209/images/sol/69209_logo_0_24407.jpg"],
             "rating" => 4,
             "reviews_number" => 41
         ],
@@ -40630,7 +41542,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tokiomarine.com\/my\/en\/personal\/discover.html",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/6271/images/sol/6271_logo_0_117465.png"],
             "rating" => 1,
             "reviews_number" => 41
         ],
@@ -40648,7 +41560,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3882/images/sol/3882_logo_0_6649631.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3882/images/sol/3882_logo_0_345697.png"],
             "rating" => 2,
             "reviews_number" => 35
         ],
@@ -40686,7 +41598,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.klook.com",
-            "gallery" => ["https://siva.jsstatic.com/my/101791/images/sol/101791_logo_0_62262.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/101791/images/sol/101791_logo_0_956313.jpg"],
             "rating" => 1,
             "reviews_number" => 33
         ],
@@ -40722,7 +41634,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/32822/images/sol/32822_logo_0_7018361.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/32822/images/sol/32822_logo_0_7785923.jpg"],
             "rating" => 2,
             "reviews_number" => 31
         ],
@@ -40740,7 +41652,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/10056/images/sol/10056_logo_0_32992.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/10056/images/sol/10056_logo_0_762252.jpg"],
             "rating" => 1,
             "reviews_number" => 25
         ],
@@ -40777,7 +41689,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "800.00",
             "currency" => "MYR",
             "url" => "https:\/\/www.zolace.com",
-            "gallery" => ["https://siva.jsstatic.com/my/90308/images/sol/90308_logo_0_7728846.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/90308/images/sol/90308_logo_0_27220.jpg"],
             "rating" => 3,
             "reviews_number" => 24
         ],
@@ -40882,7 +41794,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/57456/images/sol/57456_logo_0_6890663.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/57456/images/sol/57456_logo_0_7007364.jpg"],
             "rating" => 1,
             "reviews_number" => 07
         ],
@@ -40942,7 +41854,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "8400.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/15753/images/sol/15753_logo_0_57123.jpg"],
             "rating" => 3,
             "reviews_number" => 05
         ],
@@ -40977,7 +41889,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "3400.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/56686/images/sol/56686_logo_0_6863591.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/56686/images/sol/56686_logo_0_33462.png"],
             "rating" => 1,
             "reviews_number" => 02
         ],
@@ -41025,7 +41937,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/5411/images/sol/5411_logo_0_17349.png"],
             "rating" => 1,
             "reviews_number" => 02
         ],
@@ -41049,7 +41961,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "3100.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/106689/images/sol/106689_logo_0_572490.png"],
             "rating" => 4,
             "reviews_number" => 02
         ],
@@ -41067,7 +41979,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.phhp.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/7808/images/sol/7808_logo_0_09558.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/7808/images/sol/7808_logo_0_7871981.jpg"],
             "rating" => 3,
             "reviews_number" => 00
         ],
@@ -41085,7 +41997,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "5600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ijn.com.my\/current-opening\/",
-            "gallery" => ["https://siva.jsstatic.com/my/6563/images/sol/6563_logo_0_6631056.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/6563/images/sol/6563_logo_0_157362.jpg"],
             "rating" => 3,
             "reviews_number" => 59
         ],
@@ -41121,7 +42033,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/70303/images/sol/70303_logo_0_65154.png"],
             "rating" => 3,
             "reviews_number" => 59
         ],
@@ -41139,7 +42051,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.acappella.com.my\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/102388/images/sol/102388_logo_0_29315.jpg"],
             "rating" => 3,
             "reviews_number" => 56
         ],
@@ -41287,7 +42199,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/11119/images/sol/11119_logo_0_54598.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/11119/images/sol/11119_logo_0_65980.jpg"],
             "rating" => 4,
             "reviews_number" => 48
         ],
@@ -41305,7 +42217,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.corusparadisepd.com",
-            "gallery" => ["https://siva.jsstatic.com/my/8686/images/sol/8686_logo_0_6679699.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 45
         ],
@@ -41329,7 +42241,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.readinglab.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/83956/images/sol/83956_logo_0_6959690.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 42
         ],
@@ -41357,7 +42269,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/91115/images/sol/91115_logo_0_7763882.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/91115/images/sol/91115_logo_0_7763883.jpg"],
             "rating" => 1,
             "reviews_number" => 39
         ],
@@ -41399,7 +42311,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tgs-enterprise.com",
-            "gallery" => ["https://siva.jsstatic.com/my/51674/images/sol/51674_logo_0_48290.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/51674/images/sol/51674_logo_0_633177.jpg"],
             "rating" => 4,
             "reviews_number" => 38
         ],
@@ -41442,7 +42354,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "2700.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tilescity.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/93213/images/sol/93213_logo_0_7938315.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/93213/images/sol/93213_logo_0_7938316.jpg"],
             "rating" => 3,
             "reviews_number" => 37
         ],
@@ -41460,7 +42372,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "2900.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.acappella.com.my\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/102388/images/sol/102388_logo_0_29315.jpg"],
             "rating" => 3,
             "reviews_number" => 36
         ],
@@ -41478,7 +42390,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "1500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 30
         ],
@@ -41496,7 +42408,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.goforth.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/18924/images/sol/18924_logo_0_6903836.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/18924/images/sol/18924_logo_0_34758.jpg"],
             "rating" => 4,
             "reviews_number" => 28
         ],
@@ -41514,7 +42426,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sushi-king.com",
-            "gallery" => ["https://siva.jsstatic.com/my/7144/images/sol/7144_logo_0_6813954.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/7144/images/sol/7144_logo_0_7348087.jpg"],
             "rating" => 4,
             "reviews_number" => 28
         ],
@@ -41573,7 +42485,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.symbiomed.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/44245/images/sol/44245_logo_0.png"],
             "rating" => 1,
             "reviews_number" => 25
         ],
@@ -41591,7 +42503,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.jobstreet.com.my\/career\/JobStreet.htm",
-            "gallery" => ["https://siva.jsstatic.com/my/83919/images/sol/83919_logo_0_6951667.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/83919/images/sol/83919_logo_0_6938688.jpg"],
             "rating" => 4,
             "reviews_number" => 24
         ],
@@ -41627,7 +42539,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.zedgepac.com",
-            "gallery" => ["https://siva.jsstatic.com/my/33455/images/sol/33455_logo_0_7342357.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/33455/images/sol/33455_logo_0_44001.jpg"],
             "rating" => 1,
             "reviews_number" => 22
         ],
@@ -41666,7 +42578,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sharp.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/15701/images/sol/15701_logo_0_6679437.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/15701/images/sol/15701_logo_0_7349050.jpg"],
             "rating" => 1,
             "reviews_number" => 22
         ],
@@ -41684,7 +42596,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/38999/images/sol/38999_logo_0_6613063.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/38999/images/sol/38999_logo_0_6613064.jpg"],
             "rating" => 4,
             "reviews_number" => 18
         ],
@@ -41702,7 +42614,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "2400.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.acappella.com.my\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/102388/images/sol/102388_logo_0_29315.jpg"],
             "rating" => 3,
             "reviews_number" => 17
         ],
@@ -41738,7 +42650,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "9000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 16
         ],
@@ -41823,7 +42735,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.smartsolution.asia",
-            "gallery" => ["https://siva.jsstatic.com/my/43198/images/sol/43198_logo_0_6651829.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/43198/images/sol/43198_logo_0_67302.jpg"],
             "rating" => 3,
             "reviews_number" => 13
         ],
@@ -41841,7 +42753,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 13
         ],
@@ -41852,35 +42764,14 @@ Taman Segar, Cheras<br \/>
             "title" => "QAQC Manager",
             "location" => "18 Jalan Angkasa Mas 6 Kawasan Perindustrian Tebrau 2 81100 Johor Bahru Johor Malaysia",
             "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<ul>
-    <li>Direct report to Director.<\/li>
-    <li>To liaise with clients on all quality issues.<\/li>
-    <li>To establish root causes and proposed corrective actions, in the event of non-conformance or complaints<\/li>
-    <li>To ensure that all NCRs and complaints are closed satisfactorily.<\/li>
-    <li>To help prepare and review all method statements to ensure that the quality aspect is taken into consideration.<\/li>
-    <li>To ensure proper implementation of project quality plan and all related documentation on site through audits.<\/li>
-    <li>To monitor and report on the quality performance of all projects into Monthly Report.<\/li>
-    <li>To oversee, train and lead subordinates in achieving quality objectives.<\/li>
-    <li>To perform any other adhoc duties that may be assigned by the Management.<\/li>
-<\/ul>
-
-<div>Requirements<\/div>
-
-<ul>
-    <li>Candidate must possess at least a Bachelor&#39;s Degree, Engineering (Civil) Mechanical\/ Structural Engineering&nbsp;or equivalent.<\/li>
-    <li>At least 3 year(s) of working experience in construction works.<\/li>
-    <li>Skill Requirement: Quality Awareness.<\/li>
-    <li>Ability to coordinate and integrate the whole organization interest and activities.<\/li>
-    <li>Communication &ndash; able to understand and motivate subordinates.<\/li>
-    <li>1 Full-Time position(s) at Johor and 1 Full-Time position(s) at Kuala Lumpur.<\/li>
-<\/ul>",
+            "description" => "<ul><li>Direct report to Director.<\/li><li>To liaise with clients on all quality issues.<\/li><li>To establish root causes and proposed corrective actions, in the event of non-conformance or complaints<\/li><li>To ensure that all NCRs and complaints are closed satisfactorily.<\/li><li>To help prepare and review all method statements to ensure that the quality aspect is taken into consideration.<\/li><li>To ensure proper implementation of project quality plan and all related documentation on site through audits.<\/li><li>To monitor and report on the quality performance of all projects into Monthly Report.<\/li><li>To oversee, train and lead subordinates in achieving quality objectives.<\/li><li>To perform any other adhoc duties that may be assigned by the Management.<\/li><\/ul><div>Requirements<\/div><ul><li>Candidate must possess at least a Bachelor&#39;s Degree, Engineering (Civil) Mechanical\/ Structural Engineering&nbsp;or equivalent.<\/li><li>At least 3 year(s) of working experience in construction works.<\/li><li>Skill Requirement: Quality Awareness.<\/li><li>Ability to coordinate and integrate the whole organization interest and activities.<\/li><li>Communication &ndash; able to understand and motivate subordinates.<\/li><li>1 Full-Time position(s) at Johor and 1 Full-Time position(s) at Kuala Lumpur.<\/li><\/ul>",
             "company" => "AME CONSTRUCTION SDN BHD",
             "salary" => "MYR 10000.00 - 15000.00",
             "min_monthly_salary" => "10000.00",
             "max_monthly_salary" => "15000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ameconstruction.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/1762/images/sol/1762_logo_0_6736668.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1762/images/sol/1762_logo_0_11358.png"],
             "rating" => 2,
             "reviews_number" => 11
         ],
@@ -41904,7 +42795,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "2100.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.hockpeng.org",
-            "gallery" => ["https://siva.jsstatic.com/my/42859/images/sol/42859_logo_0_7017923.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/42859/images/sol/42859_logo_0_495666.jpg"],
             "rating" => 4,
             "reviews_number" => 08
         ],
@@ -41922,7 +42813,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tilescity.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/93213/images/sol/93213_logo_0_7938315.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/93213/images/sol/93213_logo_0_7938316.jpg"],
             "rating" => 3,
             "reviews_number" => 07
         ],
@@ -42018,7 +42909,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "3300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.excelube.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/77558/images/sol/77558_logo_0_900854.jpg"],
             "rating" => 3,
             "reviews_number" => 01
         ],
@@ -42090,7 +42981,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.simedarby.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/99341/images/sol/99341_logo_0_41077.jpg"],
             "rating" => 1,
             "reviews_number" => 54
         ],
@@ -42126,7 +43017,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "9000.00",
             "currency" => "MYR",
             "url" => "http:\/\/wzskenkeong.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/43188/images/sol/43188_logo_0_7749131.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/43188/images/sol/43188_logo_0_96656.jpg"],
             "rating" => 3,
             "reviews_number" => 53
         ],
@@ -42159,7 +43050,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/96721/images/sol/96721_logo_0_45802.jpg"],
             "rating" => 1,
             "reviews_number" => 51
         ],
@@ -42195,7 +43086,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "5100.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 49
         ],
@@ -42385,7 +43276,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/26653/images/sol/26653_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/26653/images/sol/26653_logo_0_69865.jpg"],
             "rating" => 3,
             "reviews_number" => 43
         ],
@@ -42436,7 +43327,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/wave.ly\/career",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/104984/images/sol/104984_logo_0_191430.jpg"],
             "rating" => 4,
             "reviews_number" => 42
         ],
@@ -42454,7 +43345,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 41
         ],
@@ -42525,7 +43416,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.fercoseating.com",
-            "gallery" => ["https://siva.jsstatic.com/my/11697/images/sol/11697_logo_0.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/11697/images/sol/11697_logo_0_45596.jpg"],
             "rating" => 2,
             "reviews_number" => 33
         ],
@@ -42550,7 +43441,7 @@ Taman Segar, Cheras<br \/>
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/49258/images/sol/49258_logo_0.jpg"],
             "rating" => 3,
             "reviews_number" => 33
         ],
@@ -42606,7 +43497,7 @@ External Working Parties: Suppplier<\/div>
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.seacuisine.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/7587/images/sol/7587_logo_0_6579144.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/7587/images/sol/7587_logo_0_7122413.jpg"],
             "rating" => 2,
             "reviews_number" => 33
         ],
@@ -42642,7 +43533,7 @@ External Working Parties: Suppplier<\/div>
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 30
         ],
@@ -42681,7 +43572,7 @@ External Working Parties: Suppplier<\/div>
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.fercoseating.com",
-            "gallery" => ["https://siva.jsstatic.com/my/11697/images/sol/11697_logo_0.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/11697/images/sol/11697_logo_0_45596.jpg"],
             "rating" => 2,
             "reviews_number" => 27
         ],
@@ -42699,7 +43590,7 @@ External Working Parties: Suppplier<\/div>
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.cibmall.net\/",
-            "gallery" => ["https://siva.jsstatic.com/my/15697/images/sol/15697_logo_0_6713358.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/15697/images/sol/15697_logo_0_7336155.jpg"],
             "rating" => 2,
             "reviews_number" => 27
         ],
@@ -42811,7 +43702,7 @@ External Working Parties: Suppplier<\/div>
             "max_monthly_salary" => "2400.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.1malaysiabirdnest.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/76718/images/sol/76718_logo_0_7651093.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/76718/images/sol/76718_logo_0_8047631.jpg"],
             "rating" => 3,
             "reviews_number" => 25
         ],
@@ -42833,7 +43724,7 @@ Sentul, KL",
             "max_monthly_salary" => "5500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.kimlun.com",
-            "gallery" => ["https://siva.jsstatic.com/my/12994/images/sol/12994_logo_0_9438.jpeg"],
+            "gallery" => ["https://siva.jsstatic.com/my/12994/images/sol/12994_logo_0_618249.png"],
             "rating" => 4,
             "reviews_number" => 23
         ],
@@ -42869,7 +43760,7 @@ Sentul, KL",
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 20
         ],
@@ -42936,7 +43827,7 @@ Sentul, KL",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/49258/images/sol/49258_logo_0.jpg"],
             "rating" => 3,
             "reviews_number" => 19
         ],
@@ -42954,7 +43845,7 @@ Sentul, KL",
             "max_monthly_salary" => "3900.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ur.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/18852/images/sol/18852_logo_0_7060221.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/18852/images/sol/18852_logo_0_19644.png"],
             "rating" => 2,
             "reviews_number" => 19
         ],
@@ -42994,7 +43885,7 @@ Sentul, KL",
             "max_monthly_salary" => "3600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.knightfrank.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/25293/images/sol/25293_logo_0_6768983.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/25293/images/sol/25293_logo_0_13589.jpg"],
             "rating" => 3,
             "reviews_number" => 18
         ],
@@ -43012,7 +43903,7 @@ Sentul, KL",
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3882/images/sol/3882_logo_0_6649631.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3882/images/sol/3882_logo_0_345697.png"],
             "rating" => 2,
             "reviews_number" => 18
         ],
@@ -43048,7 +43939,7 @@ Sentul, KL",
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tarponenergy.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/105764/images/sol/105764_logo_0_487149.jpg"],
             "rating" => 4,
             "reviews_number" => 15
         ],
@@ -43066,7 +43957,7 @@ Sentul, KL",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.corusparadisepd.com",
-            "gallery" => ["https://siva.jsstatic.com/my/8686/images/sol/8686_logo_0_6679699.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 12
         ],
@@ -43151,7 +44042,7 @@ Sentul, KL",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/55358/images/sol/55358_logo_0_7501730.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/55358/images/sol/55358_logo_0_7501775.jpg"],
             "rating" => 3,
             "reviews_number" => 08
         ],
@@ -43169,7 +44060,7 @@ Sentul, KL",
             "max_monthly_salary" => "2700.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.acappella.com.my\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/102388/images/sol/102388_logo_0_29315.jpg"],
             "rating" => 3,
             "reviews_number" => 08
         ],
@@ -43264,7 +44155,7 @@ Sentul, KL",
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/49258/images/sol/49258_logo_0.jpg"],
             "rating" => 3,
             "reviews_number" => 07
         ],
@@ -43282,7 +44173,7 @@ Sentul, KL",
             "max_monthly_salary" => "2200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.skilltermite.com",
-            "gallery" => ["https://siva.jsstatic.com/my/69223/images/sol/69223_logo_0_6904346.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/69223/images/sol/69223_logo_0_75802.jpg"],
             "rating" => 3,
             "reviews_number" => 06
         ],
@@ -43318,7 +44209,7 @@ Sentul, KL",
             "max_monthly_salary" => "3100.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3604/images/sol/3604_logo_0_6725340.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3604/images/sol/3604_logo_0_7136614.jpg"],
             "rating" => 4,
             "reviews_number" => 05
         ],
@@ -43427,7 +44318,7 @@ Sentul, KL",
             "max_monthly_salary" => "500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.nosairis.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/91482/images/sol/91482_logo_0_7839903.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/91482/images/sol/91482_logo_0_28157.png"],
             "rating" => 2,
             "reviews_number" => 02
         ],
@@ -43468,7 +44359,7 @@ Sentul, KL",
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.xmu.edu.my",
-            "gallery" => ["https://siva.jsstatic.com/my/95183/images/sol/95183_logo_0_16913.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/95183/images/sol/95183_logo_0_913263.jpg"],
             "rating" => 3,
             "reviews_number" => 00
         ],
@@ -43491,7 +44382,7 @@ Selangor Darul Ehsan.
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/103017/images/sol/103017_logo_0_27091.png"],
             "rating" => 2,
             "reviews_number" => 57
         ],
@@ -43509,7 +44400,7 @@ Selangor Darul Ehsan.
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/2393/images/sol/2393_logo_0_6027221.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2393/images/sol/2393_logo_0_62796.jpg"],
             "rating" => 3,
             "reviews_number" => 53
         ],
@@ -43545,7 +44436,7 @@ Selangor Darul Ehsan.
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 53
         ],
@@ -43581,7 +44472,7 @@ Selangor Darul Ehsan.
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.cibmall.net\/",
-            "gallery" => ["https://siva.jsstatic.com/my/15697/images/sol/15697_logo_0_6713358.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/15697/images/sol/15697_logo_0_7336155.jpg"],
             "rating" => 2,
             "reviews_number" => 51
         ],
@@ -43625,7 +44516,7 @@ Selangor Darul Ehsan.
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.dzhintl.com",
-            "gallery" => ["https://siva.jsstatic.com/my/13523/images/sol/13523_logo_0_7400642.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13523/images/sol/13523_logo_0_800509.gif"],
             "rating" => 3,
             "reviews_number" => 49
         ],
@@ -43690,7 +44581,7 @@ Selangor Darul Ehsan.
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/49258/images/sol/49258_logo_0.jpg"],
             "rating" => 3,
             "reviews_number" => 48
         ],
@@ -43708,7 +44599,7 @@ Selangor Darul Ehsan.
             "max_monthly_salary" => "13300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/17994/images/sol/17994_logo_0_3594.jpeg"],
+            "gallery" => ["https://siva.jsstatic.com/my/17994/images/sol/17994_logo_0_34405.jpg"],
             "rating" => 4,
             "reviews_number" => 39
         ],
@@ -43744,7 +44635,7 @@ Selangor Darul Ehsan.
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.fitnessconcept.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/9670/images/sol/9670_logo_0.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9670/images/sol/9670_logo_0_7040635.jpg"],
             "rating" => 1,
             "reviews_number" => 34
         ],
@@ -43801,7 +44692,7 @@ KEDAH. ",
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/43100/images/sol/43100_logo_0_46641.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/43100/images/sol/43100_logo_0_35153.jpg"],
             "rating" => 1,
             "reviews_number" => 31
         ],
@@ -43843,7 +44734,7 @@ KEDAH. ",
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.londonbiscuits.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/57614/images/sol/57614_logo_0_6801502.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/57614/images/sol/57614_logo_0_44291.jpg"],
             "rating" => 4,
             "reviews_number" => 30
         ],
@@ -43900,7 +44791,7 @@ LORONG TUN RAZAK
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/43100/images/sol/43100_logo_0_46641.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/43100/images/sol/43100_logo_0_35153.jpg"],
             "rating" => 1,
             "reviews_number" => 26
         ],
@@ -43959,7 +44850,7 @@ LORONG TUN RAZAK
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "https:\/\/www.teledirectasia.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/8687/images/sol/8687_logo_0_7610709.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/8687/images/sol/8687_logo_0_406919.png"],
             "rating" => 2,
             "reviews_number" => 24
         ],
@@ -44017,7 +44908,7 @@ LORONG TUN RAZAK
             "max_monthly_salary" => "1200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ppa.my",
-            "gallery" => ["https://siva.jsstatic.com/my/78947/images/sol/78947_logo_0.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/78947/images/sol/78947_logo_0_26045.jpg"],
             "rating" => 2,
             "reviews_number" => 23
         ],
@@ -44037,7 +44928,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/43100/images/sol/43100_logo_0_46641.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/43100/images/sol/43100_logo_0_35153.jpg"],
             "rating" => 1,
             "reviews_number" => 23
         ],
@@ -44073,7 +44964,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "3600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.houm.asia\/",
-            "gallery" => ["https://siva.jsstatic.com/my/31859/images/sol/31859_logo_0_6825249.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/31859/images/sol/31859_logo_0_71593.jpg"],
             "rating" => 4,
             "reviews_number" => 22
         ],
@@ -44091,7 +44982,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/askresources.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/19494/images/sol/19494_logo_0_7760841.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19494/images/sol/19494_logo_0_562815.png"],
             "rating" => 4,
             "reviews_number" => 20
         ],
@@ -44150,7 +45041,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/83505/images/sol/83505_logo_0_6881869.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/83505/images/sol/83505_logo_0_7776159.jpg"],
             "rating" => 1,
             "reviews_number" => 18
         ],
@@ -44196,7 +45087,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "1900.00",
             "currency" => "MYR",
             "url" => "https:\/\/www.facebook.com\/pages\/alstyle-international-m-sdn-bhd",
-            "gallery" => ["https://siva.jsstatic.com/my/29695/images/sol/29695_logo_0_6640015.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 13
         ],
@@ -44242,7 +45133,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "https:\/\/www.utrade.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/18338/images/sol/18338_logo_0_6785352.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/18338/images/sol/18338_logo_0_77270.jpg"],
             "rating" => 3,
             "reviews_number" => 12
         ],
@@ -44260,7 +45151,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/43100/images/sol/43100_logo_0_46641.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/43100/images/sol/43100_logo_0_35153.jpg"],
             "rating" => 1,
             "reviews_number" => 12
         ],
@@ -44305,7 +45196,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/12835/images/sol/12835_logo_0_7788118.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 06
         ],
@@ -44323,7 +45214,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/10127/images/sol/10127_logo_0_61553.jpg"],
             "rating" => 2,
             "reviews_number" => 05
         ],
@@ -44359,7 +45250,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.honghin.com.my\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/23576/images/sol/23576_logo_0_190192.jpg"],
             "rating" => 1,
             "reviews_number" => 00
         ],
@@ -44377,7 +45268,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sandisk.com",
-            "gallery" => ["https://siva.jsstatic.com/my/85029/images/sol/85029_logo_0_7970167.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/85029/images/sol/85029_logo_0_65054.jpg"],
             "rating" => 4,
             "reviews_number" => 00
         ],
@@ -44413,7 +45304,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.easyasia.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/95883/images/sol/95883_logo_0_68690.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/95883/images/sol/95883_logo_0_441452.jpg"],
             "rating" => 3,
             "reviews_number" => 59
         ],
@@ -44449,7 +45340,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.achievegroup.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/62109/images/sol/62109_logo_0_6384439.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/62109/images/sol/62109_logo_0_643533.png"],
             "rating" => 4,
             "reviews_number" => 57
         ],
@@ -44467,7 +45358,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/92136/images/sol/92136_logo_0_7842465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/92136/images/sol/92136_logo_0_99290.jpg"],
             "rating" => 1,
             "reviews_number" => 57
         ],
@@ -44521,7 +45412,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "1000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.cad-vision.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/102256/images/sol/102256_logo_0_566603.png"],
             "rating" => 1,
             "reviews_number" => 57
         ],
@@ -44563,7 +45454,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.bakhacheluxuries.com",
-            "gallery" => ["https://siva.jsstatic.com/my/36459/images/sol/36459_logo_0_7176586.jpg"],
+            "gallery" => [""],
             "rating" => 4,
             "reviews_number" => 55
         ],
@@ -44600,7 +45491,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.easyasia.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/95883/images/sol/95883_logo_0_68690.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/95883/images/sol/95883_logo_0_441452.jpg"],
             "rating" => 3,
             "reviews_number" => 54
         ],
@@ -44678,7 +45569,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "9000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tanchonggroup.com",
-            "gallery" => ["https://siva.jsstatic.com/my/3683/images/sol/3683_logo_0_7957140.jpg"],
+            "gallery" => [""],
             "rating" => 3,
             "reviews_number" => 25
         ],
@@ -44696,7 +45587,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/41950/images/sol/41950_logo_0.gif"],
             "rating" => 1,
             "reviews_number" => 25
         ],
@@ -44714,7 +45605,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.webteq.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/77520/images/sol/77520_logo_0_7558108.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/77520/images/sol/77520_logo_0_7581453.jpg"],
             "rating" => 1,
             "reviews_number" => 13
         ],
@@ -44767,7 +45658,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.themvpgroup.org",
-            "gallery" => ["https://siva.jsstatic.com/my/99049/images/sol/99049_logo_0_99184.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/99049/images/sol/99049_logo_0_28391.png"],
             "rating" => 4,
             "reviews_number" => 07
         ],
@@ -44818,7 +45709,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "2700.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.uwchealthcare.com",
-            "gallery" => ["https://siva.jsstatic.com/my/39531/images/sol/39531_logo_0_7196933.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/39531/images/sol/39531_logo_0_7204978.jpg"],
             "rating" => 1,
             "reviews_number" => 53
         ],
@@ -44854,7 +45745,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/11225/images/sol/11225_logo_0_08493.jpg"],
             "rating" => 1,
             "reviews_number" => 44
         ],
@@ -44872,7 +45763,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/11225/images/sol/11225_logo_0_08493.jpg"],
             "rating" => 1,
             "reviews_number" => 35
         ],
@@ -44890,7 +45781,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.yummihouse.com",
-            "gallery" => ["https://siva.jsstatic.com/my/60804/images/sol/60804_logo_0_7433035.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/60804/images/sol/60804_logo_0_24314.jpg"],
             "rating" => 4,
             "reviews_number" => 34
         ],
@@ -44908,7 +45799,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "3100.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.venture.com.sg",
-            "gallery" => ["https://siva.jsstatic.com/my/1413/images/sol/1413_logo_0_6680333.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1413/images/sol/1413_logo_0_48891.jpg"],
             "rating" => 3,
             "reviews_number" => 23
         ],
@@ -45098,7 +45989,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.jobstreet.com.my\/career\/JobStreet.htm",
-            "gallery" => ["https://siva.jsstatic.com/my/94463/images/sol/94463_logo_0_15325.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/94463/images/sol/94463_logo_0_25475.gif"],
             "rating" => 3,
             "reviews_number" => 07
         ],
@@ -45116,7 +46007,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.isentia.com",
-            "gallery" => ["https://siva.jsstatic.com/my/15135/images/sol/15135_logo_0_6854673.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/15135/images/sol/15135_logo_0_58725.jpg"],
             "rating" => 1,
             "reviews_number" => 03
         ],
@@ -45163,7 +46054,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.honchuan.com.tw\/index_e.htm",
-            "gallery" => ["https://siva.jsstatic.com/my/54073/images/sol/54073_logo_0_7066364.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/54073/images/sol/54073_logo_0_5687117.jpg"],
             "rating" => 3,
             "reviews_number" => 03
         ],
@@ -45224,7 +46115,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.koponas.coop",
-            "gallery" => ["https://siva.jsstatic.com/my/94252/images/sol/94252_logo_0_8044202.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/94252/images/sol/94252_logo_0_8044203.jpg"],
             "rating" => 2,
             "reviews_number" => 55
         ],
@@ -45260,7 +46151,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "1840.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.seagate.com",
-            "gallery" => ["https://siva.jsstatic.com/my/1325/images/sol/1325_logo_0_28155.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1325/images/sol/1325_logo_0_7918302.jpg"],
             "rating" => 1,
             "reviews_number" => 50
         ],
@@ -45332,7 +46223,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/28400/images/sol/28400_logo_0_7071905.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/28400/images/sol/28400_logo_0_7639344.jpg"],
             "rating" => 1,
             "reviews_number" => 45
         ],
@@ -45350,7 +46241,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.venture.com.sg",
-            "gallery" => ["https://siva.jsstatic.com/my/1413/images/sol/1413_logo_0_6680333.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1413/images/sol/1413_logo_0_48891.jpg"],
             "rating" => 3,
             "reviews_number" => 43
         ],
@@ -45368,7 +46259,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/80380/images/sol/80380_logo_0_15834.png"],
             "rating" => 1,
             "reviews_number" => 40
         ],
@@ -45398,7 +46289,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.gempakstarz.com",
-            "gallery" => ["https://siva.jsstatic.com/my/37006/images/sol/37006_logo_0_6773905.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/37006/images/sol/37006_logo_0_96187.png"],
             "rating" => 1,
             "reviews_number" => 40
         ],
@@ -45436,7 +46327,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.uac.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/10128/images/sol/10128_logo_0_7573562.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/10128/images/sol/10128_logo_0_55730.jpg"],
             "rating" => 3,
             "reviews_number" => 35
         ],
@@ -45454,7 +46345,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "9000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/100373/images/sol/100373_logo_0_16625.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/100373/images/sol/100373_logo_0_59087.jpg"],
             "rating" => 3,
             "reviews_number" => 32
         ],
@@ -45490,7 +46381,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/68489/images/sol/68489_logo_0_19078.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/68489/images/sol/68489_logo_0_24068.jpg"],
             "rating" => 4,
             "reviews_number" => 27
         ],
@@ -45616,7 +46507,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/31641/images/sol/31641_logo_0_6882258.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/31641/images/sol/31641_logo_0_239371.jpg"],
             "rating" => 1,
             "reviews_number" => 19
         ],
@@ -45634,7 +46525,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.avillion.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/2332/images/sol/2332_logo_0_6761465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2332/images/sol/2332_logo_0_7166211.jpg"],
             "rating" => 2,
             "reviews_number" => 18
         ],
@@ -45674,7 +46565,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/13193/images/sol/13193_logo_0_6957751.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13193/images/sol/13193_logo_0_7308610.jpg"],
             "rating" => 3,
             "reviews_number" => 15
         ],
@@ -45722,7 +46613,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "5600.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.senzo.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/985/images/sol/985_logo_0_7648058.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/985/images/sol/985_logo_0_7648064.jpg"],
             "rating" => 1,
             "reviews_number" => 12
         ],
@@ -45786,7 +46677,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.capitagrp.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/107111/images/sol/107111_logo_0_813665.png"],
             "rating" => 1,
             "reviews_number" => 10
         ],
@@ -45804,7 +46695,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "2600.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/11319/images/sol/11319_logo_0_245638.gif"],
             "rating" => 4,
             "reviews_number" => 10
         ],
@@ -45822,7 +46713,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "4900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3257/images/sol/3257_logo_0_6711557.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3257/images/sol/3257_logo_0_6690955.jpg"],
             "rating" => 2,
             "reviews_number" => 04
         ],
@@ -45862,7 +46753,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.privintl.com",
-            "gallery" => ["https://siva.jsstatic.com/my/35637/images/sol/35637_logo_0_7100416.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/35637/images/sol/35637_logo_0_18531.jpg"],
             "rating" => 2,
             "reviews_number" => 03
         ],
@@ -45880,7 +46771,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.motorimage.net\/",
-            "gallery" => ["https://siva.jsstatic.com/my/21700/images/sol/21700_logo_0_6711177.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/21700/images/sol/21700_logo_0_6711206.jpg"],
             "rating" => 1,
             "reviews_number" => 01
         ],
@@ -45898,7 +46789,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.safefood.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/30311/images/sol/30311_logo_0_6885316.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/30311/images/sol/30311_logo_0_7806101.jpg"],
             "rating" => 1,
             "reviews_number" => 00
         ],
@@ -45942,7 +46833,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.privintl.com",
-            "gallery" => ["https://siva.jsstatic.com/my/35637/images/sol/35637_logo_0_7100416.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/35637/images/sol/35637_logo_0_18531.jpg"],
             "rating" => 2,
             "reviews_number" => 58
         ],
@@ -45960,7 +46851,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.recruitexpress.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/13658/images/sol/13658_logo_0_5818980.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13658/images/sol/13658_logo_0_99500.jpg"],
             "rating" => 3,
             "reviews_number" => 55
         ],
@@ -46037,7 +46928,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "3800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/13193/images/sol/13193_logo_0_6957751.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/13193/images/sol/13193_logo_0_7308610.jpg"],
             "rating" => 3,
             "reviews_number" => 53
         ],
@@ -46073,7 +46964,7 @@ METROPOLIS TOWER, JALAN ABDULLAH TAHIR
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.privintl.com",
-            "gallery" => ["https://siva.jsstatic.com/my/35637/images/sol/35637_logo_0_7100416.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/35637/images/sol/35637_logo_0_18531.jpg"],
             "rating" => 2,
             "reviews_number" => 49
         ],
@@ -46095,7 +46986,7 @@ Selangor Darul Ehsan
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.seberangflour.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/259/images/sol/259_logo_0_01941.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/259/images/sol/259_logo_0_6905533.jpg"],
             "rating" => 4,
             "reviews_number" => 48
         ],
@@ -46159,7 +47050,7 @@ Selangor Darul Ehsan
             "max_monthly_salary" => "11000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.lemeridienkotakinabalu.com",
-            "gallery" => ["https://siva.jsstatic.com/my/43886/images/sol/43886_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/43886/images/sol/43886_logo_0_76024.png"],
             "rating" => 1,
             "reviews_number" => 46
         ],
@@ -46177,7 +47068,7 @@ Selangor Darul Ehsan
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/1864/images/sol/1864_logo_0_6683194.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1864/images/sol/1864_logo_0_70790.png"],
             "rating" => 4,
             "reviews_number" => 44
         ],
@@ -46233,7 +47124,7 @@ Selangor Darul Ehsan
             "max_monthly_salary" => "3900.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.welfordmedical.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/27221/images/sol/27221_logo_0.jpg"],
             "rating" => 1,
             "reviews_number" => 37
         ],
@@ -46303,7 +47194,7 @@ Selangor Darul Ehsan
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.astino.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/83205/images/sol/83205_logo_0_7017396.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/83205/images/sol/83205_logo_0_7573708.jpg"],
             "rating" => 1,
             "reviews_number" => 29
         ],
@@ -46321,7 +47212,7 @@ Selangor Darul Ehsan
             "max_monthly_salary" => "2600.00",
             "currency" => "SGD",
             "url" => "http:\/\/www.emeriocorp.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/16131/images/sol/16131_logo_0_6796411.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/16131/images/sol/16131_logo_0_74514.png"],
             "rating" => 1,
             "reviews_number" => 27
         ],
@@ -46360,7 +47251,7 @@ Selangor Darul Ehsan
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.markantoffice.com\/ms",
-            "gallery" => ["https://siva.jsstatic.com/my/23099/images/sol/23099_logo_0_6606837.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/23099/images/sol/23099_logo_0_99074.jpg"],
             "rating" => 4,
             "reviews_number" => 24
         ],
@@ -46396,7 +47287,7 @@ Selangor Darul Ehsan
             "max_monthly_salary" => "6500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.nec.com\/index.html",
-            "gallery" => ["https://siva.jsstatic.com/my/9166/images/sol/9166_logo_0_7778353.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9166/images/sol/9166_logo_0_7781906.jpg"],
             "rating" => 1,
             "reviews_number" => 11
         ],
@@ -46437,7 +47328,7 @@ Selangor Darul Ehsan
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.klanalytical.com",
-            "gallery" => ["https://siva.jsstatic.com/my/20957/images/sol/20957_logo_0_6916302.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/20957/images/sol/20957_logo_0_6932987.jpg"],
             "rating" => 2,
             "reviews_number" => 11
         ],
@@ -46455,7 +47346,7 @@ Selangor Darul Ehsan
             "max_monthly_salary" => "9000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/18323/images/sol/18323_logo_0_7898987.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/18323/images/sol/18323_logo_0_7917488.jpg"],
             "rating" => 3,
             "reviews_number" => 09
         ],
@@ -46599,7 +47490,7 @@ Selangor Darul Ehsan
             "max_monthly_salary" => "5600.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/17088/images/sol/17088_logo_0_7016543.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/17088/images/sol/17088_logo_0_21939.jpg"],
             "rating" => 3,
             "reviews_number" => 02
         ],
@@ -46632,7 +47523,7 @@ Selangor Darul Ehsan
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.vicmy.com",
-            "gallery" => ["https://siva.jsstatic.com/my/42246/images/sol/42246_logo_0.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/42246/images/sol/42246_logo_0_8026259.jpg"],
             "rating" => 1,
             "reviews_number" => 02
         ],
@@ -46650,7 +47541,7 @@ Selangor Darul Ehsan
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.emercongroup.com",
-            "gallery" => ["https://siva.jsstatic.com/my/53362/images/sol/53362_logo_0_7019594.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/53362/images/sol/53362_logo_0_7441040.jpg"],
             "rating" => 2,
             "reviews_number" => 55
         ],
@@ -46686,7 +47577,7 @@ Selangor Darul Ehsan
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.simedarbyindustrial.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/5186/images/sol/5186_logo_0_37634.jpg"],
             "rating" => 1,
             "reviews_number" => 48
         ],
@@ -46708,7 +47599,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/20308/images/sol/20308_logo_0_6713037.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/20308/images/sol/20308_logo_0_10615.png"],
             "rating" => 3,
             "reviews_number" => 47
         ],
@@ -46726,7 +47617,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.gentingplantations.com",
-            "gallery" => ["https://siva.jsstatic.com/my/3795/images/sol/3795_logo_0_7032052.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 43
         ],
@@ -46780,7 +47671,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.monroeconsulting.com",
-            "gallery" => ["https://siva.jsstatic.com/my/33106/images/sol/33106_logo_0_7931221.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/33106/images/sol/33106_logo_0_933080.png"],
             "rating" => 1,
             "reviews_number" => 32
         ],
@@ -46805,7 +47696,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/1530/images/sol/1530_logo_0_6842509.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1530/images/sol/1530_logo_0_36628.jpg"],
             "rating" => 1,
             "reviews_number" => 27
         ],
@@ -46885,7 +47776,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3128/images/sol/3128_logo_0_7481039.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3128/images/sol/3128_logo_0_7347164.jpg"],
             "rating" => 3,
             "reviews_number" => 16
         ],
@@ -46926,7 +47817,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/13579/images/sol/13579_logo_0_465818.jpg"],
             "rating" => 4,
             "reviews_number" => 13
         ],
@@ -46962,7 +47853,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "3100.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6095/images/sol/6095_logo_0_77149.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/6095/images/sol/6095_logo_0_46192.png"],
             "rating" => 1,
             "reviews_number" => 11
         ],
@@ -46980,7 +47871,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.plexus.com",
-            "gallery" => ["https://siva.jsstatic.com/my/137/images/sol/137_logo_0_7716518.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/137/images/sol/137_logo_0_63794.jpg"],
             "rating" => 2,
             "reviews_number" => 09
         ],
@@ -47069,7 +47960,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.fujifilm.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/58033/images/sol/58033_logo_0_62248.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/58033/images/sol/58033_logo_0_562850.jpg"],
             "rating" => 3,
             "reviews_number" => 07
         ],
@@ -47087,7 +47978,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "2600.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_97398.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_162866.jpg"],
             "rating" => 1,
             "reviews_number" => 06
         ],
@@ -47105,7 +47996,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "1500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/2317/images/sol/2317_logo_0_6346.jpeg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2317/images/sol/2317_logo_0_7341127.jpg"],
             "rating" => 2,
             "reviews_number" => 59
         ],
@@ -47168,7 +48059,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "3800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/12/images/sol/12_logo_0_6786441.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/12/images/sol/12_logo_0_26621.png"],
             "rating" => 2,
             "reviews_number" => 44
         ],
@@ -47219,7 +48110,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/hinconstruction.com.my\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/106327/images/sol/106327_logo_0_619876.jpg"],
             "rating" => 2,
             "reviews_number" => 38
         ],
@@ -47263,7 +48154,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.chis.edu.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/103577/images/sol/103577_logo_0_21072.jpg"],
             "rating" => 2,
             "reviews_number" => 30
         ],
@@ -47287,7 +48178,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.chis.edu.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/103577/images/sol/103577_logo_0_21072.jpg"],
             "rating" => 2,
             "reviews_number" => 21
         ],
@@ -47325,7 +48216,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "3400.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/56686/images/sol/56686_logo_0_6863591.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/56686/images/sol/56686_logo_0_33462.png"],
             "rating" => 1,
             "reviews_number" => 18
         ],
@@ -47379,7 +48270,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/oz-marketing.com",
-            "gallery" => ["https://siva.jsstatic.com/my/30742/images/sol/30742_logo_0_7074032.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/30742/images/sol/30742_logo_0_741944.png"],
             "rating" => 2,
             "reviews_number" => 17
         ],
@@ -47449,7 +48340,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "4900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/18624/images/sol/18624_logo_0_6688851.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/18624/images/sol/18624_logo_0_6712247.jpg"],
             "rating" => 4,
             "reviews_number" => 01
         ],
@@ -47473,7 +48364,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/107176/images/sol/107176_logo_0_543314.jpg"],
             "rating" => 1,
             "reviews_number" => 59
         ],
@@ -47491,7 +48382,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/1864/images/sol/1864_logo_0_6683194.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/1864/images/sol/1864_logo_0_70790.png"],
             "rating" => 4,
             "reviews_number" => 32
         ],
@@ -47516,7 +48407,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "3400.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/17104/images/sol/17104_logo_0_7314213.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/17104/images/sol/17104_logo_0_562705.jpg"],
             "rating" => 4,
             "reviews_number" => 10
         ],
@@ -47744,7 +48635,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/32822/images/sol/32822_logo_0_7018361.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/32822/images/sol/32822_logo_0_7785923.jpg"],
             "rating" => 2,
             "reviews_number" => 53
         ],
@@ -47827,7 +48718,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sololabeller.com.my\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/63369/images/sol/63369_logo_0_88097.jpg"],
             "rating" => 4,
             "reviews_number" => 00
         ],
@@ -47944,7 +48835,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.westlite.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/62952/images/sol/62952_logo_0_6613311.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/62952/images/sol/62952_logo_0_763205.jpg"],
             "rating" => 2,
             "reviews_number" => 05
         ],
@@ -48023,7 +48914,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.platinumvictory.com",
-            "gallery" => ["https://siva.jsstatic.com/my/11107/images/sol/11107_logo_0_6713812.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/11107/images/sol/11107_logo_0_98297.jpg"],
             "rating" => 2,
             "reviews_number" => 36
         ],
@@ -48041,7 +48932,7 @@ Bayan Lepas FTZ,
             "max_monthly_salary" => "6500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.platinumvictory.com",
-            "gallery" => ["https://siva.jsstatic.com/my/11107/images/sol/11107_logo_0_6713812.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/11107/images/sol/11107_logo_0_98297.jpg"],
             "rating" => 2,
             "reviews_number" => 26
         ],
@@ -48093,7 +48984,7 @@ Lot PTD 1384 Kawasan Perindustrian Fasa 1, Bandar Tenggara, 81440 Johor",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.allied-advantage.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/17814/images/sol/17814_logo_0.gif"],
             "rating" => 4,
             "reviews_number" => 17
         ],
@@ -48111,7 +49002,7 @@ Lot PTD 1384 Kawasan Perindustrian Fasa 1, Bandar Tenggara, 81440 Johor",
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tafurniture.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/8783/images/sol/8783_logo_0_86768.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/8783/images/sol/8783_logo_0_7753986.jpg"],
             "rating" => 3,
             "reviews_number" => 15
         ],
@@ -48167,7 +49058,7 @@ Lot PTD 1384 Kawasan Perindustrian Fasa 1, Bandar Tenggara, 81440 Johor",
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/20256/images/sol/20256_logo_0_34446.jpg"],
             "rating" => 1,
             "reviews_number" => 43
         ],
@@ -48223,7 +49114,7 @@ Lot PTD 1384 Kawasan Perindustrian Fasa 1, Bandar Tenggara, 81440 Johor",
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.youngaces.edu.my",
-            "gallery" => ["https://siva.jsstatic.com/my/96839/images/sol/96839_logo_0_73575.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/96839/images/sol/96839_logo_0_617067.jpg"],
             "rating" => 4,
             "reviews_number" => 40
         ],
@@ -48254,7 +49145,7 @@ Lot PTD 1384 Kawasan Perindustrian Fasa 1, Bandar Tenggara, 81440 Johor",
             "max_monthly_salary" => "2600.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/20256/images/sol/20256_logo_0_34446.jpg"],
             "rating" => 1,
             "reviews_number" => 27
         ],
@@ -48289,7 +49180,7 @@ Lot PTD 1384 Kawasan Perindustrian Fasa 1, Bandar Tenggara, 81440 Johor",
             "max_monthly_salary" => "1500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.agilent.com",
-            "gallery" => ["https://siva.jsstatic.com/my/86609/images/sol/86609_logo_0_81731.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/86609/images/sol/86609_logo_0_7327309.jpg"],
             "rating" => 4,
             "reviews_number" => 15
         ],
@@ -48324,7 +49215,7 @@ Lot PTD 1384 Kawasan Perindustrian Fasa 1, Bandar Tenggara, 81440 Johor",
             "max_monthly_salary" => "1500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.agilent.com",
-            "gallery" => ["https://siva.jsstatic.com/my/86609/images/sol/86609_logo_0_81731.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/86609/images/sol/86609_logo_0_7327309.jpg"],
             "rating" => 4,
             "reviews_number" => 15
         ],
@@ -48359,7 +49250,7 @@ Lot PTD 1384 Kawasan Perindustrian Fasa 1, Bandar Tenggara, 81440 Johor",
             "max_monthly_salary" => "1500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.agilent.com",
-            "gallery" => ["https://siva.jsstatic.com/my/86609/images/sol/86609_logo_0_81731.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/86609/images/sol/86609_logo_0_7327309.jpg"],
             "rating" => 4,
             "reviews_number" => 14
         ],
@@ -48414,7 +49305,7 @@ Lot PTD 1384 Kawasan Perindustrian Fasa 1, Bandar Tenggara, 81440 Johor",
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.londonbiscuits.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/57614/images/sol/57614_logo_0_6801502.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/57614/images/sol/57614_logo_0_44291.jpg"],
             "rating" => 4,
             "reviews_number" => 51
         ],
@@ -48450,7 +49341,7 @@ Lot PTD 1384 Kawasan Perindustrian Fasa 1, Bandar Tenggara, 81440 Johor",
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/106/images/sol/106_logo_0.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/106/images/sol/106_logo_0_7944415.jpg"],
             "rating" => 1,
             "reviews_number" => 48
         ],
@@ -48493,7 +49384,7 @@ Lot PTD 1384 Kawasan Perindustrian Fasa 1, Bandar Tenggara, 81440 Johor",
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.babiescasa.com",
-            "gallery" => ["https://siva.jsstatic.com/my/88610/images/sol/88610_logo_0_7527111.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/88610/images/sol/88610_logo_0_382028.jpg"],
             "rating" => 1,
             "reviews_number" => 36
         ],
@@ -48591,7 +49482,7 @@ Lot PTD 1384 Kawasan Perindustrian Fasa 1, Bandar Tenggara, 81440 Johor",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/24296/images/sol/24296_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/24296/images/sol/24296_logo_0_7367270.jpg"],
             "rating" => 1,
             "reviews_number" => 50
         ],
@@ -48633,7 +49524,7 @@ Lot PTD 1384 Kawasan Perindustrian Fasa 1, Bandar Tenggara, 81440 Johor",
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.delivereat.my",
-            "gallery" => ["https://siva.jsstatic.com/my/83928/images/sol/83928_logo_0_6940209.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/83928/images/sol/83928_logo_0_182031.jpg"],
             "rating" => 3,
             "reviews_number" => 20
         ],
@@ -48669,7 +49560,7 @@ Lot PTD 1384 Kawasan Perindustrian Fasa 1, Bandar Tenggara, 81440 Johor",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/55366/images/sol/55366_logo_0_59084.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/55366/images/sol/55366_logo_0_88599.jpg"],
             "rating" => 1,
             "reviews_number" => 45
         ],
@@ -48705,7 +49596,7 @@ Lot PTD 1384 Kawasan Perindustrian Fasa 1, Bandar Tenggara, 81440 Johor",
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.jhstamp.com",
-            "gallery" => ["https://siva.jsstatic.com/my/38223/images/sol/38223_logo_0_55587.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/38223/images/sol/38223_logo_0_864727.jpg"],
             "rating" => 3,
             "reviews_number" => 38
         ],
@@ -48744,7 +49635,7 @@ Lot PTD 1384 Kawasan Perindustrian Fasa 1, Bandar Tenggara, 81440 Johor",
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/10974/images/sol/10974_logo_0_6991251.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/10974/images/sol/10974_logo_0_56571.png"],
             "rating" => 4,
             "reviews_number" => 31
         ],
@@ -48780,7 +49671,7 @@ Lot PTD 1384 Kawasan Perindustrian Fasa 1, Bandar Tenggara, 81440 Johor",
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.homepro.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/82417/images/sol/82417_logo_0_6716303.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/82417/images/sol/82417_logo_0_64773.jpg"],
             "rating" => 2,
             "reviews_number" => 18
         ],
@@ -48864,7 +49755,7 @@ Lot PTD 1384 Kawasan Perindustrian Fasa 1, Bandar Tenggara, 81440 Johor",
             "max_monthly_salary" => "10000.00",
             "currency" => "SGD",
             "url" => "http:\/\/www.henkel-ap.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/12730/images/sol/12730_logo_0_7026024.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/12730/images/sol/12730_logo_0_7960459.jpg"],
             "rating" => 1,
             "reviews_number" => 41
         ],
@@ -48955,7 +49846,7 @@ Lot PTD 1384 Kawasan Perindustrian Fasa 1, Bandar Tenggara, 81440 Johor",
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3478/images/sol/3478_logo_0_7277597.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3478/images/sol/3478_logo_0_7918729.jpg"],
             "rating" => 3,
             "reviews_number" => 03
         ],
@@ -48973,7 +49864,7 @@ Lot PTD 1384 Kawasan Perindustrian Fasa 1, Bandar Tenggara, 81440 Johor",
             "max_monthly_salary" => "2400.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/2339/images/sol/2339_logo_0_7697652.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2339/images/sol/2339_logo_0_948514.png"],
             "rating" => 4,
             "reviews_number" => 57
         ],
@@ -49094,7 +49985,7 @@ e. 具有敬业精神、团队合作及服务意识，能够适应公司安排�
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/81541/images/sol/81541_logo_0_6762817.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/81541/images/sol/81541_logo_0_7570512.jpg"],
             "rating" => 1,
             "reviews_number" => 16
         ],
@@ -49191,7 +50082,7 @@ e. 具有敬业精神、团队合作及服务意识，能够适应公司安排�
             "max_monthly_salary" => "6300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/38999/images/sol/38999_logo_0_6613063.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/38999/images/sol/38999_logo_0_6613064.jpg"],
             "rating" => 4,
             "reviews_number" => 45
         ],
@@ -49232,7 +50123,7 @@ e. 具有敬业精神、团队合作及服务意识，能够适应公司安排�
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.londonbiscuits.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/57614/images/sol/57614_logo_0_6801502.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/57614/images/sol/57614_logo_0_44291.jpg"],
             "rating" => 4,
             "reviews_number" => 32
         ],
@@ -49253,7 +50144,7 @@ Primary\/Secondary School\/SPM\/&quot;O&quot; Level, Higher Secondaries\/STPM\/&
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/47276/images/sol/47276_logo_0_934567.jpg"],
             "rating" => 1,
             "reviews_number" => 16
         ],
@@ -49271,7 +50162,7 @@ Primary\/Secondary School\/SPM\/&quot;O&quot; Level, Higher Secondaries\/STPM\/&
             "max_monthly_salary" => "15000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/38999/images/sol/38999_logo_0_6613063.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/38999/images/sol/38999_logo_0_6613064.jpg"],
             "rating" => 4,
             "reviews_number" => 43
         ],
@@ -49289,7 +50180,7 @@ Primary\/Secondary School\/SPM\/&quot;O&quot; Level, Higher Secondaries\/STPM\/&
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/38999/images/sol/38999_logo_0_6613063.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/38999/images/sol/38999_logo_0_6613064.jpg"],
             "rating" => 4,
             "reviews_number" => 22
         ],
@@ -49307,7 +50198,7 @@ Primary\/Secondary School\/SPM\/&quot;O&quot; Level, Higher Secondaries\/STPM\/&
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/43/images/sol/43_logo_0_5922804.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/43/images/sol/43_logo_0_23199.jpg"],
             "rating" => 3,
             "reviews_number" => 51
         ],
@@ -49325,7 +50216,7 @@ Primary\/Secondary School\/SPM\/&quot;O&quot; Level, Higher Secondaries\/STPM\/&
             "max_monthly_salary" => "4900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/43/images/sol/43_logo_0_5922804.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/43/images/sol/43_logo_0_23199.jpg"],
             "rating" => 3,
             "reviews_number" => 22
         ],
@@ -49343,7 +50234,7 @@ Primary\/Secondary School\/SPM\/&quot;O&quot; Level, Higher Secondaries\/STPM\/&
             "max_monthly_salary" => "5600.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/43/images/sol/43_logo_0_5922804.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/43/images/sol/43_logo_0_23199.jpg"],
             "rating" => 3,
             "reviews_number" => 20
         ],
@@ -49364,7 +50255,7 @@ Bayan Lepas, 11900 Penang, Malaysia.
             "max_monthly_salary" => "3400.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/43/images/sol/43_logo_0_5922804.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/43/images/sol/43_logo_0_23199.jpg"],
             "rating" => 3,
             "reviews_number" => 18
         ],
@@ -49382,7 +50273,7 @@ Bayan Lepas, 11900 Penang, Malaysia.
             "max_monthly_salary" => "4900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/43/images/sol/43_logo_0_5922804.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/43/images/sol/43_logo_0_23199.jpg"],
             "rating" => 3,
             "reviews_number" => 16
         ],
@@ -49400,7 +50291,7 @@ Bayan Lepas, 11900 Penang, Malaysia.
             "max_monthly_salary" => "4900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/43/images/sol/43_logo_0_5922804.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/43/images/sol/43_logo_0_23199.jpg"],
             "rating" => 3,
             "reviews_number" => 15
         ],
@@ -49418,7 +50309,7 @@ Bayan Lepas, 11900 Penang, Malaysia.
             "max_monthly_salary" => "5600.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/43/images/sol/43_logo_0_5922804.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/43/images/sol/43_logo_0_23199.jpg"],
             "rating" => 3,
             "reviews_number" => 14
         ],
@@ -49436,7 +50327,7 @@ Bayan Lepas, 11900 Penang, Malaysia.
             "max_monthly_salary" => "5500.00",
             "currency" => "MYR",
             "url" => "http:\/\/WWW.SEMLOUIS.COM",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/16398/images/sol/16398_logo_0.jpg"],
             "rating" => 3,
             "reviews_number" => 13
         ],
@@ -49464,7 +50355,7 @@ Bayan Lepas, 11900 Penang, Malaysia.
             "max_monthly_salary" => "2400.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.o2klinik.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/78725/images/sol/78725_logo_0_7053058.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/78725/images/sol/78725_logo_0_7771138.jpg"],
             "rating" => 1,
             "reviews_number" => 37
         ],
@@ -49546,7 +50437,7 @@ Please visit http:\/\/www.faadvisory.my\/<\/div>
             "max_monthly_salary" => "2600.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/102267/images/sol/102267_logo_0_76782.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/102267/images/sol/102267_logo_0_291574.jpg"],
             "rating" => 2,
             "reviews_number" => 04
         ],
@@ -49573,7 +50464,7 @@ Please visit http:\/\/www.faadvisory.my\/<\/div>
             "max_monthly_salary" => "3100.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/102267/images/sol/102267_logo_0_76782.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/102267/images/sol/102267_logo_0_291574.jpg"],
             "rating" => 2,
             "reviews_number" => 56
         ],
@@ -49600,7 +50491,7 @@ Please visit http:\/\/www.faadvisory.my\/<\/div>
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/98105/images/sol/98105_logo_0_41427.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/98105/images/sol/98105_logo_0_93103.png"],
             "rating" => 1,
             "reviews_number" => 52
         ],
@@ -49618,7 +50509,7 @@ Please visit http:\/\/www.faadvisory.my\/<\/div>
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sunway.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_41880.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_23968.png"],
             "rating" => 1,
             "reviews_number" => 12
         ],
@@ -49636,7 +50527,7 @@ Please visit http:\/\/www.faadvisory.my\/<\/div>
             "max_monthly_salary" => "7700.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/18624/images/sol/18624_logo_0_6688851.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/18624/images/sol/18624_logo_0_6712247.jpg"],
             "rating" => 4,
             "reviews_number" => 12
         ],
@@ -49673,7 +50564,7 @@ Job scope:&nbsp;<br \/>
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.pengangkutanterasek.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/103997/images/sol/103997_logo_0_10261.png"],
             "rating" => 2,
             "reviews_number" => 04
         ],
@@ -49709,7 +50600,7 @@ Job scope:&nbsp;<br \/>
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.pengangkutanterasek.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/103997/images/sol/103997_logo_0_10261.png"],
             "rating" => 2,
             "reviews_number" => 00
         ],
@@ -49783,7 +50674,7 @@ Job scope:&nbsp;<br \/>
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "http:\/\/tentacletech.com",
-            "gallery" => ["https://siva.jsstatic.com/my/38084/images/sol/38084_logo_0_7159945.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/38084/images/sol/38084_logo_0_32149.png"],
             "rating" => 4,
             "reviews_number" => 31
         ],
@@ -49866,7 +50757,7 @@ Job scope:&nbsp;<br \/>
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/9584/images/sol/9584_logo_0_7989474.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9584/images/sol/9584_logo_0_6981030.jpg"],
             "rating" => 4,
             "reviews_number" => 17
         ],
@@ -49945,7 +50836,7 @@ Job scope:&nbsp;<br \/>
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.rejeune.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/55315/images/sol/55315_logo_0_40732.jpg"],
             "rating" => 1,
             "reviews_number" => 14
         ],
@@ -49963,7 +50854,7 @@ Job scope:&nbsp;<br \/>
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/greateasternlife.com",
-            "gallery" => ["https://siva.jsstatic.com/my/2359/images/sol/2359_logo_0_7481171.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2359/images/sol/2359_logo_0_94051.jpg"],
             "rating" => 4,
             "reviews_number" => 10
         ],
@@ -49981,7 +50872,7 @@ Job scope:&nbsp;<br \/>
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.seanstudio.com",
-            "gallery" => ["https://siva.jsstatic.com/my/28870/images/sol/28870_logo_0_7093633.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/28870/images/sol/28870_logo_0_7747290.jpg"],
             "rating" => 1,
             "reviews_number" => 05
         ],
@@ -50028,7 +50919,7 @@ Job scope:&nbsp;<br \/>
             "max_monthly_salary" => "4900.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sphinxfusion.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/102390/images/sol/102390_logo_0_62997.png"],
             "rating" => 1,
             "reviews_number" => 55
         ],
@@ -50091,7 +50982,7 @@ Job scope:&nbsp;<br \/>
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/7737/images/sol/7737_logo_0_7837186.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/7737/images/sol/7737_logo_0_7869024.jpg"],
             "rating" => 2,
             "reviews_number" => 47
         ],
@@ -50110,7 +51001,7 @@ Singapore 159941",
             "max_monthly_salary" => "3000.00",
             "currency" => "SGD",
             "url" => "http:\/\/www.pml.com.sg",
-            "gallery" => ["https://siva.jsstatic.com/my/18040/images/sol/18040_logo_0_10711.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 45
         ],
@@ -50136,7 +51027,7 @@ Singapore 159941",
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/61904/images/sol/61904_logo_0_6914033.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/61904/images/sol/61904_logo_0_580374.jpg"],
             "rating" => 4,
             "reviews_number" => 41
         ],
@@ -50169,7 +51060,7 @@ Singapore 159941",
             "max_monthly_salary" => "800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/9936/images/sol/9936_logo_0_6822204.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9936/images/sol/9936_logo_0_27275.jpg"],
             "rating" => 1,
             "reviews_number" => 35
         ],
@@ -50237,7 +51128,7 @@ The project manager to manage the whole project implementation, team members and
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.vitaltechnical.com",
-            "gallery" => ["https://siva.jsstatic.com/my/47100/images/sol/47100_logo_0_6130767.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/47100/images/sol/47100_logo_0_76557.png"],
             "rating" => 1,
             "reviews_number" => 27
         ],
@@ -50296,7 +51187,7 @@ The project manager to manage the whole project implementation, team members and
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/38710/images/sol/38710_logo_0_6876196.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/38710/images/sol/38710_logo_0_7386112.jpg"],
             "rating" => 1,
             "reviews_number" => 21
         ],
@@ -50314,7 +51205,7 @@ The project manager to manage the whole project implementation, team members and
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.southern.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/31756/images/sol/31756_logo_0_6606745.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/31756/images/sol/31756_logo_0_107812.jpg"],
             "rating" => 1,
             "reviews_number" => 09
         ],
@@ -50332,7 +51223,7 @@ The project manager to manage the whole project implementation, team members and
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.inno-trend.com",
-            "gallery" => ["https://siva.jsstatic.com/my/52425/images/sol/52425_logo_0_6689510.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/52425/images/sol/52425_logo_0_6697861.jpg"],
             "rating" => 1,
             "reviews_number" => 06
         ],
@@ -50375,7 +51266,7 @@ The project manager to manage the whole project implementation, team members and
             "max_monthly_salary" => "14000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.activebuilder.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/33552/images/sol/33552_logo_0_804333.png"],
             "rating" => 2,
             "reviews_number" => 03
         ],
@@ -50393,7 +51284,7 @@ The project manager to manage the whole project implementation, team members and
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.assunta.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/20637/images/sol/20637_logo_0_7680382.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/20637/images/sol/20637_logo_0_57583.jpg"],
             "rating" => 2,
             "reviews_number" => 00
         ],
@@ -50432,7 +51323,7 @@ The project manager to manage the whole project implementation, team members and
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.firstparking.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/79865/images/sol/79865_logo_0_368435.jpg"],
             "rating" => 1,
             "reviews_number" => 56
         ],
@@ -50450,7 +51341,7 @@ The project manager to manage the whole project implementation, team members and
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/17671/images/sol/17671_logo_0_7693763.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/17671/images/sol/17671_logo_0_832321.jpg"],
             "rating" => 1,
             "reviews_number" => 55
         ],
@@ -50477,7 +51368,7 @@ The project manager to manage the whole project implementation, team members and
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.focstore.com",
-            "gallery" => ["https://siva.jsstatic.com/my/29160/images/sol/29160_logo_0_55100.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/29160/images/sol/29160_logo_0_99810.jpg"],
             "rating" => 1,
             "reviews_number" => 55
         ],
@@ -50594,7 +51485,7 @@ The project manager to manage the whole project implementation, team members and
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.myflipper.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/26791/images/sol/26791_logo_0.gif"],
             "rating" => 1,
             "reviews_number" => 42
         ],
@@ -50705,7 +51596,7 @@ The project manager to manage the whole project implementation, team members and
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/106689/images/sol/106689_logo_0_572490.png"],
             "rating" => 4,
             "reviews_number" => 39
         ],
@@ -50750,7 +51641,7 @@ The project manager to manage the whole project implementation, team members and
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/106689/images/sol/106689_logo_0_572490.png"],
             "rating" => 4,
             "reviews_number" => 34
         ],
@@ -50768,7 +51659,7 @@ The project manager to manage the whole project implementation, team members and
             "max_monthly_salary" => "3800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/2372/images/sol/2372_logo_0_74595.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2372/images/sol/2372_logo_0_649668.gif"],
             "rating" => 2,
             "reviews_number" => 33
         ],
@@ -50786,7 +51677,7 @@ The project manager to manage the whole project implementation, team members and
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3795/images/sol/3795_logo_0_7032052.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3795/images/sol/3795_logo_0_7865563.jpg"],
             "rating" => 1,
             "reviews_number" => 31
         ],
@@ -50867,7 +51758,7 @@ The project manager to manage the whole project implementation, team members and
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/25909/images/sol/25909_logo_0_7623234.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/25909/images/sol/25909_logo_0_8015323.jpg"],
             "rating" => 4,
             "reviews_number" => 30
         ],
@@ -50909,7 +51800,7 @@ The project manager to manage the whole project implementation, team members and
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/14901/images/sol/14901_logo_0_6786522.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/14901/images/sol/14901_logo_0_72709.jpg"],
             "rating" => 1,
             "reviews_number" => 29
         ],
@@ -50927,7 +51818,7 @@ The project manager to manage the whole project implementation, team members and
             "max_monthly_salary" => "9800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.uob.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/2278/images/sol/2278_logo_0_71574.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2278/images/sol/2278_logo_0_79446.jpg"],
             "rating" => 3,
             "reviews_number" => 29
         ],
@@ -50945,7 +51836,7 @@ The project manager to manage the whole project implementation, team members and
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/93331/images/sol/93331_logo_0_7964360.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/93331/images/sol/93331_logo_0_782565.png"],
             "rating" => 1,
             "reviews_number" => 29
         ],
@@ -50963,7 +51854,7 @@ The project manager to manage the whole project implementation, team members and
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.supercomal.com.my\/aboutus.html",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/101763/images/sol/101763_logo_0_56801.png"],
             "rating" => 3,
             "reviews_number" => 27
         ],
@@ -51003,7 +51894,7 @@ The project manager to manage the whole project implementation, team members and
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/58101/images/sol/58101_logo_0_6608237.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/58101/images/sol/58101_logo_0_85987.jpg"],
             "rating" => 1,
             "reviews_number" => 27
         ],
@@ -51082,7 +51973,7 @@ The project manager to manage the whole project implementation, team members and
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.krista.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/26489/images/sol/26489_logo_0_98832.jpg"],
             "rating" => 4,
             "reviews_number" => 11
         ],
@@ -51159,7 +52050,7 @@ Interested candidates are invited to submit a comprehensive resume stating your 
             "max_monthly_salary" => "1000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.janmedia.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/98565/images/sol/98565_logo_0_34480.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/98565/images/sol/98565_logo_0_956987.jpg"],
             "rating" => 1,
             "reviews_number" => 00
         ],
@@ -51177,7 +52068,7 @@ Interested candidates are invited to submit a comprehensive resume stating your 
             "max_monthly_salary" => "5600.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/4405/images/sol/4405_logo_0.gif"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 00
         ],
@@ -51215,7 +52106,7 @@ Interested candidates are invited to submit a comprehensive resume stating your 
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.finexusgroup.com",
-            "gallery" => ["https://siva.jsstatic.com/my/4480/images/sol/4480_logo_0_6800336.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/4480/images/sol/4480_logo_0_902735.jpg"],
             "rating" => 1,
             "reviews_number" => 55
         ],
@@ -51233,7 +52124,7 @@ Interested candidates are invited to submit a comprehensive resume stating your 
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/32788/images/sol/32788_logo_0_6690230.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/32788/images/sol/32788_logo_0_37828.jpg"],
             "rating" => 3,
             "reviews_number" => 55
         ],
@@ -51262,7 +52153,7 @@ Interested candidates are invited to submit a comprehensive resume stating your 
             "max_monthly_salary" => "4200.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6839/images/sol/6839_logo_0_6866637.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/6839/images/sol/6839_logo_0_7994128.jpg"],
             "rating" => 4,
             "reviews_number" => 54
         ],
@@ -51304,7 +52195,7 @@ Interested candidates are invited to submit a comprehensive resume stating your 
             "max_monthly_salary" => "5500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/36688/images/sol/36688_logo_0_6894097.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/36688/images/sol/36688_logo_0_691066.jpg"],
             "rating" => 3,
             "reviews_number" => 54
         ],
@@ -51348,7 +52239,7 @@ Interested candidates are invited to submit a comprehensive resume stating your 
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.titijaya.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/14654/images/sol/14654_logo_0_7020124.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/14654/images/sol/14654_logo_0_7313657.jpg"],
             "rating" => 4,
             "reviews_number" => 54
         ],
@@ -51396,7 +52287,7 @@ Interested candidates are invited to submit a comprehensive resume stating your 
             "max_monthly_salary" => "8500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sunway.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_41880.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_23968.png"],
             "rating" => 1,
             "reviews_number" => 52
         ],
@@ -51467,7 +52358,7 @@ Interested candidates are invited to submit a comprehensive resume stating your 
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.autov.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/32511/images/sol/32511_logo_0_7611854.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/32511/images/sol/32511_logo_0_7611873.jpg"],
             "rating" => 1,
             "reviews_number" => 50
         ],
@@ -51621,7 +52512,7 @@ Interested candidates are invited to submit a comprehensive resume stating your 
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/plentisoft.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/69748/images/sol/69748_logo_0_6597079.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/69748/images/sol/69748_logo_0_8001423.jpg"],
             "rating" => 3,
             "reviews_number" => 36
         ],
@@ -51639,7 +52530,7 @@ Interested candidates are invited to submit a comprehensive resume stating your 
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.panelbase.com.my\/",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/36538/images/sol/36538_logo_0_438348.jpg"],
             "rating" => 3,
             "reviews_number" => 31
         ],
@@ -51680,7 +52571,7 @@ Interested candidates are invited to submit a comprehensive resume stating your 
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/9936/images/sol/9936_logo_0_6822204.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9936/images/sol/9936_logo_0_23822.jpg"],
             "rating" => 1,
             "reviews_number" => 29
         ],
@@ -51698,7 +52589,7 @@ Interested candidates are invited to submit a comprehensive resume stating your 
             "max_monthly_salary" => "5100.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.rwgenting.com\/career\/",
-            "gallery" => ["https://siva.jsstatic.com/my/90385/images/sol/90385_logo_0_7710579.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/90385/images/sol/90385_logo_0_30242.jpg"],
             "rating" => 1,
             "reviews_number" => 29
         ],
@@ -51718,7 +52609,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/65814/images/sol/65814_logo_0_6928812.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/65814/images/sol/65814_logo_0_54990.jpg"],
             "rating" => 4,
             "reviews_number" => 26
         ],
@@ -51736,7 +52627,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/73753/images/sol/73753_logo_0_7041530.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/73753/images/sol/73753_logo_0_7541378.jpg"],
             "rating" => 3,
             "reviews_number" => 24
         ],
@@ -51754,7 +52645,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.publicbankgroup.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/2643/images/sol/2643_logo_0_5853370.jpg"],
             "rating" => 3,
             "reviews_number" => 23
         ],
@@ -51818,7 +52709,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.worldcloudventures.com",
-            "gallery" => ["https://siva.jsstatic.com/my/51114/images/sol/51114_logo_0_6905164.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/51114/images/sol/51114_logo_0_85723.jpg"],
             "rating" => 4,
             "reviews_number" => 19
         ],
@@ -51908,7 +52799,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.chi-lltc.my",
-            "gallery" => ["https://siva.jsstatic.com/my/33339/images/sol/33339_logo_0_6905496.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/33339/images/sol/33339_logo_0_97746.jpg"],
             "rating" => 4,
             "reviews_number" => 14
         ],
@@ -51926,7 +52817,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/49746/images/sol/49746_logo_0_7499573.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/49746/images/sol/49746_logo_0.jpg"],
             "rating" => 1,
             "reviews_number" => 10
         ],
@@ -51989,7 +52880,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/88392/images/sol/88392_logo_0_7518143.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/88392/images/sol/88392_logo_0_106444.png"],
             "rating" => 2,
             "reviews_number" => 09
         ],
@@ -52007,7 +52898,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/56486/images/sol/56486_logo_0_71302.jpg"],
             "rating" => 1,
             "reviews_number" => 05
         ],
@@ -52043,7 +52934,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/9936/images/sol/9936_logo_0_6822204.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/9936/images/sol/9936_logo_0_27275.jpg"],
             "rating" => 1,
             "reviews_number" => 02
         ],
@@ -52145,7 +53036,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.topsecuritydoor.com.my",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/95714/images/sol/95714_logo_0_131213.jpg"],
             "rating" => 4,
             "reviews_number" => 58
         ],
@@ -52163,7 +53054,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/56486/images/sol/56486_logo_0_71302.jpg"],
             "rating" => 1,
             "reviews_number" => 58
         ],
@@ -52190,7 +53081,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/9936/images/sol/9936_logo_0_6822204.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 55
         ],
@@ -52217,7 +53108,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/86337/images/sol/86337_logo_0_7286737.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/86337/images/sol/86337_logo_0_71670.jpg"],
             "rating" => 2,
             "reviews_number" => 51
         ],
@@ -52318,7 +53209,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.ideahom.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/101107/images/sol/101107_logo_0_615118.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/101107/images/sol/101107_logo_0_512140.jpg"],
             "rating" => 2,
             "reviews_number" => 39
         ],
@@ -52336,7 +53227,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "8000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/17671/images/sol/17671_logo_0_7693763.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/17671/images/sol/17671_logo_0_832321.jpg"],
             "rating" => 1,
             "reviews_number" => 39
         ],
@@ -52372,7 +53263,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/18308/images/sol/18308_logo_0_6968809.jpg"],
+            "gallery" => [""],
             "rating" => 3,
             "reviews_number" => 38
         ],
@@ -52430,7 +53321,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.pcdepot.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/11905/images/sol/11905_logo_0_7027017.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/11905/images/sol/11905_logo_0_727132.jpg"],
             "rating" => 1,
             "reviews_number" => 37
         ],
@@ -52466,7 +53357,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "1800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/20532/images/sol/20532_logo_0_7019567.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/20532/images/sol/20532_logo_0_7019608.jpg"],
             "rating" => 2,
             "reviews_number" => 35
         ],
@@ -52511,7 +53402,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "7800.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/86996/images/sol/86996_logo_0_7367672.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/86996/images/sol/86996_logo_0_7367684.jpg"],
             "rating" => 1,
             "reviews_number" => 31
         ],
@@ -52640,7 +53531,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.istoreisend.com",
-            "gallery" => ["https://siva.jsstatic.com/my/48395/images/sol/48395_logo_0_6919555.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/48395/images/sol/48395_logo_0_71248.png"],
             "rating" => 1,
             "reviews_number" => 26
         ],
@@ -52686,7 +53577,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.toshibatec.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/2272/images/sol/2272_logo_0_5955871.jpg"],
+            "gallery" => [""],
             "rating" => 2,
             "reviews_number" => 23
         ],
@@ -52704,7 +53595,7 @@ Lot 803, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor
             "max_monthly_salary" => "6000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/13579/images/sol/13579_logo_0_465818.jpg"],
             "rating" => 4,
             "reviews_number" => 23
         ],
@@ -52725,7 +53616,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.panblast.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/104584/images/sol/104584_logo_0_94130.png"],
             "rating" => 4,
             "reviews_number" => 22
         ],
@@ -52771,7 +53662,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "2500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.pcdepot.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/11905/images/sol/11905_logo_0_7027017.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/11905/images/sol/11905_logo_0_727132.jpg"],
             "rating" => 1,
             "reviews_number" => 20
         ],
@@ -52892,7 +53783,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "1700.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 15
         ],
@@ -52973,7 +53864,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/89319/images/sol/89319_logo_0_7597308.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/89319/images/sol/89319_logo_0_408387.jpg"],
             "rating" => 4,
             "reviews_number" => 13
         ],
@@ -53019,7 +53910,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 11
         ],
@@ -53055,7 +53946,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 09
         ],
@@ -53091,7 +53982,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "5000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_97398.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_71227.jpg"],
             "rating" => 1,
             "reviews_number" => 07
         ],
@@ -53109,7 +54000,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.adecco.com",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/100347/images/sol/100347_logo_0_814157.jpg"],
             "rating" => 2,
             "reviews_number" => 06
         ],
@@ -53145,7 +54036,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sunway.com.my\/group\/",
-            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_41880.png"],
+            "gallery" => ["https://siva.jsstatic.com/my/9531/images/sol/9531_logo_0_86238.jpg"],
             "rating" => 1,
             "reviews_number" => 58
         ],
@@ -53163,7 +54054,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/5093/images/sol/5093_logo_0_7690726.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/5093/images/sol/5093_logo_0_96487.png"],
             "rating" => 3,
             "reviews_number" => 57
         ],
@@ -53181,7 +54072,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.e-sky.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/6084/images/sol/6084_logo_0_6813772.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/6084/images/sol/6084_logo_0_7654610.jpg"],
             "rating" => 4,
             "reviews_number" => 52
         ],
@@ -53199,7 +54090,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.segi.edu.my",
-            "gallery" => ["https://siva.jsstatic.com/my/8148/images/sol/8148_logo_0_6707931.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/8148/images/sol/8148_logo_0_7186809.jpg"],
             "rating" => 3,
             "reviews_number" => 50
         ],
@@ -53235,7 +54126,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.plexus.com",
-            "gallery" => ["https://siva.jsstatic.com/my/137/images/sol/137_logo_0_7716518.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/137/images/sol/137_logo_0_63794.jpg"],
             "rating" => 2,
             "reviews_number" => 47
         ],
@@ -53253,7 +54144,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "3200.00",
             "currency" => "MYR",
             "url" => "http:\/\/neoasia.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/12273/images/sol/12273_logo_0_1795.jpeg"],
+            "gallery" => ["https://siva.jsstatic.com/my/12273/images/sol/12273_logo_0_18374.png"],
             "rating" => 3,
             "reviews_number" => 46
         ],
@@ -53271,7 +54162,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "3500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.tunehotels.com\/my\/en\/",
-            "gallery" => ["https://siva.jsstatic.com/my/24137/images/sol/24137_logo_0_6686029.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/24137/images/sol/24137_logo_0_6688499.jpg"],
             "rating" => 2,
             "reviews_number" => 45
         ],
@@ -53351,7 +54242,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "10000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/36845/images/sol/36845_logo_0_7017712.jpg"],
+            "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 42
         ],
@@ -53416,7 +54307,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "2300.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/27729/images/sol/27729_logo_0_6576821.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/27729/images/sol/27729_logo_0_29018.png"],
             "rating" => 4,
             "reviews_number" => 41
         ],
@@ -53434,7 +54325,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.sellbytel.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/53876/images/sol/53876_logo_0_6959938.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/53876/images/sol/53876_logo_0_8047568.jpg"],
             "rating" => 1,
             "reviews_number" => 39
         ],
@@ -53470,7 +54361,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.connext.com.sg",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/105126/images/sol/105126_logo_0_167579.jpg"],
             "rating" => 1,
             "reviews_number" => 38
         ],
@@ -53488,7 +54379,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "3000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 37
         ],
@@ -53534,7 +54425,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "2800.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.connext.com.sg",
-            "gallery" => [""],
+            "gallery" => ["https://siva.jsstatic.com/my/105126/images/sol/105126_logo_0_167579.jpg"],
             "rating" => 1,
             "reviews_number" => 37
         ],
@@ -53552,7 +54443,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "2000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.hercules-engineering.com",
-            "gallery" => ["https://siva.jsstatic.com/my/15484/images/sol/15484_logo_0.gif"],
+            "gallery" => ["https://siva.jsstatic.com/my/15484/images/sol/15484_logo_0_79142.jpg"],
             "rating" => 4,
             "reviews_number" => 36
         ],
@@ -53639,7 +54530,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.zalora.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/63779/images/sol/63779_logo_0_6601317.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/63779/images/sol/63779_logo_0_7765341.jpg"],
             "rating" => 4,
             "reviews_number" => 27
         ],
@@ -53657,7 +54548,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "3600.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_97398.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_71227.jpg"],
             "rating" => 1,
             "reviews_number" => 26
         ],
@@ -53675,7 +54566,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 26
         ],
@@ -53693,7 +54584,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "2900.00",
             "currency" => "MYR",
             "url" => "http:\/\/neoasia.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/12273/images/sol/12273_logo_0_1795.jpeg"],
+            "gallery" => ["https://siva.jsstatic.com/my/12273/images/sol/12273_logo_0_18374.png"],
             "rating" => 3,
             "reviews_number" => 26
         ],
@@ -53711,7 +54602,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "4000.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.hla.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/2764/images/sol/2764_logo_0_7325380.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/2764/images/sol/2764_logo_0_104284.jpg"],
             "rating" => 4,
             "reviews_number" => 24
         ],
@@ -53729,7 +54620,7 @@ Hicom Glenmarie Industrial Park,
             "max_monthly_salary" => "7000.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6684465.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/46814/images/sol/46814_logo_0_6802050.jpg"],
             "rating" => 4,
             "reviews_number" => 22
         ],
@@ -53750,7 +54641,7 @@ Malaysia",
             "max_monthly_salary" => "4500.00",
             "currency" => "MYR",
             "url" => "http:\/\/www.my-panahome.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_97398.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/19625/images/sol/19625_logo_0_75958.jpg"],
             "rating" => 1,
             "reviews_number" => 21
         ],
@@ -53806,7 +54697,7 @@ Malaysia",
             "max_monthly_salary" => "4900.00",
             "currency" => "MYR",
             "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/3871/images/sol/3871_logo_0_6752683.jpg"],
+            "gallery" => ["https://siva.jsstatic.com/my/3871/images/sol/3871_logo_0_782029.jpg"],
             "rating" => 1,
             "reviews_number" => 10
         ],
@@ -53888,1005 +54779,5 @@ Malaysia",
             "gallery" => [""],
             "rating" => 1,
             "reviews_number" => 01
-        ],
-        [
-            "id" => 3281464,
-            "latitude" => 5.333307,
-            "longitude" => 100.294007,
-            "title" => "Service Engineer – FOL / EOL",
-            "location" => "Bayan Point, Block A, No 15-1-23, Medan Kampung Relau, Bayan Lepas, 11900 Penang Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div><strong>Requirements:<\/strong><\/div>
-
-<div>&nbsp;<\/div>
-
-<ul>
-    <li>We want your expertise in supporting machine installation of wire \/ die bonders as well as customer buy-off \/ training. You need a Degree in Engineering. Diploma holders with many years of experience in wire \/ die bonders and related semiconductor equipment will also be considered.<\/li>
-    <li>Alternatively, we are also looking for the right candidate with the above qualification for the EOL to support the automold or trim form equipment.<\/li>
-    <li>Must be able to travel frequently &amp; possess own transport. Based in<strong> Penang<\/strong>, <strong>Ipoh, Kuala Lumpur, Melaka &amp; Muar.<\/strong><\/li>
-    <li>Applicants should be Malaysian citizens only.<\/li>
-<\/ul>",
-            "company" => "ASM Assembly Equipment (M) Sdn Bhd",
-            "salary" => "MYR 2500.00 - 3500.00",
-            "min_monthly_salary" => "2500.00",
-            "max_monthly_salary" => "3500.00",
-            "currency" => "MYR",
-            "url" => "http:\/\/www.asmpacific.com\/",
-            "gallery" => [""],
-            "rating" => 3,
-            "reviews_number" => 53
-        ],
-        [
-            "id" => 3281460,
-            "latitude" => 5.394148,
-            "longitude" => 100.323149,
-            "title" => "Interior Designer",
-            "location" => "334 Jalan Jelutong Jelutong George Town Penang Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div><strong>Job Requirements:<\/strong><\/div>
-
-<ul>
-    <li>Candidate must possess at least Diploma\/Advanced\/Higher\/Graduate Diploma in Art\/Design\/Creative Multimedia or equivalent.<\/li>
-    <li>Fresh graduate is encouraged to apply.<\/li>
-    <li>Required Skill(s): Relevant Design CAD (AutoCad)<\/li>
-    <li>Preferably Entry Level specialized in Architecture\/Interior Design or equivalent<\/li>
-<\/ul>
-
-<div>&nbsp;<\/div>
-
-<div><strong>Job Resposibilities<\/strong><\/div>
-
-<ul>
-    <li>Knowledge in&nbsp;preparing drawings and 3D.<\/li>
-    <li>Communicate &amp; coordinate with customers about design requirement.<\/li>
-    <li>Work with&nbsp;sales&nbsp;and installation&nbsp;team to ensure work is carried out in accordance to drawings, desired design, within time completion,<\/li>
-    <li>Attend to showroom walk in customr or incoming call queries.<\/li>
-    <li>May required to participate in project site inspections.<\/li>
-<\/ul>",
-            "company" => "Paragon Unique (M) Sdn Bhd",
-            "salary" => "MYR 1600.00 - 2800.00",
-            "min_monthly_salary" => "1600.00",
-            "max_monthly_salary" => "2800.00",
-            "currency" => "MYR",
-            "url" => "http:\/\/www.beldini.com.my",
-            "gallery" => [""],
-            "rating" => 1,
-            "reviews_number" => 51
-        ],
-        [
-            "id" => 3281457,
-            "latitude" => 3.126742,
-            "longitude" => 101.642768,
-            "title" => "Senior / Project Mechanical Engineers",
-            "location" => "Phileo Damansara I Pusat Perdagangan Phileo Damansara Petaling Jaya Selangor Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div><strong>Responsibilities:<\/strong><\/div><ul><li>Planning, designing, CAD drawings preparations and documentation of Air Conditioning &amp; Mechanical Ventilation, Cold and hot water, sanitary plumbing services, fire protection system for hotel, residential and commercial projects, from design development, authority submissions, documentation<\/li><li>Co &ndash; ordination of services, contract documentation, tendering and tender assessment through to total contract administration\/site supervision to completion<\/li><\/ul><div>&nbsp;<\/div><div><strong>Requirements:<\/strong><\/div><ul><li>Applicants should possess a recognized Degree in Mechanical Engineering<\/li><li>With a minimum 2 - 5 years&rsquo; experience in mechanical services in a consulting engineering firm and managing of projects<\/li><li>Ability to start work immediately would be added advantage<\/li><li>Possess own transport and willing to travel if required<\/li><\/ul><div>&nbsp;<\/div><div>&nbsp;<\/div>",
-            "company" => "NDY (M) Sdn Bhd (Essential)",
-            "salary" => "MYR 3000.00 - 6000.00",
-            "min_monthly_salary" => "3000.00",
-            "max_monthly_salary" => "6000.00",
-            "currency" => "MYR",
-            "url" => "http:\/\/www.ndymy.com",
-            "gallery" => ["https://siva.jsstatic.com/my/88273/images/sol/88273_logo_0_7498135.jpg"],
-            "rating" => 3,
-            "reviews_number" => 50
-        ],
-        [
-            "id" => 3281438,
-            "latitude" => 3.160088,
-            "longitude" => 101.717420,
-            "title" => "Customer Service @ Shah Alam",
-            "location" => "Menara Citibank 165 Jalan Ampang 50450 Kuala Lumpur Federal Territory of Kuala Lumpur Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div>Responsibilities :<\/div><div>&nbsp;<\/div><ul><li>Provides customer service support in areas of receiving purchase orders, ensure all the right part-numbers and prices on the purchase orders.<\/li><li>In compliance with corporate policies and procedures, works with the Sales Managers to implement the pricing and terms &amp; conditions of the orders.<\/li><li>Manages local inventory and coordinate with the suppliers to ensure sufficient stock level to fulfill customers&rsquo; orders in a timely manner.<\/li><li>Makes shipment arrangement and coordination between forwarders and distributors \/ customers.<\/li><li>Provides administrative and office management support&nbsp;<\/li><li>Become the immediate back-up to Account Executive<\/li><\/ul><div>&nbsp;<\/div><div>Requirements:<\/div><ul><li>Having a Diploma \/ Degree in related fields.<\/li><li>Experience in customer service, order processing and logistic will be an added advantage. Two years&rsquo; working experience,<\/li><li>Fresh graduates are encouraged to apply.<\/li><li>Good in written and verbal English communication, good team worker, working knowledge of Microsoft Office \/ Windows.<\/li><li>Willingness to overcome unexpected difficulties with positive attitude<\/li><\/ul>",
-            "company" => "Adecco Personnel Sdn Bhd - KLGS",
-            "salary" => "MYR 3500.00 - 4200.00",
-            "min_monthly_salary" => "3500.00",
-            "max_monthly_salary" => "4200.00",
-            "currency" => "MYR",
-            "url" => "http:\/\/www.adecco.com.my",
-            "gallery" => [""],
-            "rating" => 4,
-            "reviews_number" => 40
-        ],
-        [
-            "id" => 3281437,
-            "latitude" => 1.525906,
-            "longitude" => 103.743899,
-            "title" => "HR Assistant",
-            "location" => "No. 75 & 77, Jalan Riang 21, Taman Gembira, 81200 Johor Bahru, Johor, Malaysia.",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div><strong>Responsibilities:<\/strong>
-
-<ul>
-    <li>To assist in HR administration functions &amp; activities<\/li>
-    <li>Involve in foreign workers&rsquo; management (such as arrival pick up, Fomema check-up arrangement, etc)<\/li>
-    <li>Oversee company hostels &nbsp;<\/li>
-    <li>To assist in periodic waste disposal &amp; DOE report submission<\/li>
-    <li>Any other ad-hoc duties as assigned<\/li>
-<\/ul>
-
-<div><strong>Requirements:<\/strong><\/div>
-
-<ul>
-    <li>Candidates with SPM or Certificate holder<\/li>
-    <li>1 year working experience in manufacturing field<\/li>
-    <li>Good communication &amp; interpersonal skills<\/li>
-    <li>Well-organised, proactive, committed and independent personality<\/li>
-    <li>Computer literate<\/li>
-    <li>Willingness to travel outstation if necessary<\/li>
-    <li>Possess valid driving license<\/li>
-<\/ul>
-<\/div>
-
-<div>&nbsp;<\/div>",
-            "company" => "SCM Technologies Sdn Bhd",
-            "salary" => "MYR 1500.00 - 2000.00",
-            "min_monthly_salary" => "1500.00",
-            "max_monthly_salary" => "2000.00",
-            "currency" => "MYR",
-            "url" => "http:\/\/www.sinco.com.sg",
-            "gallery" => ["https://siva.jsstatic.com/my/18120/images/sol/18120_logo_0_12740.jpg"],
-            "rating" => 1,
-            "reviews_number" => 40
-        ],
-        [
-            "id" => 3281435,
-            "latitude" => 1.518091,
-            "longitude" => 103.733655,
-            "title" => "PURCHASING OFFICER",
-            "location" => "No. 8, Jalan Hasil, Taman Perindustrian Tampoi, 81200 Johor.",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div>
-<div>Requirment Skills<\/div>
-
-<ul>
-    <li>Candidate must possess at least Bachelor&#39;s Degree\/Post Graduate Diploma\/Professional Degree in any field.<\/li>
-    <li>Required language(s): English, Bahasa Malaysia, Mandarin<\/li>
-    <li>At least 3 Year(s) of working experience in the related field is required for this position.<\/li>
-    <li>Preferably Senior Executive specialized in Purchasing\/Inventory\/Material &amp; Warehouse Management or equivalent.<\/li>
-    <li>Hardworking, ability multi-ask and work in a chalengging environment , ability to keep sensitive information private and &nbsp;confidential, highly independant, good communication and interpersonnal skills<\/li>
-<\/ul>
-
-<div>Job Descriptions<\/div>
-
-<div>
-<ul>
-    <li>To handle all miscellaneous purchasing material for Production Department &amp; Office<\/li>
-    <li>Manage enquiries and to follow up with supplier<\/li>
-    <li>To ask for sample material, as per request from our Production Department<\/li>
-    <li>To issue PO and correspondence to suppliers after confirmation with Production Department<\/li>
-    <li>To follow up Lead Time with suppliers<\/li>
-    <li>To assist in making claims to supplier<\/li>
-<\/ul>
-
-<div>&nbsp;<\/div>
-<\/div>
-<\/div>",
-            "company" => "Swan Metal Products Sdn Bhd",
-            "salary" => "MYR 2800.00 - 3900.00",
-            "min_monthly_salary" => "2800.00",
-            "max_monthly_salary" => "3900.00",
-            "currency" => "MYR",
-            "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/92297/images/sol/92297_logo_0_7863748.jpg"],
-            "rating" => 2,
-            "reviews_number" => 38
-        ],
-        [
-            "id" => 3281426,
-            "latitude" => 3.140324,
-            "longitude" => 101.712330,
-            "title" => "Senior Account & Admin Executive/Account & Admin Executive",
-            "location" => "Suite 6.01, 6th Floor, Wisma Mirama, Jalan Wisma Putra, 50460, Kuala Lumpur",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div>JOB DESCRIPTIONS:<\/div>
-
-<ul>
-    <li>Responsible for full spectrum of invoicing and A\/R functions, including daily biling, A\/R monitoring, receipts and customer credit notes processing<\/li>
-    <li>Checking of all invoices, receipts and credit notes against supporting documents<\/li>
-    <li>Ensure proper and accurate recording of accounting entries for invoices, receipts and credit notes<\/li>
-    <li>Review, compile and analyze financial information<\/li>
-    <li>Ensure the accuracy of financial accounting<\/li>
-    <li>Liaise with bankers, solicitors, company secretaries, auditors, tax agents and other regulatory authorities<\/li>
-    <li>Training\/Supervising a team of Accounts Assistants<\/li>
-    <li>Ad-hoc assignments\/Projects as assigned by Superior<\/li>
-<\/ul>
-
-<div>&nbsp;<\/div>
-
-<div>&nbsp;<\/div>
-
-<div>​REQUIREMENTS:<\/div>
-
-<ul>
-    <li>Candidate must possess at least Professional Certificate, Diploma\/Advanced\/Higher\/Graduate Diploma, Bachelor&#39;s Degree\/Post Graduate Diploma\/Professional Degree in Finance\/Accountancy\/Banking or equivalent.<\/li>
-    <li>Required language(s): Mandarin, Bahasa Malaysia, English<\/li>
-    <li>At least 3 Year(s) of working experience in the related field is required for this position.<\/li>
-    <li>Preferably Junior Executive specialized in Finance - General\/Cost Accounting or equivalent.<\/li>
-<\/ul>",
-            "company" => "Delmara Fitness Sdn Bhd",
-            "salary" => "MYR 3000.00 - 4200.00",
-            "min_monthly_salary" => "3000.00",
-            "max_monthly_salary" => "4200.00",
-            "currency" => "MYR",
-            "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/79116/images/sol/79116_logo_0_7241807.jpg"],
-            "rating" => 1,
-            "reviews_number" => 33
-        ],
-        [
-            "id" => 3281424,
-            "latitude" => 3.160753,
-            "longitude" => 101.720537,
-            "title" => "Internship for Human Resources Management",
-            "location" => "Level 26, Integra Tower, The Intermark, Jalan Ampang, Kuala Lumpur",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<ul>
-    <li>Sustainable Works is looking for a reliable and motivated individual to handle office management responsibilities.<\/li>
-    <li>Intern will manage reception responsibilities, payroll and reimbursement processing, invoicing and payment tracking as well as deposit processing.&nbsp;<\/li>
-    <li>Proficient command of English grammar and spelling &bull; Must be proficient in MS Office<\/li>
-<\/ul>
-
-<div>&nbsp;<\/div>
-
-<div><strong>Responsibilities:<\/strong><\/div>
-
-<ul>
-    <li>Responsible for managing and reconciling petty cash and office supply inventory.<\/li>
-<\/ul>
-
-<div>&nbsp;<\/div>",
-            "company" => "Petronas Lubricants International Sdn Bhd",
-            "salary" => "MYR 800.00 - 1200.00",
-            "min_monthly_salary" => "800.00",
-            "max_monthly_salary" => "1200.00",
-            "currency" => "MYR",
-            "url" => "http:\/\/www.pli-petronas.com",
-            "gallery" => ["https://siva.jsstatic.com/my/39664/images/sol/39664_logo_0_6777162.jpg"],
-            "rating" => 4,
-            "reviews_number" => 32
-        ],
-        [
-            "id" => 3281401,
-            "latitude" => 3.196478,
-            "longitude" => 101.565295,
-            "title" => "Interior Designer",
-            "location" => "Lot 2680 A ,Jalan Kampung Sungai Buloh, 47000 Sungai Buloh,Selangor",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div>&nbsp;<\/div>
-
-<div>
-<div>We provide a one stop solution from design to build. In view of our growth and expansion, we are looking for suitable candidates to join our team.<\/div>
-
-<div><strong>Interior Designer<\/strong><br \/>
-&nbsp;<\/div>
-
-<div>&nbsp;<\/div>
-
-<div>Responsibilities:<\/div>
-
-<ul>
-    <li>Produce concept design, space planning, 3D perspectives, layout plans and design development within the design project demands<\/li>
-    <li>Support other team members to deliver drawings on time<\/li>
-    <li>Ensure accurate drawing according to company&rsquo;s and client&rsquo;s standard<\/li>
-    <li>Oversee project progress at all stages&nbsp;<\/li>
-    <li>Liaise with clients \/ suppliers \/ contractors and coordination with all relevant parties.<\/li>
-<\/ul>
-
-<div>&nbsp;Requirements:&nbsp;<\/div>
-
-<ul>
-    <li>Candidate must possess at least a Diploma in Interior Design or equivalent<\/li>
-    <li>Required skill(s) in &nbsp;3D Studio Max+ Vray , AutoCad<\/li>
-    <li>At least 2 years of working experience in Interior Design Consultancy or Design and Build companies<\/li>
-    <li>Good command of English, Bahasa Malaysia &amp; Mandarin<\/li>
-    <li>Able to work with minimum supervision &amp; meet datelines<\/li>
-    <li>Able to travel&nbsp;<\/li>
-    <li>Good communication skills&nbsp;<\/li>
-    <li>Full time position available<\/li>
-    <li>Malaysian citizens only.<\/li>
-<\/ul>
-
-<div>&nbsp;<\/div>
-<\/div>",
-            "company" => "TALL INNOVATIONS SDN BHD",
-            "salary" => "MYR 3500.00 - 5000.00",
-            "min_monthly_salary" => "3500.00",
-            "max_monthly_salary" => "5000.00",
-            "currency" => "MYR",
-            "url" => "http:\/\/tall.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/54680/images/sol/54680_logo_0_6652505.jpg"],
-            "rating" => 1,
-            "reviews_number" => 12
-        ],
-        [
-            "id" => 3281387,
-            "latitude" => 3.039080,
-            "longitude" => 101.594662,
-            "title" => "HUMAN RESOURCES EXECUTIVE",
-            "location" => "Wisma Texchem, Lot 808 & 809, Jalan Subang 5, Taman Perindustrian Subang, 47610 Subang Jaya, Selangor",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<ul><li>Handling HR Services (Socso\/Insurance\/Employees&#39; Claims, Employee Welfare and&nbsp; Industrial Relations matters.)<\/li><li>Handling any tasks given&nbsp;by the immediate superior or management as and when necessary.<\/li><li>Handling all matters related to foreign worker&#39;s renewal &amp; cancellation of working permit or insurance<\/li><\/ul><div><strong>Requirements:<\/strong><\/div><div>&nbsp;<\/div><ul><li>Candidate must possess at least a Degree in Human Resource\/ Business Administration or its equivalent;<\/li><li>At least&nbsp;1 year experience in Human Resources;<\/li><li>Good command of both written and spoken English and Bahasa Malaysia;<\/li><li>Familiar with Employment Act and Labor Law;<\/li><li>Familiar with Microsoft Office (Word, Excel, Power Point, Publisher and others);<\/li><li>Pleasant personality and high level of commitment;<\/li><li>Self-motivated and able to work independently;<\/li><li>Good interpersonal and communication skills.<\/li><li>Willing to travel and out-station possess own transport<\/li><\/ul>",
-            "company" => "SUSHI KIN SDN BHD",
-            "salary" => "MYR 2300.00 - 3000.00",
-            "min_monthly_salary" => "2300.00",
-            "max_monthly_salary" => "3000.00",
-            "currency" => "MYR",
-            "url" => "http:\/\/www.sushi-king.com",
-            "gallery" => ["https://siva.jsstatic.com/my/7144/images/sol/7144_logo_0_6813954.jpg"],
-            "rating" => 4,
-            "reviews_number" => 57
-        ],
-        [
-            "id" => 3281377,
-            "latitude" => 1.528756,
-            "longitude" => 103.736738,
-            "title" => "NPI ENGINEER",
-            "location" => "No. 1, Jalan Firma 1, Kawasan Perindustrian Tebrau 1, 81100 Johor Bahru, Johor, Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<ul><li>To work and support NPI production process\/build with good quality and on time delivery;<\/li><li>Implement and evaluate proposed designs and processes for manufacturability;<\/li><li>Providing Design for Manufacturing (DFM) and Design for Test (DFT) to R&amp;D engineers;<\/li><li>To update customers on manufacturing yield, issues and path forward at the end of each proto build;<\/li><li>Deliver proto build units according to the delivery schedule;<\/li><li>To provide technical support for all critical process during new model development;<\/li><li>Perform other NPI duties as assigned such as NPI Process of Assembly and Test;<\/li><li>Any other tasks as assigned from time to time by the Company.<\/li><\/ul><div>&nbsp;<\/div><div><strong>Requirements:<\/strong><\/div><ul><li>Degree in Mechatronics\/Electronics\/Electrical\/Computer Engineering;<\/li><li>Preferably with 2-3 years relevant experience in respective industry;<\/li><li>Good leader &amp; team player;<\/li><li>Strong in jig concept and design;<\/li><li>Knowledge and competency in electronics circuitry design and analysis, as well as ME mechanism;<\/li><li><strong>Jobstreet online English Language Assessment is a requirement <\/strong>(preferably with score 32 &amp; above);<\/li><li>Applicant must be Malaysian citizen and willing to work in Johor Bahru.<\/li><\/ul>",
-            "company" => "Technocom Systems Sdn Bhd",
-            "salary" => "MYR 2500.00 - 3500.00",
-            "min_monthly_salary" => "2500.00",
-            "max_monthly_salary" => "3500.00",
-            "currency" => "MYR",
-            "url" => "http:\/\/www.venture.com.sg",
-            "gallery" => ["https://siva.jsstatic.com/my/1413/images/sol/1413_logo_0_6680333.jpg"],
-            "rating" => 3,
-            "reviews_number" => 51
-        ],
-        [
-            "id" => 3281372,
-            "latitude" => 3.160315,
-            "longitude" => 101.722035,
-            "title" => "Business Development Executive (Melaka)",
-            "location" => "99 Jalan Ampang, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<ul><li><strong>Responsibilities:<\/strong><\/li><li>Planning and strategizing sales activities, and working closely with agency members to ensure the Company&rsquo;s assigned production targets are achieved.<\/li><li>Working with agency force, organizing recruitment initiatives and participating in recruitment activities to achieve the regional recruitment target.<\/li><li>Acting as a mediator in any agency-related conflicts.<\/li><li>Working closely with various departments to resolve agent-related matters.<\/li><li><strong>Requirements:<\/strong><\/li><li>Candidate must possess at least a Diploma, Advanced\/Higher\/Graduate Diploma, Bachelor&#39;s Degree, Post Graduate Diploma, Professional Degree, any field.<\/li><li>At least 2 year(s) of working experience in the related field is required for this position. Preferably experience from insurance or financial industry.<\/li><li>Excellent interpersonal and communication skills and self-motivated.<\/li><li>Independent and able to work under pressure.<\/li><li>Organized and analytical.<\/li><li>Proficient in MS Office.<\/li><li>Must possess own transportation.<\/li><li>Candidate must be willing&nbsp;to based at Melaka.<\/li><\/ul>",
-            "company" => "AIA Bhd.",
-            "salary" => "MYR 3000.00 - 5500.00",
-            "min_monthly_salary" => "3000.00",
-            "max_monthly_salary" => "5500.00",
-            "currency" => "MYR",
-            "url" => "https:\/\/www.aia.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/3789/images/sol/3789_logo_0_6649380.jpg"],
-            "rating" => 4,
-            "reviews_number" => 45
-        ],
-        [
-            "id" => 3281371,
-            "latitude" => 3.193933,
-            "longitude" => 101.628882,
-            "title" => "HUMAN RESOURCE PERSONNEL",
-            "location" => "24, Jalan 8/62a Bandar Menjalara Kuala Lumpur Federal Territory of Kuala Lumpur Malaysia, 52200",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<ul><li>Candidate must possess at least a Diploma, Advanced\/Higher\/Graduate Diploma, any field.<\/li><li>At least 2 year(s) of working.<\/li><li>Full-Time position(s) available.<\/li><li>Perform daily HR and admistration duties including recruitment &nbsp;and disciplinary.<\/li><li>Manage full cycle of payroll processing.<\/li><li>Prepare employment,termination and warning letter.<\/li><li>Assist liaise with government bodies such as KWSP,SOCSO,LHDN,Imigration if necessary.<\/li><li>Prepare advertisement if necessary.<\/li><li>Prepare And generate staff yearly EA form.<\/li><li>Other HR admistration task as assigned.<\/li><\/ul><div>&nbsp;<\/div>",
-            "company" => "SHISHI GROUP SDN. BHD.",
-            "salary" => "MYR 1500.00 - 2200.00",
-            "min_monthly_salary" => "1500.00",
-            "max_monthly_salary" => "2200.00",
-            "currency" => "MYR",
-            "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/82637/images/sol/82637_logo_0_6759137.jpg"],
-            "rating" => 2,
-            "reviews_number" => 44
-        ],
-        [
-            "id" => 3281365,
-            "latitude" => 1.569410,
-            "longitude" => 103.716633,
-            "title" => "Admin cum  HR Assistant",
-            "location" => "16 Jalan Perindustrian Berjaya 8/3, Taman Perindustrian Berjaya Johor Bahru Johor Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div>&nbsp;Tong Seng Fabricators Sdn Bhd is a growing rapidly company. We are looking for energitic, resposible and willing to learn employee to joint in our team.<\/div>
-
-<div>&nbsp;<\/div>
-
-<div>Rrequirements :<\/div>
-
-<ul>
-    <li>Candidate must possess at least a Primary\/Secondary School\/SPM\/&quot;O&quot; Level, Higher Secondary\/STPM\/&quot;A&quot; Level\/Pre-U, Professional Certificate, Diploma in Related Field.<\/li>
-    <li>1 year Experience or Fresh Graduate are encourage to apply.<\/li>
-    <li>Required skill(s): MS Office, MS Word.<\/li>
-    <li>Required language(s): Bahasa Malaysia, English, Mandarin (Advantage)<\/li>
-    <li>Have or No experience are encourange to apply.<\/li>
-    <li>Preferably Non-Executives specializing in Clerical\/Administrative Support or equivalent.<\/li>
-    <li>Training will be provided<\/li>
-    <li>2 Full-Time position(s) available.<\/li>
-<\/ul>
-
-<div>Job Responsibility :<\/div>
-
-<ul>
-    <li>Processes workers&#39; salary<\/li>
-    <li>Handling company&#39;s CIDB, workers&#39; CIDB<\/li>
-    <li>Handling workers&#39; employment\/ enrollment \/ and&nbsp;HR related<\/li>
-    <li>Others<\/li>
-<\/ul>
-
-<div>Candidates must be a responsibility, fast lerner, energitic, willing to learn person.<\/div>
-
-<div>&nbsp;<\/div>",
-            "company" => "Tong Seng Fabricators Sdn Bhd",
-            "salary" => "MYR 1200.00 - 2000.00",
-            "min_monthly_salary" => "1200.00",
-            "max_monthly_salary" => "2000.00",
-            "currency" => "MYR",
-            "url" => "",
-            "gallery" => [""],
-            "rating" => 2,
-            "reviews_number" => 40
-        ],
-        [
-            "id" => 3281364,
-            "latitude" => 3.110072,
-            "longitude" => 101.603761,
-            "title" => "Sales Executive(销售执行员 )",
-            "location" => "8 and 10 , Jalan SS 4C/5 SS 4 Petaling Jaya Selangor Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div>你出创高销售，　我出非凡薪金！　<\/div>
-
-<div>&nbsp;<\/div>
-
-<ul>
-    <li>你是否一个可以解决问题，配合度高，能够执行上司的任务，态度温和， 平易近人，同时喜欢有条理和整齐的人吗？<\/li>
-    <li>你是否能与团队及顾客建立良好关系和信赖感，懂得自我激励，服从上司配合团队，　并且一起努力达到业绩？<\/li>
-    <li>只要努力付出一定会收获, 出人头地不是梦，你准备好了吗？！<\/li>
-    <li>Candidate must possess at least Higher Secondary\/STPM\/&quot;A&quot; Level\/Pre-U in Others or equivalent.<\/li>
-    <li>Required language(s): Chinese, Bahasa Malaysia, English<\/li>
-    <li>At least 1 Year(s) of working experience in the related field is required for this position.<\/li>
-    <li>Required Skill(s):
-    <ul>
-        <li>良好的沟通能力<\/li>
-        <li>自动自发，高责任感<\/li>
-        <li>配合度高，自律高<\/li>
-        <li>团队精神，努力认真学习<\/li>
-    <\/ul>
-    <\/li>
-    <li>Preferably Junior Executive specialized in Sales - Corporate or equivalent.<\/li>
-    <li>
-    <div>我们提供你：优厚的薪金制度, 充满活力的团队, 完善的在职业训练,员工表现奖励,EPF, SOCSO,花红制度<\/div>
-    <\/li>
-<\/ul>
-
-<div>欢迎离校生，寻找人生目标。 无需文凭，只需要努力！<\/div>",
-            "company" => "Saxco Marketing Sdn Bhd",
-            "salary" => "MYR 2000.00 - 3500.00",
-            "min_monthly_salary" => "2000.00",
-            "max_monthly_salary" => "3500.00",
-            "currency" => "MYR",
-            "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/10347/images/sol/10347_logo_0_6899535.jpg"],
-            "rating" => 2,
-            "reviews_number" => 39
-        ],
-        [
-            "id" => 3281356,
-            "latitude" => 3.016112,
-            "longitude" => 101.735373,
-            "title" => "Accounts Executive",
-            "location" => "18 Jalan 6/2B Taman Industri Selesa Jaya Seri Kembangan Selangor Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div><div><strong>Job Responsibilities:<\/strong><\/div><ul><li>Preparation of monthly management accounts and relevant schedules;<\/li><li>Assist in preparation of monthly GST submission;<\/li><li>Assist in half-yearly and year-end audit;<\/li><li>Assist in tax estimation &amp; yearly tax computation and co-ordination with auditor and tax agent;<\/li><li>Assist in annual report preparation;<\/li><li>Assist in quarterly board pack preparation in accordance to London Stock Exchange requirement;<\/li><li>Involve in relevant reporting works in quarterly management meeting;<\/li><li>Involve in surprise inventory count that is assigned by superior from time to time;<\/li><li>Monthly reconciliation for accounts payable, accounts receivable, bank transactions and inter-company; and<\/li><li>Other ad-hoc duties \/ task that is assigned from time to time.<\/li><\/ul><div>&nbsp;<\/div><div><div><strong>Requirements:<\/strong><\/div><ul><li>Candidate must possess at least a Bachelor&rsquo;s Degree in Accounting or similar disciplines; ACCA (finalist) is encouraged to apply;<\/li><li><strong>Fresh graduate is welcome to apply<\/strong>;<\/li><li>On the job training will be guided through by the superior; and<\/li><li>External training and seminar are provided.<\/li><\/ul><\/div><\/div><div>&nbsp;<\/div>",
-            "company" => "MayAir Manufacturing (M) Sdn. Bhd.",
-            "salary" => "MYR 2800.00 - 3600.00",
-            "min_monthly_salary" => "2800.00",
-            "max_monthly_salary" => "3600.00",
-            "currency" => "MYR",
-            "url" => "http:\/\/www.mayairgroup.com",
-            "gallery" => ["https://siva.jsstatic.com/my/16744/images/sol/16744_logo_0_6638595.jpg"],
-            "rating" => 4,
-            "reviews_number" => 32
-        ],
-        [
-            "id" => 3281351,
-            "latitude" => 3.044256,
-            "longitude" => 101.628434,
-            "title" => "Store cum Service Technician",
-            "location" => "Persiaran Puchong Jaya Selatan, Bandar Puchong Jaya, 47100 Puchong, Selangor, Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<ul><li>Candidate must possess at least Primary\/Secondary School\/SPM\/&quot;O&quot; Level in any field.<\/li><li>Assist Store Manager on store keeping tasks &amp; goods delivery.<\/li><li>On-site service for customer<\/li><li>Training provided by professional Locksmith (AU)<\/li><li>Positive, independent &amp; motivated.<\/li><\/ul>",
-            "company" => "GREIFEN MARKETING (M) SDN BHD",
-            "salary" => "MYR 2000.00 - 2400.00",
-            "min_monthly_salary" => "2000.00",
-            "max_monthly_salary" => "2400.00",
-            "currency" => "MYR",
-            "url" => "http:\/\/www.greifen.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/78839/images/sol/78839_logo_0_7000939.jpg"],
-            "rating" => 4,
-            "reviews_number" => 26
-        ],
-        [
-            "id" => 3281338,
-            "latitude" => 3.135226,
-            "longitude" => 101.621607,
-            "title" => "Assistant Manager, Human Resource",
-            "location" => "Jalan SS 21/39, Damansara Utama, 47400 Petaling Jaya, Selangor, Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div>Job Responsibilities:-<\/div>
-
-<ul>
-    <li>Performance management, recruitment, training, benefits administration and industrial relations.<\/li>
-<\/ul>
-
-<div>Job Requirements:-<\/div>
-
-<ul>
-    <li>Diploma, Bachelor&#39;s Degree in Human Resource Management or equivalent.<\/li>
-    <li>Resourcement and pleasant personality with at least 6 years experience as HR generalist, preferably in MNCs.<\/li>
-    <li>Excellent communication skills (verbal and written), Bahasa Malaysia and English.<\/li>
-    <li>Good with MS Excel, MS Office, MS Powerpoint.<\/li>
-    <li>Familiar with Employment Act and IR Act.<\/li>
-<\/ul>",
-            "company" => "Isuzu Malaysia Sdn Bhd",
-            "salary" => "MYR 4000.00 - 5500.00",
-            "min_monthly_salary" => "4000.00",
-            "max_monthly_salary" => "5500.00",
-            "currency" => "MYR",
-            "url" => "http:\/\/www.isuzu.net.my",
-            "gallery" => ["https://siva.jsstatic.com/my/15687/images/sol/15687_logo_0_5876455.jpg"],
-            "rating" => 2,
-            "reviews_number" => 16
-        ],
-        [
-            "id" => 3281334,
-            "latitude" => 3.048240,
-            "longitude" => 101.621888,
-            "title" => "Purchasing Manager",
-            "location" => "2 Jalan Kenari 10, Bandar Puchong Jaya, 47100 Puchong, Selangor, Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div>Responsibilities<\/div><ul><li>Develop, lead and execute purchasing strategies<\/li><li>Track and report KPI &nbsp;to reduce expenses and improve effectiveness<\/li><li>Seek and work with reliable vendors and suppliers<\/li><li>Perform cost and scenario analysis, and benchmarking<\/li><li>Assess, manage and mitigate risks<\/li><li>Determine quantity and timing of deliveries<\/li><li>Monitor and forecast upcoming levels of demand<\/li><\/ul><div>&nbsp;<\/div><div>Requirements<\/div><ul><li>Candidate must possess at least a Bachelor&#39;s Degree, Post Graduate Diploma, Professional Degree, Business Studies\/Administration\/Management, Economics or equivalent.<\/li><li>Required language(s): Bahasa Malaysia, Chinese, English<\/li><li>At least 5 year(s) of working experience in the related field is required for this position.<\/li><li>Preferably Managers specializing in Purchasing\/Inventory\/Material &amp; Warehouse Management or equivalent.<\/li><li>Possess own vehicle and willing to travel to our factory in Rawang weekly\/when needed.<\/li><li>Full-Time position(s) available.<\/li><\/ul>",
-            "company" => "Asli Mechanical Sdn Bhd",
-            "salary" => "MYR 5000.00 - 6000.00",
-            "min_monthly_salary" => "5000.00",
-            "max_monthly_salary" => "6000.00",
-            "currency" => "MYR",
-            "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/6195/images/sol/6195_logo_0_6709392.jpg"],
-            "rating" => 1,
-            "reviews_number" => 15
-        ],
-        [
-            "id" => 3281319,
-            "latitude" => 3.146077,
-            "longitude" => 101.615462,
-            "title" => "Director of Sales",
-            "location" => "Dataran Bandar Utama & First Avenue, Bandar Utama, 47800 Petaling Jaya, Selangor, Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<ul><li>Candidate must possess at least Bachelor&#39;s Degree\/Post Graduate Diploma\/Professional Degree in Hospitality\/Tourism\/Hotel Management or equivalent.<\/li><li>Required language(s): English<\/li><li>At least 6 Year(s) of working experience in the related field is required for this position.<\/li><li>Preferably Manager specialized in Hotel Management\/Tourism Services or equivalent.<\/li><li>Strong leadership qualities with good and interpersonal skills.<\/li><li>Strong understanding of customer &amp; market dynamics.<\/li><li>Proven ability to negotiate in a diplomatic, tactful &amp; professional manner.<\/li><li><div><div><div>Meet or exceed top line sales revenue goals<\/div><\/div><\/div><\/li><\/ul>",
-            "company" => "One World Hotel Sdn Bhd",
-            "salary" => "MYR 10000.00 - 12000.00",
-            "min_monthly_salary" => "10000.00",
-            "max_monthly_salary" => "12000.00",
-            "currency" => "MYR",
-            "url" => "http:\/\/www.oneworldhotel.com.my",
-            "gallery" => [""],
-            "rating" => 4,
-            "reviews_number" => 08
-        ],
-        [
-            "id" => 3281318,
-            "latitude" => 1.750451,
-            "longitude" => 103.413301,
-            "title" => "COATING CONTROLLER",
-            "location" => "Kulaijaya, Johor Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<ul>
-    <li>Candidate must possess at least Primary\/Secondary School\/SPM\/&quot;O&quot; Level in any field.<\/li>
-    <li>Required language(s): English, Bahasa Malaysia<\/li>
-    <li>At least 1 Year(s) of working experience.<\/li>
-    <li>Required Skill(s): Computer literate. (Microsoft Office Word &amp; Excel)<\/li>
-    <li>Preferably Entry Level specialized in Manufacturing\/Production Operations or equivalent.<\/li>
-    <li>Experience in liase up with Department of Environtment is added advantage.&nbsp;<\/li>
-    <li>Ability on multitask and manage time effectively.<\/li>
-    <li>Willing to work at Bukit Batu, Kulai, Johor.<\/li>
-<\/ul>
-
-<div>Job responsibilities<\/div>
-
-<ul>
-    <li>To ensure Coating Deapartment meet schedule<\/li>
-    <li>To supervise workers in their job<\/li>
-    <li>To ensure product quality comply with the spesification.<\/li>
-    <li>Any others assignment as and when required.<\/li>
-<\/ul>",
-            "company" => "Compact Metal Industries Sdn. Bhd.",
-            "salary" => "MYR 1300.00 - 2000.00",
-            "min_monthly_salary" => "1300.00",
-            "max_monthly_salary" => "2000.00",
-            "currency" => "MYR",
-            "url" => "",
-            "gallery" => [""],
-            "rating" => 4,
-            "reviews_number" => 07
-        ],
-        [
-            "id" => 3281315,
-            "latitude" => 3.035061,
-            "longitude" => 101.766190,
-            "title" => "Accounts & Admin Assistant",
-            "location" => "21 Jalan C180/1 Cheras Selangor Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<ul><li>Responsible for daily accounting functions, update and maintain accurate data input into accounting system.<\/li><li>Prepare payment and monitoring movement of cheque.<\/li><li>Maintain and keep proper filling of all documents.<\/li><li>Assist to handle some HR related functions.<\/li><li>Other ad-hoc duties assigned by superior or management.<\/li><\/ul><div>Requirements<\/div><ul><li>Candidate must possess at least Diploma\/Advanced\/Higher\/Graduate Diploma in Finance\/Accountancy\/Banking or equivalent.<\/li><li>At least 3 Year(s) of working experience in the related field is required for this position.<\/li><li>Required Skill(s): F&amp;B Accounting, Office Management &amp; Administration, Compensation &amp; Benefit, Computer Literacy.<\/li><li>Preferably Junior Executive specialized in Hotel Management\/Tourism Services or equivalent.<\/li><\/ul>",
-            "company" => "PRIVILEGE VANTAGE SDN. BHD.",
-            "salary" => "MYR 2000.00 - 2500.00",
-            "min_monthly_salary" => "2000.00",
-            "max_monthly_salary" => "2500.00",
-            "currency" => "MYR",
-            "url" => "http:\/\/www.privilegevantage.com\/",
-            "gallery" => ["https://siva.jsstatic.com/my/100949/images/sol/100949_logo_0_31304.jpg"],
-            "rating" => 4,
-            "reviews_number" => 06
-        ],
-        [
-            "id" => 3281314,
-            "latitude" => 3.152873,
-            "longitude" => 101.706958,
-            "title" => "ADMIN EXECUTIVE (AUTOMOTIVE - BASED IN GELANG PATAH, JOHOR)",
-            "location" => "3 Jalan P Ramlee Kuala Lumpur 50250 Federal Territory of Kuala Lumpur Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div><strong>Responsibilities:<\/strong><br>&bull; Responsible for after sales administrative duties including managing employee&#39;s attendance record, employee&#39;s leave management, registration for training and etc<br>&bull; Manage travel arrangements, ISO documentation, and petty cash.<br>&bull; Maintain a systematic filing system and safe keeping of important documents<br>&bull; Perform duties &amp; responsibilities as and when is required<br><br><strong>Requirements:<\/strong><br>&bull; Candidate must possess at least a Professional Certificate, Diploma, Advanced\/Higher\/Graduate Diploma, Business Studies\/Administration\/Management, Secretarial or equivalent<br>&bull; Good working knowledge of Microsoft Office applications, expecially Excel, PowerPoint and Word<br>&bull; At least 3 year(s) of working experience in the related field is required for this position<br>&bull; Communication skills with good command of&nbsp; English and ability to converse in Mandarin is desirable<br>&bull; Preferably Senior Executives specializing in Clerical\/Administrative Support or equivalent<br>&bull; Positions are available in Johor Bahru (Gelang Patah)<\/div><div>&nbsp;<\/div><div>We may retain all information and resumes received for future job opportunities within Hap Seng Consolidated Berhad Group of Companies and its related corporations.<\/div>",
-            "company" => "Hap Seng Star Sdn Bhd",
-            "salary" => "MYR 2400.00 - 3300.00",
-            "min_monthly_salary" => "2400.00",
-            "max_monthly_salary" => "3300.00",
-            "currency" => "MYR",
-            "url" => "http:\/\/www.hapseng.mercedes-benz.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/11738/images/sol/11738_logo_0_7533693.jpg"],
-            "rating" => 3,
-            "reviews_number" => 06
-        ],
-        [
-            "id" => 3281312,
-            "latitude" => 3.090451,
-            "longitude" => 101.740023,
-            "title" => "Restaurant Manager / Assistant Manager (Melaka / Klang Valley)",
-            "location" => "No 6B Jalan Mutiara Raya Taman Mutiara 56000 Kuala Lumpur",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<ul>
-    <li>Planing, organizing, staffing, leading &amp; controlling the entire outlet oprations.<\/li>
-    <li>Ensure the excellent quality of product, courteous &amp; friendly service, cleanliness of outlet, good ambience &amp; environment for our customers to dine.<\/li>
-    <li>Responsible for the business growth of the restaurant by increasing sales, monitoring &amp; controlling operating expense to achieve budgeted profitability of the outlet.<\/li>
-    <li>Planning &amp; schedulling in manpower to ensure adequate staffing for restaurant operations while focusing on high productivity.<\/li>
-<\/ul>
-
-<div>&nbsp;<\/div>
-
-<div><strong>Job Requirements:<\/strong><\/div>
-
-<ul>
-    <li>Candidate must possess at least Primary\/Secondary School\/SPM\/&quot;O&quot; Level in Food &amp;amp; Beverage Services Management or equivalent.<\/li>
-    <li>At least 3 Year(s) of working experience in the related field is required for this position.<\/li>
-    <li>Preferably Senior Executive specialized in Food\/Beverage\/Restaurant Service or equivalent.<\/li>
-    <li>Willing to be transferable to any part of Central &amp; Northwest Malaysia where our outlet is situated.<\/li>
-    <li>Must be able to work on rotating shift, weekend, public holidays when required.<\/li>
-<\/ul>",
-            "company" => "ONE FOOD ARENA SDN. BHD.",
-            "salary" => "MYR 2500.00 - 3500.00",
-            "min_monthly_salary" => "2500.00",
-            "max_monthly_salary" => "3500.00",
-            "currency" => "MYR",
-            "url" => "",
-            "gallery" => [""],
-            "rating" => 4,
-            "reviews_number" => 05
-        ],
-        [
-            "id" => 3281303,
-            "latitude" => 3.017871,
-            "longitude" => 101.733586,
-            "title" => "SENIOR ACCOUNTS EXECUTIVE",
-            "location" => "No. 1 Jalan Taming 2 Kawasan Perindustrian Taming Jaya 43300 Seri Kembangan Selangor Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div><div><strong>JOB SCOPE:<\/strong><\/div><ul><li>Responsible for all aspect for finance and accounting of the business including budget planning, forecasting, cash flow management and taxation.<\/li><li>Responsible for the efficient and professional management of day to day accounting operation.<\/li><li>Familiar with AR, AP and GL<\/li><li>Liaise with external auditor, tax agent and other authorities to meet the company statutory requirements<\/li><li>Any other ad hoc tasks as and when assigned.<\/li><\/ul><div><strong>JOB REQUIREMENT:<\/strong><\/div><ul><li>Candidate must possess at least Bachelor&#39;s Degree\/Post Graduate Diploma\/Professional Degree in Finance\/Accountancy\/Banking or equivalent.<\/li><li>At least 3 Year(s) of working experience in the related field is required for this position.<\/li><li>Preferably Senior Executive specialized in Finance - General\/Cost Accounting or equivalent.<\/li><li>Can speak English and Bahasa Malaysia. Speaking in Mandarin will be advantages.<\/li><\/ul><div>Interested applicant are invited to apply online or submits your updated resume, current &amp; expected salary to:<br>&nbsp;<br>Coscolab Sdn Bhd<br>No 1 Jalan Taming 2,<br>Kawasan Perindustrian Taming Jaya<br>43300 Seri Kembangan&nbsp;<br>Selangor Darul Ehsan<br>Tel: 03-89618169<\/div><\/div>",
-            "company" => "Coscolab Sdn Bhd",
-            "salary" => "MYR 2500.00 - 3000.00",
-            "min_monthly_salary" => "2500.00",
-            "max_monthly_salary" => "3000.00",
-            "currency" => "MYR",
-            "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/54344/images/sol/54344_logo_0_85849.jpg"],
-            "rating" => 4,
-            "reviews_number" => 01
-        ],
-        [
-            "id" => 3281295,
-            "latitude" => 5.317140,
-            "longitude" => 100.283444,
-            "title" => "Graphics Support",
-            "location" => "Unit 1.1.15-1.1.17,Kompleks Mayang Mall Persiaran Mayang Pasir 1,Bayan Baru 11950 Penang.",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div>
-<ul>
-    <li>GPU architecture, graphic driver, X86 architecture skills set would be preferred &amp; good knowledge of embedded graphic transmitters and display technologies are a big plus.<\/li>
-    <li>Knowledge of the Intel Embedded Media Graphics Driver (EMGD) and Intel HD Graphics, Linux Open Source i915 Graphic Drivers and Platform Software on Intel Chipsets is highly desirable.<\/li>
-    <li>Familiar with BIOS flashing tools such as MMTools, FPT, DediProg, and graphics concepts such as scaling, under scanning, modes (progressive and interlaced).<\/li>
-    <li>Knowledge of Intel Graphics driver porting, 2D and\/or 3D graphics INF, DirectX\/OpenGL.<\/li>
-    <li>Strong fundamental of video playback technology in the area of video encode, video decode and transcode compression standards, format, profiles and levels (H.264, MPEG-2, MPEG-4, VC-1, DXVA &amp; etc.)<\/li>
-    <li>Good understanding of hardware interaction, specifically for Graphics Chipsets, monitors, and display ports.<\/li>
-    <li>Proficient in display interfaces (VGA, HDMI, Display Port, LVDS, eDP), VESA specifications for EDID are an added advantages.<\/li>
-    <li>Understanding of Microsoft Operating Systems a must - Windows 7\/8.x\/10, Windows Embedded Standard 7, Windows Embedded Compact 7\/2013 and Windows Embedded POSReady 7.<\/li>
-<\/ul>
-<\/div>",
-            "company" => "UST Global (Malaysia) Sdn .Bhd.",
-            "salary" => "MYR 3000.00 - 4200.00",
-            "min_monthly_salary" => "3000.00",
-            "max_monthly_salary" => "4200.00",
-            "currency" => "MYR",
-            "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/70617/images/sol/70617_logo_0_6899473.jpg"],
-            "rating" => 2,
-            "reviews_number" => 57
-        ],
-        [
-            "id" => 3281291,
-            "latitude" => 3.027700,
-            "longitude" => 101.549135,
-            "title" => "Accounts Assistant",
-            "location" => "LOT 57897,Batu 6 Jln Bukit Kemuning, Seksyen 34, Shah Alam 40470 Selangor.",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<ul>
-    <li>Handle daily accounting duties (AR\/AP\/GL) including invoicing, payment, filling and etc.<\/li>
-    <li>To assist in any other accounting related works.<\/li>
-    <li>Any other assignment given by immediate superior.<\/li>
-<\/ul>
-
-<div>&nbsp;<\/div>
-
-<div><strong>Requirements :<\/strong><\/div>
-
-<div>&nbsp;<\/div>
-
-<ul>
-    <li>Candidate must possess at least LCCI Accounting or equivalent.<\/li>
-    <li>At least 2 year(s) of working experience in the related field is required.<\/li>
-    <li>Knowledge in UBS Accounting software will be an advantage.<\/li>
-    <li>Mature, positive working attitude and a team player.<\/li>
-    <li>Initiative work extra hours if needed.<\/li>
-<\/ul>
-
-<div>&nbsp;<\/div>
-
-<div>&nbsp;<\/div>
-
-<div>&nbsp;<\/div>
-
-<div><strong>Interested candidates are invited to apply online with your full detailed resume<\/strong><\/div>",
-            "company" => "Seri Alam Recycle Industries (M) Sdn Bhd",
-            "salary" => "MYR 2200.00 - 2800.00",
-            "min_monthly_salary" => "2200.00",
-            "max_monthly_salary" => "2800.00",
-            "currency" => "MYR",
-            "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/11931/images/sol/11931_logo_0_7091096.jpg"],
-            "rating" => 1,
-            "reviews_number" => 55
-        ],
-        [
-            "id" => 3281283,
-            "latitude" => 1.494220,
-            "longitude" => 103.780658,
-            "title" => "Graphic Designer",
-            "location" => "291 Jalan Sutera, Taman Sentosa, 80150 Johor Bahru, Johor, Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div><strong>Responsibilities:<\/strong><\/div>
-
-<div>&nbsp;<\/div>
-
-<ul>
-    <li>Developing and designing the graphic development\/marketing of visual communications in multiple media that include print, collateral, digital\/web, social media. mobile app, etc<\/li>
-    <li>Prepare artwork as per instruction and ensure delivery on time<\/li>
-    <li>Any other duties assigned by superior<\/li>
-<\/ul>
-
-<div>&nbsp;<\/div>
-
-<div><strong>Requirements:<\/strong><\/div>
-
-<div>&nbsp;<\/div>
-
-<ul>
-    <li>Candidate must possess at least a Professional Certificate, Diploma, Advanced\/Higher\/Graduate Diploma, Bachelor&#39;s Degree, Post Graduate Diploma, Professional Degree, Art\/Design\/Creative Multimedia, Advertising\/Media or equivalent.<\/li>
-    <li>Required language(s): Bahasa Malaysia, Chinese, English<\/li>
-    <li>At least 2 year(s) of working experience in the related field is required for this position.<\/li>
-    <li>Applicants must be willing to work in Johor Bahru.<\/li>
-    <li>Preferably Senior Executives specializing in Publishing\/Printing or equivalent.<\/li>
-    <li>1 Full-Time position(s) available.<\/li>
-<\/ul>",
-            "company" => "Reproline Sdn Bhd",
-            "salary" => "MYR 2500.00 - 3500.00",
-            "min_monthly_salary" => "2500.00",
-            "max_monthly_salary" => "3500.00",
-            "currency" => "MYR",
-            "url" => "",
-            "gallery" => [""],
-            "rating" => 1,
-            "reviews_number" => 52
-        ],
-        [
-            "id" => 3281280,
-            "latitude" => 5.331064,
-            "longitude" => 100.298607,
-            "title" => "Production Technician (Penang & Kulim)",
-            "location" => "Level 4, Krystal Point Corporate Park 2, Jalan Tun Dr Awang, 11900 Bayan Lepas, Penang, Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div>Job Description:<\/div><div>&nbsp;<\/div><ul><li>On site support production PC issues, failures.<\/li><li>Receive issues from ticketing, updating ticketing accordingly to SOP, able to priortize ticket&nbsp;resolution&nbsp;within SLA.<\/li><li>to perform trouble shooting on: PC Hardward issues, network failure, bar code scanner, support windows 8-10, good in command.<\/li><li>Working on 12 hoursx 4 days \/ week- &nbsp;bi-weekly shift rotation<\/li><li>Working place: Penang or Kulim<\/li><li>Allowance will be provided<\/li><li>Ready to ON CALL<\/li><li>Will be given OT \/ Holiday Pay if required to work on extra working hours.<\/li><\/ul><div>Requirement:<\/div><ul><li>Ready to run shift hours, and to be in on call role, when off-shift.<\/li><li>Good english communication, including replying email, updating tickets, and verbal communicate with users.<\/li><li>Experience and good knowledge of PC troubleshooting , including usage of command prompt.<\/li><li>Good team work, and Displine.<\/li><\/ul>",
-            "company" => "Agensi Pekerjaan NCS Solutions Sdn. Bhd.",
-            "salary" => "MYR 1500.00 - 2500.00",
-            "min_monthly_salary" => "1500.00",
-            "max_monthly_salary" => "2500.00",
-            "currency" => "MYR",
-            "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/20532/images/sol/20532_logo_0_7019567.jpg"],
-            "rating" => 2,
-            "reviews_number" => 50
-        ],
-        [
-            "id" => 3281275,
-            "latitude" => 3.151040,
-            "longitude" => 101.706833,
-            "title" => "CAD Operator(Staff) [Ref: 40168]",
-            "location" => "Menara Weld Jalan Raja Chulan Kuala Lumpur Federal Territory of Kuala Lumpur Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div><strong>Business Nature:<\/strong><\/div><div>Manufacturing(Automobile)<\/div><div>&nbsp;<\/div><div><strong>Job Scope:<\/strong><\/div><ul><li>Manufacturing of Precision Automotive Tools &amp; Dies and Powder Metallurgy Dies.<\/li><li>Move the design from paper to the CAD.<br>&nbsp;<\/li><\/ul><div><strong>Remuneration Packages:<\/strong><\/div><ul><li>EPF, SOCSO,<\/li><li>OT<\/li><li>Meal Allowance&nbsp;<\/li><li>Attendant Allowance<\/li><li>Transportation Allowance&nbsp;<\/li><li>Bonus&nbsp;<\/li><\/ul><div>&nbsp;<\/div><div><strong>Requirement:<\/strong><\/div><ul><li>Candidate must possess at least a Diploma, Advanced\/Higher\/Graduate Diploma, Bachelor&#39;s Degree, Post Graduate Diploma, Professional Degree, Engineering (Mechanical) or equivalent.<\/li><li>Required language(s): Bahasa Malaysia, Chinese, English<\/li><li>No work experience required.<\/li><li>Full-Time position(s) available.<\/li><\/ul><div>&nbsp;<\/div><div><div><strong>Contact:<\/strong><\/div><div>&nbsp;<\/div><div>1. Send in your latest resume to info-my@reeracoen.asia<br>2. Call in +603-20201885 for more info.<br>===========================<br>For interested applicants, kindly indicate the following in your resume in order for us to process your application faster.<br>- Reason for leaving past and present employment<br>- Expected \/ Last drawn salary<br>- Availability date<br>Thank you for your application but we regret that only shortlisted candidates will be notified.<\/div><\/div><div>&nbsp;<\/div>",
-            "company" => "Reeracoen Malaysia Sdn Bhd",
-            "salary" => "MYR 1500.00 - 3000.00",
-            "min_monthly_salary" => "1500.00",
-            "max_monthly_salary" => "3000.00",
-            "currency" => "MYR",
-            "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/93331/images/sol/93331_logo_0_7964360.jpg"],
-            "rating" => 1,
-            "reviews_number" => 49
-        ],
-        [
-            "id" => 3281270,
-            "latitude" => 3.193031,
-            "longitude" => 101.606638,
-            "title" => "PROJECT SUPERVISOR AND COORDINATOR",
-            "location" => "Selangor, Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div><strong>Requirements:<\/strong><\/div><ul><li>Candidate must possess at least Higher Secondary\/STPM\/&quot;A&quot; Level\/Pre-U, Professional Certificate, Diploma\/Advanced\/Higher\/Graduate Diploma in any field.<\/li><li>At least 1 Year(s) of working experience in the related field is required for this position.<\/li><li>Required Skill(s): AUTOCAD<\/li><li>Preferably Non-Executive specialized in Engineering - Civil\/Construction\/Structural or equivalent.<\/li><li>Able to plan, monitor and maintain accuracy record of site diary, man power and material management.<\/li><\/ul><div>&nbsp;<\/div><div><strong>Responsibilities:<\/strong><\/div><ul><li>Ensure all daily operation at construction site run smoothly.<\/li><li>Ensure high quality of workdine according to drawing and specification.<\/li><li>To coordinate and monitor sub-contractor&#39;s activities at project site.<\/li><li>Attend all project meeting and reporting.<\/li><\/ul>",
-            "company" => "Uni Presmatek Sdn Bhd",
-            "salary" => "MYR 1800.00 - 3000.00",
-            "min_monthly_salary" => "1800.00",
-            "max_monthly_salary" => "3000.00",
-            "currency" => "MYR",
-            "url" => "",
-            "gallery" => [""],
-            "rating" => 2,
-            "reviews_number" => 47
-        ],
-        [
-            "id" => 3281268,
-            "latitude" => 3.139433,
-            "longitude" => 101.539631,
-            "title" => "CMM Assistant Engineer",
-            "location" => "Lot 503, Jln TUDM, Kampung Baru Subang, Seksyen U6, 40150 Shah Alam, Selangor.",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div><strong>Job Responsibilities<\/strong><\/div><div>&nbsp;<\/div><ul><li>Responsible for the CMM machine set-up, programming &amp; measuring.<\/li><li>Familiar with interpretation of complex drawings.<\/li><li>Able to trouble shoot the correlation in measurement problems and generate amicable solutions for customers.<\/li><li>Provide guidance to QC staffs regarding the field of Metrology.<\/li><li>Must be well verse with other measuring equipment like smart scope, gages and etc.<\/li><li>Knowledge of CPK &amp; SPC, PPAP, MSA, FMEA and etc.<\/li><\/ul><div><strong>Job Requirements<\/strong><\/div><ul><li>Candidate must possess at least a Diploma, Advanced\/Higher\/Graduate Diploma, Bachelor&rsquo;s Degree, Post Graduate Diploma or Professional Degree in Engineering (Mechanical), Engineering (Others), Science or equivalent.<\/li><li>Knowledge of injection molding is an added advantage (preferable)<\/li><li>At least 3 year(s) of working experience in the related field is required for this position.<\/li><li>Applicants must be willing to work in Kampung Baru Subang.<\/li><li>Full-Time position(s) available.<\/li><\/ul>",
-            "company" => "Ban Seng Plastic Industries & Assembly Sdn Bhd",
-            "salary" => "MYR 2000.00 - 3000.00",
-            "min_monthly_salary" => "2000.00",
-            "max_monthly_salary" => "3000.00",
-            "currency" => "MYR",
-            "url" => "http:\/\/www.banseng.com.my",
-            "gallery" => ["https://siva.jsstatic.com/my/21838/images/sol/21838_logo_0_6599781.jpg"],
-            "rating" => 3,
-            "reviews_number" => 47
-        ],
-        [
-            "id" => 3281266,
-            "latitude" => 3.129244,
-            "longitude" => 101.713262,
-            "title" => "Admin Executive",
-            "location" => "Jalan Metro Pudu Fraser Business Park Kuala Lumpur Kuala Lumpur Federal Territory Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<ul>
-    <li>Candidate must possess at least a Diploma, Advanced\/Higher\/Graduate Diploma, Business Studies\/Administration\/Management, Property Development\/Real Estate Management or equivalent.<\/li>
-    <li>Required language(s): Bahasa Malaysia, Chinese, English<\/li>
-    <li>At least 2 year(s) of working experience in the related field is required for this position.<\/li>
-    <li>Preferably Junior Executives specializing in Clerical\/Administrative Support or equivalent.<\/li>
-    <li>Full-Time position(s) available.<\/li>
-<\/ul>",
-            "company" => "GS Realty Sdn Bhd",
-            "salary" => "MYR 2600.00 - 3000.00",
-            "min_monthly_salary" => "2600.00",
-            "max_monthly_salary" => "3000.00",
-            "currency" => "MYR",
-            "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/90607/images/sol/90607_logo_0_7715775.jpg"],
-            "rating" => 2,
-            "reviews_number" => 47
-        ],
-        [
-            "id" => 3281264,
-            "latitude" => 3.136097,
-            "longitude" => 101.686486,
-            "title" => "Mobile Developer",
-            "location" => "2A Jalan Stesen Sentral 2 Kuala Lumpur Sentral 50470 Kuala Lumpur Federal Territory of Kuala Lumpur Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div>
-<div>
-<div><strong>Responsibilities<\/strong><\/div>
-<\/div>
-<\/div>
-
-<div>
-<ul>
-    <li>Liaise with Product team to plan and develop new features for the MoneyLion mobile app&nbsp;<\/li>
-    <li>Gather specific requirements and suggest solutions<\/li>
-    <li>Write unit and UI tests to identify malfunctions<\/li>
-    <li>Troubleshoot and debug to optimize performance<\/li>
-    <li>Support QA team on testing and debugging<\/li>
-    <li>Stay up-to-date with new technology trends, and suggest new products and tools that would improve development process, and application quality<\/li>
-<\/ul>
-
-<div><strong>Requirements<\/strong><\/div>
-
-<ul>
-    <li>Proven experience in building workable Mobile applications (native or hybrid)<\/li>
-    <li>In-depth knowledge of at least one of the following programming languages: Javascript (Typescript is a plus), Java, Swift&nbsp;<\/li>
-    <li>Experience with third-party libraries and APIs<\/li>
-    <li>Familiarity with Functional Programming will be a plus<\/li>
-    <li>Excellent analytical skills with a good problem-solving attitude<\/li>
-    <li>Ability to perform in a team environment<\/li>
-    <li>BSc degree in Computer Science or relevant field<\/li>
-<\/ul>
-<\/div>
-
-<div>&nbsp;<\/div>",
-            "company" => "MoneyLion Malaysia Sdn Bhd",
-            "salary" => "MYR 5000.00 - 8000.00",
-            "min_monthly_salary" => "5000.00",
-            "max_monthly_salary" => "8000.00",
-            "currency" => "MYR",
-            "url" => "http:\/\/www.moneylion.com.my\/",
-            "gallery" => ["https://siva.jsstatic.com/my/87375/images/sol/87375_logo_0_13370.png"],
-            "rating" => 1,
-            "reviews_number" => 44
-        ],
-        [
-            "id" => 3281259,
-            "latitude" => 3.129244,
-            "longitude" => 101.713262,
-            "title" => "Accounts Executive",
-            "location" => "Jalan Metro Pudu Fraser Business Park Kuala Lumpur Kuala Lumpur Federal Territory Malaysia",
-            "marker_image" => "assets\/img\/items\/logo_jobstreet.jpg",
-            "description" => "<div><strong>Responsibilities:<\/strong><\/div>
-
-<ul>
-    <li>To do full set of account<\/li>
-    <li>Maintain records of all financial documents<\/li>
-    <li>Assist in financial accounting &amp; reporting<\/li>
-<\/ul>
-
-<div>&nbsp;<\/div>
-
-<div>&nbsp;<\/div>
-
-<div><strong>Requirements:<\/strong><\/div>
-
-<ul>
-    <li>Candidate must possess at least a Higher Secondary\/STPM\/&quot;A&quot; Level\/Pre-U, Diploma, Advanced\/Higher\/Graduate Diploma, Bachelor&#39;s Degree, Post Graduate Diploma, Professional Degree, Economics, Finance\/Accountancy\/Banking, Human Resource Management, Business Studies\/Administration\/Management, Commerce or equivalent.<\/li>
-    <li>At least 2 year(s) of working experience in the related field is required for this position.<\/li>
-    <li>Applicants must be willing to work in Jalan Metro Pudu.<\/li>
-    <li>Preferably Senior Executives specializing in Finance - General\/Cost Accounting or equivalent.<\/li>
-    <li>Full-Time position(s) available.<\/li>
-    <li>Familiar with accounting software(SQL, OBM) computer literate on Microsoft Excel and word is an added Advantage.<\/li>
-    <li>Possess Good Commend of Spoken &amp; Written English, Bahasa Malaysia and Mandarin.<\/li>
-    <li>Independent &amp; able to work Under Pressure.<\/li>
-    <li><strong>Preferable Chinese Speaking Candidates<\/strong><\/li>
-<\/ul>",
-            "company" => "GS Realty Sdn Bhd",
-            "salary" => "MYR 3000.00 - 3500.00",
-            "min_monthly_salary" => "3000.00",
-            "max_monthly_salary" => "3500.00",
-            "currency" => "MYR",
-            "url" => "",
-            "gallery" => ["https://siva.jsstatic.com/my/90607/images/sol/90607_logo_0_7715775.jpg"],
-            "rating" => 2,
-            "reviews_number" => 42
         ],
     ));
