@@ -14,14 +14,14 @@ ob_end_clean();
 
 $newData = [];
 
-if($_POST["keyword"] == "" && $_POST["keyword"] == ""){
+if($_POST["keyword"] == "" && $_POST["minSalary"] == "" && $_POST["maxSalary"] == ""){
     echo json_encode($data);
 }
 elseif( $_POST["keyword"] &&  $_POST["minSalary"] &&  $_POST["maxSalary"]){
     for( $i=0; $i < count($data); $i++){
         if( !empty( $data[$i]['title'] )
             && is_integer(strpos(strtolower($data[$i]['title']),  strtolower($_POST['keyword'])))
-            && is_integer(strpos(strtolower($data[$i]['company']),  strtolower($_POST['keyword'])))
+            || is_integer(strpos(strtolower($data[$i]['company']),  strtolower($_POST['keyword'])))
             && $data[$i]['min_monthly_salary'] >= $_POST['minSalary']
             && $data[$i]['max_monthly_salary'] <= $_POST['maxSalary']
         ){
@@ -35,7 +35,7 @@ elseif( $_POST["keyword"] &&  $_POST["minSalary"] ){
     for( $i=0; $i < count($data); $i++){
         if( !empty( $data[$i]['title'] )
             && is_integer(strpos(strtolower($data[$i]['title']),  strtolower($_POST['keyword'])))
-            && is_integer(strpos(strtolower($data[$i]['company']),  strtolower($_POST['keyword'])))
+            || is_integer(strpos(strtolower($data[$i]['company']),  strtolower($_POST['keyword'])))
             && $data[$i]['min_monthly_salary'] >= $_POST['minSalary']
         ){
 
@@ -48,7 +48,7 @@ elseif( $_POST["keyword"] &&  $_POST["maxSalary"] ){
     for( $i=0; $i < count($data); $i++){
         if( !empty( $data[$i]['title'] )
             && is_integer(strpos(strtolower($data[$i]['title']),  strtolower($_POST['keyword'])))
-            && is_integer(strpos(strtolower($data[$i]['company']),  strtolower($_POST['keyword'])))
+            || is_integer(strpos(strtolower($data[$i]['company']),  strtolower($_POST['keyword'])))
             && $data[$i]['max_monthly_salary'] <= $_POST['maxSalary']
         ){
 
@@ -62,7 +62,7 @@ elseif( $_POST["keyword"] ){
         //echo $data[$i]['title'] . ' = ' . $_POST['keyword'] . ' = '. strpos($data[$i]['title'],  $_POST['keyword']). ';'.PHP_EOL;
         if( !empty( $data[$i]['title'] )
             && is_integer(strpos(strtolower($data[$i]['title']),  strtolower($_POST['keyword'])))
-            && is_integer(strpos(strtolower($data[$i]['company']),  strtolower($_POST['keyword'])))
+            || is_integer(strpos(strtolower($data[$i]['company']),  strtolower($_POST['keyword'])))
         ){
 
             array_push( $newData, $data[$i] );
