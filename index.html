@@ -20,6 +20,204 @@
     <title>Mapify - Map</title>
 
     <style>
+
+        .navbar-inverse {
+            background-color: #030f2c;
+        }
+        .navbar-lower-deck {;
+            background-color: #04205e;
+        }
+        .logo {
+            margin-top: 7px;
+        }
+        .navbar {
+            margin-bottom: 0;
+        }
+        .navbar-inverse .navbar-nav > li > a {
+            color: #ffffff;
+        }
+        .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a.active {
+            background-color: #04205e;
+        }
+        .filter-search .keyword-search input{
+            border: 0;
+            box-shadow: none;
+        }
+        .filter-search .keyword-search .btn {
+            border: 0;
+            box-shadow: none;
+        }
+        .filter-search .keyword-search .fa-search {
+            color: #04205e;
+            font-size: 1.8em;
+        }
+        .filter-search .keyword-search.input-group {
+            padding: 4px 4px 4px 10px;
+        }
+        .filter-search .keyword-search.input-group input{
+            padding: 5px;
+        }
+        .filter-search .keyword-search .form-control:focus, .filter-search .keyword-search .form-control:active {
+            border-color: none;
+            box-shadow: none;
+        }
+        .filter-search .dropdown-filter {
+            /*padding: 2px;*/
+        }
+        .filter-search .row {
+            margin-right: 0;
+        }
+        .filter-search .dropdown-menu {
+            padding: 10px;
+            width: 220px;
+        }
+        .input-group .form-control {
+            color: #04205e;
+            font-weight: bold;
+            font-size: 20px;
+        }
+        .panel {
+            border: 0;
+            margin-bottom: 0;
+        }
+        .hero-section .results-wrapper .result-item > a h3 {
+            margin-bottom: 7px;
+        }
+        .hero-section .results-wrapper .result-item > a .result-item-detail .image{
+            float: right;
+        }
+        .hero-section .results-wrapper .result-item > a .result-item-detail .description {
+            padding-left: 0;
+        }
+        .hero-section .results-wrapper .result-item > a .result-item-detail .description .company{
+            color: #b0b0b0;
+        }
+        .hero-section .results-wrapper .result-item > a .result-item-detail .description h5{
+            padding-top: 4px;
+        }
+        .hero-section .results-wrapper .result-item > a .result-item-detail .description .location{
+            color: #92929;
+        }
+        .hero-section .results-wrapper .result-item > a .result-item-detail .description .salary{
+            color: #06944b;
+            padding-top: 10px;
+        }
+
+        .hero-section .results-wrapper .result-item > a .result-item-detail .image {
+            max-width: 30%;
+        }
+
+        .navbar-nav > li > a {
+            color: gray;
+        }
+        .compare-btn-nav{
+            height: 100%;
+            margin-top: 6px;
+            padding: 4px 10px;
+            background: #00a25d !important;
+            border-color: #00a25d !important;
+        }
+        .compare-btn-nav img{
+            width: 20px;
+            margin: 3px;
+        }
+        .compare-count{
+            font-size: 10px;
+            margin-left: 5px;
+        }
+        .infobox-wrapper .infobox {
+            width: 330px;
+            background-color: white !important;
+            border: #04205e 2px solid;
+            border-radius: 3px;
+        }
+        .infobox-wrapper.show{
+            /*left: 400px !important;*/
+        }
+        .item > a {
+            display: block;
+            position: relative;
+            height: 200px;
+            overflow: hidden;
+        }
+        .infobox-wrapper .infobox .description {
+            bottom: 140px;
+            padding-right: 20px;
+        }
+        .item > a .description h4,
+        .item > a .description h3 {
+            text-shadow: none !important;
+            color: #04205e !important;
+            background-color: transparent !important;
+        }
+        .infobox-wrapper .infobox .rating-passive {
+            transform: translateX(-10px);
+            position: absolute;
+            bottom: 60px;
+            left: 20px;
+            padding: 0;
+            background-color: transparent;
+            display: inline-block;
+        }
+        .infobox-wrapper .infobox .rating-passive .stars figure {
+            color: #daff00;
+            font-size: 18px;
+        }
+        .image{
+            background-image: none !important;
+        }
+        .card-options {
+            cursor: pointer;
+            position: absolute;
+            bottom: 0px;
+            font-size: 14px;
+            background-color: #04205e;
+            color: white;
+            height: 50px;
+            line-height: 50px;
+        }
+        .card-options-btn:hover,
+        .card-options-btn{
+            color: white;
+            text-decoration: none;
+        }
+        
+        .dismiss-compare:hover,
+        .dismiss-compare{
+            float: right;
+            color: lightgray;
+        }
+        .compare-btn{ float: left; }
+        .dropdown.compare .dropdown-menu{
+            left: -210.5px !important;  
+            margin: 0px;
+            border-radius: 0px !important;
+        }
+        .filter-search .dropdown-menu {
+            padding: 10px;
+            width: 220px;
+            border: #00a25d 3px solid;
+        }
+
+        .save-btn{ float: right; }
+        .card-img-logo{
+            float: right;
+            max-width: 120px !important;
+            padding-top: 15px;
+            padding-right: 15px;
+        }
+        .salary-digit{
+            padding-top: 20px;
+            font-size: 18px;
+        }
+        .dropdown-menu > li > a{
+            /*width: 100px !important;*/
+            white-space: normal;
+        }
+        .filter-search .dropdown-menu.compare-dropdown-menu{
+            width: 350px;
+        }
+
     body {
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
         font-size: 14px;
@@ -129,6 +327,7 @@
     .panel-skill .panel-heading {
         border-bottom: 2px solid #ddd;
     }
+
     </style>
 </head>
 
@@ -204,7 +403,7 @@
         <div class="filter-search">
             <form>
                 <div class="row">
-                    <div class="col-lg-6 col-sm-6 col-xs-12">
+                    <div class="col-lg-5 col-sm-5 col-xs-12">
                         <div class="input-group keyword-search">
                           <span class="input-group-btn">
                             <button type="submit" data-ajax-response="map" data-ajax-data-file="assets/external/data_2.php" data-ajax-auto-zoom="1" class="btn btn-default"><i class="fa fa-search"></i></button>
@@ -212,8 +411,24 @@
                           <input type="text" class="form-control" name="keyword" placeholder="Enter keyword">
                         </div>
                     </div>
-                    <div class="col-sm-6">
+                    <div class="col-lg-5 col-sm-5">
                         <ul class="nav navbar-nav navbar-right">
+                            <li class="dropdown hidden-xs dropdown-filter">
+                                <a href="#" data-toggle="dropdown" aria-expanded="true">
+                                    Company benefit <i class="fa fa-caret-down"></i>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <a href="">Benefit 1</a>
+                                    </li>
+                                    <li>
+                                        <a href="">Benefit 2</a>
+                                    </li>
+                                    <li>
+                                        <a href="">Benefit 3</a>
+                                    </li>
+                                </ul>
+                            </li>
                             <li class="dropdown hidden-xs dropdown-filter">
                                 <a href="#" data-toggle="dropdown" aria-expanded="true">
                                     Salary range <i class="fa fa-caret-down"></i>
@@ -234,12 +449,72 @@
                                     </form>
                                 </div>
                             </li>
+                            <li class="dropdown hidden-xs dropdown-filter">
+                                <a href="#" data-toggle="dropdown" aria-expanded="true">
+                                    Job type <i class="fa fa-caret-down"></i>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <a href="">Job type 1</a>
+                                    </li>
+                                    <li>
+                                        <a href="">Job type 2</a>
+                                    </li>
+                                    <li>
+                                        <a href="">Job type 3</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="dropdown compare col-lg-2">
+                        <a href="" class="btn btn-primary compare-btn-nav" type="button" data-toggle="dropdown">
+                            Compare <img src="assets/img/compare-icon.png" alt="">
+                            <!-- <span class="label label-success compare-count">3</span> -->
+                            <span class="badge">4</span>
+                        </a>
+                        <ul class="dropdown-menu compare-dropdown-menu" role="menu" aria-labelledby="menu1">
+                            <li role="presentation" style="margin: auto;">
+                                <a role="menuitem">
+                                    <!-- <div class="col-md-6"> -->
+                                        <h3>Technical Solution Coordinator <br><small>SEG International Bhd</small></h3>
+                                        <h4>MYR 3000 - 4500</h4>
+                                    <!-- </div> -->
+                                    <!-- <div class="col-md-3"> -->
+                                        <img style="max-width: 80px;" src="assets/img/logo_jobstreet.jpg" alt="">
+                                    <!-- </div> -->
+                                </a>
+                            </li>
+                            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">CSS</a></li>
+                            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">JavaScript</a></li>
+                            <li role="presentation" class="divider"></li>
+                            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">About Us</a></li>
                         </ul>
                     </div>
                 </div>
             </form>
         </div>
+    </div>
 
+    <!-- Compare Modal -->
+    <div id="myModal" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">Modal Header</h4>
+          </div>
+          <div class="modal-body">
+            <p>Some text in the modal.</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+
+      </div>
     </div>
 
     <div id="page-content">
@@ -425,7 +700,7 @@
     var _latitude = 3.159567;
     var _longitude = 101.697378;
     var element = "map-homepage";
-    var markerTarget = "infobox"; // use "sidebar", "infobox" or "modal" - defines the action after click on marker
+    var markerTarget = "infobox"; // use "sidebar", "   " or "modal" - defines the action after click on marker
     var sidebarResultTarget = "modal"; // use "sidebar", "modal" or "new_page" - defines the action after click on marker
     var showMarkerLabels = false; // next to every marker will be a bubble with title
     var mapDefaultZoom = 17; // default zoom
