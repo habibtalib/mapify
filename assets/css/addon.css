@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+.landing { background:url(../images/landing-bg) bottom repeat-x #fff ; padding:20px; padding-top:80px;}
+.landing .logo { margin:10px 0px 0px; } 
+.landing h3 { font-size:30px; line-height:26px; font-weight:700; padding:0 0 0 0; margin:0px 0px 8px; color:#336cea;}
+.landing .fill { background:#fff; color:#797979; border:0; font-size:14px;  padding:19px 2px 19px 40px; margin:none; box-shadow:none; }
+.landing .fill:hover { border:0; box-shadow:none; }
+.landing .job-icon { background:url(../images/job-icon.png) center left no-repeat;}
+.landing .location-icon { background:url(../images/LOCATION-ICON.png) center left no-repeat;}
+.landing .fill-box { border:2px solid #dadada; margin:12px 18px; padding:0px; background:#fff;}
+.landing .search-btn { background:#06944b; padding:10px; text-align:center; } 
+.landing .copies { color:#666666; text-align:center; margin-top:10px; margin-bottom:60px;}
