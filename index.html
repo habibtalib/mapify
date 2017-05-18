@@ -112,7 +112,6 @@
         }
         .compare-btn-nav{
             height: 100%;
-            margin-top: 6px;
             padding: 4px 10px;
             background: #00a25d !important;
             border-color: #00a25d !important;
@@ -189,7 +188,7 @@
         }
         .compare-btn{ float: left; }
         .dropdown.compare .dropdown-menu{
-            left: -210.5px !important;  
+            left: -112px !important;  
             margin: 0px;
             border-radius: 0px !important;
         }
@@ -211,11 +210,40 @@
             font-size: 18px;
         }
         .dropdown-menu > li > a{
-            /*width: 100px !important;*/
+            padding: 3px 3px;
             white-space: normal;
         }
         .filter-search .dropdown-menu.compare-dropdown-menu{
-            width: 350px;
+            width: 250px;
+        }
+        /*Compare menu contents*/
+        .menu-content-right{
+            padding-right: 0px;
+        }
+        .menu-content-left{
+            padding-left: 3px;padding-right: 0px;line-height:1;
+        }
+        .menu-pt{
+            font-size: 12px; font-weight: bold;
+        }
+        .menu-comp{
+            white-space: nowrap; font-size: 11px;
+        }
+        .menu-sal{
+            font-size: 12px; color: #00a25d; line-height: 2;
+        }
+        .dismiss{
+            float: right;
+            line-height: 3;
+            cursor: pointer
+        }
+        .menu-compare-btn{
+            text-decoration: none;
+            background-color: lightgray;
+            text-align: center;
+            font-weight: bold;
+            color: dimgray;
+            margin: auto;
         }
 
     body {
@@ -403,7 +431,7 @@
         <div class="filter-search">
             <form>
                 <div class="row">
-                    <div class="col-lg-5 col-sm-5 col-xs-12">
+                    <div class="col-lg-6 col-sm-6 col-xs-12">
                         <div class="input-group keyword-search">
                           <span class="input-group-btn">
                             <button type="submit" data-ajax-response="map" data-ajax-data-file="assets/external/data_2.php" data-ajax-auto-zoom="1" class="btn btn-default"><i class="fa fa-search"></i></button>
@@ -411,8 +439,8 @@
                           <input type="text" class="form-control" name="keyword" placeholder="Enter keyword">
                         </div>
                     </div>
-                    <div class="col-lg-5 col-sm-5">
-                        <ul class="nav navbar-nav navbar-right">
+                    <div class="col-lg-6 col-sm-6">
+                        <ul class="nav navbar-nav navbar-right" style="margin-right: 5px;">
                             <li class="dropdown hidden-xs dropdown-filter">
                                 <a href="#" data-toggle="dropdown" aria-expanded="true">
                                     Company benefit <i class="fa fa-caret-down"></i>
@@ -465,30 +493,70 @@
                                     </li>
                                 </ul>
                             </li>
-                        </ul>
-                    </div>
-                    <div class="dropdown compare col-lg-2">
-                        <a href="" class="btn btn-primary compare-btn-nav" type="button" data-toggle="dropdown">
-                            Compare <img src="assets/img/compare-icon.png" alt="">
-                            <!-- <span class="label label-success compare-count">3</span> -->
-                            <span class="badge">4</span>
-                        </a>
-                        <ul class="dropdown-menu compare-dropdown-menu" role="menu" aria-labelledby="menu1">
-                            <li role="presentation" style="margin: auto;">
-                                <a role="menuitem">
-                                    <!-- <div class="col-md-6"> -->
-                                        <h3>Technical Solution Coordinator <br><small>SEG International Bhd</small></h3>
-                                        <h4>MYR 3000 - 4500</h4>
-                                    <!-- </div> -->
-                                    <!-- <div class="col-md-3"> -->
-                                        <img style="max-width: 80px;" src="assets/img/logo_jobstreet.jpg" alt="">
-                                    <!-- </div> -->
+                            <li class="dropdown compare">
+                                <a href="" class="btn btn-primary compare-btn-nav" type="button" data-toggle="dropdown">
+                                    Compare <img src="assets/img/compare-icon.png" alt="">
+                                    <!-- <span class="label label-success compare-count">3</span> -->
+                                    <span class="badge">4</span>
                                 </a>
+                                <ul class="dropdown-menu compare-dropdown-menu" role="menu" aria-labelledby="menu1">
+                                    <li role="presentation" style="margin: auto;">
+                                        <a role="row menuitem">
+                                            <div class="col-md-6 menu-content-left">
+                                                <span class="menu-pt">Technical Solution Coordinator </span>
+                                                <span class="menu-comp"><small>SEG International Bhd</small></span>
+                                                <span class="menu-sal"><small>MYR 3000 - 4500</small></span>
+                                            </div>
+                                            <div class="col-md-6 menu-content-right">
+                                                <img style="max-width: 60px;" src="assets/img/logo_jobstreet.jpg" alt="">
+                                                <span class="dismiss">X</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li role="presentation" style="margin: auto;">
+                                        <a role="row menuitem">
+                                            <div class="col-md-6 menu-content-left">
+                                                <span class="menu-pt">Sales team manager </span>
+                                                <span class="menu-comp"><small>SEG International Bhd</small></span>
+                                                <span class="menu-sal"><small>MYR 3000 - 4500</small></span>
+                                            </div>
+                                            <div class="col-md-6 menu-content-right">
+                                                <img style="max-width: 60px;" src="assets/img/logo_jobstreet.jpg" alt="">
+                                                <span style="float: right;">X</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li role="presentation" style="margin: auto;">
+                                        <a role="row menuitem">
+                                            <div class="col-md-6 menu-content-left">
+                                                <span class="menu-pt">Lead Graphic Designer </span>
+                                                <span class="menu-comp"><small>SEG International Bhd</small></span>
+                                                <span class="menu-sal"><small>MYR 3000 - 4500</small></span>
+                                            </div>
+                                            <div class="col-md-6 menu-content-right">
+                                                <img style="max-width: 60px;" src="assets/img/logo_jobstreet.jpg" alt="">
+                                                <span style="float: right;">X</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li role="presentation" style="margin: auto;">
+                                        <a role="row menuitem">
+                                            <div class="col-md-6 menu-content-left">
+                                                <span class="menu-pt">Sales manager and coordinator </span>
+                                                <span class="menu-comp"><small>SEG International Bhd</small></span>
+                                                <span class="menu-sal"><small>MYR 3000 - 4500</small></span>
+                                            </div>
+                                            <div class="col-md-6 menu-content-right">
+                                                <img style="max-width: 60px;" src="assets/img/logo_jobstreet.jpg" alt="">
+                                                <span style="float: right;">X</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li style="margin: auto;">
+                                        <a href="" class="menu-compare-btn">Compare now</a>
+                                    </li>
+                                </ul>
                             </li>
-                            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">CSS</a></li>
-                            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">JavaScript</a></li>
-                            <li role="presentation" class="divider"></li>
-                            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">About Us</a></li>
                         </ul>
                     </div>
                 </div>
