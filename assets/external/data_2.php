@@ -14,8 +14,19 @@ ob_end_clean();
 
 $newData = [];
 
-if( $_POST["category"] == "" && $_POST["city"] == "" ){
+if( $_POST["category"] == "" && $_POST["city"] == "" && $_POST["keyword"] == ""){
     echo json_encode($data);
+}
+elseif( $_POST["keyword"] ){
+
+    for( $i=0; $i < count($data); $i++){
+        //echo $data[$i]['title'] . ' = ' . $_POST['keyword'] . ' = '. strpos($data[$i]['title'],  $_POST['keyword']). ';'.PHP_EOL;
+        if( !empty( $data[$i]['title'] ) && is_integer(strpos(strtolower($data[$i]['title']),  strtolower($_POST['keyword'])))){
+
+            array_push( $newData, $data[$i] );
+        }
+    }
+    echo json_encode($newData);
 }
 elseif( $_POST["category"] && $_POST["city"] ){
     for( $i=0; $i < count($data); $i++){
