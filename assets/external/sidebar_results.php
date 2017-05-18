@@ -33,8 +33,12 @@ if( !empty($_POST['markers']) ){
                             '<figure class="ribbon">'. $data[$i]['ribbon'] .'</figure>';
                     }
 
-                    echo
-                    '<a href="'. $data[$i]['url'] .'">';
+
+                    if( !empty($data[$i]['url']) ){
+                        echo
+                            '<a href="'. $data[$i]['url'] .'">';
+
+                    }
 
                     // Title -------------------------------------------------------------------------------------------
 

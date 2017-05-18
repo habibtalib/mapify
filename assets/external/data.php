@@ -2,6 +2,32 @@
 
 echo json_encode(
     $data = array(
+   
+        [ 
+            'id'=> 3181811, 
+            'latitude'=> 3.135255, 
+            'longitude'=> 101.603869, 
+            'title'=> 'System Analyst/Programmer - 5 Vacancies', 
+            'location'=> 'Jalan Tanjung Bandar Utama, 47410 Petaling Jaya, Selangor, Malaysia', 
+            'marker_image'=>'assets\/img\/items\/logo_jobstreet.jpg', 
+            'description'=> '<div>
+            <ul>
+                <li>Responsible to design, research and develop applications using the web technologies and will actively involve in designing, coding, testing and implementation of products and services. <strong>OR</strong></li>
+                <li>Responsible in implementation and management of projects, these shall include activities pre LIVE, during LIVE and post LIVE i.e. training, preparation of documentation and support.</li>
+            </ul>
+            </div>
+
+            <div>&nbsp;</div>
+
+            <div><strong>Requirements</strong></div>', 
+            'company'=> 'Speedminer Sdn Bhd', 
+            'salary'=> 'MYR 2500.00 - 3500.00', 
+            'min_monthly_salary'=> '2500.00', 
+            'max_monthly_salary'=> '3500.00', 
+            'currency'=> 'MYR' ,
+            'url' => "detail.html",
+        ],
+
         [
             'id' => 1,
             'latitude' => 3.159567,

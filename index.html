@@ -38,17 +38,37 @@
     .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a.active {
         background-color: #04205e;
     }
-    .keyword-search input{
+    .filter-search .keyword-search input{
         border: 0;
         box-shadow: none;
     }
-    .keyword-search .btn {
+    .filter-search .keyword-search .btn {
         border: 0;
         box-shadow: none;
     }
-    .keyword-search .fa-search {
+    .filter-search .keyword-search .fa-search {
         color: #04205e;
         font-size: 1.8em;
+    }
+    .filter-search .keyword-search.input-group {
+        padding: 4px 4px 4px 10px;
+    }
+    .filter-search .keyword-search.input-group input{
+        padding: 5px;
+    }
+    .filter-search .keyword-search .form-control:focus, .filter-search .keyword-search .form-control:active {
+        border-color: none;
+        box-shadow: none;
+    }
+    .filter-search .dropdown-filter {
+        /*padding: 2px;*/
+    }
+    .filter-search .row {
+        margin-right: 0;
+    }
+    .filter-search .dropdown-menu {
+        padding: 10px;
+        width: 220px;
     }
     .input-group .form-control {
         color: #04205e;
@@ -157,27 +177,45 @@
     <!--end page-header-->
     
     <div class="panel panel-default">
-        <div class="keyword-search">
-
-          <!-- <div class="col-sm-3">
-                <input type="text" class="form-control" name="keyword" placeholder="Enter keyword">
-            </div> -->
+        <div class="filter-search">
             <form>
                 <div class="row">
-                    <div class="col-lg-6">
-                        <div class="input-group">
+                    <div class="col-lg-6 col-sm-6 col-xs-12">
+                        <div class="input-group keyword-search">
                           <span class="input-group-btn">
-                            <button class="btn btn-default" type="button"><span class="fa fa-search"></span></button>
+                            <button type="submit" data-ajax-response="map" data-ajax-data-file="assets/external/data_2.php" data-ajax-auto-zoom="1" class="btn btn-default"><i class="fa fa-search"></i></button>
                           </span>
                           <input type="text" class="form-control" name="keyword" placeholder="Enter keyword">
                         </div>
                     </div>
-                    <div class="form-group">
-                        <button type="submit" data-ajax-response="map" data-ajax-data-file="assets/external/data_2.php" data-ajax-auto-zoom="1" class="btn btn-primary pull-right"><i class="fa fa-search"></i></button>
+                    <div class="col-sm-6">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li class="dropdown hidden-xs dropdown-filter">
+                                <a href="#" data-toggle="dropdown" aria-expanded="true">
+                                    Salary range <i class="fa fa-caret-down"></i>
+                                </a>
+                                <div class="dropdown-menu">
+                                    <form>
+                                        <div class="row text-center">
+                                            <div class="col-sm-6" style="padding-right:0px;">
+                                              <span class="control-label">Min.</span>
+                                              <input id="minSalary" type="number" class="form-control" placeholder="1000">
+                                            </div>
+                                            <div class="col-sm-6" style="padding-left:0px;">
+                                              <span class="control-label">Max.</span>
+                                              <input id="maxSalary" type="number" class="form-control" placeholder="2000">
+                                            </div>
+                                        </div>
+                                        <a id="applySalary" class="btn btn-primary btn-block">Apply</a>
+                                    </form>
+                                </div>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </form>
         </div>
+
     </div>
 
     <div id="page-content">

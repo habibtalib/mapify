@@ -812,3 +812,7 @@ $("[data-show-after-scroll]").each(function() {
         }
     });
 });
+
+$(".dropdown-filter .dropdown-menu").click(function(event){
+    event.stopPropagation();
+});
