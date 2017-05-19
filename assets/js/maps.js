@@ -462,7 +462,7 @@ function heroMap(_latitude,_longitude, element, markerTarget, sidebarResultTarge
 
             }else if (inputKeyword.toLowerCase().indexOf("sales") >= 0) {
                 $('#requireSkill .panel-body').html('<div class="well well-sm">You had miss out 1 skill for this position. <br><a href="#">Update Profile</a></div><span><i class="fa fa-check"></i> Communication</span><span><i class="fa fa-check"></i> Acheive Sales Target</span><span><i class="fa fa-times"></i> Provide fast solution</span><div class="course">Checkout courses on: <a href="https://www.jobstreeteducation.com.my/part-time/diploma/professional-diploma-in-digital-selling" target="_blank">Jobstreet Education</a></div>');
-                $('#RangeSalary').html("MYR 2800");
+                $('#RangeSalary').html("MYR 5600");
             }else if (inputKeyword.toLowerCase().indexOf("market") >= 0) {
                 $('#requireSkill .panel-body').html('<div class="well well-sm">You had miss out 1 skill for this position. <br><a href="#">Update Profile</a></div><span><i class="fa fa-check"></i> Strong ownership</span><span><i class="fa fa-check"></i> Fluency in English</span><span><i class="fa fa-check"></i> Analytical</span><span><i class="fa fa-times"></i> Communication</span><div class="course">Course to learn: Checkout courses on: <a href="https://www.jobstreeteducation.com.my/digital-marketing-institute" target="_blank">Jobstreet Education</a></div>');
                 $('#RangeSalary').html("MYR 3900");
