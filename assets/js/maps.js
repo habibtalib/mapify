@@ -99,9 +99,9 @@ function heroMap(_latitude,_longitude, element, markerTarget, sidebarResultTarge
                     markerContent.innerHTML =
                     '<div class="marker" data-id="'+ markers[i]["id"] +'">' +
                         '<div class="title">'+ markers[i]["title"] +'</div>' +
-                        '<div class="marker-wrapper">' +
+                        '<div class="marker-wrapper recommend">' +
                             '<div class="pin">' +
-                                '<div class="image" style="background-image: url('+ thumbnailImage2 +');"></div>' +
+                                '<div class="image" style="background-image: url('+ thumbnailImage +');"></div>' +
                             '</div>' +
                         '</div>' +
                     '</div>';
@@ -432,16 +432,49 @@ function heroMap(_latitude,_longitude, element, markerTarget, sidebarResultTarge
 
         $("[data-ajax-response='map']").on("click", function(e){
             e.preventDefault();
-            var dataFile = $(this).attr("data-ajax-data-file");
-            searchClicked = 1;
-            if( $(this).attr("data-ajax-auto-zoom") == 1 ){
-                mapAutoZoom = 1;
+            if($('.keyword-search input').val() != "") {
+                recommendSkill();
+                var dataFile = $(this).attr("data-ajax-data-file");
+                searchClicked = 1;
+                if( $(this).attr("data-ajax-auto-zoom") == 1 ){
+                    mapAutoZoom = 1;
+                }
+                var form = $(this).closest("form");
+                var ajaxData = form.serialize();
+                markerCluster.clearMarkers();
+                loadData(dataFile, ajaxData);
+            } else {
+                alert("Please Enter Keyword");
+                $('#RequireSkillSearch').html("Improve your skill");
+                $('#requireSkill .panel-body').html('<div class="course">Improve your skills on: <br><a href="https://www.jobstreeteducation.com.my/" target="_blank">Jobstreet Education</a></div>');
             }
-            var form = $(this).closest("form");
-            var ajaxData = form.serialize();
-            markerCluster.clearMarkers();
-            loadData(dataFile, ajaxData);
         });
+
+        function recommendSkill() {
+            var inputKeyword = $('.keyword-search input').val();
+
+            $('#RequireSkillSearch').html(inputKeyword);
+            $('#RangeTitle').html(inputKeyword);
+
+            if (inputKeyword.toLowerCase().indexOf("develop") >= 0 || inputKeyword.toLowerCase().indexOf("software") >= 0) {
+                $('#requireSkill .panel-body').html('<div class="well well-sm">You had miss out 2 skill for this position. <br><a href="#">Update Profile</a></div><span><i class="fa fa-check"></i> PHP</span><span><i class="fa fa-check"></i> Java</span><span><i class="fa fa-times"></i> Laravel</span><span><i class="fa fa-times"></i> Object-oriented programming</span><div class="course">Course to learn: <a href="https://www.jobstreeteducation.com.my/information-technology" target="_blank">Jobstreet Education</a></div>');
+                $('#RangeSalary').html("MYR 3400");
+
+            }else if (inputKeyword.toLowerCase().indexOf("sales") >= 0) {
+                $('#requireSkill .panel-body').html('<div class="well well-sm">Congratulations! You have all the skill sets.</div><span><i class="fa fa-check"></i> Communication</span><span><i class="fa fa-check"></i> Acheive Sales Target</span><span><i class="fa fa-check"></i> Provide fast solution</span><div class="course">You can improve on: <a href="https://www.jobstreeteducation.com.my/part-time/diploma/professional-diploma-in-digital-selling" target="_blank">Jobstreet Education</a></div>');
+                $('#RangeSalary').html("MYR 2800");
+            }else if (inputKeyword.toLowerCase().indexOf("market") >= 0) {
+                $('#requireSkill .panel-body').html('<div class="well well-sm">You had miss out 1 skill for this position. <br><a href="#">Update Profile</a></div><span><i class="fa fa-check"></i> Strong ownership</span><span><i class="fa fa-check"></i> Fluency in English</span><span><i class="fa fa-check"></i> Analytical</span><span><i class="fa fa-times"></i> Communication</span><div class="course">Course to learn: <a href="https://www.jobstreeteducation.com.my/digital-marketing-institute" target="_blank">Jobstreet Education</a></div>');
+                $('#RangeSalary').html("MYR 3900");
+            }else if (inputKeyword.toLowerCase().indexOf("project") >= 0) {
+                $('#requireSkill .panel-body').html('<div class="well well-sm">You had miss out 1 skill for this position. <br><a href="#">Update Profile</a></div><span><i class="fa fa-check"></i> Project Management</span><span><i class="fa fa-check"></i> Risk Analytics</span><span><i class="fa fa-times"></i> Strong prioritizing</span><div class="course">Course to learn: <a href="https://www.jobstreeteducation.com.my/part-time/courses/project-management-professional" target="_blank">Jobstreet Education</a></div>');
+                $('#RangeSalary').html("MYR 5690");
+            }else {
+                $('#requireSkill .panel-body').html('<div class="course">Improve your skills on: <br><a href="https://www.jobstreeteducation.com.my/" target="_blank">Jobstreet Education</a></div>');
+                $('#RangeSalary').html("No data");
+            }
+      
+        }
 
         function loadData(url, ajaxData){
             $.ajax({
@@ -456,6 +489,7 @@ function heroMap(_latitude,_longitude, element, markerTarget, sidebarResultTarge
                     }
                     allMarkers = results;
                     placeMarkers(results);
+
                 },
                 error : function (e) {
                     console.log(e);

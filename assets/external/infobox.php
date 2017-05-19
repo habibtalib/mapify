@@ -27,6 +27,14 @@ echo
     <a href="'. $currentLocation['url'] .'">
         <div class="description">';
 
+        
+            if( !empty($currentLocation['featured']) ){
+                echo
+                    '<div class="recommeded">Recommended Job</div>';
+            }
+
+
+
             // Category ------------------------------------------------------------------------------------------------
 
             // if( !empty($currentLocation['category']) ){
@@ -43,9 +51,9 @@ echo
 
             // Location ------------------------------------------------------------------------------------------------
 
-            if( !empty($currentLocation['location']) ){
+            if( !empty($currentLocation['company']) ){
                 echo
-                    '<h4>'. $currentLocation['location'] .'</h4>';
+                    '<h4>'. $currentLocation['company'] .'</h4>';
             }
             echo
 
@@ -69,7 +77,8 @@ echo
         }
         else {
             echo
-            '<div class="image" style="background-image: url(assets/img/items/default.png)"></div>';
+            '<div class="card-img-logo"></div>';
+            // '<div class="image" style="background-image: url(assets/img/items/default.png)"></div>';
         }
 
         echo
@@ -88,12 +97,12 @@ if( !empty( $currentLocation['rating'] ) ){
         }
         echo
         '<span class="reviews">'. $currentLocation['reviews_number'] .'</span>'.
-        '<br><br> <span class="salary-digit" style="color: black">'.$currentLocation['salary'].'</span>'.
+        '<br><br> <span class="salary-digit" style="line-height: 1">'.$currentLocation['salary'].'</span>'.
     '</div>';
 }
 echo
     '<div class="col-md-12 card-options">
-        <div class="compare-btn"><img style="width: 25px" src="assets/img/compare-icon.png" alt=""> <a href="" class="card-options-btn"> Add to compare</a></div>
+        <div class="compare-btn"><img style="width: 25px" src="assets/img/compare-icon.png" alt=""> <a href="javascript:void(0)" class="card-options-btn"> Add to compare</a></div>
         <div class="save-btn"><img style="width: 20px;" src="assets/img/star-icon.svg" alt=""> <a href="" class="card-options-btn">Save Job</a></div>
     </div>
     <!--end controls-more-->
