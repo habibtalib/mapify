@@ -9766,7 +9766,8 @@ We thank all applicants for their expressed interest, however only applicants sh
             "url" => "",
             "gallery" => ["https://siva.jsstatic.com/my/15427/images/sol/15427_logo_0_192189.jpg"],
             "rating" => 2,
-            "reviews_number" => 22
+            "reviews_number" => 22,
+            "featured" => 1,
         ],
         [
             "id" => 3289204,
@@ -23348,7 +23349,8 @@ Tel No : 03 8766 7831",
             "url" => "http://www.stormraise.com",
             "gallery" => ["https://siva.jsstatic.com/my/108308/images/sol/108308_logo_0_624503.jpg"],
             "rating" => 3,
-            "reviews_number" => 37
+            "reviews_number" => 37,
+            'featured' => 1,
         ],
         [
             "id" => 3286990,

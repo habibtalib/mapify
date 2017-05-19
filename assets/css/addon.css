@@ -6,7 +6,7 @@
 .landing .fill { background:#fff; color:#797979; border:0; font-size:14px;  padding:19px 2px 19px 40px; margin:none; box-shadow:none; }
 .landing .fill:hover { border:0; box-shadow:none; }
 .landing .job-icon { background:url(../images/job-icon.png) center left no-repeat;}
-.landing .location-icon { background:url(../images/LOCATION-ICON.png) center left no-repeat;}
+.landing .location-icon { background:url(../images/LOCATION-ICON-main.png) center left no-repeat;}
 .landing .fill-box { border:2px solid #dadada; margin:12px 18px; padding:0px; background:#fff;}
 .landing .search-btn { background:#06944b; padding:10px; text-align:center; } 
 .landing .copies { color:#666666; text-align:center; margin-top:10px; margin-bottom:60px;}

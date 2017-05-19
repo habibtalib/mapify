@@ -102,7 +102,7 @@ if( !empty( $currentLocation['rating'] ) ){
 }
 echo
     '<div class="col-md-12 card-options">
-        <div class="compare-btn"><img style="width: 25px" src="assets/img/compare-icon.png" alt=""> <a href="javascript:void(0)" class="card-options-btn"> Add to compare</a></div>
+        <div class="compare-btn"><img style="width: 25px" src="assets/img/compare-icon.png" alt=""> <a href="javascript:void(0)" class="card-options-btn" style="color: #fff"> Add to compare</a></div>
         <div class="save-btn"><img style="width: 20px;" src="assets/img/star-icon.svg" alt=""> <a href="" class="card-options-btn">Save Job</a></div>
     </div>
     <!--end controls-more-->
