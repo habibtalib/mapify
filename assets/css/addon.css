@@ -6,7 +6,31 @@
 .landing .fill { background:#fff; color:#797979; border:0; font-size:14px;  padding:19px 2px 19px 40px; margin:none; box-shadow:none; }
 .landing .fill:hover { border:0; box-shadow:none; }
 .landing .job-icon { background:url(../images/job-icon.png) center left no-repeat;}
-.landing .location-icon { background:url(../images/LOCATION-ICON.png) center left no-repeat;}
+.landing .location-icon { background:url(../images/LOCATION-ICON-main.png) center left no-repeat;}
 .landing .fill-box { border:2px solid #dadada; margin:12px 18px; padding:0px; background:#fff;}
 .landing .search-btn { background:#06944b; padding:10px; text-align:center; } 
 .landing .copies { color:#666666; text-align:center; margin-top:10px; margin-bottom:60px;}
+
+
+
+
+.compare { background:#fff; padding:10px; }
+.compare .table-compare { width:100%; border:0; }
+.compare .table-compare td { padding:18px 12px; border:0;  border-right:1px solid #dadada;}
+.compare .table-compare .title { width:12%; padding:10px 8px; border-right:1px solid #dadada;   font-size:16px; color:#021e60; font-weight:700;}
+.compare .table-compare .logo { margin-bottom:12px;}
+.compare .table-compare h2 { font-size:20px; color:#021e60; padding:0 0 0 0; margin:6px 0; font-weight:700;}
+.compare .table-compare h3 { font-size:14px; color:#797979; padding:0 0 0 0; margin:2px 0 10px;}
+.compare .table-compare p { font-size:12px; line-height:16px; }
+.compare .table-compare li { font-size:12px; line-height:16px; color:#797979;}
+.compare .table-compare .salary-icon { background:url(../images/salary-icon) center left no-repeat; font-size:11px; color:#06944b; padding:2px 0 0 20px; margin:2px 0;}
+.compare .table-compare .location-icon { background:url(../images/location-icon.png) center left no-repeat; font-size:11px; color:#1c38a0; padding:2px 0 0 20px; margin:2px 0;}
+
+.compare .table-compare .bg-color { background:#efefef;}
+.compare .table-compare .benifit {  font-size:10px; padding:2px 0 0 2px; margin:1px 0; width:45%; height:20px; float:left;} 
+.compare .table-compare .benifit h5 { font-size:12px; margin:0 0 0 0; padding-top:5px; color:#5d5d5d; }
+.compare .table-compare .benifit img{ float:left; margin-right:6px; } 
+
+.compare .table-compare a.apply-btn { background:#06944b; padding:14px 30px; font-weight:700; border-radius:10px; font-size:15px; color:#fff; margin:5px; width:74%;}
+.compare .table-compare a.delete-btn { background:#dadada; padding:14px 30px; font-weight:700; border-radius:10px; font-size:15px; color:#fff; margin:5px; width:74%;}
+.compare .table-compare a.apply-btn:hover { background:#0fc366; }
