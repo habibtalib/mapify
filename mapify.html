@@ -16,9 +16,10 @@
     <link rel="stylesheet" href="assets/css/trackpad-scroll-emulator.css" type="text/css">
     <link rel="stylesheet" href="assets/css/jquery.nouislider.min.css" type="text/css">
     <link rel="stylesheet" href="assets/css/style.css" type="text/css">
+    <link rel="stylesheet" href="assets/css/addon.css" type="text/css">
 
     <title>Mapify - Map</title>
-<style>
+    <style>
         .navbar-inverse {
             background-color: #030f2c;
         }
@@ -108,14 +109,15 @@
         .navbar-nav > li > a {
             color: gray;
         }
-        .compare-btn-nav{
+        .dropdown.compare .compare-btn-nav{
             height: 100%;
-            margin-top: 6px;
             padding: 4px 10px;
             background: #00a25d !important;
             border-color: #00a25d !important;
+            padding: 5px 10px;
+            margin-right: 3px;
         }
-        .compare-btn-nav img{
+        .dropdown.compare .compare-btn-nav img{
             width: 20px;
             margin: 3px;
         }
@@ -158,12 +160,10 @@
             display: inline-block;
         }
         .infobox-wrapper .infobox .rating-passive .stars figure {
-            color: #daff00;
+            color: #ffda00;
             font-size: 18px;
         }
-        .image{
-            background-image: none !important;
-        }
+
         .card-options {
             cursor: pointer;
             position: absolute;
@@ -187,33 +187,26 @@
         }
         .compare-btn{ float: left; }
         .dropdown.compare .dropdown-menu{
-            left: -210.5px !important;  
+            left: -160px !important;
             margin: 0px;
             border-radius: 0px !important;
         }
         .filter-search .dropdown-menu {
             padding: 10px;
-            width: 220px;
+            width: 290px;
             border: #00a25d 3px solid;
         }
 
         .save-btn{ float: right; }
-        .card-img-logo{
-            float: right;
-            max-width: 120px !important;
-            padding-top: 15px;
-            padding-right: 15px;
-        }
+
         .salary-digit{
-            padding-top: 20px;
-            font-size: 18px;
+            padding-top: 10px;
+            font-size: 14px;
+            color: #06944b;
         }
         .dropdown-menu > li > a{
             /*width: 100px !important;*/
             white-space: normal;
-        }
-        .filter-search .dropdown-menu.compare-dropdown-menu{
-            width: 350px;
         }
 
     body {
@@ -254,15 +247,17 @@
         color: #04205e;
         font-size: 1.8em;
     }
+
+    .panel {
+        border: 0;
+        margin-bottom: 0;
+    }
     .input-group .form-control {
         color: #04205e;
         font-weight: bold;
         font-size: 20px;
     }
-    .panel {
-        border: 0;
-        margin-bottom: 0;
-    }
+   
     .hero-section .results-wrapper .result-item > a h3 {
         margin-bottom: 7px;
     }
@@ -306,7 +301,155 @@
     .panel-skill .panel-heading {
         border-bottom: 2px solid #ddd;
     }
-    </style>
+    .map .marker .marker-wrapper.recommend:before{
+    background-color: white !important;
+}
+
+.map .marker .marker-wrapper .pin{
+    border: 5px solid #012f71 !important;
+}
+.map .marker .marker-wrapper .pin:before{
+    border: 2px solid #012f71 !important;
+    background-color: #012f71 !important;
+    top: -5px !important;
+    left: -5px !important;
+}
+.marker-wrapper .pin .image:after{
+    bottom: -12px !important;
+}
+
+.map .marker .marker-wrapper.recommend .pin{
+    border: 5px solid #00a25d !important;
+}
+.map .marker .marker-wrapper.recommend .pin:before{
+    border: 2px solid #00a25d !important;
+    background-color: #00a25d !important;
+    top: -5px !important;
+    left: -5px !important;
+}
+.marker-wrapper.recommend .pin .image:after{
+    border-color: #00a25d transparent transparent transparent !important;
+    bottom: -12px !important;
+}
+
+.section-title .company {
+    color: #555;
+}
+
+.section-title .salary {
+    color: #06944b;
+}
+
+.section-title .btn-primary {
+    float: right;
+    font-size: 18px;
+    z-index: 10000;
+}
+.course {
+    font-weight: bold;
+    padding-top: 2px;
+}
+.salary-range-text {
+    color: #999;
+}
+.salary-title {
+    color: #04205e;
+    font-weight: bold;
+}
+.salary-range-image {
+    position: absolute;
+    bottom: 28px;
+    left: 37px;
+    width: 119px;
+}
+    /*Compare menu contents*/
+    .menu-content-right{
+        padding-right: 0px;
+    }
+    .menu-content-left{
+        padding-left: 3px;padding-right: 0px;line-height:1;
+    }
+    .menu-pt{
+        font-size: 12px; font-weight: bold;
+            color: #04205e;
+    font-size: 16px;
+    }
+    .menu-comp{
+        white-space: nowrap; font-size: 11px;
+    }
+    .menu-sal{
+        font-size: 12px; color: #00a25d ; line-height: 2;
+    }
+    .dismiss{
+        float: right;
+        line-height: 3;
+        cursor: pointer
+    }
+    .menu-compare-btn{
+        text-decoration: none;
+        background-color: lightgray;
+        text-align: center;
+        font-weight: bold;
+        color: dimgray;
+        margin: auto;
+    }
+        .filter-search .dropdown-menu.compare-dropdown-menu{
+            width: 350px;
+        }
+        .dropdown.compare .dropdown-menu{
+            left: -220px !important;  
+            margin: 0px;
+            border-radius: 0px !important;
+        }
+        .filter-search .compare-dropdown-menu {
+            padding: 10px;
+            width: 220px;
+            border: #00a25d 3px solid;
+        }
+        .dropdown-menu > li > a{
+            padding: 3px 3px;
+            white-space: normal;
+        }
+
+        .menuitem {
+            padding: 8px 3px;
+        }
+        .infobox-wrapper .infobox .description {
+            bottom: 0;
+                top: 11px;
+            width: 200px;
+        }
+        .item > a .description h4,
+        .item > a .description h3 {
+            text-shadow: none !important;
+            color: #04205e !important;
+            background-color: transparent !important;
+        }
+        .card-img-logo{
+            float: right;
+            max-width: 120px !important;
+            padding-right: 15px;
+            padding-top: 20px;
+        }
+            .infobox-wrapper .infobox {
+            width: 330px;
+            background-color: white !important;
+            border: #04205e 2px solid;
+            border-radius: 3px;
+        }
+        .compare-title {
+            color: #fff;
+        }
+        #compareModal .modal-header {
+            background-color: #00255a;
+        }
+        .dropdown.compare {
+            padding-top: 5px;
+        }
+        .recommeded {
+            color: #00a25d;
+        }
+</style>
 </head>
 
 <body class="homepage">
@@ -314,7 +457,7 @@
     <header id="page-header">
        <div class="mobile-navbar-fixed-top">
             <div class="navbar navbar-inverse navbar-static">
-                <div class="container">
+                <div class="container-fluid">
                     <div class="navbar-header">
                         <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" data-canvas="body" type="button" onclick="$('#mobile_search_bar').removeClass('active');">
                             <span class="icon-bar"></span>
@@ -363,7 +506,7 @@
                     <!--/.nav-collapse -->
                 </div>
                 <div class="navbar-lower-deck hidden-xs">
-                    <div class="container">
+                    <div class="container-fluid">
                         <ul class="nav navbar-nav">
                             <li><a href="http://www.jobstreet.com.my" title="Leading Job Site in Malaysia - Find Jobs in Malaysia">Home</a></li>
                             <li><a id="header-job-link" href="http://job-search-dev.jobstreet.com.my/malaysia/job-opening.php" title="Search Jobs @ Job Search JobStreet.com Malaysia">Search Jobs</a></li>
@@ -396,14 +539,30 @@
                                     Company benefit <i class="fa fa-caret-down"></i>
                                 </a>
                                 <ul class="dropdown-menu">
+                                    <h3>Compare benefit</h3>
                                     <li>
-                                        <a href="">Benefit 1</a>
+                                        <input type="checkbox" id="b1">
+                                        <label for="b1">Dental insurance</label>
                                     </li>
                                     <li>
-                                        <a href="">Benefit 2</a>
+                                        <input type="checkbox" id="b2">
+                                        <label for="b2">Medical insurance</label>
                                     </li>
                                     <li>
-                                        <a href="">Benefit 3</a>
+                                        <input type="checkbox" id="b3">
+                                        <label for="b3">Performance bonus</label>
+                                    </li>
+                                    <li>
+                                        <input type="checkbox" id="b4">
+                                        <label for="b4">Five-day work week</label>
+                                    </li>
+                                    <li>
+                                        <input type="checkbox" id="b5">
+                                        <label for="b5">Eduation allowance</label>
+                                    </li>
+                                    <li>
+                                        <input type="checkbox" id="b6">
+                                        <label for="b6">Optical claims</label>
                                     </li>
                                 </ul>
                             </li>
@@ -412,8 +571,10 @@
                                     Salary range <i class="fa fa-caret-down"></i>
                                 </a>
                                 <div class="dropdown-menu">
-                                    <div class="ui-slider" id="price-slider" data-value-min="0" data-value-max="15000" data-currency="RM" data-currency-placement="before" style="padding: 5px 0 15px 0;">
-                                        <h3>Salary Range (MYR)</h3>
+                                    <img src="assets/img/salary_range.PNG" alt="Range" class="salary-range-image">
+                                    <h3>Salary Range (MYR)</h3>
+                                    <span class="salary-range-text">The average salary for <span class="salary-title" id="RangeTitle">Project Manager</span> in Kuala Lumpur is <span class="salary-title" id="RangeSalary">MYR 4500</span></span>
+                                    <div class="ui-slider" id="price-slider" data-value-min="0" data-value-max="10000" data-currency="RM" data-currency-placement="before" style="padding: 36px 0 15px 0;">
                                         <div class="values clearfix">
                                             <input class="value-min" name="minSalary" readonly>
                                             <input class="value-max" name="maxSalary" readonly>
@@ -427,41 +588,73 @@
                                     Job type <i class="fa fa-caret-down"></i>
                                 </a>
                                 <ul class="dropdown-menu">
+                                    <h3>Job Type</h3>
                                     <li>
-                                        <a href="">Job type 1</a>
+                                        <a href="">Full-time</a>
                                     </li>
                                     <li>
-                                        <a href="">Job type 2</a>
+                                        <a href="">Part-time</a>
                                     </li>
                                     <li>
-                                        <a href="">Job type 3</a>
+                                        <a href="">Contract</a>
                                     </li>
                                 </ul>
                             </li>
-                             <div class="dropdown compare col-lg-2">
+                            <li class="dropdown compare">
                                 <a href="" class="btn btn-primary compare-btn-nav" type="button" data-toggle="dropdown">
                                     Compare <img src="assets/img/compare-icon.png" alt="">
                                     <!-- <span class="label label-success compare-count">3</span> -->
-                                    <span class="badge">4</span>
+                                    <span class="badge">3</span>
                                 </a>
                                 <ul class="dropdown-menu compare-dropdown-menu" role="menu" aria-labelledby="menu1">
-                                    <li role="presentation" style="margin: auto;">
-                                        <a role="menuitem">
-                                            <!-- <div class="col-md-6"> -->
-                                                <h3>Technical Solution Coordinator <br><small>SEG International Bhd</small></h3>
-                                                <h4>MYR 3000 - 4500</h4>
-                                            <!-- </div> -->
-                                            <!-- <div class="col-md-3"> -->
-                                                <img style="max-width: 80px;" src="assets/img/logo_jobstreet.jpg" alt="">
-                                            <!-- </div> -->
+                                    <li role="presentation" style="margin: auto; padding: 8px 2px">
+                                        <a role="row menuitem">
+                                            <div class="col-md-7 menu-content-left">
+                                                <span class="menu-pt">Sales team manager </span>
+                                                <span class="menu-comp">SEG International Bhd</span><br>
+                                                <span class="menu-sal"> <span class="fa fa-usd"></span> MYR 3000 - 4500</span>
+                                            </div>
+                                            <div class="col-md-5 menu-content-right">
+                                                <img style="max-width: 60px;" src="assets/images/logo-tam.png" alt="jobstreet logo">
+                                                <span style="float: right;">X</span>
+                                            </div>
+                                             <div class="clearfix"></div>
                                         </a>
                                     </li>
-                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">CSS</a></li>
-                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">JavaScript</a></li>
-                                    <li role="presentation" class="divider"></li>
-                                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">About Us</a></li>
+                                    <li role="presentation" style="margin: auto; padding: 8px 2px">
+                                        <a role="row menuitem">
+                                            <div class="col-md-7 menu-content-left">
+                                                <span class="menu-pt">Lead Graphic Designer </span>
+                                                <span class="menu-comp">SEG International Bhd</span><br>
+                                                <span class="menu-sal"> <span class="fa fa-usd"></span> MYR 2500 - 3500</span>
+                                            </div>
+                                            <div class="col-md-5 menu-content-right">
+                                                <img style="max-width: 60px;" src="assets/images/logo-tam2.png" alt="jobsdb logo">
+                                                <span style="float: right;">X</span>
+                                            </div>
+                                             <div class="clearfix"></div>
+                                        </a>
+                                    </li>
+                                    <li role="presentation" style="margin: auto; padding: 8px 2px">
+                                        <a role="row menuitem">
+                                            <div class="col-md-7 menu-content-left">
+                                                <span class="menu-pt">Sales manager and coordinator </span>
+                                                <span class="menu-comp">SEG International Bhd</span><br>
+                                                <span class="menu-sal"> <span class="fa fa-usd"></span> MYR 5000 - 7000</span>
+                                            </div>
+                                            <div class="col-md-5 menu-content-right">
+                                                <img style="max-width: 60px;" src="assets/images/logo-tam3.png" alt="">
+                                                <span style="float: right;">X</span>
+                                            </div>
+                                             <div class="clearfix"></div>
+                                        </a>
+
+                                    </li>
+                                    <li style="margin: auto; font-weight: bold;">
+                                        <a href="" class="menu-compare-btn" data-toggle="modal" data-target="#compareModal" style="font-weight: bold">Compare now</a>
+                                    </li>
                                 </ul>
-                            </div>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -470,16 +663,223 @@
     </div>
 
     <!-- Compare Modal -->
-    <div id="myModal" class="modal fade" role="dialog">
-      <div class="modal-dialog">
+    <div id="compareModal" class="modal fade" role="dialog">
+      <div class="modal-dialog modal-lg" style="width: 70%;">
         <!-- Modal content-->
-        <div class="modal-content">
-          <div class="modal-header">
+        <div class="modal-content" style="padding: 0">
+          <div class="modal-header" style="padding: 15px;">
             <button type="button" class="close" data-dismiss="modal">&times;</button>
-            <h4 class="modal-title">Modal Header</h4>
+            <h4 class="modal-title compare-title">Job Comparison</h4>
           </div>
           <div class="modal-body">
-            <p>Some text in the modal.</p>
+            <div class="compare">
+    
+    <table class="table-compare" width="100%" border="1">
+  <tbody>
+    <tr>
+      <td valign="top" class="title">Company</td>
+      <td class="job-list"> 
+            <img src="assets/images/logo-tam.png" width="170" height="61" class="logo" alt=""/>
+            <h2>Project Manager</h2>
+            <h3>Jobstreets.com</h3>
+            <div class="salary-icon">
+                MYR 3000 - MYR 4500
+            </div>
+            <div class="location-icon">
+                Malaysia - Kuala Lumpur - Ampang
+            </div>
+      </td>
+      <td class="job-list"> 
+            <img src="assets/images/logo-tam2.png" width="61" height="61" class="logo" alt=""/>
+            <h2>Project Manager</h2>
+            <h3>Dell Malaysia</h3>
+            <div class="salary-icon">
+                MYR 3000 - MYR 5500
+            </div>
+            <div class="location-icon">
+                Malaysia - Kuala Lumpur - Ampang
+            </div>
+      </td>
+      <td class="job-list"> 
+          <img src="assets/images/logo-tam3.png" width="75" height="61" class="logo" alt=""/>
+            <h2>Project Manager</h2>
+            <h3>Adidass Malaysia</h3>
+            <div class="salary-icon">
+                MYR 3200 - MYR 4500
+            </div>
+            <div class="location-icon">
+                Malaysia - Kuala Lumpur - Ampang
+            </div>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" bgcolor="#efefef" class="title">Benefits</td>
+      <td valign="top" bgcolor="#efefef">
+      
+            <!--icon-->
+            <div class="benifit">
+                <img src="assets/images/benifit1.png" width="21" height="20" alt=""/> 
+                <h5>Dental insurance</h5>
+            </div>
+            <!--icon end -->
+            
+            <!--icon-->
+            <div class="benifit">
+                <img src="assets/images/benifit2.png" width="21" height="20" alt=""/> 
+                <h5>Education allowance</h5>
+            </div>
+            <!--icon end -->
+            
+            <!--icon-->
+            <div class="benifit">
+                <img src="assets/images/benifit3.png" width="21" height="20" alt=""/> 
+                <h5>Five-day work week</h5>
+            </div>
+            <!--icon end -->
+            
+            <!--icon-->
+            <div class="benifit">
+                <img src="assets/images/benifit4.png" width="21" height="20" alt=""/> 
+                <h5>Optical claims</h5>
+            </div>
+            <!--icon end -->
+            
+            <!--icon-->
+            <div class="benifit">
+                <img src="assets/images/benifit5.png" width="21" height="20" alt=""/> 
+                <h5>medical insurance</h5>
+            </div>
+            <!--icon end -->
+            
+            <!--icon-->
+            <div class="benifit">
+                <img src="assets/images/benifit6.png" width="21" height="20" alt=""/> 
+                <h5>Performance bonus</h5>
+            </div>
+            <!--icon end -->
+      
+      </td>
+      <td valign="top" bgcolor="#efefef">
+      
+        <!--icon-->
+            <div class="benifit">
+                <img src="assets/images/benifit1.png" width="21" height="20" alt=""/> 
+                <h5>Dental insurance</h5>
+            </div>
+            <!--icon end -->
+            
+            <!--icon-->
+            <div class="benifit">
+                <img src="assets/images/benifit2.png" width="21" height="20" alt=""/> 
+                <h5>Education allowance</h5>
+            </div>
+            <!--icon end -->
+            
+            <!--icon-->
+            <div class="benifit">
+                <img src="assets/images/benifit3.png" width="21" height="20" alt=""/> 
+                <h5>Five-day work week</h5>
+            </div>
+            <!--icon end -->
+            
+            <!--icon-->
+            <div class="benifit">
+                <img src="assets/images/benifit4.png" width="21" height="20" alt=""/> 
+                <h5>Optical claims</h5>
+            </div>
+            <!--icon end -->
+            
+      </td>
+      <td valign="top" bgcolor="#efefef">
+      
+            <!--icon-->
+            <div class="benifit">
+                <img src="assets/images/benifit1.png" width="21" height="20" alt=""/> 
+                <h5>Dental insurance</h5>
+            </div>
+            <!--icon end -->
+            
+            <!--icon-->
+            <div class="benifit">
+                <img src="assets/images/benifit2.png" width="21" height="20" alt=""/> 
+                <h5>Education allowance</h5>
+            </div>
+            <!--icon end -->
+            
+            <!--icon-->
+            <div class="benifit">
+                <img src="assets/images/benifit3.png" width="21" height="20" alt=""/> 
+                <h5>Five-day work week</h5>
+            </div>
+            <!--icon end -->
+                
+      </td>
+    </tr>
+    <tr>
+      <td  valign="top" class="title">Employmengt Type</td>
+      <td>  <p>Contract, Part-time</p> </td>
+      <td>  <p>Contract, Part-time</p> </td>
+      <td>  <p>Contract, Part-time</p> </td>
+    </tr>
+    <tr>
+      <td class="title">&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td  valign="top" bgcolor="#efefef" class="title">Responsibilities</td>
+      <td valign="top" bgcolor="#efefef">
+            <ul>
+                    <li>Responsible for the Precast Management</li>
+                    <li>Responsible for precast technical issues and contract management for Precast Project .</li>  
+                    <li>Responsible for safety, QA/QC Management</li> 
+                    <li>Responsible for the Precast Management</li>       
+            </ul>
+      </td>
+      <td valign="top" bgcolor="#efefef">
+            <ul>
+                    <li>Responsible for the Precast Management</li>
+                    <li>Responsible for precast technical issues and contract management for Precast Project .</li>  
+                    <li>Responsible for safety, QA/QC Management</li> 
+                    <li>Responsible for the Precast Management</li>       
+            </ul>
+      </td>
+      <td valign="top" bgcolor="#efefef">
+            <ul>
+                    <li>Responsible for the Precast Management</li>
+                    <li>Responsible for precast technical issues and contract management for Precast Project .</li>  
+                    <li>Responsible for safety, QA/QC Management</li> 
+                    <li>Responsible for the Precast Management</li>       
+            </ul>
+      </td>
+    </tr>
+    <tr>
+      <td  valign="top" class="title">Website</td>
+      <td> <a href="#">http://www.telepaper.com/</a></td>
+      <td> <a href="#">http://www.telepaper.com/</a></td>
+      <td> <a href="#">http://www.telepaper.com/</a></td>
+    </tr>
+    <tr>
+      <td valign="top" class="title"></td>
+      <td align="center">
+            <a href="#" class="apply-btn">Apply Now</a>
+            <a href="#" class="delete-btn">Delete</a>
+      </td>
+      <td align="center">
+            <a href="#" class="apply-btn">Apply Now</a>
+            <a href="#" class="delete-btn">Delete</a>
+            
+      </td>
+      <td align="center">
+            <a href="#" class="apply-btn">Apply Now</a>
+            <a href="#" class="delete-btn">Delete</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -493,21 +893,18 @@
             <div class="results-wrapper">
                 <div class="panel panel-skill">
                     <div class="panel-body">
-                        <h3 class="position-title"><i class="fa fa-briefcase"></i> Project Manager</h3>
+                        <h3 class="position-title"><i class="fa fa-briefcase"></i> <span id="RequireSkillSearch">Improve your skill now</span></h3>
                         <div class="panel-group" id="accordion">
                             <div class="panel panel-default">
                                 <div class="panel-heading">
                                   <h4 class="panel-title">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#requireSkill" class="collapse">
-                                    <i class="fa fa-graduation-cap"></i> Requirement Skills</a>
+                                    <i class="fa fa-graduation-cap"></i> Require Skills</a>
                                   </h4>
                                 </div>
                                 <div id="requireSkill" class="panel-collapse collapse" aria-expanded="false" >
                                   <div class="panel-body">
-                                      <div class="well well-sm">You had miss out 1 skill for this position. <a href="#">Update Profile</a></div>
-                                      <span><i class="fa fa-check"></i> Project Management</span>
-                                      <span><i class="fa fa-check"></i> Risk Analytics</span>
-                                      <span><i class="fa fa-times"></i> Strong prioritizing</span>
+                                      <div class="course">Improve your skills on: <br><a href="https://www.jobstreeteducation.com.my/" target="_blank">Jobstreet Education</a></div>
                                   </div>
                                 </div>
                             </div>
@@ -597,11 +994,6 @@
         </div>
         <!--end hero-section-->
 
-        <div class="container">
-            <hr>
-        </div>
-        <!--end container-->
-
         <!--end block-->
     </div>
     <!--end page-content-->
@@ -612,7 +1004,7 @@
                 <div class="container">
                     <div class="vertical-aligned-elements">
                         <div class="element width-50">
-                            <p data-toggle="modal" data-target="#myModal">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque aliquam at neque sit amet vestibulum. <a href="#">Terms of Use</a> and <a href="#">Privacy Policy</a>.</p>
+                            <p data-toggle="modal" data-target="#compareModal">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque aliquam at neque sit amet vestibulum. <a href="#">Terms of Use</a> and <a href="#">Privacy Policy</a>.</p>
                         </div>
                         <div class="element width-50 text-align-right">
                             <a href="#" class="circle-icon"><i class="social_twitter"></i></a>
@@ -677,11 +1069,8 @@
     var showMarkerLabels = false; // next to every marker will be a bubble with title
     var mapDefaultZoom = 17; // default zoom
     heroMap(_latitude,_longitude, element, markerTarget, sidebarResultTarget, showMarkerLabels, mapDefaultZoom);
-</script>
-
-<script>
+$( document ).ready(function() {
     var queryString = new Array();
-    $(window).on('load', function() {
 
         if (queryString.length == 0) {
             if (window.location.search.split('?').length > 1) {
@@ -696,10 +1085,15 @@
         if (queryString["job"] != null || queryString["loc"] != null) {
             // alert(queryString["loc"]);
             $('[name=keyword]').val(queryString["job"]);
+            // 
+            setTimeout(
+          function() 
+          {
             $('.keyword-search .btn-default').trigger('click');
+          }, 3200);            
         }
+});
 
-    });
 </script>
 
 </body>

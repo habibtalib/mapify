@@ -45,8 +45,10 @@ echo
         <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
             <div class="section-title">
-                <h2>'. $currentLocation['title'] .'</h2>
-                <div class="label label-default">'. $currentLocation['category'] .'</div>';
+                <a class="btn btn-primary" type="button" href="#">Apply</a>
+                <h2><b>'. $currentLocation['title'] .'</b></h2>
+                <h3 class="company">'. $currentLocation['company'] .'</h3>
+                <h3 class="salary">'. $currentLocation['salary'] .'</h3>';
 
                 // Ribbon ------------------------------------------------------------------------------------------
 
@@ -97,7 +99,7 @@ echo
                 <!--end map-->
 
                 <section>
-                <h3>Contact</h3>';
+                <h3>Location</h3>';
                 // Contact -----------------------------------------------------------------------------------------
 
                 if( !empty($currentLocation['location']) ){
@@ -121,15 +123,11 @@ echo
 
                 echo
                 '</section>
-                <section>
-                    <h3>Social Share</h3>
-                    <div class="social-share"></div>
-                </section>
             </div>
             <!--end left -->
             <div class="right">
                 <section>
-                    <h3>About</h3>
+                    <h3>Description</h3>
                     <div class="read-more"><p>'. $currentLocation['description'] .'</p></div>
                 </section>
                 <!--end about-->';

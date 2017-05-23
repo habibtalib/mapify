@@ -20,8 +20,8 @@ if($_POST["keyword"] == "" && $_POST["minSalary"] == "" && $_POST["maxSalary"] =
 elseif( $_POST["keyword"] &&  $_POST["minSalary"] &&  $_POST["maxSalary"]){
     for( $i=0; $i < count($data); $i++){
         if( !empty( $data[$i]['title'] )
-            && is_integer(strpos(strtolower($data[$i]['title']),  strtolower($_POST['keyword'])))
-            || is_integer(strpos(strtolower($data[$i]['company']),  strtolower($_POST['keyword'])))
+            && is_integer(strpos(strtolower($data[$i]['company']),  strtolower($_POST['keyword'])))
+            || is_integer(strpos(strtolower($data[$i]['title']),  strtolower($_POST['keyword'])))
             && $data[$i]['min_monthly_salary'] >= $_POST['minSalary']
             && $data[$i]['max_monthly_salary'] <= $_POST['maxSalary']
         ){
